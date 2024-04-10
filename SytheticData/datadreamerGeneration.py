@@ -10,7 +10,7 @@ with DataDreamer("./output"):
         "load employees",
         "DB/output",
         "joined_data.csv",
-        split = "train"
+        split="train"
     ).select_columns(['first_name', 'last_name', 'role', 'skill', 'proficiency_lvl'])
 
     more_employees = DataFromPrompt(

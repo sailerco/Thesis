@@ -9,7 +9,7 @@ roles_employees_count = {}
 def main():
     # Function to read random names from a CSV file without duplicates
     def get_random_name():
-        with open('DB/datasets/randomNames.csv', 'r') as file:
+        with open('D:/Thesis/DB/datasets/randomNames.csv', 'r') as file:
             reader = csv.reader(file)
             next(reader)  # skip header
             names = [row for row in reader if row[0] not in used_names]
@@ -51,7 +51,7 @@ def main():
 
     # 2. retrieve the skills of the role
     def get_skills_of_role(role):
-        with open('DB/datasets/Roles_small.csv', 'r') as file:
+        with open('D:/Thesis/DB/datasets/Roles_small.csv', 'r') as file:
             reader = csv.reader(file)
             next(reader)  # skip header
             for row in reader:
