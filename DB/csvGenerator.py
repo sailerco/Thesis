@@ -27,7 +27,7 @@ cur.execute(query)
 joined_data = cur.fetchall()
 
 # Specify the path and filename of the CSV file
-csv_filename = 'DB/output/joined_data_grouped.csv'
+csv_filename = 'output/joined_data_grouped.csv'
 headerList = ['first_name', 'last_name', 'role', 'skills', 'proficiency_lvls']
 # Write the joined data to the CSV file
 with open(csv_filename, 'w', newline='') as f:
@@ -35,12 +35,12 @@ with open(csv_filename, 'w', newline='') as f:
     writer.writerow(headerList)
     writer.writerows(joined_data)
 
-#query = "SELECT DISTINCT skill FROM skills"
+query = "SELECT DISTINCT skill FROM skills"
 
-#cur.execute(query)
+cur.execute(query)
 
-#skills = cur.fetchall()
+skills = cur.fetchall()
 
-#with open('DB/datasets/skills.csv', 'w', newline='') as f:
-#    writer = csv.writer(f)
-#    writer.writerows(skills)
+with open('datasets/skills.csv', 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerows(skills)

@@ -1,5 +1,9 @@
 import mysql.connector
 import csv
+
+"""
+    so far no use but extracts users and how often they used their skills
+"""
 connection = mysql.connector.connect(
     host="localhost",
     user="root",

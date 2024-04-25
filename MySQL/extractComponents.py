@@ -1,5 +1,7 @@
 import mysql.connector
 import csv
+
+# extracts components from Tawos dataset
 connection = mysql.connector.connect(
     host="localhost",
     user="root",
