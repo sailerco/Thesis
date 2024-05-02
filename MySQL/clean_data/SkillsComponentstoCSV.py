@@ -1,9 +1,9 @@
 import csv
 import pandas as pd
 
-url = 'unfilteredCSV/sileod.csv'
+url = 'unfilteredCSV/output_deberta_base.csv'
 # Einlesen der Textdatei
-with open('../ClassifierOutput/skills_classification_sileod.txt', 'r') as file:
+with open('../ClassifierOutput/skills_classification_deberta_base.txt', 'r') as file:
     lines = file.readlines()
 
 # Erstellen eines leeren Dictionaries, um die Daten zu speichern

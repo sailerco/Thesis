@@ -12,7 +12,7 @@ fields = ['ID', 'Title', 'Description', 'Type', 'Component_Names']
 
 def read():
     csv_values = []
-    with open('assets/cleaned.csv', 'r', newline='', encoding='utf-8') as csvfile:
+    with open('assets/components/cleaned.csv', 'r', newline='', encoding='utf-8') as csvfile:
         csvreader = csv.reader(csvfile)
         for row in csvreader:
             csv_values.extend(row)
@@ -69,7 +69,6 @@ def merge(column_names):
     df = pd.DataFrame(data)
     df['TitleAndDescription'] = df['Title'] + " | Description: " + df['Description']
     df = df.drop(columns=['ID', 'Title', 'Description'])
-    print(df.columns)
     df.to_csv('assets/Merged_UserStoriesWithComponents_cleaned_filtered.csv', header=True, index=False)
 
 

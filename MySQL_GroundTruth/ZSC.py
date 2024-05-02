@@ -1,15 +1,26 @@
-import csv
 
+import torch
+from matplotlib import pyplot as plt
+
+import CsvConverter as conv
 import pandas as pd
 from transformers import pipeline
+import seaborn as sns
 
 """
 ZSC + NLI to match user stories to components 
 """
 
-url_name = "bart"
+name = "bart_no_title"
+url = 'D:/Thesis/MySQL_GroundTruth/ClassifierOutput/' + name
+
+bart = "facebook/bart-large-mnli"
+deberta_base = "MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli"
+deberta_large = "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+sileod = 'sileod/deberta-v3-base-tasksource-nli'
+
 def get_sequence(url, columns, column):
-    sequence = pd.read_csv(url)
+    sequence = pd.read_csv(url, delimiter=None, sep=None)
     sequence.columns = columns
     return sequence[column].tolist()
 
@@ -20,17 +31,15 @@ def get_labels(url, delimiter):
 
 
 def classification(name):
+    device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     # loads ZSC from huggingface
-    bart = "facebook/bart-large-mnli"
-    deberta_base = "MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli"
-    deberta_large = "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
-    sileod = 'sileod/deberta-v3-base-tasksource-nli'
-    classifier = pipeline('zero-shot-classification', model=bart)
+    classifier = pipeline('zero-shot-classification', device=device, model=bart)
 
-    seq = get_sequence('assets/Merged_UserStoriesWithComponents_cleaned_filtered.csv',
-                       ['Type', 'Component_Names', 'TitleAndDescription'], 'TitleAndDescription')
+    #seq = get_sequence('assets/UserStoriesWithComponents_cleaned_filtered_no_title.csv', ['Type', 'Component_Names', 'TitleAndDescription'], 'TitleAndDescription')
+    seq = get_sequence('assets/UserStoriesWithComponents_cleaned_filtered_no_title.csv',
+                       ['ID', 'Description', 'Type', 'Component_Names'], 'Description')
+    seq = seq[:2]
     labels = get_labels('assets/cleaned.csv', ';')
-
     # do the classification
     results = classifier(seq, labels, multi_label=True)
 
@@ -39,54 +48,24 @@ def classification(name):
             f.write(f"Story: {story}\n")
             for label, score in zip(result['labels'], result['scores']):
                 f.write(f"- {label}: {score:.2f}\n")
+
     print("Done")
 
 
-classification(url_name)
+classification(name)
+
+csv = conv.CsvConverter(url + '.txt', url + '.csv', 'Story')
+csv.convert()
 
 
-def convert_to_csv(name):
-    url = 'ClassifierOutput/' + name + '.csv'
-    with open('ClassifierOutput/' + name + '.txt', 'r') as file:
-        lines = file.readlines()
-
-    # dictonary, data is going to be saved to
-    data = {}
-    skill = None
-    for line in lines:
-        if line.strip():
-            key, value = line.replace("\n", "").rsplit(': ', 1)
-            print(key, value)
-            if key.startswith('Story'):
-                skill = value
-                data[skill] = {}
-            else:
-                component, weight = key.replace("- ", "", 1), float(value)
-                data[skill][component] = weight
-
-    # Umformatierung der Daten in ein geeignetes Format für den CSV-Export
-    output_data = {}
-    for skill, components in data.items():
-        for component, weight in components.items():
-            if component not in output_data:
-                output_data[component] = {}
-            output_data[component][skill] = weight
-
-    # Schreiben der Daten in eine CSV-Datei
-    with open(url, 'w', newline='') as file:
-        writer = csv.writer(file)
-        # Schreiben der Spaltenüberschriften
-        cleaned_headers = [header.strip().strip('"') for header in list(data.keys())]
-        cleaned_headers.insert(0, 'Skills')
-        writer.writerow(cleaned_headers)
-        for component, values in output_data.items():
-            row = [component] + [values.get(skill, '') for skill in data.keys()]
-            writer.writerow(row)
-
-    # Read the CSV file into a DataFrame and sort it
-    df = pd.read_csv(url, encoding='ISO-8859-1')
-    df_sorted = df.sort_values(by='Skills')
-    df_sorted.to_csv(url, index=False)
+def create(title, name, url):
+    # Load data from CSV
+    data = pd.read_csv(url + '.csv', header=0, index_col=0,
+                       encoding='ISO-8859-1')  # Update with your file path
+    plt.figure(figsize=(40, 40))
+    heatmap = sns.heatmap(data, cmap='Blues', annot=False)
+    plt.title(title)
+    plt.savefig('heatmap/heatmap_' + name + '.png')
 
 
-convert_to_csv(url_name)
+create(name, name, url)
