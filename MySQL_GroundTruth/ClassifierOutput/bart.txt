@@ -1,0 +1,880 @@
+Story: "Be aware of exceptions thrown in a stream" | Description: "Currently, if a module in a stream throws an exception, the stream flow is broken, but the stream's creator is not notified or warned about the issue, unless a direct monitoring of the logs is performed.  This could work when an administrator is taking care of the whole life cycle of any stream, but it doesn't work when Spring XD is being used by external services with no human intervention.  It would be necessary some sort of notification mechanism so when any issue raises in the execution of a stream, its creator can react and decide on how to handle it.  For instance, I have an application that uses Spring XD to load data from different sources into HDFS. In my application, you simply define a type of source and the destiny in HDFS, without the user knowing that Spring XD is under the hoods. If the user defines, for example, a Twitter source, then I define a ""twitterstream"" as a source for a new stream with a sink in HDFS. However, if anything goes wrong, I have no way to let my user know about the issue: an authentication issue, the dreaded 420 response from the Twitter API, etc. If I could somehow be notified about the issue, then I could provide that information to my user so she could fix the issue or at least understand what is going on.  I've seen that the REST API will support an endpoint to check the current status of a stream, but it is not yet available and it would require my application to be polling constantly the stream, with all the disadvantages compared to a pushing mechanism."
+- storage: 0.96
+- flaky: 0.95
+- core: Notifications: 0.93
+- modules: 0.91
+- Notifications: 0.89
+- Authentication: 0.88
+- Exception Management: 0.88
+- Notification: 0.87
+- Infrastructure & Services - Application Lifecycle: 0.82
+- User - Authentication: 0.81
+- Authentication / Security: 0.80
+- API: 0.80
+- Management: 0.79
+- Infrastructure: 0.78
+- Service Infrastructure: 0.77
+- User interface: 0.76
+- Monitoring: 0.75
+- replicated log: 0.75
+- Infrastructure & Services: 0.74
+- Usability: 0.73
+- UI / Usability: 0.72
+- Concurrency: 0.71
+- Instrumentation: 0.70
+- Developer Infrastructure: 0.70
+- Board configuration: 0.69
+- Support: 0.69
+- Issue - Others: 0.69
+- appcd: 0.69
+- Client: 0.68
+- log: 0.68
+- REST: 0.68
+- Administration: 0.68
+- Admin: 0.68
+- Runtime platform: 0.67
+- Error Handling: 0.66
+- mariadbclient: 0.65
+- test: 0.65
+- Design: 0.65
+- Services: 0.65
+- Responsibility tracking: 0.64
+- Security: 0.64
+- UI / UX: 0.64
+- Data: 0.64
+- Modules - Third party: 0.63
+- Utility: 0.63
+- UX: 0.62
+- Startup: 0.62
+- User Management: 0.62
+- Systems Engineering: 0.61
+- Telemetry / Reporting: 0.61
+- Logging: 0.60
+- Ingest: 0.60
+- verify: 0.60
+- Change Streams: 0.60
+- Hadoop: 0.60
+- REST API: 0.59
+- Theme: 0.59
+- Issue - View Issue: 0.58
+- Report: 0.58
+- Dynamic Content Creator: 0.58
+- Documentation: 0.57
+- Issue - View: 0.57
+- amplify-sdk: 0.57
+- UI: 0.56
+- Events & Notifications: 0.56
+- master: 0.56
+- Ecosystem: 0.56
+- Plan configuration: 0.55
+- Collection: 0.55
+- network: 0.55
+- utils: 0.55
+- Policy: 0.55
+- Data Center - Apps: 0.55
+- AUI: 0.55
+- mariadb: 0.55
+- Logs: 0.55
+- Server - Authentication: 0.55
+- scikit_learn: 0.55
+- Mac: 0.55
+- fftw: 0.55
+- Issue - Create Issue: 0.55
+- efd: 0.54
+- HUD: 0.53
+- Data Center - Archiving: 0.53
+- mule4: 0.53
+- Data Service: 0.53
+- containerization: 0.53
+- Themes: 0.53
+- Credentials: 0.53
+- Project Administration - People and Roles: 0.53
+- Project Administration - Workflows and statuses: 0.53
+- jms-module: 0.53
+- Configuration: 0.52
+- R: 0.52
+- System Administration - Priorities: 0.52
+- Stability: 0.52
+- Dependencies: 0.52
+- Enterprise: 0.51
+- SAL Integration: 0.51
+- Language: 0.51
+- Project Administration - Users and Roles: 0.51
+- Scalability: 0.50
+- Header: 0.50
+- cni: 0.50
+- SUIT: 0.50
+- Dashboard: 0.50
+- Documentation (Developer): 0.50
+- CI: 0.49
+- DSL: 0.49
+- Meta: 0.49
+- Data Access: 0.49
+- Client Resources: 0.48
+- Server - Source Distribution: 0.48
+- Metrics: 0.48
+- Console: 0.48
+- Issue - Create: 0.48
+- Environment - Java: 0.48
+- H5P: 0.48
+- dataweave: 0.47
+- fabric-ca: 0.47
+- Admin - File Manager: 0.47
+- Automation: 0.47
+- Demo Application: 0.47
+- webui: 0.47
+- Middleware: 0.47
+- fabric-sdk-py: 0.47
+- Project: 0.47
+- Issue - Actions: 0.47
+- Testing Infrastructure: 0.46
+- Admin - Security Roles: 0.46
+- User - Global / Space Permissions: 0.46
+- Preferences: 0.46
+- Build system: 0.46
+- Feature Request: 0.46
+- Integrations: 0.46
+- Routing: 0.45
+- Modules: MuleClient: 0.45
+- Encoding: 0.45
+- fabric-amcl: 0.45
+- Roles / Access: 0.45
+- Connection Management: 0.45
+- Connectivity: 0.45
+- Import / Export: 0.45
+- Tools: 0.45
+- Data Center - Core: 0.44
+- Runtime: 0.44
+- Performance: 0.44
+- Linux: 0.44
+- Models: 0.44
+- fabric-sdk-go: 0.44
+- verify_metrics: 0.44
+- Outline: 0.44
+- Extensions API: 0.44
+- Stream Module: 0.44
+- Formatter: 0.44
+- Horovod: 0.44
+- Batch: 0.44
+- Import & Export: 0.44
+- Testing: 0.43
+- Triggers: 0.43
+- fabric-ca-build: 0.43
+- Integration/Connectors: 0.43
+- webservcommon: 0.43
+- fabric-sdk-java: 0.42
+- eups: 0.42
+- Mac App: 0.42
+- Realm: 0.42
+- Service: OAuth: 0.42
+- SAT: 0.42
+- Issue - Time Tracking & Worklog: 0.42
+- Editor: 0.42
+- System Integration and Test: 0.42
+- Extensions: 0.42
+- Connectors: 0.42
+- Modules: Spring: 0.42
+- Administration - Issue Types: 0.42
+- Hub: 0.42
+- Staging: 0.41
+- Data Center - Other: 0.41
+- AgileBoard: 0.41
+- SSO: 0.41
+- Risk Register: 0.41
+- Debugging: 0.41
+- Admin - Extensions: 0.41
+- CDF: 0.41
+- Upstream: 0.41
+- Views: 0.40
+- Embedded: 0.40
+- IQ Integration: 0.40
+- lua: 0.40
+- Kanplan: 0.40
+- Setup: 0.40
+- Data Center: 0.40
+- Transport: Stream (System.in/out): 0.40
+- Networking: 0.40
+- Navigation - Primary & Contextual: 0.40
+- Stack Documentation and UX: 0.40
+- fabric-token: 0.40
+- Centralized license visibility: 0.40
+- .NET: 0.40
+- Planning: 0.40
+- fabric-ci: 0.40
+- webcommon: 0.39
+- Web Resources Manager: 0.39
+- Admin - Device Preview Management: 0.39
+- Import/Export: 0.39
+- Workflow Triggers: 0.39
+- Project Administration - Components: 0.39
+- scons: 0.39
+- doxygen: 0.39
+- fabric-orderer: 0.39
+- Admin - Languages: 0.39
+- Services Framework: 0.39
+- Schema: 0.39
+- Sample Data: 0.39
+- fabric-sdk-node: 0.39
+- Source Checkout Task: 0.39
+- App Explorer: 0.39
+- Misc integration: 0.39
+- jenkins: 0.39
+- fabric-modules: 0.38
+- felis: 0.38
+- Debugger: 0.38
+- Accessibility: 0.38
+- Studio: 0.38
+- fabric-test: 0.38
+- Repository: 0.38
+- Artifacts: 0.38
+- VCS task: 0.37
+- Samples: 0.37
+- Assignment: 0.37
+- Backup: 0.37
+- Portability: 0.37
+- System Administration - Statuses: 0.37
+- cocoapods: 0.37
+- Async: 0.37
+- UGC: 0.37
+- fabric-samples: 0.37
+- Stack: 0.37
+- Data Center - Deployments: 0.37
+- fabric-docs: 0.37
+- Server - Platform: 0.37
+- Migration: 0.37
+- Anvil: 0.37
+- Sprint: 0.37
+- Stride: 0.37
+- Project - Issues: 0.37
+- Gluon: 0.37
+- IDL: 0.37
+- Course: 0.37
+- Modules: OAuth: 0.37
+- Testsuite: 0.37
+- Email system: 0.37
+- Provisioning: 0.36
+- Application Links: 0.36
+- Providers: 0.36
+- App Designer: 0.36
+- CRUD: 0.36
+- Transport: File: 0.36
+- Project Administration - Others: 0.36
+- Publishing: 0.36
+- Arrow: 0.36
+- File: 0.36
+- db: 0.36
+- Keras: 0.36
+- Stages: 0.36
+- Conda: 0.36
+- TCT: 0.35
+- Querying: 0.35
+- Roadmap: 0.35
+- Project Administration - Issue type, fields and Other: 0.35
+- SPA: 0.35
+- Tasks: 0.35
+- Issue Search - Backend: 0.35
+- Query: 0.35
+- ioslib: 0.35
+- Connector: ObjectStore: 0.35
+- OnDemand: 0.35
+- Session Management: 0.35
+- File Manager: 0.34
+- fabric-build: 0.34
+- SDK Configuration: 0.34
+- skypix: 0.34
+- Messaging: 0.34
+- fabric-cli: 0.34
+- APT: 0.34
+- Seth: 0.34
+- Deployment: 0.34
+- JupyterLab: 0.34
+- node-ios-device: 0.34
+- Analytics: 0.34
+- Admin - User Accounts: 0.34
+- gpu: 0.33
+- SCORM: 0.33
+- allocation: 0.33
+- Global Administration: 0.33
+- Proxy: 0.33
+- Catalog: 0.33
+- Telemetry Data: 0.33
+- Windows: 0.33
+- windowslib: 0.33
+- Upgrade : 0.33
+- Versions: 0.32
+- Module: Scripting: 0.32
+- fabric-tools: 0.32
+- Development Panel: 0.32
+- Custom Metadata: 0.32
+- Aggregation pipeline: 0.32
+- REST Module: 0.32
+- Core: Streaming: 0.32
+- golang: 0.32
+- executor: 0.32
+- Project Administration - Versions: 0.32
+- Security & Permissions: 0.31
+- MMAPv1: 0.31
+- Packaging: 0.31
+- Module: Secure Properties: 0.31
+- Files API: 0.31
+- Wire Protocol: 0.31
+- Valdator Server: 0.31
+- Upgrading: 0.31
+- Build: 0.31
+- Mobile: 0.31
+- androidlib: 0.31
+- fabric-common: 0.31
+- Launcher: 0.31
+- Diagnostics: 0.31
+- Code Insights: 0.31
+- Connector: VM: 0.31
+- DevLoop: 0.31
+- Core: Exception Handling: 0.31
+- Terminal: 0.30
+- Desktop: 0.30
+- MVC: 0.30
+- Modules: WS Consumer: 0.30
+- fabric-release: 0.30
+- REST Tooling: 0.30
+- User Console: 0.30
+- Onboarding: 0.30
+- Builtins: 0.30
+- Transport: TCP / UDP / SSL / Multicast: 0.30
+- Templates: 0.29
+- App Diagnositcs: 0.29
+- Test Data: 0.29
+- anaconda: 0.29
+- TWP - Editor: 0.29
+- project website: 0.29
+- Transport: EJB / RMI: 0.29
+- Research & Design: 0.29
+- Reactive Streams: 0.29
+- Management Console: 0.29
+- fabric-quality: 0.29
+- User Management - User Profile: 0.29
+- Requirements Documents: 0.29
+- Distributions: 0.29
+- Tech debt: 0.29
+- python wrapper: 0.28
+- TTL: 0.28
+- DDL: 0.28
+- REST Metadata: 0.28
+- Projects: 0.28
+- Android: 0.28
+- Admin - Event Viewer: 0.28
+- System Administration - General Configuration: 0.28
+- apk: 0.27
+- Titanium Studio: 0.27
+- Content Review: 0.27
+- Native - macOS: 0.27
+- SDK-Ruby-Rails: 0.27
+- Data Center - Index: 0.27
+- Core: Logging: 0.27
+- Backup: IMS-CC: 0.27
+- Admin - Search Engine SiteMap: 0.27
+- Service: SOAP: 0.27
+- Documents: 0.27
+- Modules: iBeans: 0.27
+- Modules: RSS / ATOM: 0.27
+- Backend / Domain Model : 0.27
+- MobileWeb: 0.27
+- Publishing / RSS: 0.27
+- Proxy Repository: 0.27
+- Modules: Management / JMX: 0.27
+- User Management, Crowd & LDAP integration: 0.27
+- Internal Client: 0.27
+- Registry: 0.26
+- Smart Commits: 0.26
+- Admin - Site Settings: 0.26
+- Libraries: 0.26
+- End User Functions: 0.26
+- Web Services: 0.26
+- Modules: Expressions: 0.26
+- Modules: Sockets: 0.26
+- Host - Site Management: 0.26
+- Server - EAP: 0.26
+- Builders: 0.26
+- Bulk Operations: 0.26
+- Requirements: 0.26
+- Core - APIs: 0.26
+- Tooling Client: 0.26
+- Module: APIKit: 0.26
+- CLI: 0.26
+- OpenID: 0.26
+- Modules: File: 0.26
+- Transport: VM: 0.26
+- Build: Distributions: 0.25
+- REST Scaffolder: 0.25
+- Server - Performance: 0.25
+- Groovy: 0.25
+- PyDev: 0.25
+- Aggregation Framework: 0.25
+- Audit: 0.25
+- ADGS Design changes: 0.25
+- Titanium: 0.25
+- Administration - Permission Helper: 0.25
+- Server administration: 0.25
+- Migration - Data Center: 0.25
+- Formatting: 0.25
+- Test: Testing Framework: 0.25
+- System Administration - Secure Administrator Sessions: 0.25
+- Core: Services: 0.25
+- stack release: 0.25
+- Core: Concurrency / Threading: 0.25
+- Project Explorer: 0.25
+- Modules: FTP: 0.25
+- Verification: 0.25
+- Data Center - Installer: 0.24
+- mysqlclient: 0.24
+- Cluster Management: 0.24
+- Core: Lifecycle: 0.24
+- Modules: Devkit Support: 0.24
+- Backlog: 0.24
+- Front-end API: 0.24
+- Data Archive: 0.24
+- Active Objects: 0.24
+- Directory - Internal/Delegated: 0.24
+- Service: Scheduling: 0.24
+- Export: 0.24
+- Connector: DB: 0.24
+- Preview: 0.24
+- Education: 0.24
+- URL ReWriter: 0.24
+- Horde: 0.24
+- matplotlib: 0.24
+- Background Operations: 0.24
+- Admin - Site Redirection Management: 0.24
+- Skinning: 0.24
+- Studio Error reporting: 0.24
+- Gadget: 0.24
+- SAML: 0.24
+- Modules: BPM / Rules: 0.24
+- Administration - Fields: 0.23
+- Transaction Management: 0.23
+- iPad: 0.23
+- Modules: JCA Resource Adapter: 0.23
+- Modules: CXF: 0.23
+- Bower: 0.23
+- Calibration Products Production: 0.23
+- Backup / Restore: 0.23
+- Admin / Host Functions: 0.23
+- Connector: Sockets: 0.23
+- fabric-ledger: 0.23
+- Deployments: 0.23
+- Login: 0.23
+- Admin - Newsletters: 0.23
+- Validator Global State: 0.23
+- Test Coverage: 0.23
+- System Administration - Configuration Tool: 0.23
+- Builds: 0.23
+- Host - Schedule: 0.23
+- Scripting: 0.23
+- fabric-peer: 0.22
+- REST Archetype: 0.22
+- Tests: 0.22
+- Browse Remote: 0.22
+- Elastic Bamboo: 0.22
+- Core: Properties: 0.22
+- Third Party Software: 0.22
+- Project Management tools: 0.22
+- Lexorank: 0.22
+- IM: 0.22
+- Tools: Archetypes: 0.22
+- HTML Module - Core: 0.22
+- Dashboard & Gadgets: 0.22
+- Admin - Vendors: 0.22
+- Data Release Production: 0.22
+- python api: 0.22
+- Issue - Fields: 0.22
+- Modules: HTTP: 0.22
+- Caching: 0.22
+- Modules: Jersey: 0.22
+- Modules: JBPM: 0.22
+- Issue - Sub-Tasks: 0.22
+- HAML: 0.22
+- Plan Branches: 0.22
+- Core: API: 0.21
+- Module: Aggregators: 0.21
+- Continuous Integration: 0.21
+- User - Groups: 0.21
+- Badges: 0.21
+- Release Hub: 0.21
+- Blog: 0.21
+- Core API: 0.21
+- BSON: 0.21
+- Administration - Screens: 0.21
+- Drillbit: 0.21
+- Transport: HTTP(S) / Jetty: 0.21
+- RubyGems: 0.21
+- Core: DSL processing: 0.21
+- Graphics & Icons: 0.21
+- Issue - Remote Copy: 0.21
+- Cleanup: 0.21
+- partition: 0.21
+- Atlas: 0.20
+- Core: Flow: 0.20
+- Administration (General): 0.20
+- Project Administration - Project create and delete: 0.20
+- Firefly: 0.20
+- Login/Registration: 0.20
+- Labels: 0.20
+- Review Documents: 0.20
+- Core: Configuration: 0.20
+- YAML: 0.20
+- Nebula OpenStack: 0.20
+- Repository Health Check: 0.20
+- Gadgets: 0.20
+- fabric-crypto: 0.20
+- Project - Actions: 0.20
+- User Tours: 0.20
+- Audit Log: 0.20
+- QA: 0.20
+- Transport: JDBC: 0.19
+- Reports: 0.19
+- Setup Wizard: 0.19
+- Command Operations: 0.19
+- Host - Host Settings: 0.19
+- Core - DevOps: 0.19
+- iOS: 0.19
+- Ruby: 0.19
+- Server - Administration: 0.19
+- Integration - Jive: 0.19
+- Documentation / Website: 0.19
+- Electron: 0.19
+- Modules: Security (Spring Security, Acegi, PGP, WS-Security): 0.19
+- Xcode, iOS and Cocoa: 0.19
+- Core Modules: 0.19
+- Scala: 0.18
+- Rate Limiting: 0.18
+- Core - Frontend Platform: 0.18
+- Core: Sessions: 0.18
+- json api: 0.18
+- Member Directory: 0.18
+- java api: 0.18
+- jdklib: 0.18
+- Validation: 0.18
+- Data Center - Azure: 0.18
+- Science Pipelines: 0.18
+- Dashboard Integration: 0.18
+- GreenHopper integration: 0.18
+- Service: HTTP: 0.18
+- Core: ObjectStore: 0.18
+- Appc CLI: 0.18
+- Query Bar: 0.18
+- Design Documents: 0.17
+- Modules: Database: 0.17
+- Browse Storage: 0.17
+- Licensing: 0.17
+- Core: Components: 0.17
+- Docs: 0.17
+- scisql: 0.17
+- Cron: 0.17
+- Transport: Axis: 0.17
+- Validator Networking: 0.17
+- Core: Expressions: 0.17
+- next-gen: 0.17
+- Examples / Tutorials: 0.17
+- Data Center - Database: 0.17
+- Dashboards & Gadgets: 0.17
+- Jobs: 0.17
+- Notebooks: 0.17
+- Integration - Bamboo : 0.16
+- Widgets: 0.16
+- Dashboards & Reports - Reports: 0.16
+- Write Ops: 0.16
+- Build: Libraries / Dependencies: 0.16
+- fabric-installers: 0.16
+- Confluence Frontend Release Blocker - Dev: 0.16
+- Hyperloop: 0.16
+- System Administration - Integrity Checker: 0.16
+- Replication: 0.16
+- Asynchronous REST Client: 0.16
+- Integration - Apache/Subversion: 0.16
+- Journal: 0.16
+- Project Administration - Permissions: 0.16
+- Backup and Restore: 0.16
+- Localization / ML: 0.16
+- OpenID Connect: 0.16
+- Integration - JIRA: 0.15
+- fabric-gossip: 0.15
+- Core: Deployment: 0.15
+- Transport: JMS: 0.15
+- OSGI: 0.15
+- Query History: 0.15
+- Refactoring: 0.15
+- Core: Transactions: 0.15
+- Export to Language: 0.15
+- Audit Logging: 0.15
+- Modules: XA Transactions: 0.15
+- PHP: 0.15
+- Servers: 0.15
+- Accessibility - Mobile: 0.15
+- mysql-proxy: 0.15
+- User Management - LDAP Integration: 0.15
+- Build: Maven: 0.15
+- Core: Event/Message: 0.15
+- Shell: 0.15
+- Folding: 0.15
+- SDK-Android: 0.15
+- Core: Non-Blocking: 0.14
+- Integration - Fisheye/Crucible : 0.14
+- Query Operations: 0.14
+- Core - Web Resources: 0.14
+- Interception API: 0.14
+- Codecs: 0.14
+- Core: Routing / Filters: 0.14
+- Native - Android: 0.14
+- Core: Transports: 0.14
+- Burrow EVM: 0.14
+- Server - Upgrade Manager: 0.14
+- Core: Policies: 0.14
+- Rapture: 0.14
+- Environment - Database: 0.14
+- Slack integration: 0.14
+- Validator Journal: 0.14
+- Titanium CLI: 0.13
+- Jira Core Board: 0.13
+- Transport: FTP / SFTP: 0.13
+- Hyperledger: 0.13
+- Filters & Dashboards - Permissions: 0.13
+- SDK-JavaScript: 0.13
+- Transport: Quartz: 0.13
+- SDK-Ruby: 0.13
+- Dump/Restore: 0.13
+- Privacy: 0.13
+- Directories: 0.13
+- Project - Core Boards: 0.13
+- Transport: AJAX: 0.13
+- Tizen: 0.13
+- Build: Integration Tests: 0.13
+- Branch Status: 0.13
+- Release Packaging: 0.13
+- Grading methods: 0.13
+- Project - Agile Boards: 0.13
+- Core: Request-Reply: 0.13
+- Integration - Google Apps: 0.13
+- Core: Registry: 0.13
+- Content Selectors: 0.13
+- First-Run: 0.13
+- SOAP Tooling: 0.13
+- SOAP Scaffolder: 0.13
+- Github: 0.13
+- Document Validation: 0.13
+- Repository (Mercurial): 0.13
+- Titanium SDK: 0.13
+- Modules: XML, XSLT, XPath, SXC: 0.13
+- Smart Proxy: 0.13
+- Tomcat: 0.13
+- Admin - Google Analytics: 0.13
+- Data Center - Load balancer: 0.13
+- Node: 0.13
+- Web Interface - Keyboard Navigation: 0.13
+- Universal Plugin Manager / Manage apps: 0.13
+- MapReduce: 0.13
+- JWT: 0.12
+- release: 0.12
+- Bootstrap: 0.12
+- Unit tests: 0.12
+- Server - Plugin  Development: 0.12
+- Troubleshooting and Support Tools (ATST): 0.12
+- SOAP Module: 0.12
+- SVG: 0.12
+- Custom Field Optimizer: 0.12
+- Issue - Comments: 0.12
+- Table View: 0.12
+- Mule Core: 0.12
+- Forms Library: 0.12
+- Indexing: 0.12
+- Text/HTML Module: 0.12
+- Administration (Projects): 0.12
+- Control Panel - Ribbon Bar: 0.12
+- Build Tooling: 0.12
+- System Administration - Troubleshooting and Support Tools (ATST): 0.12
+- SCP and SSH tasks: 0.11
+- YARN Runtime: 0.11
+- Native - iOS: 0.11
+- Data Center - Node replication: 0.11
+- Directory - Remote Crowd: 0.11
+- Core: Domains shared resources: 0.11
+- Core: Containers: 0.11
+- Control Panel: 0.11
+- NPM: 0.11
+- HTTP Console: 0.11
+- Internal Code: 0.11
+- Admin - Pages: 0.11
+- Docker-Nexus: 0.11
+- PyPI: 0.11
+- Localization - Content: 0.11
+- Integration - Confluence : 0.11
+- Test Optimization: 0.11
+- Core: Transformers: 0.11
+- Write Operations: 0.11
+- Repositories: 0.11
+- SOAP Metadata: 0.10
+- Tooling API: 0.10
+- Editor - Fabric: 0.10
+- Maven Archetype Catalog: 0.10
+- Core - Content REST APIs: 0.10
+- git: 0.10
+- Project - Releases: 0.10
+- Real Time Server Stats: 0.10
+- Integration Tests: 0.10
+- Database: 0.10
+- Core: Agents: 0.10
+- Ant Tasks: 0.10
+- Internal: 0.10
+- mysql: 0.10
+- Confluence integration: 0.10
+- Confluence Frontend Next Release Blocker - Staging: 0.10
+- Ecosystem - Webhooks: 0.10
+- SDK-iOS: 0.09
+- Indexes: 0.09
+- Firewall: 0.09
+- Parsing: 0.09
+- Readonly: 0.09
+- Plugins: 0.09
+- SOAP: 0.09
+- Data Access (DAL): 0.09
+- Installation / Upgrade: 0.09
+- Integrations - JIRA: 0.09
+- Project Administration - Project Summary: 0.09
+- Jupyter Widget: 0.09
+- Heroku task: 0.09
+- POJO: 0.09
+- Repository (CVS): 0.09
+- JIRA: 0.09
+- Repository (Perforce): 0.09
+- Core: Bootstrap / Standalone: 0.09
+- JSON: 0.09
+- Test Failure: 0.09
+- Scrum Board: 0.09
+- Classic - Reports: 0.09
+- Repository (Subversion): 0.09
+- JSON Mode: 0.09
+- User Management - Groups : 0.09
+- flash: 0.09
+- HTTP API: 0.08
+- Performance Testing: 0.08
+- Maven: 0.08
+- Core: Watermark: 0.08
+- HTML View: 0.08
+- Localization - Static: 0.08
+- Server - Jobs: 0.08
+- Confluence Frontend Next Release Blocker - Prod: 0.08
+- SDK-PHP: 0.08
+- XML: 0.08
+- HTML Editor: 0.08
+- statistics: 0.08
+- Acceptance Testing: 0.08
+- Text Search: 0.08
+- Docker Runner: 0.08
+- Repository (Git): 0.08
+- Markdown: 0.08
+- Core: Classloading: 0.08
+- Upgrade/Downgrade: 0.08
+- Repository (Github): 0.08
+- XLDB: 0.08
+- Jira platform: 0.08
+- L1 Database: 0.08
+- FishEye & Crucible integration: 0.08
+- Scheduled Tasks: 0.08
+- Schema Validation: 0.07
+- C# Conversion: 0.07
+- Server - Installer / Setup: 0.07
+- Apache MXNet Scala API: 0.07
+- Build Queues: 0.07
+- React: 0.07
+- Webhooks: 0.07
+- AWS: 0.07
+- Mail Server: 0.07
+- Maven Module Plugin: 0.07
+- Repository (Bitbucket): 0.07
+- Installation/Setup: 0.07
+- JQL: 0.07
+- Translations: 0.07
+- Python Signing: 0.07
+- Apache MXNet Backend: 0.07
+- CSS: 0.07
+- JavaScript: 0.07
+- Sharding: 0.07
+- Mule CI: 0.07
+- Bitbucket Server integration: 0.07
+- Documentation - All: 0.07
+- CI Build : 0.06
+- JSON Schema: 0.06
+- System Administration  - Global Permissions: 0.06
+- Jenkins Plugin: 0.06
+- SDK-Nodejs: 0.06
+- Bitbucket integration: 0.06
+- User Management - Delete User: 0.06
+- Fast Kanban: 0.06
+- Implementation: 0.06
+- Core: Queues (SEDA) / Persistence: 0.06
+- Python SDK: 0.06
+- Confluence Frontend Release Blocker: 0.06
+- Webpack: 0.06
+- Gradle Plugin: 0.06
+- HTML Editor (Atto): 0.06
+- Docker: 0.06
+- Deployment Awareness: 0.06
+- Extensions: Maven Plugin: 0.06
+- Migration - Cloud to Server: 0.06
+- Algorithm Testing: 0.06
+- HipChat integration: 0.05
+- Core: Endpoints: 0.05
+- Auto Updates: 0.05
+- Jira Importers Plugin: 0.05
+- Force Stop Build: 0.05
+- JIRA integration: 0.05
+- Cassandra Administration: 0.05
+- SSL: 0.05
+- zookeeper: 0.05
+- Maven plugin: 0.05
+- C++ SDK: 0.05
+- Apache MXNet Julia API: 0.05
+- Pull Requests: 0.05
+- Automation for Jira: 0.05
+- Client Side Encryption: 0.05
+- Directory - Azure Active Directory: 0.05
+- SOAP Proxy: 0.05
+- SEO: 0.05
+- Field Level Encryption: 0.05
+- CSV export: 0.05
+- c++ api: 0.04
+- Node Utilities: 0.04
+- Transport: XMPP (Jabber): 0.04
+- Directory - LDAP: 0.04
+- Kotlin: 0.04
+- SOAP Releases: 0.04
+- Migration - Server to Server: 0.04
+- JS: 0.04
+- Project Administration - Project Trash and Archive: 0.04
+- Build: JDK Compatibility: 0.04
+- Localization - Language Packs: 0.04
+- SOAP Engine: 0.04
+- Database SQL/XMLDB: 0.04
+- jQuery: 0.04
+- Sass: 0.04
+- Java SDK: 0.04
+- Tomcat tasks: 0.04
+- LDAP: 0.04
+- UPM (Universal Plugin Manager): 0.04
+- Javascript SDK: 0.04
+- JS Libraries: 0.03
+- SMTP: 0.03
+- HTML: 0.03
+- Node.js plugin: 0.03
+- CoffeeScript: 0.03
+- XML SDK: 0.03
+- Google App Engine: 0.03
+- Migration - Server to Cloud: 0.03
+- Apache MXNet C/C++ API: 0.03
+- Apache MXNet Java API: 0.03
+- Go SDK: 0.03
+- Friendly / Standard URLs: 0.03
+- Database (MySQL): 0.03
+- Database (Oracle): 0.02
+- Admin - Recycle Bin: 0.02
+- Database (Postgresql): 0.02
+- Database (MS SQL): 0.02
+- HTML and CSS: 0.01

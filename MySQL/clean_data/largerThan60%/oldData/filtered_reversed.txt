@@ -1,0 +1,4738 @@
+Skill: HTML
+- HTML: 1.00
+- HTML View: 0.99
+- Content - Page: 0.95
+- Friendly / Standard URLs: 0.92
+- Media: 0.90
+- User interface: 0.89
+- home: 0.89
+- Content - Linking: 0.88
+- webserv: 0.85
+- User - Follow: 0.85
+- Content - Sharing: 0.84
+- Language: 0.83
+- Views: 0.83
+- Document viewer: 0.83
+- Header: 0.79
+- Client: 0.79
+- Content - Attachments: 0.79
+- Issue - View Issue: 0.78
+- display_ds9: 0.78
+- project website: 0.78
+- documenteer: 0.77
+- webserv_client: 0.76
+- User - Profile: 0.76
+- Preferences: 0.75
+- Content - Edit Files / Companion: 0.75
+- User - Mentions: 0.75
+- Content - Page - Mobile: 0.74
+- Settings Family: 0.74
+- Exec: 0.73
+- Host Page: 0.73
+- Formatting: 0.73
+- Forum: 0.72
+- Common: 0.72
+- Help: 0.71
+- Content - Trackback: 0.71
+- base: 0.71
+- Navigation - Single Page App: 0.70
+- UI / Usability: 0.70
+- Documentation / Website: 0.70
+- HTML Editor: 0.69
+- Connect: 0.68
+- master: 0.68
+- Text/HTML Module: 0.68
+- display_ginga: 0.68
+- Export to Language: 0.68
+- Content - Likes: 0.67
+- HeaderService: 0.67
+- Content bank: 0.67
+- Navigation - View results: 0.66
+- Sample Data: 0.66
+- User Profile: 0.66
+- User Console: 0.66
+- webui: 0.64
+- release: 0.64
+- Localization - Content: 0.64
+- Dashboard (My home): 0.64
+- verify: 0.63
+- resource provider: 0.63
+- Dashboard & Reports - Reports: 0.63
+- lsp-landing-page: 0.63
+- User - Management: 0.63
+- Choice: 0.63
+- Setup: 0.63
+- Connectivity: 0.63
+- Navigation - Primary & Contextual: 0.62
+- Web Interface - Keyboard Navigation: 0.62
+- Accessibility: 0.62
+- Navigation Panel: 0.62
+- Host - Host Settings: 0.62
+- Resource: 0.61
+- User Profile Controls: 0.61
+- Upgrading: 0.61
+- Dynamic Content Creator: 0.61
+- Report: 0.61
+- alert_stream: 0.60
+- Preview: 0.60
+- Usability: 0.60
+- Navigation: 0.60
+- Content Assist: 0.60
+- Issue Details View: 0.60
+- Editor - Attachment: 0.60
+- Page - Import: 0.60
+Skill: Wireframing and Prototyping
+- WRM: 0.88
+- framework: 0.88
+- protobuf: 0.76
+- fftw: 0.71
+- maven tasks: 0.69
+- Spec: 0.68
+- TWP - Design System: 0.65
+- provisioner: 0.63
+- Help: 0.61
+- Preview: 0.61
+- afw: 0.61
+Skill: MongoDB
+- Database: 0.98
+- client dependency framework: 0.96
+- storage: 0.96
+- Data Service: 0.95
+- Data Center - Database: 0.90
+- Database activity module: 0.88
+- Data Access: 0.86
+- Third Party Software: 0.85
+- Modules: Database: 0.82
+- Data: 0.79
+- verify: 0.76
+- master: 0.76
+- resource provider: 0.72
+- Backend / Domain Model : 0.70
+- query-index: 0.68
+- Sample Data: 0.68
+- defense-squad: 0.67
+- Delegated group administration: 0.66
+- stout: 0.65
+- Exec: 0.65
+- next-gen: 0.60
+Skill: Build Automation
+- Build: 0.98
+- Automation: 0.95
+- Build system: 0.91
+- Common: 0.77
+- Builds: 0.77
+- Groovy: 0.74
+- Exec: 0.69
+- ap: 0.69
+- eigen: 0.69
+- Spec: 0.68
+- CI Build : 0.66
+- AUM: 0.65
+- supertask: 0.65
+- stout: 0.64
+- framework: 0.63
+- ts_ait: 0.61
+- master: 0.60
+Skill: Kubernetes
+- webserv: 0.98
+- network: 0.96
+- client dependency framework: 0.92
+- containerization: 0.84
+- internet-explorer: 0.82
+- Networking: 0.82
+- next-gen: 0.80
+- project website: 0.79
+- master: 0.77
+- platform: 0.76
+- resource provider: 0.75
+- Third Party Software: 0.73
+- Exec: 0.70
+- verify: 0.69
+- Dynamic Content Creator: 0.66
+- test-automation: 0.66
+- Server administration: 0.65
+- Groovy: 0.63
+Skill: Hardware/Software Integration
+- Integrations: 0.97
+- Installation / Upgrade: 0.93
+- IM: 0.90
+- Implementation: 0.89
+- CI: 0.89
+- Common: 0.86
+- jointcal: 0.85
+- SUIT: 0.82
+- Spec: 0.77
+- APT: 0.74
+- HA: 0.74
+- Ingest: 0.72
+- eigen: 0.72
+- Windows Hybrid: 0.72
+- Connect: 0.72
+- Exec: 0.71
+- ci_hsc: 0.71
+- SPA: 0.70
+- Hub: 0.70
+- IDL: 0.69
+- Project: 0.68
+- Editor - Collaborative editing: 0.68
+- Settings Family: 0.67
+- cbp: 0.65
+- SSO: 0.65
+- synpipe: 0.65
+- eups: 0.64
+- SAML: 0.64
+- Connector: VM: 0.64
+- FishEye & Crucible integration: 0.63
+- DVCS Connector: 0.63
+- master: 0.62
+- cni: 0.62
+- Builtins: 0.62
+- IRSA: 0.62
+- HAML: 0.61
+- shapelet: 0.61
+- APIDoc: 0.60
+Skill: Data Visualization
+- Data: 0.93
+- VCS task: 0.88
+- dataweave: 0.86
+- DM: 0.81
+- Common: 0.77
+- Groovy: 0.76
+- CI: 0.74
+- dax: 0.72
+- display_ds9: 0.72
+- CDF: 0.70
+- Exec: 0.69
+- dataserv: 0.69
+- Issue - View Issue: 0.68
+- DDL: 0.67
+- display_matplotlib: 0.66
+- obs_decam: 0.66
+- Navigation - View results: 0.66
+- gsl: 0.65
+- Help: 0.65
+- ci_hsc: 0.65
+- geom: 0.64
+- dbserv: 0.64
+- ci_hsc_gen3: 0.63
+- TCT: 0.62
+- cni: 0.62
+- Spec: 0.62
+- CKEditor: 0.62
+- astro_metadata_translator: 0.61
+- IDL: 0.61
+- APIDoc: 0.61
+- platform: 0.61
+- meas_extensions_multiShapelet: 0.61
+- fftw: 0.60
+Skill: DevOps
+- ops: 0.97
+- Core - DevOps: 0.81
+- stout: 0.79
+- Developer Infrastructure: 0.75
+- Project: 0.68
+- Delegated group administration: 0.62
+Skill: User Research
+- OBR: 0.88
+- UX: 0.87
+- UI: 0.82
+- CRUD: 0.81
+- UGC: 0.75
+- Report: 0.73
+- AUM: 0.62
+Skill: Microsoft SQL Server
+- Database (MS SQL): 0.99
+- Database (MySQL): 0.97
+- Database: 0.90
+- home: 0.87
+- scisql: 0.87
+- Qserv: 0.86
+- obs_lsst: 0.84
+- obs_lsstSim: 0.83
+- master: 0.83
+- Environment - Database: 0.81
+- Host - SQL: 0.79
+- Server administration: 0.79
+- query-index: 0.77
+- docsteady: 0.72
+- ci_lsst: 0.68
+- lsp-landing-page: 0.67
+- Core: Domains shared resources: 0.66
+- verify: 0.66
+- www_lsst_io: 0.64
+- Upgrading: 0.61
+- obs_sdss: 0.60
+- db: 0.60
+Skill: System Architecture Design
+- Design: 0.87
+- SPA: 0.82
+- Spec: 0.70
+Skill: Azure
+- AWS: 0.99
+- platform: 0.98
+- HA: 0.98
+- fabric-quality: 0.98
+- home: 0.96
+- docsteady: 0.95
+- Theme: 0.94
+- dataweave: 0.94
+- display_ginga: 0.93
+- afw: 0.93
+- warranty: 0.93
+- agent: 0.92
+- framework: 0.92
+- master: 0.91
+- Colorization: 0.91
+- next-gen: 0.91
+- Document viewer: 0.90
+- resource provider: 0.90
+- Groovy: 0.89
+- Administration - Look and Feel / Themes: 0.89
+- Exec: 0.89
+- image-gc: 0.88
+- jointcal: 0.87
+- ap: 0.87
+- Upgrading: 0.87
+- Realm: 0.87
+- Atlas: 0.86
+- Directory - Azure Active Directory: 0.86
+- AUM: 0.86
+- client dependency framework: 0.85
+- internet-explorer: 0.85
+- ts_aos: 0.84
+- Settings Family: 0.84
+- verify: 0.84
+- Authentication / Security: 0.83
+- Data Center - Azure: 0.83
+- Async: 0.81
+- luaexpat: 0.81
+- Connectivity: 0.80
+- APT: 0.79
+- ap_association: 0.79
+- Validation: 0.79
+- project website: 0.79
+- Active Objects: 0.79
+- fabric-amcl: 0.78
+- LTI provider: 0.78
+- display_ds9: 0.78
+- Authentication: 0.77
+- fabric-common: 0.76
+- efd: 0.76
+- UGC: 0.76
+- Help: 0.75
+- provisioner: 0.75
+- Dynamic Content Creator: 0.75
+- Alert Production: 0.75
+- Header: 0.75
+- Accessibility: 0.75
+- Accessibility - Mobile: 0.74
+- felis: 0.74
+- AUI: 0.74
+- eigen: 0.74
+- Connection Management: 0.74
+- ts_auxiliary_telescope: 0.73
+- Usability: 0.73
+- User - Follow: 0.73
+- astshim: 0.73
+- Content - Page - Mobile: 0.73
+- astro_metadata_translator: 0.73
+- Outreach: 0.73
+- dax: 0.73
+- Verification: 0.72
+- verify_metrics: 0.72
+- Spec: 0.72
+- Content - Edit Files / Companion: 0.72
+- flash: 0.72
+- sample-avro-alert: 0.71
+- Universal Plugin Manager / Manage apps: 0.71
+- protobuf: 0.70
+- ap_verify: 0.70
+- Server - Platform: 0.70
+- General: 0.70
+- User interface: 0.69
+- Views: 0.69
+- Data Access: 0.69
+- qa_explorer: 0.68
+- boost: 0.68
+- executor: 0.67
+- Platform - Application Links: 0.67
+- in Console Access Request: 0.67
+- alert_packet: 0.67
+- fftw: 0.67
+- webserv_client: 0.66
+- lua: 0.66
+- Administration - Universal Plugin Manager: 0.66
+- UI / UX: 0.65
+- fetcher: 0.65
+- network: 0.65
+- display_matplotlib: 0.65
+- eups: 0.64
+- ctrl_provenance: 0.64
+- Backup / Restore: 0.64
+- Design: 0.64
+- SAML: 0.64
+- Smart Commits: 0.64
+- Issue Details View: 0.64
+- validate_drp: 0.63
+- meas_astrom: 0.63
+- XO Family: 0.63
+- ts_environment: 0.63
+- User - Authentication: 0.63
+- User Profile Controls: 0.62
+- Themes: 0.62
+- alert_stream: 0.62
+- Content - Sharing: 0.62
+- fabric-build: 0.62
+- release: 0.62
+- Runtime platform: 0.62
+- Portability: 0.62
+- qserv_testdata: 0.62
+- Host - Host Settings: 0.62
+- gsl: 0.62
+- Legal: 0.61
+- ts_deployment: 0.61
+- User Profile: 0.61
+- Professional Features Showcase: 0.61
+- Data Service: 0.61
+- Better Notifications: 0.61
+- Multi-Select: 0.61
+- fabric-ca: 0.61
+- LDF: 0.61
+- Service Infrastructure: 0.60
+- Object Qualifier: 0.60
+- Client Side Encryption: 0.60
+- Dashboard & Reports - Reports: 0.60
+- HeaderService: 0.60
+- webserv: 0.60
+- query-index: 0.60
+- Third Party Software: 0.60
+Skill: Virtualization VMware
+- Exec: 0.89
+- master: 0.84
+- VCS task: 0.81
+- ctrl_mpexec: 0.80
+- MVC: 0.78
+- Spec: 0.77
+- technote: 0.76
+- project website: 0.75
+- Common: 0.68
+- platform: 0.66
+- Specification: 0.66
+- next-gen: 0.64
+- fftw: 0.64
+Skill: Risk Management
+- WRM: 0.88
+- Management: 0.87
+- R: 0.85
+- Misc: 0.84
+- Exec: 0.78
+- RSS: 0.68
+- replicated log: 0.67
+- Spec: 0.63
+- appcd: 0.63
+- SCORM: 0.62
+- display_ds9: 0.61
+Skill: Data Mining
+- Data: 0.96
+- DM: 0.83
+- statistics: 0.70
+- Sample Data: 0.69
+- Spec: 0.69
+- Exec: 0.65
+- dax: 0.64
+- eigen: 0.62
+- datarel: 0.61
+- Mac: 0.60
+Skill: Usability Testing
+- test: 0.99
+- Testing: 0.99
+- Usability: 0.98
+- Tests: 0.98
+- Utility: 0.92
+- UI / Usability: 0.89
+- Accessibility: 0.89
+- Portability: 0.87
+- UI / UX: 0.84
+- UX: 0.82
+- Navigation - View results: 0.80
+- Spec: 0.72
+- home: 0.72
+- supertask: 0.68
+- Accessibility - Mobile: 0.66
+- ci_lsst: 0.66
+- display_ds9: 0.65
+- verify: 0.63
+- User interface: 0.63
+- Client: 0.61
+- Exec: 0.61
+- Testsuite: 0.60
+- ts_ait: 0.60
+Skill: Security Best Practices
+- Security: 0.99
+- Authentication / Security: 0.78
+- Spec: 0.78
+- afw: 0.72
+- Common: 0.72
+- SPA: 0.71
+- framework: 0.70
+- replicated log: 0.70
+- cbp: 0.63
+- Settings Family: 0.62
+- validate_drp: 0.61
+- Exec: 0.61
+- ci_lsst: 0.61
+Skill: Cloud Architecture
+- Cloud: 0.97
+- next-gen: 0.93
+- CMA: 0.92
+- Groovy: 0.76
+- master: 0.73
+Skill: Selenium
+- test-automation: 0.96
+- client dependency framework: 0.94
+- Third Party Software: 0.93
+- Automated functional tests (behat): 0.93
+- felis: 0.87
+- resource provider: 0.86
+- lsst: 0.85
+- www_lsst_io: 0.84
+- Embedded: 0.84
+- verify: 0.81
+- internet-explorer: 0.81
+- System Integration and Test: 0.79
+- test: 0.76
+- next-gen: 0.71
+- Test: Testing Framework: 0.71
+- Testing: 0.71
+- platform: 0.70
+- Upgrading: 0.68
+- lsst_thirdparty: 0.67
+- Performance Testing: 0.67
+- display_ds9: 0.66
+- master: 0.66
+- Spec: 0.66
+- lsst_build: 0.65
+- Test Data: 0.64
+- ci_lsst: 0.64
+- Testing Infrastructure: 0.63
+- lsst_apps: 0.61
+- verify_metrics: 0.61
+- Installation / Upgrade: 0.61
+- webserv_client: 0.60
+- Service Infrastructure: 0.60
+- Tooling Client: 0.60
+Skill: CoAP
+- Conditional activities: 0.99
+- Quiet Period: 0.99
+- Concurrency: 0.99
+- Crowd: 0.99
+- Connection Management: 0.99
+- Content - Sharing: 0.99
+- Delegated group administration: 0.99
+- Command Operations: 0.98
+- client dependency framework: 0.98
+- jointcal: 0.98
+- Content - Attachments: 0.98
+- Content Assist: 0.98
+- Content - Edit Files / Companion: 0.98
+- Course completion: 0.98
+- Common: 0.97
+- defense-squad: 0.97
+- Authentication / Security: 0.97
+- group-deploy: 0.97
+- Roles / Access: 0.97
+- Control Panel: 0.97
+- Editor - Collaborative editing: 0.97
+- Activity completion: 0.96
+- Private Transaction: 0.96
+- Backup: 0.96
+- Administration - Permission Helper: 0.96
+- Responsibility tracking: 0.96
+- Plan configuration: 0.96
+- Administration - Notification Helper: 0.96
+- Administration - Others: 0.96
+- Accessibility: 0.96
+- Configuration: 0.96
+- Cohorts: 0.96
+- Confluence integration: 0.96
+- Project - Actions: 0.96
+- User - Authentication: 0.95
+- Support: 0.95
+- Portability: 0.95
+- Authentication: 0.95
+- Exec: 0.95
+- Console: 0.95
+- Continuous Integration: 0.95
+- containerization: 0.95
+- Project Administration - Components: 0.95
+- resource provider: 0.94
+- Active Objects: 0.94
+- Editor - Attachment: 0.94
+- Connectivity: 0.94
+- Automation: 0.94
+- Core: Concurrency / Threading: 0.94
+- verify: 0.94
+- Core: Non-Blocking: 0.94
+- Client: 0.94
+- Backup / Restore: 0.94
+- framework: 0.93
+- Cloud: 0.93
+- Competencies: 0.93
+- Project Administration - Others: 0.93
+- Third Party Software: 0.93
+- Backup and Restore: 0.93
+- Cluster Management: 0.93
+- Client Side Encryption: 0.93
+- Integration - Confluence : 0.93
+- Directory - Remote Crowd: 0.92
+- Capabilities: 0.92
+- CEP Plugin: 0.92
+- Compression: 0.92
+- Help: 0.92
+- in Console Access Request: 0.92
+- Policy: 0.91
+- Board configuration: 0.91
+- Core - Connect Platform: 0.91
+- Performance: 0.91
+- Aggregation Framework: 0.91
+- Content - Linking: 0.91
+- Content - Trackback: 0.91
+- network: 0.91
+- Localization - Content: 0.91
+- Centralized license visibility: 0.91
+- Content bank: 0.91
+- Rate Limiting: 0.91
+- Alert Production: 0.91
+- Embedded: 0.91
+- base: 0.90
+- Automated functional tests (behat): 0.90
+- Field Level Encryption: 0.90
+- Acceptance Testing: 0.90
+- Legal: 0.90
+- Cleanup: 0.90
+- Custom Field Optimizer: 0.89
+- Dynamic Content Creator: 0.89
+- Server - Authentication: 0.89
+- platform: 0.89
+- Accessibility - Mobile: 0.89
+- Content - Inline Comments: 0.89
+- validator-info: 0.89
+- flaky: 0.89
+- Permissions: 0.89
+- Smart Commits: 0.89
+- release-automation: 0.89
+- Issue - Actions: 0.89
+- Assignment: 0.88
+- System Administration - Configuration Tool: 0.88
+- Choice: 0.88
+- Backup & Restore (non-migration): 0.88
+- Core: (other): 0.88
+- System Administration - Others: 0.88
+- docsteady: 0.87
+- Connect: 0.87
+- oversubscription: 0.87
+- Integration/Connectors: 0.87
+- Asynchronous REST Client: 0.87
+- test-automation: 0.87
+- Editor - Synchrony: 0.87
+- Colorization: 0.87
+- Applications: 0.87
+- eigen: 0.87
+- Proxy: 0.87
+- Code Processor: 0.86
+- Content - Restrictions: 0.86
+- app: 0.86
+- executor: 0.86
+- Autocomplete: 0.86
+- Content - Page - Mobile: 0.86
+- Core: Domains shared resources: 0.86
+- Chat: 0.86
+- Document viewer: 0.86
+- Core: Configuration: 0.85
+- Next-gen - Configuration: 0.85
+- Core: Components: 0.85
+- Audit: 0.85
+- Encoding: 0.85
+- Space - Export / Import: 0.85
+- Administration: 0.85
+- User - Follow: 0.85
+- stout: 0.85
+- release: 0.84
+- Proxy Repository: 0.84
+- Stability: 0.84
+- Core API: 0.84
+- Export to Language: 0.84
+- Background Operations: 0.84
+- Data Access: 0.84
+- Mac App: 0.84
+- leader election: 0.84
+- Scalability: 0.83
+- home: 0.83
+- Prompt: 0.83
+- Project Administration - People and Roles: 0.83
+- User - Management: 0.83
+- Provider - Active Directory: 0.83
+- Security & Permissions: 0.82
+- Smart Proxy: 0.82
+- Clover integration: 0.82
+- Internal Client: 0.82
+- Search - Advanced Search: 0.82
+- Custom fields: 0.81
+- Next-gen - Card: 0.81
+- Navigation - Primary & Contextual: 0.81
+- Calibration Products Production: 0.81
+- Project: 0.81
+- Branch Status: 0.81
+- User - Profile: 0.81
+- provisioner: 0.81
+- System Integration and Test: 0.81
+- Macros - Attachments: 0.80
+- Custom builds: 0.80
+- Explain: 0.80
+- Space - Import / Export: 0.80
+- Setup: 0.80
+- User interface: 0.80
+- Core - Frontend Platform: 0.80
+- Groovy: 0.80
+- fabric-common: 0.80
+- boost: 0.80
+- Object Qualifier: 0.80
+- Service Infrastructure: 0.80
+- Agents: 0.79
+- ops: 0.79
+- User - Global / Space Permissions: 0.79
+- Macros - Content by User: 0.79
+- Dependencies: 0.79
+- Macros - 3rd Party: 0.79
+- Developer Infrastructure: 0.78
+- Global Administration: 0.78
+- Project Administration - Project Summary: 0.78
+- Client Resources: 0.78
+- Core features: 0.78
+- Upgrading: 0.78
+- Administration (General): 0.78
+- Platform - Application Links: 0.78
+- Core: Request-Reply: 0.78
+- partition: 0.78
+- Auto Updates: 0.78
+- test: 0.78
+- warranty: 0.78
+- ap_association: 0.77
+- next-gen: 0.77
+- agent: 0.77
+- Error Handling: 0.77
+- Telemetry / Reporting: 0.77
+- pex_policy: 0.77
+- Admin: 0.77
+- Modules - Third party: 0.77
+- Application Links: 0.77
+- Infrastructure & Services - Application Lifecycle: 0.76
+- Universal Plugin Manager / Manage apps: 0.76
+- Usability: 0.76
+- Content - Restrictions - Mobile: 0.76
+- Module Action Menu: 0.76
+- Custom Metadata: 0.76
+- Confluence Frontend Release Blocker: 0.76
+- User Management - Others: 0.76
+- Content Review: 0.76
+- python wrapper: 0.76
+- Repository Health Check: 0.76
+- rapid_analysis: 0.76
+- Outreach: 0.76
+- appcd: 0.76
+- Spec: 0.75
+- Issue - Entity Properties: 0.75
+- Build system: 0.75
+- meas_extensions_convolved: 0.75
+- Management Console: 0.75
+- Test: Testing Framework: 0.75
+- System Administration - General Configuration: 0.75
+- Analytics: 0.74
+- Security: 0.74
+- master: 0.74
+- workspace: 0.74
+- User Profile Controls: 0.74
+- appcd-response: 0.74
+- Exception Management: 0.74
+- Issue Details View: 0.74
+- Release Packaging: 0.74
+- Planning: 0.74
+- Implementation: 0.74
+- User Management, Crowd & LDAP integration: 0.74
+- Test Coverage: 0.74
+- Reporting: 0.74
+- Directory - Internal/Delegated: 0.74
+- Core - Analytics: 0.73
+- User - Mentions: 0.73
+- Windows Hybrid: 0.73
+- Development Panel: 0.73
+- ctrl_provenance: 0.73
+- Localization / ML: 0.73
+- Page - Export / Import: 0.73
+- Admin - Security Roles: 0.73
+- Monitoring: 0.73
+- Core - Macros Platform: 0.73
+- Document Validation: 0.73
+- Upgrade/Downgrade: 0.72
+- Instrumentation: 0.72
+- security-engineering: 0.72
+- Server - Source Distribution: 0.72
+- Import & Export: 0.72
+- Advanced Roadmaps: 0.72
+- Build: (other): 0.72
+- Scheduled Tasks: 0.72
+- documenteer: 0.72
+- Validation: 0.71
+- Import/Export: 0.71
+- cocoapods: 0.71
+- Core: Streaming: 0.71
+- Replication: 0.71
+- allocation: 0.71
+- User Console: 0.70
+- Issue - Create: 0.70
+- Admin Page: 0.70
+- Member Directory: 0.70
+- Server - Platform: 0.70
+- validate_drp: 0.70
+- Host - Security Analyzer: 0.70
+- Better Notifications: 0.70
+- appcd-agent: 0.69
+- replicated log: 0.69
+- Admin / Host Functions: 0.69
+- Activity Feed: 0.69
+- ap: 0.69
+- User Profile: 0.69
+- Localization - Language Packs: 0.69
+- payments: 0.69
+- conan: 0.69
+- Data Release Production: 0.68
+- display_ds9: 0.68
+- Internal Code: 0.68
+- Core: Event/Message: 0.68
+- Science Platform: 0.68
+- Administration (Projects): 0.68
+- Test Optimization: 0.67
+- Sample Data: 0.67
+- Upgrade : 0.67
+- Core: Flow: 0.67
+- project website: 0.67
+- Server - Performance: 0.67
+- Navigation Panel: 0.67
+- System Administration - Integrity Checker: 0.67
+- Module: Secure Properties: 0.67
+- Content - Likes: 0.67
+- scheduler api: 0.67
+- Project Administration - Users and Roles: 0.67
+- Source Checkout Task: 0.67
+- fabric-ca-build: 0.67
+- Core: API: 0.67
+- Import / Export: 0.67
+- Core: Lifecycle: 0.66
+- Language: 0.66
+- Management: 0.66
+- scheduler driver: 0.66
+- geom: 0.66
+- image-gc: 0.66
+- Server - Administration: 0.66
+- stack release: 0.66
+- Ecosystem: 0.65
+- User Management: 0.65
+- Admin - User Accounts: 0.65
+- Installation / Upgrade: 0.65
+- Deployment Awareness: 0.65
+- Data Service: 0.65
+- Classic - Board Configuration: 0.65
+- datarel: 0.65
+- FishEye & Crucible integration: 0.65
+- alert_packet: 0.65
+- Caching: 0.64
+- fabric-quality: 0.64
+- Core - Product Analytics and Metrics: 0.64
+- afw: 0.64
+- Procurement: 0.64
+- Project Administration - Permissions: 0.64
+- import-export: 0.64
+- Data Archive: 0.64
+- Core - Content REST APIs: 0.64
+- Report: 0.64
+- camera: 0.64
+- Verification: 0.64
+- Issue - Attachments: 0.64
+- Performance Testing: 0.64
+- Validator Networking: 0.63
+- System Administration - Priorities: 0.63
+- Confluence Cloud Premium: 0.63
+- End User Functions: 0.63
+- Runtime platform: 0.63
+- verify_metrics: 0.63
+- Tooling Client: 0.63
+- testdata_jointcal: 0.63
+- Space - Create: 0.63
+- ts_management: 0.63
+- Source Control: 0.63
+- Testing Infrastructure: 0.63
+- Infrastructure: 0.63
+- Connector: ObjectStore: 0.62
+- IMS-CP resource type: 0.62
+- Connectors: 0.62
+- Geo: 0.62
+- ts_environment: 0.61
+- appcd-client: 0.61
+- Issue - Remote Copy: 0.61
+- Utility: 0.61
+- Core: Agents: 0.61
+- Core: Routing / Filters: 0.61
+- Schema: 0.61
+- Onboarding: 0.61
+- Wire Protocol: 0.61
+- Plagiarism: 0.61
+- Documentation (Developer): 0.61
+- Server administration: 0.60
+- Navigation - View results: 0.60
+- Macros - Content by Label: 0.60
+- FIPS Compliance: 0.60
+- appcd-config-service: 0.60
+- Keyboard Shortcuts: 0.60
+- Directory - Azure Active Directory: 0.60
+- Examples / Tutorials: 0.60
+- Provisioning: 0.60
+- Site - Backup / Import: 0.60
+- Misc integration: 0.60
+- fabric-peer: 0.60
+- Settings Family: 0.60
+- Service: Scheduling: 0.60
+- Core - OSGi Plugins Platform: 0.60
+Skill: Firewall Configuration
+- Configuration: 0.99
+- Firewall: 0.99
+- Security: 0.94
+- Spec: 0.87
+- network: 0.84
+- appcd: 0.83
+- Upgrading: 0.81
+- Exec: 0.78
+- security-engineering: 0.78
+- fftw: 0.76
+- Setup: 0.75
+- Common: 0.73
+- WRM: 0.72
+- afw: 0.72
+- obs_cfht: 0.70
+- pex_config: 0.70
+- verify: 0.68
+- master: 0.67
+- Geo: 0.66
+- appcd-config-service: 0.66
+- ci_hsc: 0.65
+- stout: 0.65
+- Specification: 0.63
+- lsst_ci: 0.63
+- CI: 0.62
+- validate_drp: 0.61
+- Groovy: 0.61
+- eigen: 0.60
+Skill: Cloud Native Application Development
+- next-gen: 0.98
+- Cloud: 0.98
+- platform: 0.91
+- CMA: 0.91
+- cni: 0.91
+- afw: 0.88
+- app: 0.83
+- appcd: 0.83
+- Applications: 0.82
+- CI: 0.82
+- CDF: 0.78
+- OBR: 0.75
+- LDF: 0.75
+- UGC: 0.73
+- cbp: 0.73
+- Spec: 0.70
+- OODS: 0.70
+- APIDoc: 0.69
+- I18N: 0.69
+- Project: 0.68
+- dax: 0.68
+- AUM: 0.68
+- obs_decam: 0.68
+- gsl: 0.66
+- Exec: 0.65
+- display_ds9: 0.65
+- verify: 0.65
+- ci_hsc: 0.64
+- eigen: 0.64
+- ap: 0.64
+- Choice: 0.64
+- geom: 0.64
+- DM: 0.64
+- cmake: 0.63
+- ts_environment: 0.62
+- conan: 0.62
+- home: 0.62
+- IMS-CP resource type: 0.62
+- ci_lsst: 0.61
+- Preferences: 0.60
+- efd: 0.60
+- SUIT: 0.60
+Skill: IoT
+- next-gen: 0.95
+- technote: 0.92
+- internet-explorer: 0.79
+- Exec: 0.72
+- verify: 0.67
+- master: 0.66
+Skill: Routing and Switching
+- workflow: 0.97
+- network: 0.96
+- Routing: 0.96
+- Service: Scheduling: 0.93
+- Change Streams: 0.92
+- Service Infrastructure: 0.92
+- Upgrading: 0.90
+- RSS: 0.90
+- Transport: (new transport): 0.87
+- Networking: 0.87
+- Common: 0.86
+- Help: 0.86
+- Issue - Actions: 0.86
+- Connection Management: 0.85
+- Client: 0.85
+- Spec: 0.84
+- framework: 0.83
+- Exec: 0.83
+- Roadmap: 0.82
+- Configuration: 0.81
+- Plan configuration: 0.81
+- Reactive Streams: 0.81
+- Versions: 0.81
+- Project - Actions: 0.81
+- R: 0.81
+- Dynamic Content Creator: 0.80
+- Groovy: 0.80
+- Transport: 0.80
+- display_ds9: 0.80
+- Infrastructure: 0.79
+- Instrumentation: 0.79
+- Server - Performance: 0.78
+- master: 0.77
+- Mobile: 0.76
+- webserv: 0.76
+- app: 0.76
+- Board configuration: 0.75
+- Automation: 0.75
+- webserv_client: 0.74
+- TWP - Activity: 0.74
+- maven tasks: 0.73
+- WRM: 0.73
+- ci_lsst: 0.73
+- Transport: TCP / UDP / SSL / Multicast: 0.73
+- home: 0.72
+- Console: 0.72
+- Host - Host Settings: 0.71
+- ip_isr: 0.71
+- ci_hsc: 0.71
+- meas_extensions_multiShapelet: 0.70
+- Tooling Client: 0.70
+- synpipe: 0.70
+- Transport: Stream (System.in/out): 0.70
+- display_matplotlib: 0.69
+- Developer Infrastructure: 0.69
+- shapelet: 0.69
+- gsl: 0.69
+- appcd-client: 0.69
+- supertask: 0.69
+- platform: 0.69
+- ADGS Design changes: 0.69
+- Smart Proxy: 0.69
+- Transport: FTP / SFTP: 0.68
+- Upgrade/Downgrade: 0.68
+- obs_lsst: 0.68
+- alert_stream: 0.68
+- appcd-response: 0.67
+- Advanced Roadmaps: 0.67
+- pex_config: 0.67
+- Navigation - Your work: 0.67
+- P2: 0.67
+- db: 0.66
+- CRUD: 0.66
+- ts_environment: 0.66
+- eigen: 0.66
+- TCT: 0.66
+- ci_hsc_gen3: 0.66
+- Content - Page - Mobile: 0.66
+- Forum: 0.66
+- display_ginga: 0.66
+- ts_ait: 0.65
+- DDL: 0.65
+- Mac: 0.65
+- HUD: 0.65
+- apk: 0.65
+- Migration: 0.65
+- Telerik: 0.65
+- Infrastructure & Services: 0.64
+- Transport: EJB / RMI: 0.64
+- agent: 0.64
+- Project: 0.64
+- ops: 0.64
+- appcd-config: 0.64
+- DVCS Connector: 0.64
+- lsst_thirdparty: 0.64
+- obs_ts3: 0.64
+- Qserv: 0.63
+- appcd-config-service: 0.63
+- ap_pipe: 0.63
+- CLI: 0.63
+- Geo: 0.63
+- Tizen: 0.63
+- cni: 0.63
+- image-gc: 0.63
+- mariadbclient: 0.63
+- Mac App: 0.63
+- dbserv: 0.63
+- S3: 0.63
+- cbp: 0.63
+- alert_packet: 0.63
+- TTL: 0.63
+- appcd-agent: 0.62
+- sdk: 0.62
+- Data Service: 0.62
+- lsstsw: 0.62
+- appcd-util: 0.62
+- obs_sdss: 0.62
+- Proxy: 0.62
+- OBR: 0.62
+- Admin - Site Redirection Management: 0.61
+- JWT: 0.61
+- ip_diffim: 0.61
+- jms-module: 0.61
+- CI: 0.61
+- protobuf: 0.61
+- ts_main_telescope: 0.61
+- General: 0.61
+- verify: 0.61
+- CKEditor: 0.61
+- Modules: MuleClient: 0.61
+- ap: 0.61
+- AUM: 0.61
+- Host - Schedule: 0.61
+- gpu: 0.60
+- File: 0.60
+- ts_qa: 0.60
+- datarel: 0.60
+- metaserv: 0.60
+- appcd-plugin-genymotion: 0.60
+- Desktop: 0.60
+- dax_ppdb: 0.60
+- Media: 0.60
+- appcd-plugin-system-info: 0.60
+- fabric-cli: 0.60
+- perf-tools: 0.60
+Skill: PyTorch
+- resource provider: 0.94
+- Third Party Software: 0.94
+- client dependency framework: 0.90
+- next-gen: 0.87
+- test-automation: 0.86
+- master: 0.85
+- project website: 0.84
+- Upgrading: 0.81
+- test: 0.76
+- appcd: 0.75
+- Dynamic Content Creator: 0.71
+- Automated functional tests (behat): 0.71
+- System Integration and Test: 0.70
+- Testing Infrastructure: 0.69
+- python wrapper: 0.69
+- ap: 0.69
+- Groovy: 0.67
+- verify: 0.67
+- Exec: 0.62
+- framework: 0.60
+- Tooling API: 0.60
+Skill: Incident Response
+- CI: 0.97
+- React: 0.96
+- Prompt: 0.96
+- APT: 0.94
+- Spec: 0.93
+- IM: 0.90
+- cni: 0.86
+- appcd: 0.86
+- Issue - Actions: 0.83
+- replicated log: 0.83
+- APIDoc: 0.83
+- WRM: 0.82
+- CLI: 0.79
+- CRUD: 0.77
+- Exec: 0.76
+- IDL: 0.72
+- verify: 0.65
+- SCORM: 0.64
+- display_ds9: 0.63
+- supertask: 0.62
+- Mac: 0.61
+- Error Handling: 0.61
+- webserv_client: 0.60
+- R: 0.60
+- Help: 0.60
+- validate_drp: 0.60
+- stout: 0.60
+Skill: SVN
+- Service Infrastructure: 0.98
+- network: 0.97
+- Views: 0.96
+- Document viewer: 0.95
+- Server - Source Distribution: 0.95
+- Administration - Notification Helper: 0.95
+- Notification: 0.94
+- Core: Non-Blocking: 0.93
+- client dependency framework: 0.92
+- Navigation - View results: 0.91
+- Navigation - Single Page App: 0.91
+- Navigation Panel: 0.88
+- resource provider: 0.86
+- User interface: 0.86
+- Sample Data: 0.86
+- Stability: 0.86
+- Networking: 0.86
+- Export to Language: 0.85
+- Navigation: 0.85
+- Site registration: 0.85
+- verify: 0.85
+- Navigation - Sidebar: 0.84
+- home: 0.84
+- next-gen: 0.84
+- Support: 0.84
+- Server administration: 0.83
+- Specification: 0.83
+- Validator Networking: 0.83
+- docsteady: 0.82
+- master: 0.82
+- Navigation - Space Directory: 0.82
+- Content - Sharing: 0.81
+- Plan configuration: 0.80
+- Glossary: 0.79
+- Variables: 0.79
+- OnDemand: 0.79
+- Validation: 0.78
+- Language: 0.78
+- Admin - Search Engine SiteMap: 0.77
+- platform: 0.77
+- Better Notifications: 0.77
+- core: Notifications: 0.77
+- stout: 0.76
+- validator-info: 0.76
+- Conditional activities: 0.76
+- Server - Performance: 0.76
+- Upgrading: 0.75
+- Real Time Server Stats: 0.75
+- Security: 0.74
+- Board configuration: 0.74
+- Host - SuperUser Accounts: 0.74
+- Dynamic Content Creator: 0.73
+- Groovy: 0.73
+- webserv: 0.73
+- Verification: 0.71
+- framework: 0.70
+- Space - Export / Import: 0.70
+- Exec: 0.69
+- Documentation / Website: 0.66
+- project website: 0.66
+- Next-gen - Versions & Releases: 0.66
+- documenteer: 0.66
+- Spec: 0.66
+- Delegated group administration: 0.66
+- Next-gen - Card: 0.66
+- storage: 0.66
+- defense-squad: 0.65
+- Navigation - Search: 0.65
+- Centralized license visibility: 0.65
+- Web Interface - Keyboard Navigation: 0.65
+- Schema Validation: 0.64
+- Documentation (Developer): 0.64
+- Content - Trackback: 0.63
+- Services: 0.63
+- Node: 0.62
+- Editor - Collaborative editing: 0.61
+- agent: 0.61
+- Document Validation: 0.61
+- System Integration and Test: 0.60
+- Navigation - Primary & Contextual: 0.60
+- Services Framework: 0.60
+Skill: Docker
+- Docker: 1.00
+- storage: 1.00
+- containerization: 0.98
+- raid: 0.95
+- client dependency framework: 0.95
+- db: 0.93
+- partition: 0.91
+- DDL: 0.89
+- resource provider: 0.88
+- DM: 0.87
+- Third Party Software: 0.85
+- Bulk Operations: 0.82
+- validate_drp: 0.80
+- Exec: 0.76
+- dax: 0.69
+- verify: 0.67
+- CRUD: 0.60
+Skill: UX Design
+- User interface: 0.98
+- UX: 0.98
+- Design: 0.96
+- UI / Usability: 0.96
+- eups: 0.91
+- UI / UX: 0.81
+- Usability: 0.80
+- master: 0.69
+- next-gen: 0.69
+- efd: 0.65
+Skill: Git
+- git: 1.00
+- Github: 0.96
+- Groovy: 0.94
+- boost: 0.88
+- master: 0.88
+- Gadget: 0.84
+- home: 0.83
+- next-gen: 0.83
+- General: 0.81
+- resource provider: 0.80
+- Upgrading: 0.80
+- Document viewer: 0.80
+- docsteady: 0.79
+- verify: 0.79
+- stout: 0.77
+- eigen: 0.77
+- client dependency framework: 0.73
+- internet-explorer: 0.70
+- Core: Domains shared resources: 0.70
+- Legal: 0.69
+- Exec: 0.69
+- Transport: (new transport): 0.68
+- Content - Edit Files / Companion: 0.67
+- Gaming Mechanics: 0.66
+- Instrumentation: 0.65
+- display_ginga: 0.63
+- Repository (Git): 0.62
+- display_matplotlib: 0.62
+- Project Management tools: 0.61
+- Feedback: 0.60
+Skill: Scalability and Performance Optimization
+- Scalability: 0.96
+- Performance: 0.89
+- display_ds9: 0.73
+- Spec: 0.72
+- Client: 0.71
+- Settings Family: 0.68
+- Exec: 0.67
+- display_matplotlib: 0.67
+- webserv_client: 0.65
+- SCORM: 0.62
+- System Administration - Priorities: 0.62
+- Console: 0.61
+- framework: 0.60
+Skill: TCP/IP
+- network: 0.99
+- Networking: 0.99
+- Internationalisation: 0.94
+- Service Infrastructure: 0.92
+- Core: Domains shared resources: 0.90
+- home: 0.88
+- client dependency framework: 0.87
+- master: 0.81
+- ctrl_iip: 0.81
+- webserv: 0.79
+- Exec: 0.77
+- TWP - Content Service: 0.77
+- Client: 0.74
+- webserv_client: 0.74
+- Infrastructure: 0.73
+- verify: 0.71
+- Spec: 0.71
+- Core: Non-Blocking: 0.70
+- internet-explorer: 0.70
+- resource provider: 0.68
+- Common: 0.67
+- ap: 0.66
+- Testing Infrastructure: 0.64
+- Connectivity: 0.64
+- alert_packet: 0.63
+- display_ds9: 0.62
+- Telerik: 0.62
+- stout: 0.61
+Skill: Technical Documentation
+- Documentation: 0.96
+- Documents: 0.92
+- documenteer: 0.89
+- docsteady: 0.89
+- technote: 0.86
+- Specification: 0.85
+- Spec: 0.83
+- Docs: 0.83
+- dataserv: 0.82
+- TCT: 0.82
+- DM: 0.80
+- ts_documentation: 0.78
+- Data: 0.76
+- DDL: 0.71
+- CDF: 0.68
+- IDL: 0.68
+- log: 0.64
+- dbserv: 0.62
+- Exec: 0.62
+- Issue - View Issue: 0.62
+- WRM: 0.62
+- Explain: 0.61
+- Help: 0.60
+Skill: scikit-learn
+- scikit_learn: 0.97
+- project website: 0.90
+- Third Party Software: 0.88
+- resource provider: 0.79
+- sdk: 0.78
+- Documentation / Website: 0.78
+- platform: 0.77
+- CI: 0.75
+- next-gen: 0.70
+- Sample Data: 0.70
+- free: 0.67
+- SUIT: 0.62
+- Spec: 0.60
+Skill: Vue.js
+- client dependency framework: 0.87
+- home: 0.85
+- project website: 0.81
+- master: 0.74
+Skill: TensorFlow
+- platform: 0.84
+- next-gen: 0.78
+- display_ds9: 0.77
+- verify_metrics: 0.76
+- ts_environment: 0.72
+- Feedback: 0.72
+- astro_metadata_translator: 0.72
+- query-index: 0.71
+- verify: 0.71
+- ap_verify: 0.71
+- alert_stream: 0.70
+- scikit_learn: 0.70
+- Validator Global State: 0.69
+- master: 0.69
+- ts_dome: 0.69
+- ts_main_telescope: 0.69
+- alert_packet: 0.68
+- sample-avro-alert: 0.68
+- home: 0.68
+- ts_management: 0.67
+- Issue Search - Backend: 0.67
+- daf_persistence: 0.67
+- Help: 0.66
+- display_ginga: 0.66
+- ts_pointing: 0.66
+- Host - Host Settings: 0.66
+- Roles / Access: 0.66
+- validate_drp: 0.66
+- ts_deployment: 0.66
+- ts_visualization: 0.66
+- ts_ait: 0.66
+- rapid_analysis: 0.65
+- fetcher: 0.65
+- Smart Commits: 0.65
+- Change Streams: 0.65
+- Dynamic Content Creator: 0.65
+- eigen: 0.65
+- Navigation - Primary & Contextual: 0.65
+- ts_auxiliary_telescope: 0.64
+- Connectivity: 0.64
+- Favourites: 0.64
+- ci_hsc_gen3: 0.64
+- ts_scheduler: 0.64
+- network: 0.64
+- ts_calibration: 0.63
+- meas_extensions_simpleShape: 0.63
+- Exec: 0.63
+- ci_lsst: 0.63
+- ap_association: 0.63
+- qa_explorer: 0.62
+- qserv_testdata: 0.62
+- framework: 0.62
+- fftw: 0.60
+- User - Follow: 0.60
+- ImageHandler: 0.60
+- ci_hsc: 0.60
+Skill: Cassandra
+- Conda: 1.00
+- Codecs: 0.98
+- Sass: 0.97
+- CI: 0.96
+- dax: 0.94
+- CSS: 0.94
+- Document viewer: 0.91
+- Conditional activities: 0.91
+- CDF: 0.91
+- scons: 0.89
+- cni: 0.88
+- Content - Edit Files / Companion: 0.86
+- home: 0.85
+- verify: 0.85
+- master: 0.85
+- Embedded: 0.83
+- Settings Family: 0.83
+- Cassandra Administration: 0.83
+- docsteady: 0.81
+- appcd: 0.81
+- Content - Trackback: 0.79
+- Console: 0.79
+- CMA: 0.79
+- CSV export: 0.78
+- Exec: 0.78
+- resource provider: 0.75
+- ctrl_orca: 0.75
+- executor: 0.74
+- client dependency framework: 0.73
+- documenteer: 0.73
+- in Console Access Request: 0.72
+- eigen: 0.71
+- User - Follow: 0.71
+- obs_decam: 0.70
+- scipipe_conda_env: 0.70
+- next-gen: 0.68
+- stout: 0.68
+- lsst: 0.66
+- fetcher: 0.66
+- Issue Details View: 0.66
+- afw: 0.66
+- Dynamic Content Creator: 0.63
+- Groovy: 0.62
+- agent: 0.62
+- VCS task: 0.60
+- Upgrading: 0.60
+- Plan configuration: 0.60
+- test: 0.60
+- LTI provider: 0.60
+Skill: ETL
+- Terminal: 0.99
+- Update: 0.98
+- Upgrade : 0.98
+- Upgrade: 0.98
+- Timezone: 0.98
+- TTL: 0.98
+- Education: 0.97
+- Other: 0.97
+- Export: 0.97
+- Enterprise: 0.97
+- Import / Export: 0.96
+- Transport: (other): 0.95
+- External Modules: 0.95
+- Transport: (new transport): 0.95
+- technote: 0.95
+- Page - Export / Import: 0.95
+- Translations: 0.94
+- Extensions: 0.94
+- Feedback: 0.94
+- Electron: 0.94
+- Exec: 0.94
+- Content - Trackback: 0.94
+- User - Follow: 0.93
+- platform: 0.92
+- Core: Event/Message: 0.92
+- Localization - Content: 0.92
+- Transport: 0.91
+- Legal: 0.91
+- User interface: 0.91
+- Content - Linking: 0.91
+- Export to Language: 0.91
+- eigen: 0.90
+- Runtime platform: 0.90
+- Upgrading: 0.90
+- Help: 0.90
+- verify: 0.90
+- eups: 0.90
+- Telerik: 0.90
+- Core: Transactions: 0.88
+- End User Functions: 0.88
+- Import & Export: 0.88
+- Language: 0.88
+- Notification: 0.88
+- Installation / Upgrade: 0.87
+- testing_endtoend: 0.87
+- home: 0.86
+- Document viewer: 0.86
+- Content - Edit Files / Companion: 0.86
+- Telemetry / Reporting: 0.86
+- release: 0.85
+- Embedded: 0.85
+- test: 0.85
+- Instrumentation: 0.85
+- Utility: 0.84
+- Events & Notifications: 0.84
+- framework: 0.84
+- Administration - Notification Helper: 0.84
+- Spec: 0.83
+- Exception Management: 0.83
+- Navigation - Export: 0.83
+- OnDemand: 0.82
+- executor: 0.82
+- Telemetry Data: 0.82
+- Extensions API: 0.81
+- Import/Export: 0.80
+- Explain: 0.80
+- Expiry: 0.80
+- Readonly: 0.80
+- master: 0.80
+- resource provider: 0.79
+- Rate Limiting: 0.79
+- import-export: 0.79
+- Alert Production: 0.79
+- Better Notifications: 0.79
+- Testing: 0.77
+- Service Infrastructure: 0.77
+- Page - Export: 0.77
+- Feedback - Hello: 0.77
+- Host - Extensions: 0.76
+- alert_packet: 0.76
+- Connect: 0.76
+- boost: 0.76
+- Test Data: 0.75
+- Internationalisation: 0.75
+- Core: Lifecycle: 0.74
+- Wire Protocol: 0.73
+- Stability: 0.73
+- next-gen: 0.73
+- Core: Exception Handling: 0.73
+- Ecosystem: 0.72
+- client dependency framework: 0.72
+- Admin - Event Viewer: 0.72
+- Board configuration: 0.72
+- lsst: 0.71
+- internet-explorer: 0.71
+- validator-info: 0.71
+- Centralized license visibility: 0.71
+- docsteady: 0.70
+- Auto Updates: 0.70
+- Test Coverage: 0.70
+- alert_stream: 0.69
+- Licensing: 0.69
+- astro_metadata_translator: 0.69
+- Lesson: 0.68
+- Issue Details View: 0.68
+- System Integration and Test: 0.68
+- Navigation - View results: 0.68
+- Documentation (User): 0.67
+- Test: Testing Framework: 0.67
+- base: 0.67
+- luaexpat: 0.67
+- network: 0.67
+- Content - Restrictions: 0.66
+- Inline Comments-Hello: 0.66
+- Prompt: 0.66
+- Editor - Collaborative editing: 0.66
+- Admin - Extensions: 0.65
+- project website: 0.65
+- Responsibility tracking: 0.65
+- obs_auxtel: 0.65
+- Delegated group administration: 0.65
+- Tech debt: 0.65
+- Error Handling: 0.64
+- Upgrade/Downgrade: 0.64
+- Core: Non-Blocking: 0.64
+- Transaction Management: 0.64
+- Connectivity: 0.64
+- core: Notifications: 0.63
+- Events API: 0.63
+- Conditional activities: 0.63
+- ap: 0.63
+- ts_management: 0.63
+- Quiet Period: 0.62
+- Accessibility: 0.62
+- dataweave: 0.61
+- efd: 0.61
+- Editor - Front end - Page / Comment: 0.60
+- agent: 0.60
+- replicated log: 0.60
+- Issue - Time Tracking & Worklog: 0.60
+Skill: Responsive Design
+- Design: 0.97
+- DM: 0.86
+- Spec: 0.85
+- CRUD: 0.84
+- verify: 0.83
+- next-gen: 0.82
+- Groovy: 0.81
+- WRM: 0.79
+- master: 0.78
+- display_ds9: 0.75
+- Common: 0.75
+- RSS: 0.74
+- R: 0.74
+- webserv_client: 0.72
+- Core: Non-Blocking: 0.71
+- OBR: 0.71
+- User - Follow: 0.70
+- home: 0.70
+- ap: 0.69
+- React: 0.69
+- shapelet: 0.68
+- Client: 0.68
+- framework: 0.67
+- appcd-response: 0.67
+- jointcal: 0.67
+- DDL: 0.67
+- IM: 0.66
+- Settings Family: 0.66
+- Content - Page - Mobile: 0.66
+- IDL: 0.65
+- validate_drp: 0.65
+- eigen: 0.65
+- Host - Host Settings: 0.65
+- CDF: 0.65
+- ci_hsc: 0.65
+- Mac: 0.65
+- Core: Request-Reply: 0.64
+- obs_sdss: 0.62
+- Realm: 0.62
+- IRSA: 0.61
+- APT: 0.61
+- appcd-config-service: 0.61
+- AUM: 0.61
+- CKEditor: 0.60
+- Mobile: 0.60
+Skill: SQL
+- Schema: 0.99
+- storage: 0.98
+- Database: 0.98
+- scisql: 0.96
+- Database (MySQL): 0.94
+- mysql: 0.92
+- Database (MS SQL): 0.91
+- Query Operations: 0.90
+- System Administration - Statuses: 0.86
+- Sample Data: 0.85
+- Data Access: 0.84
+- Qserv: 0.83
+- Host - SQL: 0.83
+- home: 0.81
+- Core: Domains shared resources: 0.80
+- Scalability: 0.78
+- Environment - Database: 0.78
+- mysqlclient: 0.77
+- Data Service: 0.77
+- query-index: 0.74
+- Science Platform: 0.71
+- docsteady: 0.71
+- Database activity module: 0.71
+- Spec: 0.69
+- Test Data: 0.69
+- verify_metrics: 0.68
+- base: 0.67
+- master: 0.67
+- Exec: 0.66
+- Schema Validation: 0.66
+- Server - Source Distribution: 0.66
+- verify: 0.65
+- Specification: 0.63
+- obs_test: 0.63
+- stout: 0.63
+- resource provider: 0.63
+- obs_base: 0.62
+- schema.rs: 0.60
+- Query: 0.60
+- test: 0.60
+Skill: Performance Testing
+- Performance Testing: 0.99
+- test: 0.99
+- Performance: 0.99
+- Testing: 0.98
+- Tests: 0.98
+- Metrics: 0.89
+- Spec: 0.85
+- APT: 0.84
+- ap: 0.78
+- verify: 0.73
+- Test Data: 0.70
+- app: 0.66
+- Server - Performance: 0.66
+- TCT: 0.66
+- obs_test: 0.64
+- Client: 0.64
+- display_ds9: 0.64
+- ts_ait: 0.62
+- ci_lsst: 0.61
+- SPA: 0.60
+- ci_hsc: 0.60
+Skill: Data Warehousing
+- dataweave: 0.96
+- Data: 0.95
+- DM: 0.83
+- dbserv: 0.79
+- storage: 0.74
+- dax: 0.72
+- Common: 0.72
+- ci_hsc: 0.70
+- db: 0.70
+- statistics: 0.69
+- ci_lsst: 0.68
+- CKEditor: 0.66
+- datarel: 0.66
+- obs_lsst: 0.66
+- Spec: 0.65
+- validate_drp: 0.64
+- documenteer: 0.63
+- DDL: 0.61
+Skill: GCP
+- Configuration: 0.98
+- General: 0.98
+- Core: Configuration: 0.95
+- Geo: 0.95
+- System Administration - General Configuration: 0.95
+- Course completion: 0.95
+- Developer Infrastructure: 0.94
+- System Administration - Configuration Tool: 0.94
+- Policy: 0.93
+- Compass: 0.93
+- home: 0.92
+- Command Operations: 0.91
+- Administration (General): 0.91
+- framework: 0.91
+- Console: 0.90
+- master: 0.90
+- platform: 0.90
+- Groups: 0.89
+- Next-gen - Configuration: 0.89
+- Control Panel: 0.88
+- Cloud: 0.88
+- Plan configuration: 0.88
+- Editor - Collaborative editing: 0.88
+- Dynamic Content Creator: 0.87
+- Conditional activities: 0.87
+- Core: Domains shared resources: 0.87
+- docsteady: 0.86
+- Document viewer: 0.85
+- Choice: 0.85
+- Project: 0.85
+- Service Infrastructure: 0.85
+- client dependency framework: 0.85
+- System Administration  - Global Permissions: 0.85
+- Content - Edit Files / Companion: 0.84
+- stout: 0.84
+- Github: 0.84
+- Host - Configuration Manager: 0.84
+- Management Console: 0.83
+- next-gen: 0.83
+- group-deploy: 0.83
+- Project Management tools: 0.83
+- resource provider: 0.83
+- verify: 0.82
+- Exec: 0.82
+- geom: 0.81
+- Groovy: 0.81
+- Issue - Entity Properties: 0.81
+- Delegated group administration: 0.81
+- Security: 0.79
+- Field Level Encryption: 0.79
+- Board configuration: 0.79
+- Core - Connect Platform: 0.78
+- Compression: 0.78
+- Course: 0.78
+- Core: Properties: 0.78
+- Next-gen - Card: 0.78
+- camera: 0.78
+- Core: Components: 0.78
+- Legal: 0.77
+- Backend / Domain Model : 0.76
+- Grammar: 0.76
+- Crowd: 0.76
+- Development Panel: 0.76
+- Runtime platform: 0.75
+- Core: Non-Blocking: 0.75
+- Colorization: 0.75
+- provisioner: 0.75
+- Server - Platform: 0.74
+- image-gc: 0.74
+- project website: 0.74
+- Content - Page - Mobile: 0.73
+- documenteer: 0.73
+- Core: Concurrency / Threading: 0.73
+- Centralized license visibility: 0.73
+- Project Administration - Components: 0.73
+- defense-squad: 0.72
+- Core: 0.72
+- base: 0.70
+- Administration - Notification Helper: 0.70
+- Upgrading: 0.70
+- System Administration - Integrity Checker: 0.69
+- Core features: 0.69
+- User Management - Groups : 0.69
+- Competencies: 0.68
+- Infrastructure: 0.68
+- replicated log: 0.68
+- User interface: 0.68
+- Navigation - Primary & Contextual: 0.67
+- Client Side Encryption: 0.67
+- User - Groups: 0.67
+- Gaming Mechanics: 0.66
+- Global search: 0.66
+- Integration - Google Apps: 0.65
+- Administration - Permission Helper: 0.65
+- Content - Sharing: 0.65
+- eigen: 0.65
+- Connection Management: 0.65
+- Authentication / Security: 0.65
+- Global Administration: 0.64
+- Documentation (Developer): 0.64
+- Universal Plugin Manager / Manage apps: 0.64
+- Stability: 0.63
+- User Management - User Profile: 0.62
+- validator-info: 0.62
+- Management: 0.62
+- Core - Frontend Platform: 0.61
+- Module: Secure Properties: 0.61
+- User - Global / Space Permissions: 0.61
+- Code Processor: 0.61
+- Content - Page: 0.60
+- Spec: 0.60
+- Testing Infrastructure: 0.60
+Skill: Hadoop
+- Hadoop: 1.00
+- Data Access: 0.97
+- Data: 0.90
+- Data Service: 0.85
+- next-gen: 0.84
+- HA: 0.81
+- client dependency framework: 0.81
+- resource provider: 0.77
+- master: 0.77
+- query-index: 0.73
+- Data Access (DAL): 0.64
+- dax: 0.64
+- Groovy: 0.63
+- Issue Search - Backend: 0.62
+- dax_data_generator: 0.60
+Skill: Project Planning
+- Projects: 0.99
+- Project: 0.98
+- Planning: 0.95
+- ops: 0.90
+- PHPDoc: 0.86
+- Exec: 0.83
+- Plan configuration: 0.82
+- APT: 0.81
+- Spec: 0.81
+- ap: 0.76
+- framework: 0.71
+- Roadmap: 0.68
+- master: 0.64
+- supertask: 0.64
+- processFile: 0.63
+- PyPI: 0.62
+Skill: UX/UI Design and Prototyping
+- UI / UX: 0.98
+- User interface: 0.97
+- UI / Usability: 0.97
+- UI: 0.96
+- Design: 0.93
+- UX: 0.93
+- eups: 0.79
+- Usability: 0.79
+- jointcal: 0.67
+Skill: MySQL
+- mysql: 1.00
+- Database (MySQL): 1.00
+- storage: 1.00
+- Database: 0.99
+- Database (MS SQL): 0.98
+- Host - SQL: 0.96
+- mysqlclient: 0.96
+- Data Service: 0.94
+- Data Access: 0.93
+- scisql: 0.91
+- Environment - Database: 0.89
+- Data Center - Database: 0.87
+- Schema: 0.83
+- master: 0.83
+- Database activity module: 0.82
+- query-index: 0.81
+- Modules: Database: 0.75
+- client dependency framework: 0.74
+- home: 0.71
+- stout: 0.70
+- Misc: 0.70
+- Core: Domains shared resources: 0.69
+- Scalability: 0.68
+- Query Operations: 0.66
+- resource provider: 0.63
+- verify: 0.62
+- Sample Data: 0.62
+Skill: RDBMS
+- storage: 0.99
+- Middleware: 0.99
+- Data Service: 0.98
+- Backend / Domain Model : 0.98
+- Database: 0.97
+- R: 0.95
+- Delegated group administration: 0.93
+- Management: 0.92
+- Data Access: 0.92
+- Data: 0.91
+- Service Infrastructure: 0.89
+- framework: 0.89
+- Repository: 0.86
+- Board configuration: 0.86
+- Ratings: 0.85
+- Instrumentation: 0.84
+- Project Management tools: 0.82
+- Data Center - Database: 0.82
+- docsteady: 0.80
+- System Administration - Statuses: 0.79
+- Database (Oracle): 0.78
+- defense-squad: 0.78
+- stout: 0.78
+- Reporting: 0.78
+- master: 0.77
+- Modules: Database: 0.73
+- Responsibility tracking: 0.72
+- Monitoring: 0.71
+- Database activity module: 0.70
+- verify: 0.70
+- next-gen: 0.69
+- Telemetry / Reporting: 0.68
+- base: 0.67
+- Issue Search - Backend: 0.66
+- Research & Design: 0.66
+- Report: 0.64
+- Repository (Mercurial): 0.64
+- Groovy: 0.63
+- resource provider: 0.62
+- Modules: BPM / Rules: 0.62
+- Background Operations: 0.61
+- Repository Health Check: 0.61
+- Replication: 0.61
+- validate_drp: 0.60
+- obs_base: 0.60
+- Transaction Management: 0.60
+Skill: Computer Vision
+- CI: 0.93
+- next-gen: 0.87
+- display_ginga: 0.86
+- Exec: 0.86
+- VCS task: 0.85
+- verify: 0.78
+- gsl: 0.77
+- Spec: 0.74
+- Geo: 0.73
+- master: 0.72
+- display_ds9: 0.72
+- cni: 0.71
+- geom: 0.70
+- image-gc: 0.67
+- ci_hsc: 0.62
+- CLI: 0.61
+- ap_verify: 0.61
+- dax: 0.61
+- Kanplan: 0.60
+Skill: Data Manipulation and Cleaning
+- Cleanup: 0.90
+- Data: 0.89
+- IM: 0.87
+- DM: 0.86
+- MVC: 0.83
+- Common: 0.75
+- CI: 0.71
+- statistics: 0.68
+- Exec: 0.67
+- Client: 0.65
+- WRM: 0.64
+- Dump/Restore: 0.64
+- Spec: 0.63
+- DDL: 0.62
+- platform: 0.61
+- eigen: 0.60
+Skill: Data Manipulation
+- IM: 0.95
+- DM: 0.94
+- Data: 0.89
+- MVC: 0.89
+- Common: 0.85
+- statistics: 0.74
+- Client: 0.67
+- dataweave: 0.67
+- Issue - View Issue: 0.65
+- Exec: 0.62
+- appcd: 0.60
+Skill: UI Design
+- User interface: 0.99
+- UI: 0.99
+- Design: 0.98
+- Utility: 0.96
+- UX: 0.95
+- UI / Usability: 0.92
+- UI / UX: 0.92
+- master: 0.68
+- home: 0.66
+- verify: 0.63
+Skill: Data Modeling
+- Data: 0.94
+- DM: 0.89
+- Models: 0.85
+- datarel: 0.71
+- DDL: 0.65
+- Spec: 0.65
+- dax: 0.64
+Skill: Oracle
+- Database (Oracle): 0.99
+- executor: 0.97
+- OBR: 0.95
+- resource provider: 0.94
+- Exec: 0.93
+- docsteady: 0.92
+- master: 0.92
+- ctrl_orca: 0.91
+- appcd: 0.91
+- OODS: 0.87
+- verify: 0.87
+- afw: 0.86
+- Runtime platform: 0.80
+- ops: 0.79
+- xrootd: 0.79
+- platform: 0.70
+- Enterprise: 0.68
+- validator-info: 0.68
+- stout: 0.67
+- in Console Access Request: 0.66
+- Data Service: 0.65
+- test: 0.65
+- Centralized license visibility: 0.65
+- Navigation - View results: 0.65
+- Issue Details View: 0.64
+- Readonly: 0.64
+- Data Access: 0.63
+- Upgrading: 0.63
+- Migration - Server to Server: 0.62
+- Content - Trackback: 0.61
+- XO Family: 0.61
+- Core: Domains shared resources: 0.61
+Skill: Virtualization Hyper-V
+- next-gen: 0.99
+- platform: 0.91
+- Upgrading: 0.87
+- master: 0.78
+- verify: 0.67
+- Spec: 0.67
+- ci_hsc: 0.66
+- Exec: 0.66
+- Specification: 0.60
+Skill: Security Auditing
+- Security: 0.99
+- Audit: 0.95
+- Spec: 0.71
+- Exec: 0.70
+- ci_lsst: 0.67
+- obs_lsst: 0.67
+- stout: 0.65
+- ci_hsc: 0.63
+- lsst: 0.61
+- www_lsst_io: 0.60
+- lsst_obs: 0.60
+Skill: Adobe XD
+- appcd: 0.99
+- afw: 0.99
+- dax: 0.99
+- ap: 0.98
+- efd: 0.97
+- Groovy: 0.93
+- obs_auxtel: 0.88
+- obs_decam: 0.87
+- APIDoc: 0.86
+- eups: 0.85
+- agent: 0.85
+- Document viewer: 0.84
+- UI / UX: 0.84
+- Exec: 0.83
+- daf_ingest: 0.83
+- appcd-agent: 0.82
+- UX: 0.80
+- platform: 0.80
+- Third Party Software: 0.79
+- User interface: 0.79
+- client dependency framework: 0.78
+- home: 0.77
+- sample-avro-alert: 0.75
+- display_ds9: 0.74
+- Embedded: 0.73
+- next-gen: 0.73
+- Content - Page - Mobile: 0.73
+- workspace: 0.72
+- Design: 0.70
+- UI / Usability: 0.70
+- Dynamic Content Creator: 0.70
+- Dashboard & Reports - Reports: 0.69
+- Upgrading: 0.68
+- Auto Updates: 0.68
+- Content - Edit Files / Companion: 0.67
+- webserv_client: 0.66
+- Content - Sharing: 0.66
+- release: 0.66
+- app: 0.66
+- astro_metadata_translator: 0.65
+- flaky: 0.65
+- resource provider: 0.65
+- apk: 0.64
+- Header: 0.64
+- eigen: 0.63
+- Preferences: 0.63
+- Automated functional tests (behat): 0.62
+- project website: 0.62
+- Dashboards & Reports - Reports: 0.61
+- dax_data_generator: 0.61
+- display_ginga: 0.60
+- Demo Application: 0.60
+- Universal Plugin Manager / Manage apps: 0.60
+- Editor - Collaborative editing: 0.60
+Skill: Cross Browser Compatibility
+- Common: 0.92
+- CMA: 0.92
+- CI: 0.90
+- jointcal: 0.90
+- Connectivity: 0.90
+- verify: 0.89
+- Groovy: 0.86
+- Content - Page - Mobile: 0.85
+- Help: 0.85
+- Legal: 0.85
+- cbp: 0.85
+- client dependency framework: 0.82
+- CDF: 0.82
+- home: 0.81
+- Spec: 0.79
+- Compliance (ADA, WCAG, XHTML): 0.79
+- platform: 0.78
+- afw: 0.78
+- Accessibility - Mobile: 0.76
+- Connect: 0.76
+- Portability: 0.75
+- Support: 0.75
+- master: 0.73
+- Editor - Collaborative editing: 0.71
+- ctrl_platform: 0.71
+- Platform - Application Links: 0.69
+- display_ds9: 0.69
+- DVCS Connector: 0.69
+- User - Follow: 0.68
+- ci_hsc: 0.68
+- ci_lsst: 0.68
+- VCS task: 0.67
+- WRM: 0.67
+- Accessibility: 0.65
+- testdata_jointcal: 0.65
+- display_ginga: 0.64
+- coadd_chisquared: 0.64
+- webserv_client: 0.64
+- test: 0.63
+- Core: Non-Blocking: 0.61
+- meas_extensions_multiShapelet: 0.61
+- Client: 0.60
+- supertask: 0.60
+- Exec: 0.60
+- meas_extensions_ngmix: 0.60
+- fftw: 0.60
+- sample-avro-alert: 0.60
+- alert_stream: 0.60
+- wcslib: 0.60
+Skill: User Centric Design
+- UI / Usability: 0.99
+- UI / UX: 0.99
+- UX: 0.98
+- UI: 0.98
+- Usability: 0.98
+- UGC: 0.98
+- Design: 0.97
+- User interface: 0.95
+- AUM: 0.92
+- Groovy: 0.90
+- DM: 0.89
+- CI: 0.89
+- cni: 0.85
+- CDF: 0.85
+- CRUD: 0.84
+- verify: 0.83
+- Common: 0.82
+- next-gen: 0.81
+- User - Follow: 0.79
+- IM: 0.78
+- PersonaBar - Users: 0.76
+- display_ds9: 0.76
+- Core: Non-Blocking: 0.74
+- home: 0.74
+- eups: 0.74
+- DC Core: 0.71
+- Core features: 0.70
+- master: 0.70
+- AUI: 0.69
+- Documentation (User): 0.68
+- Accessibility: 0.66
+- DDL: 0.65
+- CKEditor: 0.64
+- ci_hsc: 0.64
+- Help: 0.64
+- IDL: 0.63
+- OBR: 0.63
+- Connect: 0.62
+- YAML: 0.61
+- Login: 0.60
+Skill: Scrum
+- SCORM: 0.96
+- Scalability: 0.90
+- Misc: 0.84
+- stout: 0.65
+- framework: 0.64
+Skill: IT Support
+- Support: 0.99
+- Infrastructure: 0.96
+- Service Infrastructure: 0.93
+- Help: 0.93
+- Infrastructure & Services: 0.87
+- Instrumentation: 0.86
+- technote: 0.84
+- SUIT: 0.82
+- Services: 0.80
+- Spec: 0.77
+- ts_ait: 0.76
+- resource provider: 0.76
+- Common: 0.75
+- boost: 0.70
+- stout: 0.70
+- Internal: 0.69
+- display_ds9: 0.69
+- obs_lsstSim: 0.67
+- ci_lsst: 0.66
+- pipe_supertask: 0.66
+- display_matplotlib: 0.65
+- Console: 0.64
+- Issue - View Issue: 0.64
+- eigen: 0.63
+- ts_facilities: 0.62
+- obs_lsst: 0.62
+- ci_hsc: 0.62
+- ip_isr: 0.61
+- master: 0.61
+- replicated log: 0.61
+Skill: Cryptocurrency development
+- next-gen: 0.84
+- CI: 0.81
+- technote: 0.80
+- cni: 0.79
+- CKEditor: 0.72
+- Client: 0.69
+- Exec: 0.67
+- eigen: 0.62
+- P2: 0.60
+Skill: Active Directory
+- APIDoc: 0.93
+- Provider - Active Directory: 0.90
+- HA: 0.90
+- OBR: 0.89
+- appcd: 0.88
+- Directories: 0.87
+- dax: 0.82
+- docsteady: 0.80
+- appcd-agent: 0.79
+- OODS: 0.76
+- obs_cfht: 0.75
+- Issue - ADF: 0.73
+- obs_auxtel: 0.72
+- ts_ait: 0.69
+- master: 0.69
+- TWP - Activity: 0.68
+- afw: 0.68
+- stout: 0.65
+- display_ds9: 0.64
+- DM: 0.64
+- Directory - Azure Active Directory: 0.64
+- APT: 0.62
+- IRSA: 0.60
+Skill: Web Accessibility
+- Accessibility: 0.98
+- UI / Usability: 0.96
+- Core: Non-Blocking: 0.94
+- afw: 0.94
+- Help: 0.93
+- Portability: 0.93
+- Connectivity: 0.92
+- Spec: 0.86
+- fftw: 0.85
+- platform: 0.83
+- Connect: 0.82
+- UI: 0.82
+- CI: 0.81
+- Common: 0.80
+- Documentation / Website: 0.80
+- Platform - Application Links: 0.80
+- UI / UX: 0.79
+- User interface: 0.79
+- internet-explorer: 0.79
+- verify: 0.79
+- webui: 0.78
+- UX: 0.77
+- Friendly / Standard URLs: 0.77
+- Portal: 0.75
+- display_ds9: 0.75
+- Usability: 0.75
+- AUI: 0.74
+- UGC: 0.72
+- Content - Linking: 0.71
+- REST: 0.71
+- User - Follow: 0.71
+- Capabilities: 0.71
+- ap: 0.71
+- Geo: 0.71
+- HTML View: 0.70
+- WRM: 0.69
+- Forum: 0.69
+- webserv: 0.68
+- Navigation - View results: 0.68
+- Preview: 0.68
+- QA: 0.68
+- APT: 0.67
+- Settings Family: 0.66
+- dataweave: 0.66
+- Exec: 0.66
+- sample-avro-alert: 0.66
+- boost: 0.65
+- REST API: 0.64
+- OBR: 0.64
+- Content - Edit Files / Companion: 0.64
+- ts_ait: 0.63
+- Client: 0.63
+- display_ginga: 0.63
+- technote: 0.63
+- master: 0.63
+- HTTP API: 0.62
+- framework: 0.62
+- ci_lsst: 0.61
+- OpenID Connect: 0.60
+- ci_hsc: 0.60
+- display_matplotlib: 0.60
+- HA: 0.60
+- Groovy: 0.60
+Skill: System Administration
+- Admin: 0.88
+- Administration: 0.84
+- SPA: 0.83
+- Service: SOAP: 0.75
+- Exec: 0.73
+- System Administration - Others: 0.70
+- Common: 0.67
+- SSO: 0.65
+- obs_lsstSim: 0.65
+- Management: 0.63
+- Spec: 0.63
+- replicated log: 0.63
+- SOAP: 0.62
+- AUI: 0.60
+Skill: JUnit
+- test: 0.98
+- jointcal: 0.97
+- test-automation: 0.96
+- Unit tests: 0.96
+- Runtime platform: 0.94
+- Utility: 0.94
+- docsteady: 0.93
+- Instrumentation: 0.93
+- Mobile: 0.90
+- Testing: 0.89
+- verify: 0.89
+- next-gen: 0.89
+- Test: Testing Framework: 0.88
+- stout: 0.88
+- Tests: 0.86
+- Spec: 0.85
+- Testsuite: 0.84
+- Prompt: 0.84
+- Journal: 0.82
+- Transport: (new transport): 0.79
+- SUIT: 0.79
+- home: 0.78
+- master: 0.75
+- Automated functional tests (behat): 0.75
+- provisioner: 0.73
+- Exec: 0.73
+- Quiet Period: 0.72
+- System Integration and Test: 0.71
+- Delegated group administration: 0.71
+- Modules: Jersey: 0.70
+- eigen: 0.69
+- Transport: 0.69
+- fetcher: 0.68
+- executor: 0.68
+- utils: 0.67
+- defense-squad: 0.66
+- Groovy: 0.63
+- Resource: 0.62
+- query-index: 0.62
+- Issue Details View: 0.62
+- Accessibility - Mobile: 0.61
+- Test Data: 0.61
+- testing_endtoend: 0.61
+- Jobs: 0.61
+- Implementation: 0.60
+Skill: Budgeting
+- Common: 0.70
+- Exec: 0.66
+- display_ds9: 0.61
+Skill: Disaster Recovery Planning
+- Planning: 0.94
+- appcd: 0.92
+- DM: 0.85
+- framework: 0.85
+- dbserv: 0.85
+- Spec: 0.81
+- Exec: 0.79
+- ci_hsc: 0.78
+- WRM: 0.78
+- Misc: 0.76
+- Project: 0.76
+- obs_sdss: 0.73
+- IRSA: 0.72
+- RSS: 0.71
+- HA: 0.71
+- Backup and Restore: 0.71
+- DDL: 0.68
+- validate_drp: 0.66
+- db: 0.65
+- obs_decam: 0.65
+- SCORM: 0.65
+- Plan configuration: 0.61
+- dax: 0.61
+- Issue - ADF: 0.61
+- SPA: 0.61
+- obs_cfht: 0.60
+- replicated log: 0.60
+Skill: Manual Testing
+- Testing: 0.97
+- test: 0.97
+- Tests: 0.95
+- DM: 0.93
+- Spec: 0.71
+- Client: 0.65
+Skill: RESTful Architecture
+- Quiet Period: 0.99
+- docsteady: 0.99
+- REST: 0.97
+- Stability: 0.96
+- REST Archetype: 0.94
+- master: 0.93
+- base: 0.92
+- stout: 0.87
+- Core: Non-Blocking: 0.86
+- R: 0.76
+- Spec: 0.76
+- ap: 0.67
+- Core: Domains shared resources: 0.64
+- Legal: 0.63
+- Backup / Restore: 0.62
+- Backup and Restore: 0.62
+Skill: Troubleshooting
+- Help: 0.95
+- Error Handling: 0.92
+- flaky: 0.89
+- Issue - View Issue: 0.79
+- Exec: 0.77
+- Client: 0.74
+- Spec: 0.74
+- Console: 0.71
+- TTL: 0.71
+- display_ds9: 0.68
+- TCT: 0.68
+- Issue - Others: 0.67
+- ci_hsc: 0.65
+- Core: Transactions: 0.64
+- display_matplotlib: 0.62
+- app: 0.62
+- System Administration - Troubleshooting and Support Tools (ATST): 0.61
+- Mac: 0.61
+- appcd: 0.60
+Skill: React
+- React: 0.99
+- Refactoring: 0.98
+- R: 0.97
+- RSS: 0.96
+- Replication: 0.93
+- REST API: 0.93
+- Issue - Actions: 0.93
+- appcd-response: 0.89
+- Common: 0.84
+- TWP - Activity: 0.84
+- IM: 0.82
+- Mobile: 0.82
+- Dynamic Content Creator: 0.82
+- REST Archetype: 0.81
+- client dependency framework: 0.80
+- Reactive Streams: 0.79
+- REST Tooling: 0.79
+- Mac: 0.79
+- Client: 0.79
+- REST Module: 0.78
+- Runtime platform: 0.78
+- Change Streams: 0.77
+- eigen: 0.77
+- afw: 0.75
+- reviewbot: 0.75
+- platform: 0.75
+- Groovy: 0.74
+- Media: 0.73
+- Exec: 0.73
+- jointcal: 0.73
+- home: 0.72
+- stout: 0.72
+- REST: 0.71
+- Runtime: 0.71
+- ap: 0.69
+- Messaging: 0.69
+- ctrl_mpexec: 0.69
+- Content - Page - Mobile: 0.68
+- ts_ait: 0.67
+- Issue - Others: 0.67
+- Crowd: 0.67
+- next-gen: 0.67
+- display_ds9: 0.66
+- Spec: 0.65
+- Help: 0.65
+- Active Objects: 0.65
+- cni: 0.65
+- Publishing / RSS: 0.65
+- supertask: 0.65
+- CLI: 0.64
+- ADGS Design changes: 0.64
+- User - Follow: 0.63
+- cbp: 0.62
+- Project - Actions: 0.62
+- WRM: 0.62
+- Feedback: 0.62
+- Macros - Mobile: 0.61
+- ci_hsc_gen3: 0.61
+- I18N: 0.61
+- wg-supertask: 0.61
+- flash: 0.61
+- P2: 0.60
+- Upgrading: 0.60
+- General: 0.60
+- meas_extensions_convolved: 0.60
+Skill: Server Administration
+- Server - Administration: 1.00
+- Server administration: 1.00
+- Servers: 0.99
+- Administration: 0.98
+- Admin: 0.96
+- Service Infrastructure: 0.96
+- VCS task: 0.94
+- webserv: 0.90
+- SSO: 0.89
+- SPA: 0.87
+- Exec: 0.86
+- SUIT: 0.85
+- Enterprise: 0.83
+- Services: 0.83
+- provisioner: 0.81
+- TWP - Activity: 0.80
+- Spec: 0.79
+- ap: 0.78
+- Web Services: 0.78
+- afw: 0.78
+- Common: 0.78
+- eups: 0.77
+- cni: 0.77
+- gsl: 0.77
+- System Administration - Statuses: 0.77
+- System Administration - Others: 0.75
+- CI: 0.74
+- REST: 0.72
+- dax: 0.71
+- technote: 0.71
+- obs_lsstSim: 0.69
+- ts_management: 0.69
+- master: 0.69
+- obs_lsst: 0.68
+- ip_isr: 0.67
+- ci_hsc: 0.67
+- obs_sdss: 0.67
+- AUI: 0.67
+- System Administration - Priorities: 0.67
+- ci_lsst: 0.67
+- OODS: 0.67
+- sdk: 0.67
+- lsst: 0.66
+- schema.rs: 0.66
+- Geo: 0.66
+- network: 0.65
+- APIDoc: 0.65
+- System Administration - Secure Administrator Sessions: 0.65
+- display_ds9: 0.65
+- cbp: 0.65
+- eigen: 0.64
+- ts_ait: 0.64
+- efd: 0.63
+- SAT: 0.63
+- wg-supertask: 0.62
+- IRSA: 0.62
+- pex_config: 0.62
+- obs_base: 0.62
+- P2: 0.61
+- ci_hsc_gen3: 0.61
+- verify: 0.61
+- APT: 0.61
+- R: 0.60
+- ts_environment: 0.60
+- OBR: 0.60
+- helm: 0.60
+- replicated log: 0.60
+- Core: Domains shared resources: 0.60
+Skill: Network Security
+- network: 0.99
+- Security: 0.99
+- Networking: 0.93
+- Authentication / Security: 0.81
+- Exec: 0.76
+- ci_hsc: 0.75
+- ci_lsst: 0.74
+- Spec: 0.73
+- alert_packet: 0.72
+- gsl: 0.70
+- obs_lsst: 0.69
+- P2: 0.68
+- verify: 0.67
+- ci_hsc_gen3: 0.66
+- cni: 0.66
+- lsst: 0.65
+- eigen: 0.65
+- alert_stream: 0.64
+- replicated log: 0.64
+- display_ds9: 0.64
+- master: 0.64
+- validate_drp: 0.64
+- jms-module: 0.64
+- ap_verify: 0.64
+- cbp: 0.63
+- appcd-config-service: 0.63
+- appcd-plugin-system-info: 0.63
+- Connect: 0.62
+- stout: 0.62
+- obs_sdss: 0.62
+- pex_config: 0.62
+- ip_isr: 0.61
+- SSL: 0.61
+- obs_lsstSim: 0.60
+- Issue - View Issue: 0.60
+- lsst_ci: 0.60
+- I18N: 0.60
+Skill: Malware Analysis
+- Misc: 0.88
+Skill: Django
+- jQuery: 0.99
+- DM: 0.95
+- db: 0.94
+- client dependency framework: 0.86
+- DDR Menu: 0.83
+- Environment - Java: 0.82
+- DDL: 0.81
+- jointcal: 0.80
+- Groovy: 0.78
+- Export to Language: 0.78
+- Third Party Software: 0.77
+- Document viewer: 0.72
+- next-gen: 0.72
+- verify: 0.72
+- Runtime platform: 0.72
+- appcd-plugin-jdk: 0.68
+- in Console Access Request: 0.66
+- dax: 0.64
+- resource provider: 0.61
+Skill: Natural Language Processing
+- Language: 0.89
+- NPM: 0.87
+- WRM: 0.78
+- CLI: 0.77
+- gsl: 0.75
+- cni: 0.73
+- JQL: 0.71
+- Spec: 0.67
+- Client: 0.67
+- ci_lsst: 0.67
+- Exec: 0.65
+- fftw: 0.63
+- LDF: 0.63
+- ci_hsc: 0.62
+- docsteady: 0.61
+- Localization / ML: 0.60
+Skill: Continuous Integration/Continuous Deployment
+- Deployments: 0.95
+- Integrations: 0.95
+- Continuous Integration: 0.93
+- Common: 0.93
+- Deployment: 0.93
+- CI: 0.89
+- next-gen: 0.88
+- framework: 0.87
+- Spec: 0.86
+- IM: 0.84
+- Settings Family: 0.82
+- cni: 0.79
+- Capabilities: 0.74
+- Help: 0.72
+- Client: 0.71
+- display_ds9: 0.70
+- ctrl_iip: 0.70
+- DM: 0.70
+- supertask: 0.69
+- platform: 0.69
+- Core features: 0.68
+- Forum: 0.68
+- ci_lsst: 0.68
+- Exec: 0.68
+- master: 0.67
+- Groovy: 0.67
+- webserv_client: 0.66
+- LTI provider: 0.65
+- ci_hsc: 0.64
+- mariadbclient: 0.63
+- app: 0.63
+- SUIT: 0.62
+- ip_isr: 0.62
+- Data Center - Deployments: 0.62
+- APIDoc: 0.62
+- ts_environment: 0.61
+- Course: 0.61
+- replicated log: 0.61
+- User - Follow: 0.61
+- appcd-config-service: 0.60
+- Realm: 0.60
+- Windows Hybrid: 0.60
+Skill: Test-Driven Development (TDD)
+- Testing: 0.97
+- test: 0.97
+- Tests: 0.93
+- framework: 0.62
+Skill: GraphQL
+- client dependency framework: 0.86
+- next-gen: 0.78
+- home: 0.77
+- master: 0.65
+- verify: 0.61
+Skill: Web Development
+- webserv: 0.91
+- Spec: 0.86
+- fftw: 0.82
+- afw: 0.76
+- internet-explorer: 0.75
+- project website: 0.75
+- display_ds9: 0.73
+- Front-end API: 0.69
+- Project: 0.68
+- workspace: 0.67
+- webui: 0.66
+- Exec: 0.66
+- master: 0.64
+- Preferences: 0.64
+- validate_drp: 0.64
+- verify: 0.63
+- dbserv: 0.63
+- Connect: 0.62
+- HeaderService: 0.61
+- technote: 0.60
+- protobuf: 0.60
+Skill: Wireless Networking
+- Networking: 0.99
+- Connectivity: 0.99
+- network: 0.99
+- Mobile: 0.97
+- Wire Protocol: 0.93
+- next-gen: 0.89
+- Accessibility - Mobile: 0.88
+- Spec: 0.88
+- WRM: 0.83
+- TWP - Mobile: 0.82
+- Common: 0.81
+- Connect: 0.80
+- Exec: 0.78
+- fftw: 0.77
+- verify: 0.77
+- Groovy: 0.72
+- alert_packet: 0.71
+- P2: 0.71
+- Upgrading: 0.70
+- Content - Page - Mobile: 0.70
+- afw: 0.70
+- ip_isr: 0.66
+- DVCS Connector: 0.66
+- gsl: 0.65
+- Macros - Mobile: 0.65
+- mariadbclient: 0.65
+- jms-module: 0.65
+- ci_hsc: 0.64
+- master: 0.63
+- WSS Module: 0.63
+- ci_lsst: 0.63
+- LTI provider: 0.63
+- APT: 0.62
+- Geo: 0.62
+- webui: 0.61
+- fabric-sdk-go: 0.61
+- fabric-cli: 0.61
+- Legal: 0.61
+- LDF: 0.61
+- lsst_thirdparty: 0.60
+- I18N: 0.60
+- ci_hsc_gen3: 0.60
+- node-ios-device: 0.60
+Skill: PostgreSQL
+- Database: 1.00
+- Database (Postgresql): 0.99
+- Third Party Software: 0.94
+- storage: 0.90
+- home: 0.89
+- Geo: 0.89
+- Environment - Database: 0.88
+- Project: 0.86
+- Data Center - Database: 0.84
+- master: 0.82
+- geom: 0.78
+- docsteady: 0.76
+- stout: 0.75
+- resource provider: 0.71
+- Board configuration: 0.69
+- query-index: 0.69
+- Upgrading: 0.68
+- validate_drp: 0.67
+- verify: 0.66
+- dax_ppdb: 0.61
+- base: 0.61
+- Dependencies: 0.61
+Skill: Big Data Technologies
+- Data: 0.96
+- next-gen: 0.93
+- technote: 0.84
+- Exec: 0.80
+- Data Access: 0.79
+- Spec: 0.75
+- fftw: 0.71
+- dataweave: 0.70
+- display_ds9: 0.68
+- DDL: 0.68
+- dbserv: 0.68
+- db: 0.66
+- ci_hsc: 0.65
+- query-index: 0.63
+- Data Service: 0.63
+- Upgrading: 0.63
+- verify: 0.62
+- gsl: 0.60
+Skill: Android Mobile App Development
+- Mobile: 0.99
+- platform: 0.99
+- Android: 0.99
+- app: 0.98
+- appcd: 0.96
+- Applications: 0.96
+- OODS: 0.87
+- apk: 0.86
+- home: 0.84
+- APIDoc: 0.84
+- obs_monocam: 0.84
+- ap: 0.83
+- SDK-Android: 0.82
+- Common: 0.79
+- afw: 0.78
+- OBR: 0.78
+- dax: 0.76
+- Accessibility - Mobile: 0.75
+- Spec: 0.75
+- ctrl_platform: 0.74
+- eigen: 0.74
+- Runtime platform: 0.74
+- Exec: 0.73
+- obs_decam: 0.73
+- mariadbclient: 0.71
+- docsteady: 0.71
+- display_ds9: 0.70
+- Spaces - Mobile: 0.69
+- astro_metadata_translator: 0.68
+- Client: 0.67
+- sample-avro-alert: 0.67
+- Project: 0.67
+- mariadb: 0.67
+- appcd-util: 0.67
+- helm: 0.67
+- Choice: 0.66
+- verify: 0.65
+- efd: 0.65
+- dm_dev_guide: 0.64
+- IDL: 0.63
+- CMA: 0.63
+- ADG3: 0.63
+- dax_ppdb: 0.63
+- APT: 0.63
+- CKEditor: 0.63
+- luasocket: 0.62
+- SUIT: 0.62
+- gsl: 0.62
+- mule4: 0.62
+- master: 0.62
+- ts_environment: 0.62
+- LDF: 0.62
+- obs_sdss: 0.62
+- User - Follow: 0.61
+- P2: 0.61
+- display_ginga: 0.61
+- eups: 0.61
+- obs_auxtel: 0.61
+- validate_drp: 0.61
+- Stride: 0.60
+- replicated log: 0.60
+- Conda: 0.60
+- alert_stream: 0.60
+- shapelet: 0.60
+- display_firefly: 0.60
+- appcd-client: 0.60
+Skill: Flask
+- storage: 0.98
+- webserv: 0.97
+- client dependency framework: 0.97
+- REST API: 0.96
+- resource provider: 0.96
+- workspace: 0.93
+- helm: 0.92
+- test: 0.89
+- Exec: 0.88
+- Third Party Software: 0.87
+- Front-end API: 0.86
+- Content - Sharing: 0.84
+- verify: 0.83
+- Service Infrastructure: 0.83
+- containerization: 0.83
+- Testing Infrastructure: 0.83
+- framework: 0.82
+- Spec: 0.81
+- java api: 0.81
+- stout: 0.81
+- docsteady: 0.80
+- Service: HTTP: 0.78
+- project website: 0.78
+- Sample Data: 0.75
+- fftw: 0.74
+- Server administration: 0.74
+- Bulk Operations: 0.74
+- afw: 0.73
+- flash: 0.72
+- Client Side Encryption: 0.72
+- master: 0.70
+- HTTP API: 0.69
+- in Console Access Request: 0.69
+- lsst: 0.68
+- Developer Infrastructure: 0.68
+- Content - Page - Mobile: 0.68
+- VCS task: 0.68
+- Universal Plugin Manager / Manage apps: 0.67
+- next-gen: 0.67
+- LTI provider: 0.67
+- Node.js plugin: 0.67
+- Performance Testing: 0.67
+- Misc: 0.66
+- Test Data: 0.65
+- validator-info: 0.65
+- UI / UX: 0.65
+- Data Access: 0.65
+- defense-squad: 0.65
+- www_lsst_io: 0.63
+- supertask: 0.63
+- Geo: 0.62
+- appcd: 0.61
+- validate_drp: 0.61
+- ts_environment: 0.61
+- Editor - Collaborative editing: 0.61
+- scheduler api: 0.60
+- Navigation - View results: 0.60
+- REST Tooling: 0.60
+- qserv_testdata: 0.60
+Skill: REST
+- Quiet Period: 0.99
+- REST: 0.99
+- Stability: 0.98
+- base: 0.98
+- REST Archetype: 0.98
+- REST API: 0.94
+- Background Operations: 0.91
+- docsteady: 0.91
+- REST Module: 0.90
+- R: 0.90
+- Backup / Restore: 0.89
+- Backup and Restore: 0.87
+- Document viewer: 0.87
+- home: 0.87
+- Resource: 0.86
+- Core: Non-Blocking: 0.84
+- Modules: Spring: 0.81
+- REST Metadata: 0.80
+- REST Tooling: 0.80
+- Conditional activities: 0.80
+- Real Time Server Stats: 0.79
+- Core: Domains shared resources: 0.79
+- resource provider: 0.77
+- client dependency framework: 0.76
+- Legal: 0.76
+- Active Objects: 0.75
+- Login/Registration - Password Reset: 0.72
+- End User Functions: 0.72
+- Backend / Domain Model : 0.70
+- Timezone: 0.69
+- Service Infrastructure: 0.68
+- REST Scaffolder: 0.66
+- RSS: 0.63
+- replicated log: 0.60
+- Modules: Security (Spring Security, Acegi, PGP, WS-Security): 0.60
+Skill: Smart contracts
+- next-gen: 0.94
+- Smart Commits: 0.93
+- Groovy: 0.91
+- Client: 0.80
+- Spec: 0.80
+- TCT: 0.80
+- Exec: 0.76
+- CI: 0.73
+- P2: 0.71
+- SAML: 0.71
+- stout: 0.71
+- CKEditor: 0.69
+- SCORM: 0.69
+- cbp: 0.68
+- ci_lsst: 0.68
+- master: 0.68
+- S3: 0.68
+- Core: (other): 0.67
+- User - Follow: 0.67
+- Build: (other): 0.67
+- SUIT: 0.66
+- HeaderService: 0.66
+- ADG3: 0.65
+- Issue - View Issue: 0.65
+- validate_drp: 0.65
+- framework: 0.65
+- mariadbclient: 0.65
+- APIDoc: 0.64
+- client dependency framework: 0.64
+- ci_hsc: 0.64
+- verify: 0.64
+- I18N: 0.64
+- LDF: 0.64
+- gsl: 0.63
+- SessionFactory: 0.63
+- CMA: 0.63
+- ts_ait: 0.63
+- Multi-Select: 0.62
+- display_ds9: 0.62
+- technote: 0.62
+- Ingest: 0.62
+- LTI provider: 0.62
+- Course: 0.62
+- daf_persistence: 0.61
+- Qserv: 0.61
+- obs_ts3: 0.61
+- H5P: 0.61
+- Portfolio: 0.61
+- SPA: 0.61
+- wg-supertask: 0.61
+- SSO: 0.60
+- Issue - Actions: 0.60
+- Connect: 0.60
+- cni: 0.60
+- MVC: 0.60
+- Hub: 0.60
+- Private Transaction: 0.60
+- ImgServ: 0.60
+Skill: Integration Testing and System Testing
+- System Integration and Test: 0.99
+- Integration Tests: 0.94
+- Testing: 0.94
+- test: 0.91
+- Integrations: 0.91
+- Tests: 0.90
+- IM: 0.72
+- CI: 0.71
+- supertask: 0.68
+- display_ds9: 0.65
+- obs_lsstSim: 0.64
+- Spec: 0.61
+- jointcal: 0.60
+- obs_test: 0.60
+- ci_lsst: 0.60
+Skill: iOS Mobile App Development
+- Mobile: 0.99
+- platform: 0.99
+- iOS: 0.99
+- app: 0.98
+- appcd: 0.96
+- Applications: 0.92
+- ap: 0.86
+- home: 0.85
+- Native - iOS: 0.84
+- apk: 0.83
+- Spec: 0.79
+- SDK-iOS: 0.77
+- Common: 0.77
+- Spaces - Mobile: 0.75
+- Exec: 0.73
+- display_ds9: 0.72
+- obs_monocam: 0.71
+- mariadbclient: 0.71
+- Client: 0.70
+- Accessibility - Mobile: 0.69
+- eigen: 0.69
+- ctrl_platform: 0.69
+- Runtime platform: 0.68
+- astro_metadata_translator: 0.68
+- sample-avro-alert: 0.68
+- helm: 0.67
+- Choice: 0.67
+- dm_dev_guide: 0.66
+- verify: 0.65
+- dax: 0.65
+- appcd-client: 0.64
+- Views: 0.63
+- ADG3: 0.63
+- mariadb: 0.62
+- docsteady: 0.62
+- Stride: 0.62
+- APIDoc: 0.61
+- Connect: 0.61
+- verify_metrics: 0.61
+- alert_stream: 0.61
+- Moniker: 0.60
+- ip_isr: 0.60
+- afw: 0.60
+- I18N: 0.60
+- obs_decam: 0.60
+- display_ginga: 0.60
+- validate_drp: 0.60
+- master: 0.60
+- TWP - Mobile: 0.60
+Skill: JavaScript
+- JavaScript: 1.00
+- JS: 0.99
+- Language: 0.99
+- Scripting: 0.97
+- platform: 0.96
+- Export to Language: 0.94
+- Client: 0.92
+- Module: Scripting: 0.87
+- Language Modes: 0.85
+- User - Follow: 0.85
+- Spec: 0.84
+- Runtime platform: 0.83
+- app: 0.83
+- webserv_client: 0.82
+- Server - Platform: 0.82
+- verify: 0.81
+- Login: 0.80
+- Help: 0.80
+- Issue - View Issue: 0.79
+- Content - Edit Files / Companion: 0.79
+- Exec: 0.78
+- framework: 0.77
+- client dependency framework: 0.76
+- Accessibility - Mobile: 0.76
+- query-index: 0.76
+- Media: 0.75
+- Host - Host Settings: 0.75
+- master: 0.75
+- CoffeeScript: 0.75
+- Content - Trackback: 0.75
+- Preferences: 0.75
+- home: 0.75
+- Connect: 0.75
+- Node: 0.75
+- Code Processor: 0.75
+- Content - Restrictions - Mobile: 0.74
+- HeaderService: 0.74
+- test: 0.73
+- display_ds9: 0.73
+- alert_stream: 0.72
+- Issue - View: 0.72
+- Configuration: 0.71
+- Journal: 0.70
+- Developer Infrastructure: 0.70
+- Content - Restrictions: 0.70
+- Sample Data: 0.70
+- Settings Family: 0.69
+- webserv: 0.69
+- verify_metrics: 0.68
+- alert_packet: 0.68
+- User - Profile: 0.68
+- provisioner: 0.67
+- Content - Page - Mobile: 0.67
+- Test: Testing Framework: 0.67
+- validate_drp: 0.67
+- Backup and Restore: 0.66
+- Editor - Collaborative editing: 0.66
+- Platform - Application Links: 0.66
+- Preview: 0.66
+- Query: 0.66
+- appcd-plugin-system-info: 0.66
+- internet-explorer: 0.66
+- JS Libraries: 0.65
+- Installation / Upgrade: 0.65
+- System Integration and Test: 0.65
+- release: 0.65
+- Setup: 0.65
+- Update: 0.65
+- Issue Search - Backend: 0.65
+- jms-module: 0.65
+- Connection Management: 0.64
+- pex_config: 0.64
+- Choice: 0.64
+- Issue - Create: 0.64
+- testing_endtoend: 0.64
+- SDK-JavaScript: 0.64
+- Internal Client: 0.64
+- pipe_base: 0.63
+- Editor: 0.63
+- resource provider: 0.63
+- Issue Details View: 0.63
+- Change Streams: 0.63
+- Events & Notifications: 0.63
+- firefly_client: 0.63
+- ctrl_platform: 0.63
+- daf_persistence: 0.63
+- appcd-client: 0.62
+- Server - Source Distribution: 0.62
+- appcd-config-service: 0.62
+- Specification: 0.62
+- Usability: 0.62
+- Dynamic Content Creator: 0.62
+- ci_hsc: 0.62
+- Backup / Restore: 0.62
+- Debugger: 0.62
+- node-appc: 0.62
+- eigen: 0.62
+- boost: 0.61
+- Core: Configuration: 0.61
+- Upgrading: 0.61
+- Project: 0.61
+- Server - Upgrade Manager: 0.61
+- User - Authentication: 0.61
+- Login/Registration: 0.61
+- Search - Quick Search: 0.61
+- Editor - Page / Comment Editor: 0.61
+- Content - Sharing: 0.61
+- replicated log: 0.61
+- Backup: 0.60
+- User - Management: 0.60
+- Issue - Actions: 0.60
+- qserv_testdata: 0.60
+- Batch: 0.60
+- ap_verify: 0.60
+- Web Resources Manager: 0.60
+- obs_test: 0.60
+- Header: 0.60
+- Test Coverage: 0.60
+- display_ginga: 0.60
+- Feedback: 0.60
+- Debugging: 0.60
+Skill: AI
+- Internationalisation: 0.94
+- Automation: 0.92
+- Exec: 0.80
+- next-gen: 0.80
+- network: 0.79
+- Connect: 0.77
+- Data: 0.76
+- AUI: 0.75
+- agent: 0.74
+- Audit: 0.72
+- Active Objects: 0.72
+- Directory - Azure Active Directory: 0.72
+- master: 0.71
+- Provider - Active Directory: 0.70
+- Client: 0.70
+- platform: 0.70
+- Feedback: 0.69
+- Instrumentation: 0.68
+- display_ginga: 0.67
+- verify: 0.67
+- sample-avro-alert: 0.67
+- Issue - View Issue: 0.65
+- Help: 0.65
+- scikit_learn: 0.65
+- afw: 0.64
+- Update: 0.64
+- Auto Updates: 0.63
+- app: 0.63
+- rapid_analysis: 0.62
+- Cloud: 0.62
+- display_ds9: 0.62
+- Forum: 0.61
+- alert_stream: 0.60
+- alert_packet: 0.60
+- astro_metadata_translator: 0.60
+- Project: 0.60
+- Dynamic Content Creator: 0.60
+- boost: 0.60
+Skill: Machine Learning
+- Models: 0.93
+- IM: 0.92
+- Automation: 0.86
+- HAML: 0.85
+- CI: 0.84
+- gsl: 0.81
+- Meta: 0.81
+- next-gen: 0.80
+- cmake: 0.80
+- DM: 0.79
+- Connect: 0.78
+- Exec: 0.78
+- Client: 0.76
+- YAML: 0.75
+- ci_lsst: 0.74
+- Moniker: 0.72
+- verify: 0.72
+- Views: 0.72
+- Multi-Select: 0.72
+- Change Streams: 0.71
+- ts_environment: 0.71
+- ci_hsc: 0.70
+- Localization / ML: 0.70
+- shapelet: 0.70
+- ap_verify: 0.70
+- Issue - View Issue: 0.70
+- technote: 0.69
+- eigen: 0.69
+- Help: 0.69
+- geom: 0.69
+- Forum: 0.68
+- Feedback: 0.68
+- SAML: 0.68
+- rapid_analysis: 0.68
+- ap_association: 0.68
+- Favourites: 0.68
+- Connector: VM: 0.68
+- alert_packet: 0.68
+- Connectivity: 0.67
+- display_ds9: 0.67
+- network: 0.67
+- Spec: 0.67
+- Kanplan: 0.67
+- ts_ait: 0.67
+- astro_metadata_translator: 0.67
+- SCORM: 0.67
+- sample-avro-alert: 0.67
+- query-index: 0.66
+- Validator Global State: 0.66
+- SUIT: 0.66
+- Favorites: 0.66
+- lsst: 0.66
+- verify_metrics: 0.66
+- Explain: 0.65
+- scikit_learn: 0.65
+- SessionFactory: 0.65
+- CKEditor: 0.65
+- ci_hsc_gen3: 0.65
+- alert_stream: 0.65
+- Smart Commits: 0.65
+- AUM: 0.65
+- Settings Family: 0.65
+- H5P: 0.65
+- ImageHandler: 0.64
+- P2: 0.64
+- Realm: 0.64
+- S3: 0.64
+- daf_persistence: 0.64
+- Reactive Streams: 0.64
+- fabric-peer: 0.64
+- wg-supertask: 0.64
+- MoodleNet: 0.63
+- LTI provider: 0.63
+- Connectors: 0.63
+- Versions: 0.63
+- Horovod: 0.63
+- Conda: 0.63
+- Choice: 0.63
+- Portfolio: 0.63
+- Gluon: 0.63
+- Async: 0.63
+- I18N: 0.63
+- Qserv: 0.62
+- Crowd: 0.62
+- Upgrade : 0.62
+- amplify-sdk: 0.62
+- fabric-cli: 0.62
+- Preferences: 0.62
+- meas_extensions_simpleShape: 0.61
+- validate_drp: 0.61
+- Plan Branches: 0.61
+- ADG3: 0.61
+- Host - Host Settings: 0.61
+- obs_lsst: 0.61
+- qserv_testdata: 0.60
+- Maven Archetype Catalog: 0.60
+- meas_modelfit: 0.60
+- File: 0.60
+- bower-nexus3-resolver: 0.60
+- image-gc: 0.60
+- ts_dome: 0.60
+- log4cxx: 0.60
+- APIDoc: 0.60
+- Telerik: 0.60
+- Dependencies: 0.60
+- Test Coverage: 0.60
+Skill: Network Monitoring
+- network: 0.99
+- Monitoring: 0.96
+- Networking: 0.94
+- TWP - Activity: 0.81
+- NPM: 0.75
+- Spec: 0.75
+- alert_packet: 0.73
+- Exec: 0.73
+- ci_lsst: 0.72
+- CI: 0.71
+- ci_hsc: 0.69
+- Common: 0.68
+- obs_lsst: 0.67
+- jms-module: 0.67
+- ap_verify: 0.67
+- Connectivity: 0.67
+- display_ds9: 0.66
+- WRM: 0.65
+- obs_monocam: 0.65
+- verify: 0.65
+- appcd-plugin-system-info: 0.65
+- alert_stream: 0.64
+- appcd-config-service: 0.64
+- Connect: 0.64
+- P2: 0.64
+- master: 0.63
+- ci_hsc_gen3: 0.63
+- verify_metrics: 0.62
+- obs_lsstSim: 0.61
+- cni: 0.61
+- ip_isr: 0.61
+- stout: 0.61
+- pex_config: 0.61
+- ctrl_mpexec: 0.61
+- ts_ait: 0.61
+- DM: 0.60
+- sample-avro-alert: 0.60
+Skill: Matplotlib
+- matplotlib: 1.00
+- display_matplotlib: 0.90
+- master: 0.75
+- stout: 0.70
+- home: 0.63
+Skill: Embedded Systems
+- Embedded: 0.99
+- next-gen: 0.83
+- eups: 0.82
+- Common: 0.79
+- Connectivity: 0.78
+- platform: 0.75
+- Spec: 0.74
+- Integration/Connectors: 0.74
+- eigen: 0.72
+- display_ds9: 0.70
+- Integrations: 0.69
+- verify: 0.66
+- obs_sdss: 0.63
+- Exec: 0.63
+- ap: 0.62
+- obs_lsst: 0.61
+- obs_lsstSim: 0.61
+- alert_packet: 0.60
+- ip_isr: 0.60
+- ci_hsc: 0.60
+Skill: Spark
+- Startup: 1.00
+- flash: 0.99
+- Prompt: 0.96
+- boost: 0.96
+- test: 0.93
+- client dependency framework: 0.92
+- resource provider: 0.92
+- Spec: 0.89
+- next-gen: 0.89
+- User - Follow: 0.85
+- project website: 0.84
+- internet-explorer: 0.84
+- Transport: (new transport): 0.84
+- TWP - Activity: 0.81
+- webserv: 0.81
+- Groovy: 0.81
+- Dynamic Content Creator: 0.81
+- Upgrading: 0.80
+- Third Party Software: 0.79
+- agent: 0.79
+- release: 0.78
+- Alert Production: 0.77
+- Sample Data: 0.76
+- verify: 0.76
+- Testing Infrastructure: 0.76
+- master: 0.75
+- Testing: 0.74
+- Demo Application: 0.74
+- Active Objects: 0.73
+- Test Data: 0.73
+- LTI provider: 0.71
+- appcd: 0.71
+- ap: 0.71
+- afw: 0.70
+- UX: 0.69
+- provisioner: 0.68
+- in Console Access Request: 0.67
+- protobuf: 0.67
+- test-automation: 0.67
+- Exec: 0.66
+- framework: 0.65
+- Outreach: 0.65
+- Universal Plugin Manager / Manage apps: 0.64
+- Report: 0.64
+- UI / UX: 0.63
+- eups: 0.63
+- datarel: 0.62
+- release-automation: 0.61
+- Instrumentation: 0.61
+- Node.js plugin: 0.61
+- Core: Event/Message: 0.60
+Skill: Penetration Testing
+- test: 0.98
+- Testing: 0.97
+- Tests: 0.97
+- Spec: 0.88
+- PoET: 0.87
+- partition: 0.82
+- APT: 0.76
+- verify: 0.67
+- PyPI: 0.67
+- Exec: 0.66
+- pipeQA: 0.65
+- appcd: 0.64
+- validate_drp: 0.64
+- pipe_supertask: 0.63
+- dax_ppdb: 0.61
+- app: 0.60
+Skill: Software Design Patterns
+- Design: 0.80
+- SPA: 0.74
+- Common: 0.71
+- DM: 0.65
+- CDF: 0.60
+Skill: Node.js
+- JavaScript: 1.00
+- JS: 0.99
+- Node: 0.98
+- platform: 0.97
+- client dependency framework: 0.89
+- Developer Infrastructure: 0.88
+- home: 0.88
+- NPM: 0.87
+- network: 0.84
+- Client: 0.83
+- Exec: 0.75
+- Indexes: 0.74
+- Host - Host Settings: 0.73
+- cni: 0.72
+- Infrastructure: 0.72
+- master: 0.71
+- workspace: 0.70
+- Issue - View Issue: 0.70
+- User - Follow: 0.68
+- Preferences: 0.68
+- display_ds9: 0.68
+- Setup: 0.68
+- Admin: 0.67
+- test: 0.67
+- base: 0.66
+- webserv_client: 0.66
+- Usability: 0.66
+- verify: 0.64
+- Connectivity: 0.64
+- Portability: 0.63
+- Upgrading: 0.63
+- Content - Attachments: 0.62
+- User interface: 0.62
+- Project: 0.61
+- Content - Edit Files / Companion: 0.61
+- log: 0.61
+- query-index: 0.61
+- app: 0.61
+- Content - Sharing: 0.60
+- Update: 0.60
+- Settings Family: 0.60
+- Configuration: 0.60
+Skill: Sensor Integration
+- Integrations: 0.95
+- CI: 0.90
+- Instrumentation: 0.90
+- SUIT: 0.87
+- Spec: 0.78
+- obs_sdss: 0.76
+- Data: 0.74
+- next-gen: 0.73
+- Common: 0.72
+- SPA: 0.72
+- Help: 0.71
+- dataserv: 0.71
+- Exec: 0.70
+- master: 0.70
+- ci_lsst: 0.70
+- verify: 0.69
+- Groovy: 0.69
+- ci_hsc: 0.68
+- obs_lsstSim: 0.68
+- Monitoring: 0.68
+- Implementation: 0.68
+- APT: 0.67
+- obs_lsst: 0.67
+- ip_isr: 0.67
+- APIDoc: 0.66
+- ts_ait: 0.66
+- OSGI: 0.66
+- Upgrading: 0.65
+- Connect: 0.65
+- IM: 0.65
+- lsst_ci: 0.64
+- cni: 0.64
+- ctrl_iip: 0.63
+- supertask: 0.63
+- www_lsst_io: 0.62
+- Capabilities: 0.61
+- BSON: 0.61
+- Qserv: 0.61
+- ap_verify: 0.60
+- alert_packet: 0.60
+- ADG3: 0.60
+- display_ds9: 0.60
+- P2: 0.60
+Skill: Kanban
+- Kanplan: 0.99
+- conan: 0.95
+- Language: 0.95
+- partition: 0.93
+- home: 0.85
+- Export to Language: 0.85
+- client dependency framework: 0.83
+- master: 0.80
+- base: 0.79
+- stout: 0.78
+- resource provider: 0.76
+- framework: 0.73
+- containerization: 0.72
+- next-gen: 0.70
+- Content bank: 0.70
+- Exec: 0.67
+- afw: 0.62
+- non-dm: 0.61
+- Document viewer: 0.61
+Skill: VoIP (Voice over Internet Protocol)
+- Client: 0.75
+- home: 0.72
+- Settings Family: 0.69
+- display_ds9: 0.67
+- Chat: 0.66
+- master: 0.66
+- Help: 0.65
+- User - Follow: 0.64
+- ci_lsst: 0.62
+- ci_hsc: 0.60
+- alert_stream: 0.60
+Skill: Agile Methodologies
+- framework: 0.75
+- agent: 0.75
+- AUM: 0.74
+- IM: 0.72
+- display_ds9: 0.62
+Skill: CSS
+- CSS: 1.00
+- Compass: 0.98
+- scons: 0.98
+- Schema: 0.97
+- Codecs: 0.96
+- Competencies: 0.94
+- Conditional activities: 0.89
+- home: 0.88
+- Configuration: 0.86
+- Conda: 0.84
+- Service Infrastructure: 0.84
+- User - Follow: 0.81
+- master: 0.81
+- Settings Family: 0.80
+- Scripting: 0.78
+- Systems Engineering: 0.77
+- base: 0.77
+- display_ds9: 0.75
+- Client: 0.74
+- docsteady: 0.74
+- Preferences: 0.73
+- Content - Edit Files / Companion: 0.73
+- shapelet: 0.72
+- Document viewer: 0.70
+- Issue - View Issue: 0.70
+- verify: 0.70
+- User interface: 0.70
+- Core: Components: 0.69
+- Editor - Collaborative editing: 0.67
+- workspace: 0.67
+- Connectivity: 0.67
+- Styling: 0.67
+- System Administration - General Configuration: 0.66
+- Connect: 0.66
+- Setup: 0.65
+- HTML and CSS: 0.65
+- System Administration - Configuration Tool: 0.65
+- documenteer: 0.65
+- coadd_chisquared: 0.64
+- Help: 0.64
+- Project Administration - Components: 0.64
+- client dependency framework: 0.64
+- project website: 0.64
+- release: 0.62
+- Security: 0.62
+- Internal Client: 0.61
+- Plan configuration: 0.61
+- Core: Non-Blocking: 0.61
+- Core: Domains shared resources: 0.60
+- User - Profile: 0.60
+- Exec: 0.60
+Skill: Blockchain security
+- Security: 0.97
+- Blocks: 0.93
+- next-gen: 0.88
+- Exec: 0.76
+- stout: 0.73
+- verify: 0.73
+- Help: 0.67
+- Spec: 0.67
+- Security & Permissions: 0.63
+- master: 0.62
+- ci_hsc: 0.62
+- ci_lsst: 0.61
+- P2: 0.60
+- ap_verify: 0.60
+Skill: Cryptography
+- cni: 0.76
+- Codecs: 0.73
+- master: 0.68
+- stout: 0.64
+- next-gen: 0.62
+- SSL: 0.62
+- ci_hsc: 0.60
+Skill: Flutter
+- flaky: 1.00
+- flash: 0.99
+- client dependency framework: 0.95
+- Dynamic Content Creator: 0.94
+- TWP - Activity: 0.94
+- Document viewer: 0.93
+- webserv: 0.92
+- Content - Attachments: 0.92
+- fftw: 0.89
+- afw: 0.89
+- User interface: 0.87
+- Groovy: 0.87
+- fetcher: 0.87
+- Third Party Software: 0.86
+- User - Follow: 0.86
+- UI / UX: 0.83
+- project website: 0.82
+- resource provider: 0.82
+- Content - Page - Mobile: 0.81
+- UI: 0.81
+- UI / Usability: 0.80
+- next-gen: 0.80
+- Exec: 0.78
+- webserv_client: 0.77
+- display_firefly: 0.77
+- IM: 0.76
+- Activity Feed: 0.76
+- Common: 0.76
+- LTI provider: 0.75
+- Mobile: 0.75
+- in Console Access Request: 0.75
+- image-gc: 0.73
+- Content - Sharing: 0.73
+- CLI: 0.73
+- display_ds9: 0.73
+- Accessibility - Mobile: 0.72
+- Client: 0.72
+- UX: 0.71
+- fabric-release: 0.71
+- Active Objects: 0.71
+- Content - Linking: 0.70
+- internet-explorer: 0.70
+- firefly_client: 0.69
+- Testing Infrastructure: 0.69
+- Conditional activities: 0.68
+- Content - Edit Files / Companion: 0.68
+- HTML View: 0.67
+- JavaScript: 0.67
+- Flakey Test - New: 0.67
+- Embedded: 0.67
+- oversubscription: 0.66
+- protobuf: 0.66
+- Spec: 0.66
+- release: 0.66
+- Background Operations: 0.66
+- Middleware: 0.65
+- Connection Management: 0.65
+- alert_packet: 0.65
+- Reactive Streams: 0.65
+- LDF: 0.65
+- fabric-quality: 0.65
+- efd: 0.65
+- Async: 0.65
+- eups: 0.64
+- Misc: 0.64
+- TTL: 0.64
+- Content - Favourites: 0.64
+- alert_stream: 0.64
+- appcd-plugin-genymotion: 0.63
+- ap: 0.63
+- fabric-common: 0.63
+- sample-avro-alert: 0.63
+- lsst: 0.63
+- test: 0.62
+- VCS task: 0.62
+- dataweave: 0.62
+- Notifications: 0.61
+- ci_hsc_gen3: 0.61
+- Asynchronous REST Client: 0.61
+- dbserv: 0.61
+- Demo Application: 0.60
+- appcd: 0.60
+- DDL: 0.60
+- fabric-ca: 0.60
+Skill: Sketch
+- display_ds9: 0.72
+- Spec: 0.67
+- Exec: 0.61
+Skill: Backup and Recovery
+- Backup / Restore: 0.99
+- Backup and Restore: 0.97
+- Background Operations: 0.96
+- storage: 0.94
+- Backup: 0.92
+- PB Security: 0.92
+- Common: 0.91
+- Support: 0.91
+- WRM: 0.90
+- Support Tools: 0.89
+- OBR: 0.87
+- Repository: 0.87
+- Service: SOAP: 0.85
+- Security: 0.85
+- stout: 0.84
+- IRSA: 0.83
+- cbp: 0.83
+- Batch: 0.82
+- Backlog: 0.82
+- Spec: 0.82
+- APT: 0.81
+- SOAP: 0.81
+- jointcal: 0.80
+- Capabilities: 0.80
+- DDL: 0.80
+- Cohorts: 0.79
+- eups: 0.79
+- Data Service: 0.79
+- LDF: 0.79
+- R: 0.79
+- Settings Family: 0.79
+- eigen: 0.78
+- SPA: 0.78
+- Service Infrastructure: 0.77
+- Exec: 0.77
+- BSON: 0.77
+- SCORM: 0.77
+- HA: 0.77
+- Help: 0.77
+- PyPI: 0.77
+- boost: 0.77
+- ap: 0.76
+- Console: 0.76
+- dbserv: 0.76
+- display_ds9: 0.76
+- Data Center - Archiving: 0.76
+- framework: 0.76
+- Client: 0.76
+- validate_drp: 0.75
+- CDF: 0.74
+- CRUD: 0.74
+- ci_hsc: 0.74
+- Mobile: 0.74
+- RSS: 0.73
+- Mac: 0.73
+- schema.rs: 0.72
+- Modules: Database: 0.72
+- Plan configuration: 0.72
+- IM: 0.71
+- db: 0.71
+- app: 0.71
+- UI: 0.71
+- Modules: FTP: 0.71
+- obs_lsst: 0.71
+- CMA: 0.71
+- REST: 0.70
+- appcd: 0.70
+- ci_lsst: 0.70
+- TCT: 0.70
+- File: 0.70
+- LDAP: 0.69
+- obs_sdss: 0.69
+- System Administration - Priorities: 0.69
+- Issue - Sub-Tasks: 0.69
+- Data: 0.69
+- fftw: 0.69
+- SOAP Module: 0.69
+- obs_base: 0.69
+- gsl: 0.68
+- webserv_client: 0.68
+- DM: 0.68
+- Data Archive: 0.68
+- obs_cfht: 0.68
+- Mac App: 0.68
+- Services: 0.67
+- pex_config: 0.67
+- obs_ts3: 0.67
+- DVCS Connector: 0.67
+- resource provider: 0.66
+- CI: 0.66
+- ip_isr: 0.66
+- TTL: 0.66
+- SOAP Tooling: 0.66
+- synpipe: 0.66
+- Confluence Cloud Premium: 0.66
+- MVC: 0.65
+- IDL: 0.65
+- obs_lsstSim: 0.65
+- AUI: 0.65
+- datarel: 0.65
+- Resource: 0.65
+- ADG3: 0.65
+- display_matplotlib: 0.65
+- mariadbclient: 0.65
+- ci_hsc_gen3: 0.64
+- appcd-client: 0.64
+- image-gc: 0.64
+- Board configuration: 0.64
+- dax_ppdb: 0.64
+- P2: 0.64
+- AUM: 0.64
+- Site - Backup / Import: 0.64
+- UGC: 0.64
+- Tizen: 0.63
+- Repository (Perforce): 0.63
+- Replication: 0.63
+- wcslib: 0.63
+- Variables: 0.63
+- Qserv: 0.62
+- appcd-response: 0.62
+- appcd-config: 0.62
+- SAML: 0.62
+- sdk: 0.62
+- Forum: 0.62
+- meas_extensions_multiShapelet: 0.62
+- lsst_apps: 0.62
+- H5P: 0.62
+- bower-nexus3-resolver: 0.62
+- Infrastructure: 0.62
+- appcd-util: 0.62
+- ngmix: 0.62
+- appcd-config-service: 0.61
+- defense-squad: 0.61
+- lsst_obs: 0.61
+- Issue - Backend: 0.61
+- TWP - People and Teams: 0.61
+- network: 0.61
+- ts_ait: 0.61
+- OODS: 0.61
+- Server - EAP: 0.61
+- TWP - Activity: 0.61
+- EC2 Wizard: 0.61
+- PB Menu Security: 0.61
+- jms-module: 0.61
+- Windows Hybrid: 0.61
+- APIDoc: 0.61
+- log4cxx: 0.61
+- cni: 0.60
+- CLI: 0.60
+- Kanplan: 0.60
+- ctrl_bps: 0.60
+- ts_environment: 0.60
+- webui: 0.60
+- mysqlclient: 0.60
+- JQL: 0.60
+- replicated log: 0.60
+- Issue Search - Backend: 0.60
+- TWP - Mobile: 0.60
+- Desktop: 0.60
+- ts_documentation: 0.60
+Skill: Quality Assurance
+- verify: 0.97
+- QA: 0.94
+- Spec: 0.86
+- CI: 0.85
+- Verification: 0.83
+- Exec: 0.80
+- validator-info: 0.74
+- display_ds9: 0.71
+- ci_hsc: 0.70
+- home: 0.69
+- docsteady: 0.67
+- ctrl_provenance: 0.66
+- replicated log: 0.65
+- eigen: 0.64
+- CMA: 0.61
+- display_matplotlib: 0.60
+- webserv_client: 0.60
+- IM: 0.60
+- validate_drp: 0.60
+Skill: Ethical Hacking
+- appcd: 0.61
+- Spec: 0.60
+Skill: NoSQL
+- storage: 0.98
+- Database (other): 0.97
+- next-gen: 0.95
+- Quiet Period: 0.93
+- Data Access: 0.92
+- Unknown: 0.91
+- Data Service: 0.91
+- Data: 0.91
+- Backup & Restore (non-migration): 0.89
+- Sample Data: 0.86
+- non-dm: 0.81
+- Database: 0.79
+- query-index: 0.76
+- Repository (Other): 0.72
+- Data Access (DAL): 0.69
+- Next-gen - Reports: 0.68
+- Spec: 0.68
+- data-lake: 0.68
+- Repository (Perforce): 0.68
+- obs_base: 0.68
+- Exec: 0.66
+- Core: Non-Blocking: 0.65
+- Environment - Database: 0.65
+- Modules: Database: 0.65
+- obs_test: 0.64
+- client dependency framework: 0.64
+- daf_base: 0.63
+- resource provider: 0.63
+- Test Data: 0.62
+- qserv_testdata: 0.62
+- Client: 0.62
+- Database activity module: 0.60
+Skill: React Native
+- React: 0.98
+- Core: Non-Blocking: 0.97
+- RSS: 0.94
+- Refactoring: 0.92
+- Issue - Actions: 0.89
+- next-gen: 0.89
+- R: 0.89
+- afw: 0.89
+- WRM: 0.84
+- Navigation: 0.84
+- home: 0.84
+- platform: 0.81
+- jointcal: 0.80
+- framework: 0.79
+- nublado: 0.79
+- Exec: 0.77
+- Navigation - Your work: 0.76
+- client dependency framework: 0.76
+- Issue - Navigation: 0.76
+- cni: 0.75
+- webserv_client: 0.74
+- project website: 0.72
+- Spec: 0.71
+- Transport: (new transport): 0.71
+- stout: 0.71
+- Content - Page - Mobile: 0.71
+- query-index: 0.71
+- Backup & Restore (non-migration): 0.70
+- network: 0.69
+- HeaderService: 0.69
+- master: 0.68
+- Navigation - Primary & Contextual: 0.67
+- non-dm: 0.67
+- eigen: 0.66
+- Host - Host Settings: 0.66
+- display_ds9: 0.66
+- alert_stream: 0.64
+- Localization / ML: 0.64
+- ap: 0.64
+- antlr: 0.64
+- REST: 0.63
+- Groovy: 0.62
+- alert_packet: 0.62
+- I18N: 0.62
+- Navigation Panel: 0.62
+- ts_environment: 0.61
+- astro_metadata_translator: 0.61
+- obs_base: 0.61
+- Onboarding - 1st user: 0.60
+- sample-avro-alert: 0.60
+- Navigation - View results: 0.60
+- Replication: 0.60
+- release: 0.60
+- User Console: 0.60
+- www_lsst_io: 0.60
+- app: 0.60
+- testdata_jointcal: 0.60
+Skill: Pandas
+- Settings Family: 0.93
+- Embedded: 0.92
+- Theme: 0.91
+- verify: 0.90
+- Document viewer: 0.90
+- Content - Edit Files / Companion: 0.87
+- Kanplan: 0.87
+- display_ds9: 0.85
+- resource provider: 0.82
+- User - Follow: 0.82
+- Responsibility tracking: 0.79
+- group-deploy: 0.78
+- client dependency framework: 0.76
+- master: 0.76
+- Upgrading: 0.75
+- Content - Trackback: 0.75
+- Multi-Select: 0.75
+- appcd: 0.74
+- in Console Access Request: 0.73
+- image-gc: 0.69
+- dax_ppdb: 0.66
+- Sample Data: 0.66
+- Spec: 0.65
+- Activity Feed: 0.65
+- Issue Details View: 0.64
+- zookeeper: 0.64
+- display_ginga: 0.64
+Skill: Real-Time Systems
+- next-gen: 0.93
+- Realm: 0.91
+- R: 0.78
+- Spec: 0.74
+- WRM: 0.74
+- verify: 0.65
+- master: 0.64
+- OBR: 0.63
+- Exec: 0.63
+- React: 0.62
+- ci_hsc: 0.60
+Skill: AWS
+- Web Services: 1.00
+- AWS: 1.00
+- Automation: 0.99
+- Services: 0.97
+- Service Infrastructure: 0.96
+- resource provider: 0.94
+- platform: 0.91
+- afw: 0.90
+- Atlas: 0.89
+- dataweave: 0.88
+- Security: 0.88
+- master: 0.88
+- internet-explorer: 0.87
+- Server administration: 0.86
+- workspace: 0.85
+- Server - Platform: 0.83
+- Data Service: 0.79
+- Exec: 0.79
+- Server - Administration: 0.78
+- next-gen: 0.76
+- Data Access: 0.76
+- storage: 0.75
+- verify: 0.74
+- stout: 0.72
+- Centralized license visibility: 0.72
+- Tech debt: 0.72
+- query-index: 0.68
+- Groovy: 0.68
+- System Administration - Configuration Tool: 0.67
+- Server - Performance: 0.67
+- docsteady: 0.66
+- supertask: 0.66
+- display_ds9: 0.65
+- client dependency framework: 0.65
+- System Administration - Secure Administrator Sessions: 0.64
+- Backup / Restore: 0.64
+- Migration - Server to Cloud: 0.62
+- Migration - Cloud to Server: 0.62
+- agent: 0.61
+- Science Platform: 0.61
+- Backup and Restore: 0.60
+- Host - Host Settings: 0.60
+- Directory - Azure Active Directory: 0.60
+Skill: Angular
+- shapelet: 0.95
+- home: 0.94
+- Document viewer: 0.93
+- Export to Language: 0.93
+- Exec: 0.92
+- Spec: 0.92
+- Core: Non-Blocking: 0.91
+- Language: 0.90
+- User interface: 0.90
+- agent: 0.88
+- Client: 0.87
+- ts_auxiliary_telescope: 0.86
+- resource provider: 0.86
+- client dependency framework: 0.86
+- Views: 0.86
+- User - Follow: 0.85
+- image-gc: 0.85
+- AUM: 0.85
+- verify: 0.84
+- CLI: 0.84
+- display_ds9: 0.83
+- Settings Family: 0.83
+- Help: 0.82
+- display_ginga: 0.81
+- Localization / ML: 0.81
+- meas_photocal: 0.80
+- datarel: 0.80
+- Editor - Attachment: 0.79
+- HA: 0.79
+- Atlas: 0.79
+- ap: 0.78
+- APT: 0.77
+- meas_extensions_simpleShape: 0.76
+- master: 0.76
+- astshim: 0.76
+- meas_astrom: 0.76
+- Header: 0.75
+- afw: 0.75
+- HeaderService: 0.75
+- appcd: 0.74
+- ci_hsc: 0.74
+- antlr: 0.73
+- Localization - Content: 0.73
+- ts_main_telescope: 0.72
+- Support: 0.72
+- SAML: 0.71
+- Issue Details View: 0.71
+- Launcher: 0.71
+- 360: 0.71
+- OBR: 0.70
+- ts_environment: 0.70
+- ts_arch: 0.70
+- ts_documentation: 0.69
+- ts_visualization: 0.69
+- geom: 0.69
+- documenteer: 0.69
+- Upgrading: 0.68
+- ci_lsst: 0.68
+- ci_hsc_gen3: 0.67
+- lsst: 0.67
+- project website: 0.67
+- test: 0.67
+- www_lsst_io: 0.67
+- executor: 0.67
+- User - Mentions: 0.67
+- Sample Data: 0.66
+- Feedback: 0.66
+- protobuf: 0.66
+- display_matplotlib: 0.66
+- ts_ait: 0.66
+- Design: 0.65
+- validate_drp: 0.65
+- ops: 0.65
+- Host Page: 0.65
+- fabric-quality: 0.65
+- Navigation - View results: 0.65
+- astro_metadata_translator: 0.64
+- ts_qa: 0.64
+- AUI: 0.64
+- Usability: 0.64
+- XO Family: 0.64
+- Editor: 0.63
+- Content - Edit Files / Companion: 0.63
+- Async: 0.63
+- Accessibility: 0.63
+- LDF: 0.63
+- Issue - ADF: 0.63
+- gsl: 0.62
+- replicated log: 0.62
+- obs_test: 0.62
+- Upstream: 0.62
+- ts_aos: 0.62
+- Issue - View Issue: 0.61
+- Data Center - Azure: 0.61
+- ts_management: 0.61
+- Navigation Panel: 0.61
+- alert_stream: 0.61
+- verify_metrics: 0.61
+- Documentation (User): 0.61
+- Choice: 0.61
+- Issue - View: 0.60
+- appcd-plugin-system-info: 0.60
+- meas_extensions_multiShapelet: 0.60
+- meas_extensions_shapeHSM: 0.60
+- Authentication: 0.60
+- ImageHandler: 0.60
+- ts_dome: 0.60
+- Administration - Look and Feel / Themes: 0.60
+Skill: Responsive Web Design
+- Design: 0.97
+- Spec: 0.91
+- UI / Usability: 0.90
+- User - Follow: 0.88
+- next-gen: 0.87
+- WRM: 0.87
+- webserv: 0.85
+- master: 0.83
+- display_ds9: 0.81
+- UI / UX: 0.80
+- Client: 0.80
+- Views: 0.80
+- Common: 0.79
+- ap: 0.78
+- framework: 0.77
+- R: 0.76
+- Connect: 0.76
+- DM: 0.76
+- Groovy: 0.76
+- OBR: 0.76
+- Help: 0.75
+- verify: 0.75
+- webserv_client: 0.74
+- Hub: 0.70
+- Settings Family: 0.70
+- Host Page: 0.70
+- shapelet: 0.69
+- Content - Page: 0.69
+- Forum: 0.69
+- fftw: 0.68
+- alert_stream: 0.68
+- Content - Page - Mobile: 0.68
+- afw: 0.68
+- Documentation / Website: 0.68
+- gsl: 0.68
+- Realm: 0.67
+- alert_packet: 0.67
+- wg-supertask: 0.67
+- platform: 0.67
+- UX: 0.67
+- ci_hsc: 0.66
+- home: 0.65
+- efd: 0.65
+- display_ginga: 0.65
+- Core: Non-Blocking: 0.65
+- HeaderService: 0.65
+- Navigation - View results: 0.65
+- React: 0.65
+- Feedback: 0.64
+- webui: 0.64
+- OODS: 0.64
+- ts_environment: 0.64
+- sample-avro-alert: 0.64
+- dbserv: 0.64
+- APT: 0.64
+- eigen: 0.63
+- HTML View: 0.63
+- ts_ait: 0.63
+- Sidebar: 0.63
+- validate_drp: 0.63
+- Header: 0.63
+- CKEditor: 0.63
+- lsp-landing-page: 0.63
+- Compliance (ADA, WCAG, XHTML): 0.63
+- APIDoc: 0.62
+- skymap: 0.62
+- dax: 0.62
+- IRSA: 0.62
+- Exec: 0.62
+- Qserv: 0.62
+- helm: 0.62
+- Navigation - Primary & Contextual: 0.62
+- File: 0.62
+- ci_lsst: 0.61
+- ts_dome: 0.61
+- Content - Linking: 0.60
+- obs_cfht: 0.60
+- Prompt: 0.60
+- protobuf: 0.60
+Skill: Data Engineering
+- Data: 0.97
+- datarel: 0.78
+- dbserv: 0.76
+- dataweave: 0.76
+- dax: 0.76
+- geom: 0.72
+- next-gen: 0.70
+- Exec: 0.69
+- db: 0.68
+- DM: 0.68
+- eigen: 0.67
+- DDL: 0.66
+- efd: 0.66
+- eups: 0.63
+- ci_hsc: 0.62
+- validate_drp: 0.61
+- CKEditor: 0.60
+- LDF: 0.60
+- obs_cfht: 0.60
+- obs_decam: 0.60
+Skill: VPN
+- Networking: 1.00
+- network: 0.99
+- Private Transaction: 0.99
+- Proxy: 0.99
+- Portability: 0.97
+- Privacy: 0.96
+- Client Side Encryption: 0.96
+- Security: 0.95
+- Proxy Repository: 0.94
+- provisioner: 0.92
+- Connection Management: 0.88
+- Security & Permissions: 0.85
+- Upgrading: 0.84
+- resource provider: 0.84
+- client dependency framework: 0.84
+- master: 0.83
+- Module: Secure Properties: 0.82
+- Connectivity: 0.78
+- Service Infrastructure: 0.78
+- Server - Performance: 0.77
+- luaexpat: 0.77
+- User - Global / Space Permissions: 0.77
+- Exec: 0.74
+- Providers: 0.73
+- Smart Proxy: 0.72
+- Authentication / Security: 0.72
+- Conditional activities: 0.72
+- next-gen: 0.70
+- stout: 0.68
+- plenum: 0.67
+- VCS task: 0.67
+- synpipe: 0.66
+- eigen: 0.66
+- Notifications-Pug: 0.66
+- Settings Family: 0.64
+- oversubscription: 0.64
+- boost: 0.63
+- afw: 0.63
+- Server administration: 0.63
+- Plan configuration: 0.62
+- fftw: 0.62
+- internet-explorer: 0.62
+Skill: pytest
+- Testing: 0.98
+- test: 0.98
+- Tests: 0.94
+- Test: Testing Framework: 0.90
+- Client: 0.86
+- Exec: 0.83
+- verify_metrics: 0.80
+- app: 0.76
+- System Integration and Test: 0.74
+- Project: 0.72
+- Setup: 0.70
+- Performance: 0.69
+- Test Data: 0.68
+- webserv_client: 0.68
+- home: 0.68
+- Host - Host Settings: 0.67
+- Navigation - Primary & Contextual: 0.66
+- client dependency framework: 0.66
+- HeaderService: 0.66
+- Automated functional tests (behat): 0.65
+- astro_metadata_translator: 0.64
+- P2: 0.63
+- firefly_client: 0.63
+- Cloud: 0.62
+- Monitoring: 0.62
+- Security & Permissions: 0.62
+- Spec: 0.62
+- build-delivery-pipelines: 0.60
+- ap: 0.60
+- Sample Data: 0.60
+- User Profile Controls: 0.60
+Skill: Memory Management and Performance Profiling
+- Profiling: 0.83
+- Performance: 0.75
+- DM: 0.74
+- Spec: 0.68
+- display_ds9: 0.65
+- ci_hsc: 0.64
+- appcd: 0.63
+- Exec: 0.62
+- obs_lsstSim: 0.60
+- validate_drp: 0.60
+Skill: Intrusion Detection
+- Security: 0.97
+- CI: 0.86
+- IDL: 0.82
+- DM: 0.78
+- supertask: 0.75
+- obs_sdss: 0.74
+- Spec: 0.73
+- app: 0.73
+- validate_drp: 0.71
+- master: 0.70
+- verify: 0.68
+- stout: 0.65
+- obs_decam: 0.63
+- ci_hsc_gen3: 0.62
+- IM: 0.61
+Skill: MQTT
+- Messaging: 0.99
+- network: 0.97
+- client dependency framework: 0.97
+- Quiet Period: 0.97
+- Core: Concurrency / Threading: 0.97
+- Telemetry / Reporting: 0.97
+- Macros - Multimedia: 0.97
+- mysql: 0.96
+- Connection Management: 0.96
+- Mobile: 0.96
+- Editor - Collaborative editing: 0.96
+- Content - Trackback: 0.96
+- Accessibility - Mobile: 0.96
+- Transaction Management: 0.95
+- Macros - Mobile: 0.95
+- Media: 0.95
+- Macros - 3rd Party: 0.95
+- workflow: 0.95
+- Transport: (other): 0.94
+- Timezone: 0.93
+- Telemetry Data: 0.92
+- Scheduled Tasks: 0.92
+- test: 0.92
+- Misc: 0.92
+- Misc integration: 0.92
+- Management: 0.92
+- Transport: (new transport): 0.91
+- Content - Page - Mobile: 0.91
+- System Integration and Test: 0.91
+- framework: 0.91
+- Transport: 0.91
+- Search - Quick Search: 0.91
+- Middleware: 0.91
+- Test Data: 0.90
+- Connectivity: 0.90
+- Content - Linking: 0.90
+- Mac: 0.90
+- Data Service: 0.90
+- Test: Testing Framework: 0.90
+- Modules - Third party: 0.88
+- Quiz: 0.87
+- Delegated group administration: 0.87
+- Macros - Widget Connector: 0.87
+- Automated functional tests (behat): 0.87
+- Third Party Software: 0.87
+- User interface: 0.86
+- Service Infrastructure: 0.86
+- Testing: 0.86
+- Questions: 0.86
+- Networking: 0.86
+- webserv: 0.86
+- Export to Language: 0.85
+- Instrumentation: 0.85
+- Mail Server: 0.85
+- Repository (Mercurial): 0.85
+- metaserv: 0.85
+- Server - Mail Archiving: 0.84
+- Monitoring: 0.84
+- mysqlclient: 0.84
+- Core: Request-Reply: 0.83
+- Query Operations: 0.83
+- platform: 0.83
+- Qserv: 0.83
+- verify: 0.83
+- Report: 0.82
+- Test Coverage: 0.82
+- Metrics: 0.82
+- Backend / Domain Model : 0.82
+- resource provider: 0.81
+- Issue - Time Tracking & Worklog: 0.81
+- Workflow Triggers: 0.81
+- Core: Domains shared resources: 0.81
+- Better Notifications: 0.80
+- Server - Source Distribution: 0.80
+- Tests: 0.80
+- Editor - Mobile: 0.79
+- Content - Sharing: 0.79
+- Server - Performance: 0.79
+- jointcal: 0.79
+- Product - Quickstart: 0.78
+- Object Qualifier: 0.78
+- User - Management: 0.78
+- Transport: Email: 0.78
+- Tooling API: 0.78
+- Administration - Notification Helper: 0.78
+- Real Time Server Stats: 0.77
+- Macros - Content by User: 0.77
+- Notification: 0.76
+- test-automation: 0.76
+- master: 0.76
+- Performance Testing: 0.75
+- Editor - Synchrony: 0.75
+- Macros - Task Report: 0.73
+- Terminal: 0.73
+- replicated log: 0.72
+- Continuous Integration: 0.72
+- Connect: 0.72
+- technote: 0.71
+- Mac App: 0.71
+- group-deploy: 0.71
+- Prompt: 0.71
+- Source Control: 0.70
+- Document viewer: 0.70
+- Meta: 0.70
+- next-gen: 0.70
+- Testing Infrastructure: 0.70
+- mysql-proxy: 0.69
+- Board configuration: 0.69
+- System Administration - Integrity Checker: 0.69
+- Rate Limiting: 0.69
+- System Administration - Configuration Tool: 0.68
+- Tooling Client: 0.68
+- Chat: 0.68
+- Issue - Remote Copy: 0.68
+- scheduler driver: 0.68
+- defense-squad: 0.67
+- Smart Commits: 0.67
+- Keyboard Shortcuts: 0.67
+- Core: Routing / Filters: 0.67
+- Transport: Quartz: 0.67
+- Explain: 0.66
+- core: Notifications: 0.66
+- Tooling: 0.66
+- project website: 0.66
+- Specification: 0.65
+- Data Access: 0.65
+- Query: 0.65
+- stout: 0.65
+- Automation: 0.65
+- Reporting: 0.65
+- Admin - Site Redirection Management: 0.65
+- Language: 0.64
+- maven tasks: 0.64
+- validator-info: 0.64
+- Host - MarketPlace: 0.64
+- Content - Tasks: 0.63
+- Querying: 0.63
+- Runtime platform: 0.63
+- Macros - Content Formatting: 0.62
+- Integration Tests: 0.62
+- Management Console: 0.62
+- Integration/Connectors: 0.62
+- Transport: TCP / UDP / SSL / Multicast: 0.62
+- Field Level Encryption: 0.61
+- supertask: 0.61
+- Transport: Stream (System.in/out): 0.61
+- Upgrading: 0.60
+- in Console Access Request: 0.60
+- Feedback: 0.60
+- Help: 0.60
+- Routing: 0.60
+- Unit tests: 0.60

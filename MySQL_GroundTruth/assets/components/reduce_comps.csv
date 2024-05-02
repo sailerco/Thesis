@@ -1,0 +1,561 @@
+"Performance,Administration"
+"Testing Infrastructure,MapReduce"
+"Elastic Bamboo,OnDemand"
+Maven
+"Usability,Files API"
+"Developer Infrastructure,Continuous Integration"
+"Assignment,Reports"
+Metrics
+"Performance,JavaScript"
+"Querying,Storage"
+"Shell,Replication"
+Smart Commits
+templates
+Integration
+Client Resources
+UI / UX
+Shell
+Async
+Elastic Bamboo
+Themes
+Feature Request
+Storage
+"Data Center - Other,Indexing"
+"User Interface,Plan Branches"
+SOAP
+JavaScript
+"Roles / Access,User management"
+User - Global / Space Permissions
+Language
+DSL
+"Issue - View,Global Administration"
+"Assignment,Grading methods"
+POJO
+Jira Core Board
+"Themes,Usability"
+cli
+User interface
+Text Search
+"UI,Repository"
+"fabric-docs,fabric-sdk-py"
+API
+"Gadget,Classic - Reports,Workflow Triggers"
+"Audit Logging,Projects"
+"Themes,JavaScript,HTML and CSS"
+Roles / Access
+"CSS,Editor"
+Application Links
+HTML
+"Plugins,Tests"
+"Accessibility,Usability"
+Control Panel
+Artifacts
+"Backup,Badges"
+Scheduled Tasks
+Formatting
+"Administration,Logging"
+"fabric-common,fabric-peer"
+H5P
+Scripting
+Maven plugin
+"Auto Updates,Feature Request"
+"Accessibility,Assignment"
+"Repository (Subversion),Repository (CVS)"
+Automation for Jira
+"Documentation - All,Bulk Operations"
+Cleanup
+Migration
+"System Administration - Priorities,Project - Issues"
+"Gadget,Classic - Reports"
+Diagnostics
+"Connection Management,Async"
+"Deployments,Builds,REST API"
+Audit Log
+"CRUD,Documents,Table View"
+Privacy
+Connection Management
+"Board configuration,AgileBoard"
+"Replication,JavaScript"
+"Issue - Fields,Issue - Create Issue"
+Documents
+Member Directory
+Release Hub
+Debugging
+"Themes,Badges,HTML and CSS"
+Batch
+Login/Registration
+Security
+"Administration,Tasks"
+App Explorer
+Stack Documentation and UX
+"Tasks,Artifacts,Infrastructure"
+"Performance,Repositories"
+"Admin - Pages,Admin - Extensions"
+User Interface
+"Developer Infrastructure,JIRA"
+"User management,Reports"
+System Administration
+CRUD
+"Repositories,Usability,Documentation"
+Internal Code
+"Themes,JavaScript"
+Unit tests
+Infrastructure & Services
+"fabric-gossip,fabric-crypto"
+"Documentation,Scheduled Tasks"
+Caching
+"Querying,Indexing"
+"Querying,Indexing,Usability"
+"Issue - Fields,Administration - Issue Types,Project - Issues"
+"Debugging,Publishing"
+Connectivity
+Analytics
+iOS
+SCP and SSH tasks
+Stability
+ADGS Design changes
+"User Interface,Plan configuration"
+"Course,Reports"
+"Tools,Usability,Admin"
+Schema
+Monitoring
+Libraries
+Ingest
+"Notifications,Pull Requests"
+"Course,Caching"
+Hyperloop
+Examples / Tutorials
+Query
+"Administration,Usability"
+"REST API,Responsibility tracking"
+mule4
+"Replication,Stability"
+"Dashboard & Gadgets,Application Links"
+"Administration,Libraries"
+Widgets
+"Course,Backup"
+"JavaScript,Forms Library"
+"fabric-sdk-go,fabric-build,fabric-release"
+"Core API,Dynamic Content Creator"
+Badges
+"Transport: VM,Transport: JMS,Core: Transports"
+"Forms Library,Files API"
+"Themes,Assignment,JavaScript,Repositories"
+Dashboard
+"UI,Docker"
+"Accessibility,JavaScript,Usability"
+"Authentication,Usability"
+Aggregation pipeline
+REST
+"Internal Code,Stability"
+Web Resources Manager
+Validation
+"Native - Android,Native - iOS"
+webui
+Stream Module
+"Project - Agile Boards,Filters & Dashboards - Permissions"
+Acceptance Testing
+"CLI,iOS"
+"Migration - Server to Server,Migration - Server to Cloud"
+"Instrumentation,Groovy,Database,Test Optimization"
+Versions
+"Course,Roles / Access"
+"Themes,HTML and CSS,Policy"
+Performance Testing
+build
+Plugins
+Developer Infrastructure
+"fabric-orderer,fabric-peer,fabric-crypto"
+"Replication,Admin"
+"Stream Module,Runtime"
+"Classic - Reports,Workflow Triggers,Documentation"
+Webhooks
+Extensions: Maven Plugin
+Import / Export
+Infrastructure
+Infrastructure & Services - Application Lifecycle
+next-gen
+"Assignment,JavaScript"
+"Querying,Admin"
+Forms Library
+UI / Usability
+"Assignment,Files API"
+"Core: Flow,Tools"
+"Querying,Aggregation Framework"
+Browse Storage
+"Course,Usability"
+SAT
+Replication
+"Triggers,Import / Export"
+Hub
+Aggregation Framework
+Dynamic Content Creator
+"Security,UI"
+"Web Services,Files API"
+Configuration
+"Docker,Scheduled Tasks,Backup"
+"CRUD,Documents"
+Bootstrap
+"next-gen,Roadmap"
+mysql-proxy
+Editor
+"UI,Scheduled Tasks"
+"HTML Editor (Atto),Libraries"
+"Debugging,iOS"
+Mobile
+Reports
+Backup
+Navigation - Primary & Contextual
+log
+"Replication,Indexing"
+"Triggers,Misc integration"
+Usability
+"Backup,Administration"
+"UI,LDAP"
+"Accessibility,Usability,Files API"
+"HTTP API,cli"
+"Debugging,Ruby"
+Database
+Telemetry / Reporting
+User Tours
+"Usability,Documentation"
+containerization
+MVC
+Docker
+Directories
+"Plugins,Infrastructure"
+"Accessibility,Roles / Access"
+"Server administration,Repositories"
+Java API
+JIRA integration
+"Issue - Fields,Administration - Fields"
+Responsibility tracking
+User - Groups
+Gadget
+Sample Data
+"Themes,Administration,Libraries"
+"Backup,Backup: IMS-CC"
+Course
+Deployments
+"Indexes,Background Operations"
+"Querying,Performance"
+"Performance,Usability"
+"Dashboard & Gadgets,Filters & Dashboards - Permissions"
+Design Documents
+Projects
+Build
+"JavaScript,HTML Editor (Atto)"
+Stages
+"Android,Hyperloop"
+"Repository,Maven"
+"Transport: JMS,Transport: JDBC"
+"Triggers,Telemetry / Reporting"
+"Aggregation Framework,Write Ops"
+"Caching,Unit tests"
+Querying
+File Manager
+Node
+UI
+"Performance,Caching"
+"Migration - Cloud to Server,Migration - Server to Cloud"
+"Dashboard & Gadgets,Issue - View Issue,Filters & Dashboards - Permissions"
+"Documentation,Query Operations"
+"Storage,Replication"
+"Tasks,Credentials"
+Dashboards & Reports - Reports
+"Assignment,Course,SCORM"
+"Themes,Course"
+Release Packaging
+"iOS,Android"
+"Security,REST"
+Packaging
+User - Authentication
+Control Panel - Ribbon Bar
+Workflow Triggers
+BSON
+"CSS,Parsing"
+golang
+"Course,User management,Usability"
+Core
+eups
+"Issue - View Issue,Java API"
+master
+JQL
+Indexing
+Global Administration
+Runtime
+Blog
+"master,allocation,replicated log"
+"Language,Authentication"
+Admin
+"Aggregation pipeline,Views"
+Stack
+"Query Bar,Query"
+"Editor,PHP"
+"Performance,Roles / Access"
+SPA
+"Builds,Tests"
+"Replication,Usability,Admin"
+"Assignment,Usability"
+Embedded
+"fabric-ledger,fabric-peer"
+Project Administration
+Reactive Streams
+"Authentication,Web Services"
+"Course,JavaScript,Usability"
+Requirements
+Grading methods
+"Querying,Internal Code,Admin,Internal Client"
+"User Interface,Builds"
+"H5P,Web Services"
+"Badges,HTML and CSS"
+HipChat integration
+Assignment
+Firefly
+"UI,Rapture"
+Files API
+"Language,Administration"
+"Accessibility,Course"
+Modules
+Dashboards & Gadgets
+"Accessibility,Forms Library"
+"Triggers,Stages"
+Universal Plugin Manager / Manage apps
+Groovy
+Command Operations
+"Artifacts,Deployments"
+MMAPv1
+Data Center
+Plan configuration
+"REST,Conda"
+"JavaScript,Web Services"
+Jira Importers Plugin
+"Course,Database SQL/XMLDB"
+"Sharding,Stability"
+XML
+Roadmap
+"Core: API,Core: Configuration"
+Classic - Reports
+fabric
+Real Time Server Stats
+Labels
+Sharding
+"PyPI,Documentation,Staging"
+"Diagnostics,Indexing,Logging,Aggregation Framework"
+"Artifacts,Performance"
+"Administration,User management"
+Services
+Docker Runner
+"Tests,Misc integration"
+"Database SQL/XMLDB,Authentication"
+Board configuration
+UPM (Universal Plugin Manager)
+"Administration (General),Plugins"
+"Replication,Networking"
+"Indexing,Project,PHP,Validation"
+"Administration,Forms Library"
+"Course,Web Services"
+"Sharding,Networking"
+"Editor,Theme,HTML,PHP"
+JSON Schema
+Security & Permissions
+"Debugging,Node"
+"UI,Repository,Maven"
+verify
+"Tasks,Deployments,Plugins"
+"Themes,HTML and CSS"
+docker
+"Administration,Usability,Documentation"
+Bulk Operations
+"Triggers,Dependencies"
+Dashboard & Gadgets
+"SSO,REST"
+"Issue - Fields,Issue - View Issue,Administration - Screens"
+"Deployments,JIRA integration"
+"Docker,Browse Storage"
+YARN Runtime
+Apache MXNet Scala API
+"Plan Branches,Repository (Github)"
+"Storage,Admin"
+"Themes,Administration,HTML and CSS"
+"Querying,Concurrency"
+Installation/Setup
+"Repository,Routing"
+"Performance,MMAPv1"
+Translations
+Host
+"UI,Documentation"
+"CLI,iOS,Android"
+"Plan Branches,Repository (Git),Repository (Mercurial)"
+"Administration (General),Notifications,Administration (Projects)"
+"CLI,Android"
+"Tasks,Windows"
+"Performance,Files API"
+Concurrency
+Performance
+"Documentation,Content Selectors"
+.NET
+Test
+Windows
+LDAP
+"containerization,gpu"
+"User Interface,Notifications,Triggers,Telemetry / Reporting"
+"Tech debt,Support"
+Transport
+"Runtime,UI,REST"
+Templates
+SSO
+Console
+"Shell,Networking,Security,Admin"
+"Querying,Concurrency,Security,Usability"
+Plan Branches
+"Shell,JavaScript"
+Terminal
+Policy
+"REST API,Release Hub"
+Scrum Board
+Query Operations
+"Course,JavaScript"
+Journal
+Database SQL/XMLDB
+"Themes,Accessibility"
+Development Panel
+Networking
+Import/Export
+"Stability,Admin"
+"Issue - Fields,Issue - View Issue"
+"Board configuration,Backlog"
+"Course,Backup,Roles / Access"
+"Administration,Roles / Access"
+PyDev
+AgileBoard
+"Data Center - Apps,Java API,Data Center - Node replication"
+"fabric-samples,fabric-common"
+"Board configuration,Documentation"
+Seth
+Data Access (DAL)
+"Authentication / Security,User Management"
+Write Ops
+Ecosystem
+"containerization,allocation"
+PHP
+"containerization,docker"
+Upgrading
+End User Functions
+NPM
+Notifications
+"Internal Code,Concurrency"
+"Administration,Authentication"
+"Admin - Site Settings,Client Resources,jQuery"
+Tasks
+Triggers
+Titanium SDK
+Import & Export
+"Themes,Files API"
+conda
+"Themes,Libraries"
+SUIT
+"Querying,Logging"
+"REST,RubyGems"
+"Indexing,Text Search"
+"Plan Branches,Notifications"
+"REST API,Triggers"
+Implementation
+"Internal Code,Aggregation Framework"
+Server
+Internal Client
+"Maven,Smart Proxy"
+"User - Global / Space Permissions,User - Authentication"
+Mail Server
+"REST,Maven"
+"UX,Usability"
+"Storage,MMAPv1"
+"fabric-tools,fabric-modules"
+"User management,Authentication"
+User Management
+Write Operations
+"Tasks,Repository (Git)"
+"containerization,HTTP API,docker"
+Gadgets
+"Querying,Sharding"
+CLI
+"Themes,Policy"
+"Language,HTML and CSS"
+"iOS,Hyperloop"
+Events & Notifications
+"Backup,SCORM,Database SQL/XMLDB"
+Android
+"JavaScript,User management,HTML Editor (Atto)"
+"REST,cocoapods"
+"Codecs,Scala"
+"Testing Infrastructure,Sharding"
+MapReduce
+SCORM
+"Performance,Backup,Database SQL/XMLDB"
+"Administration (Projects),JIRA integration"
+"allocation,storage"
+"Triggers,API"
+MobileWeb
+Documentation
+"Builds,Repository (CVS)"
+Bitbucket Server integration
+"master,HTTP API"
+"Performance,Badges"
+"Data Center,REST API"
+"URL ReWriter,Friendly / Standard URLs"
+"Unit tests,Database SQL/XMLDB"
+Web Services
+JIRA
+"Reports,Backlog"
+User management
+Jira platform
+Skinning
+Publishing
+"Builds,Telemetry / Reporting"
+"H5P,Repositories"
+"Administration - Fields,Bulk Operations"
+"UI / Usability,jQuery"
+Tools
+"Core: Expressions,Documentation / Website"
+Models
+"JavaScript,Usability"
+"SUIT,Firefly"
+"Embedded,User Console"
+"Bitbucket Server integration,Repository (Git)"
+"Performance,Database SQL/XMLDB"
+Staging
+"Backup,Files API"
+"Course,Administration"
+Instrumentation
+Repository
+"Issue - Fields,Administration - Fields,Administration - Issue Types,Dashboards & Reports - Reports,Project - Issues,Project Administration - Project Summary"
+"Core: Routing / Filters,Transport: JMS"
+"Internal Code,Logging"
+"Backup,Roles / Access"
+Backlog
+utils
+"Directory - Internal/Delegated,Directory - LDAP"
+"Cluster Management,Performance"
+"Forms Library,Documentation"
+"Administration,Database SQL/XMLDB"
+Editor - Fabric
+"Directory - LDAP,User Console"
+Deployment Awareness
+"Server - Installer / Setup,Server - Administration"
+"Deployments,Plan Branches"
+Accessibility
+"fabric-orderer,fabric-peer"
+"Sharding,Security"
+ui
+Utility
+"User Management - Delete User,User Management - LDAP Integration"
+Authentication
+documentation
+Sprint
+"Storage,Performance"
+Issue
+"Course,SCORM"
+"Stream Module,Hadoop"
+"Bulk Operations,Issue - Actions,Issue - Create Issue,Dashboards & Reports - Reports"
+"Indexing,Performance"
+Project

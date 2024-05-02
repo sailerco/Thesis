@@ -1,0 +1,6564 @@
+Skill: Stream Module
+- IoT: 0.85
+- Data Manipulation: 0.73
+- User Centric Design: 0.68
+Skill: Batch
+- VoIP (Voice over Internet Protocol): 0.39
+- Computer Vision: 0.34
+- Ethical Hacking: 0.32
+Skill: Documentation
+- Technical Documentation: 0.68
+- Node.js: 0.59
+- JUnit: 0.58
+Skill: Packaging
+- Matplotlib: 0.54
+- GCP: 0.53
+- User Centric Design: 0.50
+Skill: Runtime
+- Performance Testing: 0.57
+- Scalability and Performance Optimization: 0.45
+- Real-Time Systems: 0.40
+Skill: Configuration
+- VoIP (Voice over Internet Protocol): 0.70
+- TCP/IP: 0.61
+- Microsoft SQL Server: 0.52
+Skill: UI
+- UI Design: 0.99
+- User Centric Design: 0.90
+- VoIP (Voice over Internet Protocol): 0.50
+Skill: REST
+- RESTful Architecture: 0.99
+- REST: 0.98
+- Web Development: 0.61
+Skill: Hadoop
+- Hadoop: 1.00
+- Big Data Technologies: 0.99
+- Data Manipulation: 0.99
+Skill: YARN Runtime
+- Scalability and Performance Optimization: 0.37
+- Performance Testing: 0.23
+- Real-Time Systems: 0.19
+Skill: Export
+- Test-Driven Development (TDD): 0.72
+- Data Manipulation: 0.70
+- VoIP (Voice over Internet Protocol): 0.66
+Skill: DSL
+- Data Manipulation: 0.80
+- Data Manipulation and Cleaning: 0.56
+- Security Best Practices: 0.50
+Skill: Ingest
+- Test-Driven Development (TDD): 0.58
+- User Centric Design: 0.57
+- VoIP (Voice over Internet Protocol): 0.56
+Skill: Acceptance Testing
+- Quality Assurance: 0.85
+- User Research: 0.80
+- Test-Driven Development (TDD): 0.77
+Skill: Performance Testing
+- Performance Testing: 1.00
+- Test-Driven Development (TDD): 0.56
+- VoIP (Voice over Internet Protocol): 0.54
+Skill: CLI
+- Server Administration: 0.53
+- Hardware/Software Integration: 0.52
+- Data Manipulation: 0.51
+Skill: Testing
+- Test-Driven Development (TDD): 0.87
+- Quality Assurance: 0.82
+- User Centric Design: 0.75
+Skill: Analytics
+- scikit-learn: 0.57
+- SQL: 0.47
+- Matplotlib: 0.41
+Skill: Infrastructure
+- VoIP (Voice over Internet Protocol): 0.60
+- Scalability and Performance Optimization: 0.57
+- TCP/IP: 0.52
+Skill: Core
+- Test-Driven Development (TDD): 0.77
+- VoIP (Voice over Internet Protocol): 0.70
+- Technical Documentation: 0.63
+Skill: Repository
+- Microsoft SQL Server: 0.56
+- Git: 0.55
+- User Centric Design: 0.53
+Skill: Kotlin
+- VoIP (Voice over Internet Protocol): 0.68
+- User Centric Design: 0.57
+- Scalability and Performance Optimization: 0.45
+Skill: Mapping
+- GCP: 0.56
+- CoAP: 0.52
+- Matplotlib: 0.44
+Skill: SessionFactory
+- User Centric Design: 0.82
+- VoIP (Voice over Internet Protocol): 0.80
+- Test-Driven Development (TDD): 0.76
+Skill: Template API
+- REST: 0.47
+- VoIP (Voice over Internet Protocol): 0.40
+- Node.js: 0.39
+Skill: API
+- Data Manipulation: 0.64
+- scikit-learn: 0.57
+- RESTful Architecture: 0.55
+Skill: Cassandra Administration
+- Cassandra: 0.98
+- NoSQL: 0.95
+- VoIP (Voice over Internet Protocol): 0.47
+Skill: helm
+- Kubernetes: 0.92
+- Test-Driven Development (TDD): 0.68
+- VoIP (Voice over Internet Protocol): 0.67
+Skill: NuGet
+- User Centric Design: 0.42
+- VoIP (Voice over Internet Protocol): 0.41
+- Data Manipulation: 0.37
+Skill: nuget-v3
+- User Centric Design: 0.84
+- Test-Driven Development (TDD): 0.74
+- Build Automation: 0.73
+Skill: Yum
+- User Centric Design: 0.75
+- Quality Assurance: 0.70
+- scikit-learn: 0.62
+Skill: Security
+- Security Best Practices: 0.68
+- Security Auditing: 0.64
+- VoIP (Voice over Internet Protocol): 0.62
+Skill: Scripting
+- Test-Driven Development (TDD): 0.53
+- scikit-learn: 0.51
+- VoIP (Voice over Internet Protocol): 0.49
+Skill: IQ Integration
+- User Centric Design: 0.53
+- Integration Testing and System Testing: 0.28
+- VoIP (Voice over Internet Protocol): 0.16
+Skill: Crowd
+- GCP: 0.52
+- Performance Testing: 0.44
+- Scalability and Performance Optimization: 0.41
+Skill: Proxy Repository
+- User Centric Design: 0.58
+- RESTful Architecture: 0.51
+- CoAP: 0.36
+Skill: Bootstrap
+- Budgeting: 0.98
+- Web Development: 0.98
+- Responsive Web Design: 0.94
+Skill: Search
+- User Centric Design: 0.95
+- Test-Driven Development (TDD): 0.74
+- Vue.js: 0.67
+Skill: Docker
+- Docker: 1.00
+- DevOps: 0.89
+- Data Manipulation: 0.86
+Skill: HTML View
+- HTML: 1.00
+- Web Development: 0.77
+- User Centric Design: 0.71
+Skill: PyPI
+- Data Manipulation: 0.68
+- Test-Driven Development (TDD): 0.65
+- Continuous Integration/Continuous Deployment: 0.45
+Skill: Blobstore
+- User Centric Design: 0.82
+- Hardware/Software Integration: 0.75
+- VoIP (Voice over Internet Protocol): 0.74
+Skill: S3
+- Cloud Architecture: 0.97
+- Big Data Technologies: 0.80
+- Data Warehousing: 0.77
+Skill: Scheduled Tasks
+- Agile Methodologies: 0.80
+- User Centric Design: 0.78
+- Test-Driven Development (TDD): 0.50
+Skill: Routing
+- TCP/IP: 0.68
+- VoIP (Voice over Internet Protocol): 0.57
+- GCP: 0.47
+Skill: SSL
+- Cryptography: 0.99
+- Network Security: 0.95
+- Security Best Practices: 0.90
+Skill: Logging
+- Security Best Practices: 0.77
+- VoIP (Voice over Internet Protocol): 0.42
+- Matplotlib: 0.42
+Skill: conan
+- User Centric Design: 0.78
+- VoIP (Voice over Internet Protocol): 0.68
+- AI: 0.63
+Skill: Database
+- RDBMS: 0.89
+- SQL: 0.73
+- Scalability and Performance Optimization: 0.63
+Skill: Replication
+- Microsoft SQL Server: 0.54
+- VoIP (Voice over Internet Protocol): 0.49
+- MySQL: 0.49
+Skill: APT
+- Penetration Testing: 0.97
+- VoIP (Voice over Internet Protocol): 0.64
+- Performance Testing: 0.63
+Skill: Browse Storage
+- User Centric Design: 0.86
+- RDBMS: 0.36
+- Spark: 0.29
+Skill: Repository Health Check
+- Quality Assurance: 0.87
+- Test-Driven Development (TDD): 0.41
+- Git: 0.40
+Skill: import-export
+- Data Manipulation: 1.00
+- ETL: 0.54
+- Data Engineering: 0.34
+Skill: Maven
+- Test-Driven Development (TDD): 0.77
+- VoIP (Voice over Internet Protocol): 0.68
+- User Centric Design: 0.62
+Skill: Cleanup
+- ETL: 0.31
+- CoAP: 0.31
+- GCP: 0.30
+Skill: P2
+- Penetration Testing: 0.87
+- Performance Testing: 0.80
+- Test-Driven Development (TDD): 0.68
+Skill: NPM
+- Natural Language Processing: 0.65
+- Network Monitoring: 0.59
+- JavaScript: 0.57
+Skill: R
+- Data Manipulation: 0.79
+- Test-Driven Development (TDD): 0.67
+- Data Modeling: 0.65
+Skill: Transport
+- TCP/IP: 0.74
+- VoIP (Voice over Internet Protocol): 0.71
+- User Centric Design: 0.58
+Skill: npm-audit
+- Network Security: 0.99
+- Node.js: 0.97
+- Quality Assurance: 0.96
+Skill: Metrics
+- VoIP (Voice over Internet Protocol): 0.52
+- GCP: 0.46
+- Test-Driven Development (TDD): 0.46
+Skill: SAML
+- Test-Driven Development (TDD): 0.72
+- Malware Analysis: 0.56
+- Scalability and Performance Optimization: 0.54
+Skill: LDAP
+- Data Manipulation: 0.80
+- User Centric Design: 0.55
+- Scalability and Performance Optimization: 0.37
+Skill: Capabilities
+- Test-Driven Development (TDD): 0.78
+- VoIP (Voice over Internet Protocol): 0.75
+- Microsoft SQL Server: 0.65
+Skill: Conda
+- VoIP (Voice over Internet Protocol): 0.83
+- Test-Driven Development (TDD): 0.77
+- User Centric Design: 0.68
+Skill: Support Tools
+- User Centric Design: 0.85
+- VoIP (Voice over Internet Protocol): 0.69
+- Test-Driven Development (TDD): 0.68
+Skill: Audit
+- Security Auditing: 0.56
+- VoIP (Voice over Internet Protocol): 0.48
+- Microsoft SQL Server: 0.44
+Skill: group-deploy
+- Agile Methodologies: 0.93
+- DevOps: 0.92
+- Smart contracts: 0.74
+Skill: Migration
+- Microsoft SQL Server: 0.45
+- RDBMS: 0.43
+- VoIP (Voice over Internet Protocol): 0.42
+Skill: golang
+- Data Manipulation: 0.69
+- Scalability and Performance Optimization: 0.50
+- Data Manipulation and Cleaning: 0.44
+Skill: HA
+- Test-Driven Development (TDD): 0.82
+- VoIP (Voice over Internet Protocol): 0.75
+- Performance Testing: 0.62
+Skill: Raw
+- VoIP (Voice over Internet Protocol): 0.67
+- Test-Driven Development (TDD): 0.66
+- Ethical Hacking: 0.41
+Skill: RubyGems
+- User Centric Design: 0.77
+- Data Manipulation: 0.62
+- AI: 0.60
+Skill: User Token
+- Cryptocurrency development: 0.88
+- User Centric Design: 0.70
+- Hardware/Software Integration: 0.62
+Skill: Tags
+- Test-Driven Development (TDD): 0.80
+- VoIP (Voice over Internet Protocol): 0.78
+- Scalability and Performance Optimization: 0.76
+Skill: apk
+- Android Mobile App Development: 0.94
+- User Centric Design: 0.84
+- VoIP (Voice over Internet Protocol): 0.61
+Skill: Upload UI
+- User Centric Design: 0.95
+- UI Design: 0.89
+- Test-Driven Development (TDD): 0.85
+Skill: Staging
+- JUnit: 0.45
+- GCP: 0.38
+- CoAP: 0.37
+Skill: Build
+- Test-Driven Development (TDD): 0.87
+- VoIP (Voice over Internet Protocol): 0.80
+- RESTful Architecture: 0.70
+Skill: Webhooks
+- User Centric Design: 0.47
+- Web Development: 0.32
+- Node.js: 0.32
+Skill: cocoapods
+- GCP: 0.79
+- User Centric Design: 0.70
+- Hardware/Software Integration: 0.67
+Skill: Content Selectors
+- User Centric Design: 0.93
+- AI: 0.62
+- VoIP (Voice over Internet Protocol): 0.51
+Skill: Licensing
+- scikit-learn: 0.51
+- Matplotlib: 0.51
+- ETL: 0.43
+Skill: Docker-Nexus
+- Docker: 0.96
+- DevOps: 0.95
+- Cloud Native Application Development: 0.89
+Skill: Installer
+- User Centric Design: 0.80
+- VoIP (Voice over Internet Protocol): 0.62
+- Hardware/Software Integration: 0.62
+Skill: Upgrade
+- VoIP (Voice over Internet Protocol): 0.71
+- Scalability and Performance Optimization: 0.70
+- scikit-learn: 0.68
+Skill: Outreach
+- Spark: 0.35
+- Cassandra: 0.34
+- VoIP (Voice over Internet Protocol): 0.33
+Skill: nxrm3-maven-plugin
+- Test-Driven Development (TDD): 0.89
+- Build Automation: 0.89
+- VoIP (Voice over Internet Protocol): 0.85
+Skill: Jenkins Plugin
+- DevOps: 0.88
+- Build Automation: 0.80
+- Test-Driven Development (TDD): 0.78
+Skill: Firewall
+- Network Security: 0.99
+- Firewall Configuration: 0.88
+- Hardware/Software Integration: 0.65
+Skill: Backup
+- Security Best Practices: 0.75
+- TCP/IP: 0.46
+- VoIP (Voice over Internet Protocol): 0.43
+Skill: CMA
+- Data Manipulation and Cleaning: 0.77
+- Cloud Architecture: 0.64
+- Data Manipulation: 0.59
+Skill: staging-maven-plugin
+- Test-Driven Development (TDD): 0.90
+- DevOps: 0.89
+- Build Automation: 0.83
+Skill: bower-nexus3-resolver
+- Hardware/Software Integration: 0.93
+- Test-Driven Development (TDD): 0.85
+- AI: 0.84
+Skill: git-lfs
+- Git: 0.99
+- Data Manipulation: 0.73
+- VoIP (Voice over Internet Protocol): 0.67
+Skill: Bower
+- VoIP (Voice over Internet Protocol): 0.73
+- Test-Driven Development (TDD): 0.64
+- User Centric Design: 0.60
+Skill: Build Tooling
+- VoIP (Voice over Internet Protocol): 0.45
+- scikit-learn: 0.40
+- GCP: 0.39
+Skill: RUT Auth
+- Blockchain security: 0.50
+- User Centric Design: 0.46
+- Hardware/Software Integration: 0.34
+Skill: Scalability
+- Scalability and Performance Optimization: 0.64
+- VoIP (Voice over Internet Protocol): 0.47
+- scikit-learn: 0.43
+Skill: Testsuite
+- Test-Driven Development (TDD): 0.93
+- Quality Assurance: 0.88
+- VoIP (Voice over Internet Protocol): 0.50
+Skill: Smart Proxy
+- Hardware/Software Integration: 0.91
+- User Centric Design: 0.88
+- AI: 0.86
+Skill: Browse Remote
+- VPN: 0.96
+- User Centric Design: 0.83
+- TCP/IP: 0.80
+Skill: OBR
+- VoIP (Voice over Internet Protocol): 0.50
+- Test-Driven Development (TDD): 0.47
+- Backup and Recovery: 0.47
+Skill: Settings Templates
+- User Centric Design: 0.70
+- VoIP (Voice over Internet Protocol): 0.63
+- Scalability and Performance Optimization: 0.45
+Skill: System Feeds
+- Hardware/Software Integration: 0.76
+- Network Monitoring: 0.51
+- RESTful Architecture: 0.50
+Skill: Maven Archetype Catalog
+- Test-Driven Development (TDD): 0.59
+- VoIP (Voice over Internet Protocol): 0.50
+- User Centric Design: 0.47
+Skill: OSGI
+- Agile Methodologies: 0.75
+- Integration Testing and System Testing: 0.68
+- Technical Documentation: 0.53
+Skill: Rapture
+- VoIP (Voice over Internet Protocol): 0.43
+- User Centric Design: 0.30
+- Hardware/Software Integration: 0.25
+Skill: Custom Metadata
+- Data Manipulation: 0.99
+- User Centric Design: 0.86
+- Data Engineering: 0.70
+Skill: Secure Central
+- Cryptography: 0.71
+- Hardware/Software Integration: 0.69
+- Test-Driven Development (TDD): 0.63
+Skill: Procurement
+- Kanban: 0.49
+- Scrum: 0.40
+- CoAP: 0.35
+Skill: agent
+- Test-Driven Development (TDD): 0.67
+- AI: 0.56
+- User Centric Design: 0.54
+Skill: containerization
+- Security Best Practices: 0.45
+- Docker: 0.35
+- JUnit: 0.31
+Skill: gpu
+- Hardware/Software Integration: 0.96
+- Performance Testing: 0.77
+- Scalability and Performance Optimization: 0.69
+Skill: release
+- VoIP (Voice over Internet Protocol): 0.56
+- Agile Methodologies: 0.56
+- DevOps: 0.51
+Skill: executor
+- Test-Driven Development (TDD): 0.77
+- VoIP (Voice over Internet Protocol): 0.68
+- User Centric Design: 0.56
+Skill: master
+- Test-Driven Development (TDD): 0.69
+- VoIP (Voice over Internet Protocol): 0.63
+- Virtualization Hyper-V: 0.52
+Skill: allocation
+- VoIP (Voice over Internet Protocol): 0.48
+- Integration Testing and System Testing: 0.40
+- GCP: 0.33
+Skill: project website
+- User Centric Design: 0.79
+- HTML: 0.76
+- Web Development: 0.75
+Skill: test
+- Test-Driven Development (TDD): 0.87
+- Performance Testing: 0.58
+- User Research: 0.56
+Skill: c++ api
+- Data Manipulation: 0.80
+- CoAP: 0.58
+- VoIP (Voice over Internet Protocol): 0.55
+Skill: framework
+- Test-Driven Development (TDD): 0.56
+- User Centric Design: 0.50
+- Agile Methodologies: 0.49
+Skill: scheduler driver
+- Hardware/Software Integration: 0.98
+- AI: 0.65
+- User Centric Design: 0.50
+Skill: webui
+- UI Design: 0.99
+- User Centric Design: 0.97
+- Web Accessibility: 0.89
+Skill: libprocess
+- Scalability and Performance Optimization: 0.44
+- VoIP (Voice over Internet Protocol): 0.36
+- Continuous Integration/Continuous Deployment: 0.35
+Skill: stout
+- Test-Driven Development (TDD): 0.73
+- VoIP (Voice over Internet Protocol): 0.63
+- Security Best Practices: 0.55
+Skill: java api
+- Data Manipulation: 0.82
+- User Centric Design: 0.63
+- Web Development: 0.60
+Skill: reviewbot
+- AI: 1.00
+- Machine Learning: 0.94
+- Test-Driven Development (TDD): 0.83
+Skill: HTTP API
+- Web Development: 0.93
+- RESTful Architecture: 0.92
+- REST: 0.70
+Skill: storage
+- User Centric Design: 0.63
+- Cloud Architecture: 0.57
+- RDBMS: 0.48
+Skill: scheduler api
+- RESTful Architecture: 0.86
+- User Centric Design: 0.74
+- AI: 0.65
+Skill: resource provider
+- scikit-learn: 0.65
+- VoIP (Voice over Internet Protocol): 0.63
+- Big Data Technologies: 0.60
+Skill: flaky
+- scikit-learn: 0.35
+- VoIP (Voice over Internet Protocol): 0.35
+- Cassandra: 0.32
+Skill: json api
+- RESTful Architecture: 0.97
+- Data Manipulation: 0.97
+- Web Development: 0.85
+Skill: cni
+- Computer Vision: 0.95
+- Network Security: 0.94
+- Cryptography: 0.92
+Skill: modules
+- VoIP (Voice over Internet Protocol): 0.64
+- User Centric Design: 0.61
+- IoT: 0.59
+Skill: fetcher
+- User Centric Design: 0.84
+- AI: 0.77
+- VoIP (Voice over Internet Protocol): 0.68
+Skill: cmake
+- Build Automation: 0.94
+- Test-Driven Development (TDD): 0.75
+- Agile Methodologies: 0.70
+Skill: libprocs
+- Test-Driven Development (TDD): 0.70
+- Hardware/Software Integration: 0.70
+- Scalability and Performance Optimization: 0.64
+Skill: network
+- Network Monitoring: 0.61
+- Performance Testing: 0.60
+- Cloud Native Application Development: 0.58
+Skill: python api
+- Data Manipulation: 0.92
+- RESTful Architecture: 0.71
+- Test-Driven Development (TDD): 0.64
+Skill: leader election
+- User Centric Design: 0.40
+- scikit-learn: 0.38
+- SVN: 0.35
+Skill: oversubscription
+- SVN: 0.34
+- ETL: 0.32
+- AWS: 0.31
+Skill: replicated log
+- Scalability and Performance Optimization: 0.55
+- VoIP (Voice over Internet Protocol): 0.45
+- Cloud Architecture: 0.44
+Skill: image-gc
+- GCP: 0.97
+- Computer Vision: 0.96
+- Test-Driven Development (TDD): 0.85
+Skill: provisioner
+- VoIP (Voice over Internet Protocol): 0.52
+- CoAP: 0.45
+- Docker: 0.37
+Skill: statistics
+- VoIP (Voice over Internet Protocol): 0.36
+- Matplotlib: 0.34
+- PyTorch: 0.31
+Skill: Stack
+- Data Manipulation: 0.82
+- User Centric Design: 0.68
+- Test-Driven Development (TDD): 0.62
+Skill: Portal
+- User Centric Design: 0.89
+- Test-Driven Development (TDD): 0.55
+- VoIP (Voice over Internet Protocol): 0.54
+Skill: release-automation
+- DevOps: 0.92
+- Agile Methodologies: 0.68
+- Continuous Integration/Continuous Deployment: 0.59
+Skill: Chop
+- User Centric Design: 0.77
+- VoIP (Voice over Internet Protocol): 0.68
+- Hardware/Software Integration: 0.62
+Skill: UGC
+- User Centric Design: 0.91
+- Computer Vision: 0.78
+- Scalability and Performance Optimization: 0.44
+Skill: query-index
+- Data Manipulation: 0.98
+- VoIP (Voice over Internet Protocol): 0.57
+- Data Modeling: 0.40
+Skill: SDK-DotNet
+- Web Development: 0.74
+- VoIP (Voice over Internet Protocol): 0.56
+- Test-Driven Development (TDD): 0.55
+Skill: Docs
+- Test-Driven Development (TDD): 0.68
+- VoIP (Voice over Internet Protocol): 0.63
+- Vue.js: 0.62
+Skill: SDK-iOS
+- iOS Mobile App Development: 0.98
+- Technical Documentation: 0.85
+- Hardware/Software Integration: 0.80
+Skill: SDK-Android
+- Android Mobile App Development: 0.98
+- Technical Documentation: 0.87
+- Hardware/Software Integration: 0.84
+Skill: SDK-JavaScript
+- JavaScript: 0.97
+- Web Development: 0.89
+- Hardware/Software Integration: 0.68
+Skill: SDK-PHP
+- Web Development: 0.94
+- Data Manipulation: 0.67
+- Test-Driven Development (TDD): 0.62
+Skill: SDK-Nodejs
+- Node.js: 0.97
+- JavaScript: 0.93
+- Web Development: 0.83
+Skill: SDK-Ruby
+- Web Development: 0.78
+- Hardware/Software Integration: 0.75
+- Test-Driven Development (TDD): 0.72
+Skill: SDK-Ruby-Rails
+- Web Development: 0.98
+- Hardware/Software Integration: 0.78
+- Test-Driven Development (TDD): 0.76
+Skill: Apache MXNet Backend
+- Machine Learning: 0.89
+- Web Development: 0.84
+- Network Security: 0.77
+Skill: Apache MXNet C/C++ API
+- Network Security: 0.93
+- Web Development: 0.91
+- Machine Learning: 0.88
+Skill: CI Build
+- Build Automation: 0.90
+- VoIP (Voice over Internet Protocol): 0.34
+- Cryptocurrency development: 0.31
+Skill: Gluon
+- Cryptocurrency development: 0.81
+- User Centric Design: 0.76
+- AI: 0.74
+Skill: Apache MXNet Julia API
+- Network Security: 0.94
+- Web Development: 0.93
+- Machine Learning: 0.92
+Skill: Apache MXNet Scala API
+- Network Security: 0.90
+- Machine Learning: 0.88
+- Web Development: 0.85
+Skill: Apache MXNet Java API
+- Network Security: 0.92
+- Web Development: 0.87
+- Machine Learning: 0.86
+Skill: Horovod
+- VoIP (Voice over Internet Protocol): 0.57
+- AI: 0.44
+- Hardware/Software Integration: 0.41
+Skill: Keras
+- AI: 0.94
+- Machine Learning: 0.87
+- VoIP (Voice over Internet Protocol): 0.68
+Skill: Samples & Templates
+- Test-Driven Development (TDD): 0.55
+- User Centric Design: 0.53
+- Kanban: 0.52
+Skill: Tooling
+- VoIP (Voice over Internet Protocol): 0.71
+- scikit-learn: 0.67
+- Test-Driven Development (TDD): 0.66
+Skill: Styling
+- CSS: 0.64
+- ETL: 0.50
+- Cassandra: 0.47
+Skill: Titanium SDK
+- Hardware/Software Integration: 0.89
+- Technical Documentation: 0.79
+- VoIP (Voice over Internet Protocol): 0.61
+Skill: XML
+- Data Manipulation: 0.87
+- Technical Documentation: 0.61
+- User Centric Design: 0.55
+Skill: Appcelerator Studio
+- Test-Driven Development (TDD): 0.80
+- User Centric Design: 0.75
+- VoIP (Voice over Internet Protocol): 0.74
+Skill: Models
+- VoIP (Voice over Internet Protocol): 0.73
+- User Centric Design: 0.65
+- Test-Driven Development (TDD): 0.59
+Skill: Builtins
+- VoIP (Voice over Internet Protocol): 0.68
+- User Centric Design: 0.62
+- Hardware/Software Integration: 0.62
+Skill: Themes
+- VoIP (Voice over Internet Protocol): 0.55
+- Integration Testing and System Testing: 0.46
+- Azure: 0.44
+Skill: Widgets
+- Hardware/Software Integration: 0.94
+- User Centric Design: 0.92
+- UI Design: 0.79
+Skill: I18N
+- Natural Language Processing: 0.97
+- VoIP (Voice over Internet Protocol): 0.63
+- Network Security: 0.57
+Skill: Titanium Studio
+- Hardware/Software Integration: 0.79
+- Test-Driven Development (TDD): 0.76
+- VoIP (Voice over Internet Protocol): 0.72
+Skill: Update
+- Test-Driven Development (TDD): 0.88
+- RESTful Architecture: 0.80
+- RDBMS: 0.77
+Skill: Usability
+- User Centric Design: 0.97
+- UX Design: 0.84
+- Usability Testing: 0.79
+Skill: Indexing
+- Data Manipulation: 0.82
+- VoIP (Voice over Internet Protocol): 0.55
+- Node.js: 0.45
+Skill: CSS
+- CSS: 1.00
+- Web Development: 0.97
+- Cross Browser Compatibility: 0.49
+Skill: Project Explorer
+- User Centric Design: 0.69
+- VoIP (Voice over Internet Protocol): 0.68
+- Test-Driven Development (TDD): 0.62
+Skill: Editor
+- User Centric Design: 0.89
+- Data Manipulation: 0.69
+- Data Manipulation and Cleaning: 0.56
+Skill: Formatting
+- Data Manipulation: 0.95
+- Data Manipulation and Cleaning: 0.74
+- VoIP (Voice over Internet Protocol): 0.66
+Skill: Servers
+- Scalability and Performance Optimization: 0.75
+- RESTful Architecture: 0.74
+- Server Administration: 0.71
+Skill: Source Control
+- SVN: 0.41
+- Selenium: 0.37
+- Git: 0.36
+Skill: PyDev
+- Test-Driven Development (TDD): 0.68
+- VoIP (Voice over Internet Protocol): 0.57
+- Data Manipulation: 0.53
+Skill: Extensions
+- VoIP (Voice over Internet Protocol): 0.77
+- scikit-learn: 0.63
+- iOS Mobile App Development: 0.57
+Skill: App Explorer
+- User Centric Design: 0.84
+- Test-Driven Development (TDD): 0.65
+- VoIP (Voice over Internet Protocol): 0.60
+Skill: Samples
+- User Centric Design: 0.60
+- RESTful Architecture: 0.56
+- Test-Driven Development (TDD): 0.55
+Skill: Project
+- Test-Driven Development (TDD): 0.78
+- User Centric Design: 0.78
+- VoIP (Voice over Internet Protocol): 0.71
+Skill: Debugging
+- Troubleshooting: 0.99
+- VoIP (Voice over Internet Protocol): 0.46
+- Node.js: 0.44
+Skill: Ruby
+- Data Manipulation: 0.72
+- Web Development: 0.67
+- RESTful Architecture: 0.63
+Skill: Theme
+- Data Visualization: 0.80
+- Data Modeling: 0.79
+- User Centric Design: 0.75
+Skill: File
+- Test-Driven Development (TDD): 0.87
+- Security Best Practices: 0.72
+- VoIP (Voice over Internet Protocol): 0.69
+Skill: HTML
+- HTML: 1.00
+- Web Development: 0.97
+- User Centric Design: 0.67
+Skill: JS
+- JavaScript: 0.99
+- Web Development: 0.88
+- Data Manipulation: 0.64
+Skill: JS Libraries
+- Web Development: 0.97
+- JavaScript: 0.94
+- VoIP (Voice over Internet Protocol): 0.52
+Skill: Navigation
+- User Centric Design: 0.93
+- Test-Driven Development (TDD): 0.73
+- Matplotlib: 0.65
+Skill: PHP
+- Web Development: 0.93
+- Data Manipulation: 0.82
+- Project Planning: 0.55
+Skill: Sass
+- Web Development: 0.93
+- Security Auditing: 0.59
+- VoIP (Voice over Internet Protocol): 0.58
+Skill: Templates
+- VoIP (Voice over Internet Protocol): 0.56
+- User Centric Design: 0.53
+- ETL: 0.53
+Skill: Publishing
+- GCP: 0.61
+- VoIP (Voice over Internet Protocol): 0.59
+- ETL: 0.56
+Skill: Content Assist
+- AI: 0.96
+- Machine Learning: 0.68
+- CoAP: 0.60
+Skill: Performance
+- Performance Testing: 0.73
+- Test-Driven Development (TDD): 0.55
+- Scalability and Performance Optimization: 0.54
+Skill: Preview
+- User Centric Design: 0.87
+- RESTful Architecture: 0.82
+- Kanban: 0.73
+Skill: Colorization
+- AI: 0.52
+- Azure: 0.49
+- scikit-learn: 0.46
+Skill: CoffeeScript
+- Web Development: 0.88
+- Data Manipulation: 0.64
+- Cross Browser Compatibility: 0.51
+Skill: Parsing
+- Natural Language Processing: 0.91
+- scikit-learn: 0.47
+- Data Manipulation and Cleaning: 0.36
+Skill: Folding
+- User Centric Design: 0.80
+- GCP: 0.36
+- Scalability and Performance Optimization: 0.30
+Skill: Outline
+- VoIP (Voice over Internet Protocol): 0.69
+- Test-Driven Development (TDD): 0.66
+- Scalability and Performance Optimization: 0.60
+Skill: Terminal
+- User Centric Design: 0.73
+- Hardware/Software Integration: 0.68
+- Test-Driven Development (TDD): 0.67
+Skill: Validation
+- VoIP (Voice over Internet Protocol): 0.40
+- SVN: 0.36
+- scikit-learn: 0.35
+Skill: Tasks
+- Test-Driven Development (TDD): 0.88
+- User Centric Design: 0.74
+- Integration Testing and System Testing: 0.70
+Skill: SVG
+- Data Visualization: 0.81
+- Wireframing and Prototyping: 0.63
+- User Centric Design: 0.63
+Skill: Hover
+- User Centric Design: 0.93
+- Responsive Design: 0.87
+- Responsive Web Design: 0.87
+Skill: HAML
+- Machine Learning: 0.86
+- Malware Analysis: 0.77
+- Web Development: 0.63
+Skill: YAML
+- Data Manipulation: 0.97
+- Technical Documentation: 0.64
+- User Centric Design: 0.53
+Skill: Titanium
+- VoIP (Voice over Internet Protocol): 0.59
+- Scalability and Performance Optimization: 0.48
+- Hardware/Software Integration: 0.47
+Skill: Dashboard Integration
+- User Centric Design: 0.87
+- Data Visualization: 0.65
+- VoIP (Voice over Internet Protocol): 0.34
+Skill: Markdown
+- Natural Language Processing: 0.99
+- Data Manipulation and Cleaning: 0.91
+- Data Manipulation: 0.91
+Skill: Node Utilities
+- IoT: 0.67
+- VoIP (Voice over Internet Protocol): 0.55
+- Node.js: 0.53
+Skill: Verification
+- Test-Driven Development (TDD): 0.67
+- SVN: 0.48
+- RDBMS: 0.46
+Skill: Registry
+- Docker: 0.50
+- GCP: 0.45
+- CoAP: 0.40
+Skill: amplify-sdk
+- VoIP (Voice over Internet Protocol): 0.89
+- AI: 0.78
+- Test-Driven Development (TDD): 0.74
+Skill: appcd-plugin-amplify
+- VoIP (Voice over Internet Protocol): 0.86
+- Data Manipulation: 0.81
+- Continuous Integration/Continuous Deployment: 0.81
+Skill: appcd
+- User Centric Design: 0.76
+- VoIP (Voice over Internet Protocol): 0.76
+- Test-Driven Development (TDD): 0.73
+Skill: appcd-plugin-titanium
+- Continuous Integration/Continuous Deployment: 0.92
+- VoIP (Voice over Internet Protocol): 0.87
+- Test-Driven Development (TDD): 0.82
+Skill: titaniumlib
+- Test-Driven Development (TDD): 0.87
+- VoIP (Voice over Internet Protocol): 0.84
+- User Centric Design: 0.78
+Skill: Appc CLI
+- Test-Driven Development (TDD): 0.60
+- Hardware/Software Integration: 0.55
+- VoIP (Voice over Internet Protocol): 0.46
+Skill: appcd-default-plugins
+- VoIP (Voice over Internet Protocol): 0.82
+- Test-Driven Development (TDD): 0.81
+- Continuous Integration/Continuous Deployment: 0.70
+Skill: winreglib
+- Test-Driven Development (TDD): 0.80
+- Data Manipulation: 0.79
+- User Centric Design: 0.78
+Skill: appcd-plugin
+- VoIP (Voice over Internet Protocol): 0.86
+- Continuous Integration/Continuous Deployment: 0.84
+- Test-Driven Development (TDD): 0.83
+Skill: template-kit
+- Test-Driven Development (TDD): 0.60
+- VoIP (Voice over Internet Protocol): 0.54
+- User Centric Design: 0.49
+Skill: appcd-core
+- Test-Driven Development (TDD): 0.85
+- Continuous Integration/Continuous Deployment: 0.80
+- VoIP (Voice over Internet Protocol): 0.74
+Skill: androidlib
+- Android Mobile App Development: 0.85
+- Test-Driven Development (TDD): 0.76
+- VoIP (Voice over Internet Protocol): 0.67
+Skill: Titanium CLI
+- Hardware/Software Integration: 0.74
+- User Centric Design: 0.54
+- Server Administration: 0.50
+Skill: appcd-plugin-android
+- Android Mobile App Development: 0.99
+- Continuous Integration/Continuous Deployment: 0.91
+- VoIP (Voice over Internet Protocol): 0.88
+Skill: appcd-plugin-genymotion
+- VoIP (Voice over Internet Protocol): 0.91
+- Continuous Integration/Continuous Deployment: 0.89
+- Test-Driven Development (TDD): 0.83
+Skill: ioslib
+- iOS Mobile App Development: 0.85
+- User Centric Design: 0.80
+- Test-Driven Development (TDD): 0.80
+Skill: appcd-nodejs
+- Node.js: 1.00
+- JavaScript: 0.99
+- Web Development: 0.99
+Skill: appcd-response
+- Responsive Design: 0.99
+- Responsive Web Design: 0.94
+- Test-Driven Development (TDD): 0.76
+Skill: appcd-plugin-ios
+- iOS Mobile App Development: 0.99
+- IoT: 0.97
+- Continuous Integration/Continuous Deployment: 0.91
+Skill: node-ios-device
+- IoT: 0.99
+- Hardware/Software Integration: 0.98
+- Node.js: 0.98
+Skill: windowslib
+- Test-Driven Development (TDD): 0.75
+- User Centric Design: 0.68
+- Technical Documentation: 0.53
+Skill: appcd-winreg
+- VoIP (Voice over Internet Protocol): 0.87
+- Test-Driven Development (TDD): 0.85
+- Continuous Integration/Continuous Deployment: 0.83
+Skill: appcd-gulp
+- VoIP (Voice over Internet Protocol): 0.81
+- User Centric Design: 0.73
+- Test-Driven Development (TDD): 0.67
+Skill: appcd-config
+- Test-Driven Development (TDD): 0.87
+- VoIP (Voice over Internet Protocol): 0.82
+- Continuous Integration/Continuous Deployment: 0.77
+Skill: appcd-config-service
+- Test-Driven Development (TDD): 0.87
+- VoIP (Voice over Internet Protocol): 0.82
+- Continuous Integration/Continuous Deployment: 0.77
+Skill: appcd-subprocess
+- Test-Driven Development (TDD): 0.75
+- VoIP (Voice over Internet Protocol): 0.68
+- Continuous Integration/Continuous Deployment: 0.62
+Skill: appcd-dispatcher
+- Test-Driven Development (TDD): 0.87
+- Continuous Integration/Continuous Deployment: 0.84
+- VoIP (Voice over Internet Protocol): 0.82
+Skill: appcd-util
+- Test-Driven Development (TDD): 0.85
+- VoIP (Voice over Internet Protocol): 0.83
+- Continuous Integration/Continuous Deployment: 0.73
+Skill: appcd-logger
+- Test-Driven Development (TDD): 0.81
+- VoIP (Voice over Internet Protocol): 0.73
+- Continuous Integration/Continuous Deployment: 0.64
+Skill: appcd-plugin-jdk
+- Test-Driven Development (TDD): 0.86
+- VoIP (Voice over Internet Protocol): 0.83
+- Continuous Integration/Continuous Deployment: 0.78
+Skill: appcd-plugin-system-info
+- Test-Driven Development (TDD): 0.85
+- VoIP (Voice over Internet Protocol): 0.83
+- Continuous Integration/Continuous Deployment: 0.80
+Skill: appcd-plugin-windows
+- Continuous Integration/Continuous Deployment: 0.89
+- VoIP (Voice over Internet Protocol): 0.82
+- Test-Driven Development (TDD): 0.79
+Skill: General
+- Test-Driven Development (TDD): 0.83
+- VoIP (Voice over Internet Protocol): 0.81
+- RDBMS: 0.60
+Skill: appcd-telemetry
+- Hardware/Software Integration: 0.94
+- IoT: 0.84
+- Test-Driven Development (TDD): 0.51
+Skill: appcd-fswatcher
+- Test-Driven Development (TDD): 0.87
+- VoIP (Voice over Internet Protocol): 0.85
+- Computer Vision: 0.84
+Skill: appcd-http
+- RESTful Architecture: 0.87
+- Web Development: 0.85
+- Test-Driven Development (TDD): 0.84
+Skill: appcd-detect
+- Computer Vision: 0.82
+- VoIP (Voice over Internet Protocol): 0.79
+- Test-Driven Development (TDD): 0.73
+Skill: jdklib
+- Test-Driven Development (TDD): 0.76
+- VoIP (Voice over Internet Protocol): 0.72
+- Data Manipulation: 0.70
+Skill: appcd-client
+- VoIP (Voice over Internet Protocol): 0.90
+- Test-Driven Development (TDD): 0.89
+- User Centric Design: 0.77
+Skill: appcd-request
+- Test-Driven Development (TDD): 0.83
+- User Centric Design: 0.82
+- VoIP (Voice over Internet Protocol): 0.79
+Skill: appcd-agent
+- AI: 0.90
+- VoIP (Voice over Internet Protocol): 0.86
+- Test-Driven Development (TDD): 0.84
+Skill: node-appc
+- Cloud Native Application Development: 0.93
+- Node.js: 0.90
+- Cryptocurrency development: 0.86
+Skill: APIDoc
+- Technical Documentation: 0.83
+- User Centric Design: 0.55
+- Test-Driven Development (TDD): 0.54
+Skill: Guides
+- User Centric Design: 0.92
+- Natural Language Processing: 0.74
+- RESTful Architecture: 0.62
+Skill: Cloud
+- Cloud Architecture: 0.94
+- Scalability and Performance Optimization: 0.75
+- Cloud Native Application Development: 0.70
+Skill: Stratus
+- Hardware/Software Integration: 0.81
+- User Centric Design: 0.76
+- Cloud Architecture: 0.71
+Skill: CIJ Plugin
+- VoIP (Voice over Internet Protocol): 0.59
+- Continuous Integration/Continuous Deployment: 0.46
+- JavaScript: 0.39
+Skill: Instrumentation
+- TCP/IP: 0.53
+- Matplotlib: 0.52
+- VoIP (Voice over Internet Protocol): 0.52
+Skill: CEP Plugin
+- VoIP (Voice over Internet Protocol): 0.52
+- Data Manipulation: 0.47
+- Continuous Integration/Continuous Deployment: 0.43
+Skill: SSO
+- Scalability and Performance Optimization: 0.69
+- User Centric Design: 0.66
+- Integration Testing and System Testing: 0.49
+Skill: Groovy
+- Test-Driven Development (TDD): 0.86
+- User Centric Design: 0.82
+- RESTful Architecture: 0.80
+Skill: Integrations
+- VoIP (Voice over Internet Protocol): 0.58
+- Microsoft SQL Server: 0.48
+- scikit-learn: 0.48
+Skill: Build system
+- VoIP (Voice over Internet Protocol): 0.78
+- Continuous Integration/Continuous Deployment: 0.63
+- System Administration: 0.56
+Skill: Maven plugin
+- Test-Driven Development (TDD): 0.76
+- Data Manipulation: 0.65
+- Build Automation: 0.63
+Skill: Ant Tasks
+- User Centric Design: 0.77
+- IoT: 0.65
+- AI: 0.58
+Skill: Grails Plugin
+- VoIP (Voice over Internet Protocol): 0.77
+- Web Development: 0.73
+- User Centric Design: 0.68
+Skill: Reporting
+- Natural Language Processing: 0.90
+- VoIP (Voice over Internet Protocol): 0.75
+- TCP/IP: 0.62
+Skill: Scala
+- Data Manipulation: 0.69
+- VoIP (Voice over Internet Protocol): 0.53
+- Data Manipulation and Cleaning: 0.53
+Skill: Test Optimization
+- VoIP (Voice over Internet Protocol): 0.45
+- Test-Driven Development (TDD): 0.39
+- scikit-learn: 0.29
+Skill: Gradle Plugin
+- Test-Driven Development (TDD): 0.73
+- Android Mobile App Development: 0.69
+- Data Manipulation: 0.68
+Skill: Authentication / Security
+- Security Best Practices: 0.55
+- pytest: 0.42
+- Microsoft SQL Server: 0.33
+Skill: Embedded
+- Embedded Systems: 0.80
+- Test-Driven Development (TDD): 0.76
+- User Centric Design: 0.75
+Skill: Applications
+- VoIP (Voice over Internet Protocol): 0.82
+- User Centric Design: 0.76
+- Test-Driven Development (TDD): 0.68
+Skill: Directory - Azure Active Directory
+- Azure: 1.00
+- Active Directory: 1.00
+- Cloud Architecture: 0.70
+Skill: Directory - Internal/Delegated
+- Test-Driven Development (TDD): 0.40
+- Active Directory: 0.38
+- scikit-learn: 0.36
+Skill: Directories
+- User Centric Design: 0.66
+- Active Directory: 0.54
+- CoAP: 0.48
+Skill: Audit Log
+- Security Auditing: 0.86
+- AWS: 0.15
+- VoIP (Voice over Internet Protocol): 0.13
+Skill: Directory - LDAP
+- User Centric Design: 0.42
+- Technical Documentation: 0.13
+- Scalability and Performance Optimization: 0.10
+Skill: Plugins
+- VoIP (Voice over Internet Protocol): 0.62
+- Matplotlib: 0.60
+- scikit-learn: 0.59
+Skill: Core features
+- Test-Driven Development (TDD): 0.86
+- Matplotlib: 0.82
+- VoIP (Voice over Internet Protocol): 0.81
+Skill: Directory - Remote Crowd
+- User Centric Design: 0.85
+- VoIP (Voice over Internet Protocol): 0.63
+- Cloud Architecture: 0.27
+Skill: Installation/Setup
+- User Centric Design: 0.74
+- VoIP (Voice over Internet Protocol): 0.57
+- scikit-learn: 0.51
+Skill: Import & Export
+- Data Manipulation: 0.99
+- IoT: 0.74
+- User Centric Design: 0.72
+Skill: OpenID
+- User Centric Design: 0.73
+- scikit-learn: 0.58
+- Test-Driven Development (TDD): 0.58
+Skill: DC Core
+- Cryptocurrency development: 0.68
+- VoIP (Voice over Internet Protocol): 0.56
+- Test-Driven Development (TDD): 0.50
+Skill: Email system
+- User Centric Design: 0.76
+- Integration Testing and System Testing: 0.70
+- Scalability and Performance Optimization: 0.47
+Skill: Centralized license visibility
+- VoIP (Voice over Internet Protocol): 0.38
+- GCP: 0.31
+- Spark: 0.30
+Skill: Asynchronous REST Client
+- REST: 1.00
+- RESTful Architecture: 1.00
+- Web Development: 0.88
+Skill: Deployment
+- VoIP (Voice over Internet Protocol): 0.66
+- DevOps: 0.55
+- TCP/IP: 0.49
+Skill: Delegated group administration
+- GCP: 0.44
+- ETL: 0.39
+- Spark: 0.38
+Skill: Default group memberships
+- User Centric Design: 0.48
+- Test-Driven Development (TDD): 0.44
+- scikit-learn: 0.40
+Skill: Notification
+- User Centric Design: 0.95
+- Natural Language Processing: 0.89
+- IoT: 0.69
+Skill: User Management
+- Django: 0.38
+- Active Directory: 0.38
+- VoIP (Voice over Internet Protocol): 0.36
+Skill: Integration/Connectors
+- VoIP (Voice over Internet Protocol): 0.50
+- IoT: 0.42
+- scikit-learn: 0.38
+Skill: Upgrade
+- VoIP (Voice over Internet Protocol): 0.71
+- Scalability and Performance Optimization: 0.70
+- scikit-learn: 0.68
+Skill: Caching
+- Data Manipulation: 0.96
+- Scalability and Performance Optimization: 0.94
+- GCP: 0.44
+Skill: Backup / Restore
+- Backup and Recovery: 1.00
+- Data Manipulation: 1.00
+- Data Engineering: 0.97
+Skill: User Console
+- User Centric Design: 0.91
+- Hardware/Software Integration: 0.71
+- UX Design: 0.38
+Skill: Integration - Google Apps
+- User Centric Design: 0.78
+- GCP: 0.63
+- Cloud Architecture: 0.56
+Skill: Integration - Confluence
+- VoIP (Voice over Internet Protocol): 0.70
+- Memory Management and Performance Profiling: 0.46
+- Matplotlib: 0.45
+Skill: Horde
+- VoIP (Voice over Internet Protocol): 0.43
+- AI: 0.42
+- Android Mobile App Development: 0.41
+Skill: Integration - JIRA
+- Agile Methodologies: 0.95
+- Integration Testing and System Testing: 0.40
+- DevOps: 0.34
+Skill: Integration - Apache/Subversion
+- Web Development: 0.91
+- SVN: 0.90
+- VoIP (Voice over Internet Protocol): 0.63
+Skill: Tests
+- Test-Driven Development (TDD): 0.92
+- Quality Assurance: 0.83
+- Performance Testing: 0.57
+Skill: SOAP
+- Agile Methodologies: 0.91
+- Scalability and Performance Optimization: 0.81
+- CoAP: 0.61
+Skill: Backend / Domain Model
+- RDBMS: 0.51
+- Test-Driven Development (TDD): 0.50
+- Node.js: 0.50
+Skill: Demo Application
+- User Centric Design: 0.76
+- Scalability and Performance Optimization: 0.63
+- VoIP (Voice over Internet Protocol): 0.61
+Skill: Integration - Fisheye/Crucible
+- Agile Methodologies: 0.79
+- Computer Vision: 0.72
+- Integration Testing and System Testing: 0.59
+Skill: Internationalisation
+- CoAP: 0.40
+- VoIP (Voice over Internet Protocol): 0.26
+- Spark: 0.26
+Skill: Integration - Bamboo
+- VoIP (Voice over Internet Protocol): 0.55
+- Hardware/Software Integration: 0.40
+- Integration Testing and System Testing: 0.29
+Skill: Integration - Jive
+- VoIP (Voice over Internet Protocol): 0.67
+- User Centric Design: 0.47
+- Hardware/Software Integration: 0.28
+Skill: Server administration
+- Server Administration: 1.00
+- IT Support: 0.73
+- System Administration: 0.69
+Skill: Repositories
+- Microsoft SQL Server: 0.62
+- RDBMS: 0.55
+- Git: 0.52
+Skill: Runtime platform
+- Node.js: 0.57
+- Virtualization VMware: 0.47
+- VoIP (Voice over Internet Protocol): 0.47
+Skill: User interface
+- UI Design: 1.00
+- User Centric Design: 0.95
+- UX Design: 0.89
+Skill: System Administration - Others
+- System Administration: 1.00
+- VoIP (Voice over Internet Protocol): 0.64
+- Continuous Integration/Continuous Deployment: 0.42
+Skill: Data Center - Archiving
+- CoAP: 0.38
+- Hadoop: 0.36
+- Azure: 0.35
+Skill: Jira Importers Plugin
+- Data Manipulation: 0.95
+- User Centric Design: 0.76
+- Kanban: 0.69
+Skill: Dashboard & Gadgets
+- Hardware/Software Integration: 1.00
+- Data Visualization: 0.98
+- User Centric Design: 0.88
+Skill: Issue - Comments
+- Natural Language Processing: 0.95
+- Troubleshooting: 0.75
+- Test-Driven Development (TDD): 0.67
+Skill: Issue - Fields
+- Troubleshooting: 0.83
+- Test-Driven Development (TDD): 0.38
+- Microsoft SQL Server: 0.35
+Skill: Project - Agile Boards
+- Project Planning: 0.96
+- Agile Methodologies: 0.73
+- Cassandra: 0.48
+Skill: Project Administration - Others
+- VoIP (Voice over Internet Protocol): 0.58
+- CoAP: 0.43
+- Test-Driven Development (TDD): 0.37
+Skill: Issue - Attachments
+- Troubleshooting: 0.76
+- VoIP (Voice over Internet Protocol): 0.50
+- Test-Driven Development (TDD): 0.44
+Skill: Custom fields
+- User Centric Design: 0.95
+- Data Manipulation: 0.75
+- VoIP (Voice over Internet Protocol): 0.61
+Skill: Documentation - All
+- Matplotlib: 0.56
+- Microsoft SQL Server: 0.51
+- scikit-learn: 0.50
+Skill: Administration - Fields
+- System Administration: 0.50
+- VoIP (Voice over Internet Protocol): 0.48
+- Test-Driven Development (TDD): 0.45
+Skill: Data Center - Other
+- Virtualization Hyper-V: 0.51
+- Virtualization VMware: 0.46
+- Microsoft SQL Server: 0.43
+Skill: System Administration - General Configuration
+- System Administration: 1.00
+- VoIP (Voice over Internet Protocol): 0.57
+- GCP: 0.56
+Skill: Environment - Java
+- Test-Driven Development (TDD): 0.71
+- JUnit: 0.52
+- REST: 0.49
+Skill: Data Center - Database
+- Data Engineering: 0.63
+- Microsoft SQL Server: 0.61
+- Scalability and Performance Optimization: 0.47
+Skill: Environment - Database
+- RDBMS: 0.73
+- Microsoft SQL Server: 0.68
+- SQL: 0.59
+Skill: JQL
+- Responsive Design: 0.55
+- VoIP (Voice over Internet Protocol): 0.55
+- Responsive Web Design: 0.48
+Skill: Installation
+- VoIP (Voice over Internet Protocol): 0.53
+- Microsoft SQL Server: 0.51
+- Node.js: 0.50
+Skill: Navigation - Search
+- User Centric Design: 0.94
+- Test-Driven Development (TDD): 0.69
+- VoIP (Voice over Internet Protocol): 0.58
+Skill: System Administration - Audit Logs
+- System Administration: 1.00
+- Technical Documentation: 0.89
+- Data Manipulation and Cleaning: 0.37
+Skill: Login
+- User Centric Design: 0.94
+- Test-Driven Development (TDD): 0.86
+- Vue.js: 0.73
+Skill: Project Administration - Users and Roles
+- VoIP (Voice over Internet Protocol): 0.42
+- CoAP: 0.42
+- User Centric Design: 0.40
+Skill: Administration - Others
+- VoIP (Voice over Internet Protocol): 0.69
+- Test-Driven Development (TDD): 0.61
+- Vue.js: 0.49
+Skill: Bulk Operations
+- VoIP (Voice over Internet Protocol): 0.37
+- GCP: 0.27
+- Backup and Recovery: 0.26
+Skill: Issue - Actions
+- Troubleshooting: 0.81
+- Test-Driven Development (TDD): 0.58
+- VoIP (Voice over Internet Protocol): 0.56
+Skill: Issue - Create Issue
+- JavaScript: 0.38
+- Git: 0.38
+- VoIP (Voice over Internet Protocol): 0.34
+Skill: Mobile
+- Responsive Design: 0.81
+- User Centric Design: 0.78
+- scikit-learn: 0.61
+Skill: Data Center - Index
+- Microsoft SQL Server: 0.43
+- Hardware/Software Integration: 0.43
+- Virtualization Hyper-V: 0.37
+Skill: User Management - Others
+- VoIP (Voice over Internet Protocol): 0.42
+- Cassandra: 0.28
+- Django: 0.28
+Skill: System Administration - Look and Feel
+- System Administration: 1.00
+- User Centric Design: 0.67
+- ETL: 0.60
+Skill: Dev Info
+- Technical Documentation: 0.90
+- VoIP (Voice over Internet Protocol): 0.84
+- Test-Driven Development (TDD): 0.83
+Skill: Next-gen - Configuration
+- VoIP (Voice over Internet Protocol): 0.60
+- Big Data Technologies: 0.32
+- Virtualization VMware: 0.27
+Skill: Issue Details View
+- Troubleshooting: 0.81
+- Test-Driven Development (TDD): 0.78
+- VoIP (Voice over Internet Protocol): 0.73
+Skill: Classic - Boards
+- Hardware/Software Integration: 0.89
+- GCP: 0.43
+- ETL: 0.38
+Skill: next-gen
+- VoIP (Voice over Internet Protocol): 0.79
+- User Centric Design: 0.73
+- Scalability and Performance Optimization: 0.72
+Skill: Classic - Backlog
+- Cassandra: 0.27
+- Microsoft SQL Server: 0.25
+- IT Support: 0.21
+Skill: Roadmap
+- User Centric Design: 0.38
+- scikit-learn: 0.37
+- VoIP (Voice over Internet Protocol): 0.35
+Skill: Advanced Roadmaps
+- VoIP (Voice over Internet Protocol): 0.34
+- User Centric Design: 0.23
+- Virtualization VMware: 0.21
+Skill: Gadget
+- VoIP (Voice over Internet Protocol): 0.73
+- Virtualization VMware: 0.68
+- Virtualization Hyper-V: 0.68
+Skill: Classic - Reports
+- Network Monitoring: 0.38
+- Microsoft SQL Server: 0.38
+- REST: 0.37
+Skill: Development Panel
+- Test-Driven Development (TDD): 0.61
+- VoIP (Voice over Internet Protocol): 0.59
+- Cross Browser Compatibility: 0.34
+Skill: REST API
+- RESTful Architecture: 0.99
+- REST: 0.99
+- Web Development: 0.53
+Skill: Workflow Triggers
+- User Centric Design: 0.68
+- Agile Methodologies: 0.43
+- Build Automation: 0.39
+Skill: Classic - Boards & Backlogs Versions and epics
+- Hardware/Software Integration: 0.72
+- ETL: 0.22
+- GCP: 0.19
+Skill: Next-gen - Boards
+- Hardware/Software Integration: 0.95
+- Scalability and Performance Optimization: 0.56
+- IoT: 0.55
+Skill: Product - Quickstart
+- User Centric Design: 0.90
+- VoIP (Voice over Internet Protocol): 0.64
+- Microsoft SQL Server: 0.56
+Skill: Classic - Sprints
+- Agile Methodologies: 0.98
+- Performance Testing: 0.88
+- Incident Response: 0.63
+Skill: Next-gen - Sprints
+- Agile Methodologies: 0.99
+- User Centric Design: 0.53
+- VoIP (Voice over Internet Protocol): 0.53
+Skill: Next-gen - Versions & Releases
+- VoIP (Voice over Internet Protocol): 0.61
+- Virtualization VMware: 0.36
+- Virtualization Hyper-V: 0.35
+Skill: Project - Settings - Automation for Jira
+- Test-Driven Development (TDD): 0.78
+- DevOps: 0.67
+- Kanban: 0.65
+Skill: Project (Classic) - Deployments
+- DevOps: 0.86
+- VoIP (Voice over Internet Protocol): 0.51
+- Cassandra: 0.25
+Skill: Next-gen - Backlog
+- VoIP (Voice over Internet Protocol): 0.56
+- GCP: 0.23
+- Computer Vision: 0.22
+Skill: Next-gen - Epics and Subtasks
+- Agile Methodologies: 0.83
+- VoIP (Voice over Internet Protocol): 0.54
+- ETL: 0.35
+Skill: Classic - Board Configuration
+- Hardware/Software Integration: 0.81
+- GCP: 0.25
+- AWS: 0.25
+Skill: Next-gen - Reports
+- VoIP (Voice over Internet Protocol): 0.71
+- Virtualization Hyper-V: 0.40
+- Virtualization VMware: 0.39
+Skill: Release Hub
+- User Centric Design: 0.64
+- VoIP (Voice over Internet Protocol): 0.58
+- DevOps: 0.50
+Skill: DVCS Connector
+- Hardware/Software Integration: 0.92
+- IoT: 0.80
+- User Centric Design: 0.50
+Skill: Next-gen - Card
+- Hardware/Software Integration: 0.97
+- User Centric Design: 0.65
+- Scalability and Performance Optimization: 0.56
+Skill: Smart Commits
+- Agile Methodologies: 0.94
+- Smart contracts: 0.93
+- User Centric Design: 0.68
+Skill: DVCS Accounts
+- User Centric Design: 0.81
+- Scalability and Performance Optimization: 0.23
+- Cloud Architecture: 0.21
+Skill: Fisheye Plugin
+- Computer Vision: 0.98
+- Web Development: 0.87
+- Network Monitoring: 0.86
+Skill: Dashboard & Reports - Reports
+- Data Visualization: 0.96
+- User Centric Design: 0.87
+- VoIP (Voice over Internet Protocol): 0.47
+Skill: Sprint
+- Agile Methodologies: 0.98
+- VoIP (Voice over Internet Protocol): 0.59
+- User Centric Design: 0.56
+Skill: Translations
+- Natural Language Processing: 0.99
+- Test-Driven Development (TDD): 0.83
+- Continuous Integration/Continuous Deployment: 0.81
+Skill: Reports
+- Test-Driven Development (TDD): 0.67
+- User Centric Design: 0.59
+- Virtualization Hyper-V: 0.58
+Skill: Data Center
+- Hardware/Software Integration: 0.66
+- Scalability and Performance Optimization: 0.62
+- Virtualization Hyper-V: 0.50
+Skill: UPM (Universal Plugin Manager)
+- User Centric Design: 0.74
+- Cross Browser Compatibility: 0.42
+- CoAP: 0.23
+Skill: Board configuration
+- Hardware/Software Integration: 0.79
+- VoIP (Voice over Internet Protocol): 0.67
+- Kanban: 0.58
+Skill: AgileBoard
+- VoIP (Voice over Internet Protocol): 0.74
+- User Centric Design: 0.57
+- Scalability and Performance Optimization: 0.43
+Skill: Scrum Board
+- Agile Methodologies: 0.99
+- Scrum: 0.99
+- Integration Testing and System Testing: 0.34
+Skill: Versions
+- Data Manipulation: 0.65
+- Responsive Design: 0.65
+- Responsive Web Design: 0.62
+Skill: Epics
+- User Centric Design: 0.43
+- VoIP (Voice over Internet Protocol): 0.43
+- Spark: 0.36
+Skill: Lexorank
+- Natural Language Processing: 0.98
+- User Centric Design: 0.83
+- Machine Learning: 0.76
+Skill: Backlog
+- RDBMS: 0.31
+- NoSQL: 0.28
+- IT Support: 0.27
+Skill: Kanplan
+- VoIP (Voice over Internet Protocol): 0.73
+- User Centric Design: 0.68
+- Hardware/Software Integration: 0.62
+Skill: Jira 8.10 EAP
+- Agile Methodologies: 0.92
+- Kanban: 0.76
+- Test-Driven Development (TDD): 0.69
+Skill: Jira 8.9 EAP
+- Agile Methodologies: 0.91
+- Kanban: 0.78
+- Test-Driven Development (TDD): 0.67
+Skill: Fast Kanban
+- Agile Methodologies: 0.99
+- Kanban: 0.99
+- Scalability and Performance Optimization: 0.60
+Skill: internet-explorer
+- User Centric Design: 0.93
+- AI: 0.84
+- Test-Driven Development (TDD): 0.78
+Skill: Jira 8.7 EAP02
+- Agile Methodologies: 0.86
+- Kanban: 0.74
+- Test-Driven Development (TDD): 0.72
+Skill: Jira 8.7 EAP03
+- Agile Methodologies: 0.85
+- Kanban: 0.73
+- Test-Driven Development (TDD): 0.73
+Skill: Jira 8.5 EAP
+- Agile Methodologies: 0.95
+- Kanban: 0.85
+- Test-Driven Development (TDD): 0.66
+Skill: Jira 8.4 EAP
+- Agile Methodologies: 0.93
+- Kanban: 0.78
+- Test-Driven Development (TDD): 0.65
+Skill: Jira 7.10 EAP
+- Agile Methodologies: 0.92
+- Kanban: 0.77
+- Test-Driven Development (TDD): 0.69
+Skill: Jira 8.3 EAP
+- Agile Methodologies: 0.94
+- Kanban: 0.81
+- Test-Driven Development (TDD): 0.66
+Skill: Jira 8.1 EAP
+- Agile Methodologies: 0.89
+- Kanban: 0.77
+- Test-Driven Development (TDD): 0.67
+Skill: Jira 8.0 EAP
+- Agile Methodologies: 0.91
+- Kanban: 0.77
+- Test-Driven Development (TDD): 0.66
+Skill: flash
+- Hardware/Software Integration: 0.83
+- User Centric Design: 0.82
+- Test-Driven Development (TDD): 0.81
+Skill: Jira 7.11 EAP
+- Agile Methodologies: 0.91
+- Kanban: 0.79
+- Test-Driven Development (TDD): 0.68
+Skill: Jira 7.12 EAP
+- Agile Methodologies: 0.90
+- Kanban: 0.76
+- Test-Driven Development (TDD): 0.68
+Skill: Jira 7.13 EAP
+- Agile Methodologies: 0.93
+- Kanban: 0.72
+- Test-Driven Development (TDD): 0.68
+Skill: Better Notifications
+- User Centric Design: 0.96
+- UI Design: 0.68
+- Hardware/Software Integration: 0.44
+Skill: Issue - View Issue
+- Test-Driven Development (TDD): 0.86
+- VoIP (Voice over Internet Protocol): 0.85
+- User Centric Design: 0.72
+Skill: Issue - Others
+- Troubleshooting: 0.61
+- VoIP (Voice over Internet Protocol): 0.51
+- Test-Driven Development (TDD): 0.51
+Skill: Web Resources Manager
+- AI: 0.48
+- Node.js: 0.40
+- JavaScript: 0.38
+Skill: Custom Field Optimizer
+- Machine Learning: 0.93
+- AI: 0.93
+- Data Manipulation: 0.91
+Skill: System Administration - Priorities
+- System Administration: 1.00
+- VoIP (Voice over Internet Protocol): 0.47
+- Microsoft SQL Server: 0.27
+Skill: Project - Actions
+- Test-Driven Development (TDD): 0.74
+- VoIP (Voice over Internet Protocol): 0.70
+- Node.js: 0.53
+Skill: Filters & Dashboards - Permissions
+- User Centric Design: 0.93
+- Data Manipulation and Cleaning: 0.88
+- Data Visualization: 0.68
+Skill: Front-end API
+- User Centric Design: 0.78
+- RESTful Architecture: 0.71
+- Web Development: 0.65
+Skill: Email notifications
+- User Centric Design: 0.94
+- Natural Language Processing: 0.90
+- IoT: 0.41
+Skill: User Management - Delete User
+- Data Manipulation and Cleaning: 0.99
+- Data Manipulation: 0.93
+- System Administration: 0.74
+Skill: User Management - LDAP Integration
+- Data Manipulation: 0.86
+- User Centric Design: 0.84
+- Test-Driven Development (TDD): 0.56
+Skill: Administration - Workflows
+- Continuous Integration/Continuous Deployment: 0.39
+- VoIP (Voice over Internet Protocol): 0.37
+- Kanban: 0.36
+Skill: Backup & Restore (non-migration)
+- Backup and Recovery: 0.99
+- Data Manipulation: 0.99
+- System Administration: 0.94
+Skill: Navigation Panel
+- UI Design: 0.95
+- User Centric Design: 0.90
+- Test-Driven Development (TDD): 0.80
+Skill: warranty
+- CoAP: 0.43
+- GCP: 0.40
+- ETL: 0.40
+Skill: Project Administration - Permissions
+- VoIP (Voice over Internet Protocol): 0.47
+- CoAP: 0.34
+- Django: 0.30
+Skill: Administration - Screens
+- User Centric Design: 0.79
+- Test-Driven Development (TDD): 0.41
+- Microsoft SQL Server: 0.38
+Skill: Administration - Issue Types
+- VoIP (Voice over Internet Protocol): 0.61
+- ETL: 0.37
+- REST: 0.35
+Skill: Application Links
+- User Centric Design: 0.72
+- Test-Driven Development (TDD): 0.54
+- VoIP (Voice over Internet Protocol): 0.52
+Skill: Troubleshooting and Support Tools (ATST)
+- Troubleshooting: 0.94
+- User Centric Design: 0.88
+- IT Support: 0.47
+Skill: Project Administration - Components
+- VoIP (Voice over Internet Protocol): 0.57
+- CoAP: 0.55
+- TCP/IP: 0.33
+Skill: Navigation - View results
+- User Centric Design: 0.88
+- VoIP (Voice over Internet Protocol): 0.69
+- Test-Driven Development (TDD): 0.69
+Skill: Dashboards & Reports - Reports
+- User Centric Design: 0.87
+- Data Visualization: 0.68
+- Matplotlib: 0.44
+Skill: Timezone
+- GCP: 0.39
+- User Centric Design: 0.27
+- ETL: 0.15
+Skill: System Administration - Statuses
+- System Administration: 1.00
+- VoIP (Voice over Internet Protocol): 0.35
+- HTML: 0.31
+Skill: Rich Text Editor
+- Natural Language Processing: 0.92
+- User Centric Design: 0.92
+- Azure: 0.39
+Skill: Project - Releases
+- VoIP (Voice over Internet Protocol): 0.66
+- Node.js: 0.60
+- DevOps: 0.59
+Skill: Project - Issues
+- Troubleshooting: 0.58
+- Node.js: 0.55
+- VoIP (Voice over Internet Protocol): 0.52
+Skill: Ecosystem - Connect JIRA Integration
+- Agile Methodologies: 0.69
+- User Centric Design: 0.44
+- IT Support: 0.37
+Skill: User Management - User Profile
+- User Centric Design: 0.76
+- Cassandra: 0.48
+- Vue.js: 0.48
+Skill: Data Center - Apps
+- Hardware/Software Integration: 0.98
+- VoIP (Voice over Internet Protocol): 0.60
+- Scalability and Performance Optimization: 0.57
+Skill: Issue - Remote Copy
+- Troubleshooting: 0.96
+- VoIP (Voice over Internet Protocol): 0.56
+- TCP/IP: 0.52
+Skill: raid
+- Incident Response: 0.93
+- Test-Driven Development (TDD): 0.70
+- VoIP (Voice over Internet Protocol): 0.66
+Skill: Mail Server
+- User Centric Design: 0.68
+- Scalability and Performance Optimization: 0.51
+- TCP/IP: 0.51
+Skill: Project Administration - Project Summary
+- VoIP (Voice over Internet Protocol): 0.45
+- CoAP: 0.36
+- HTML: 0.28
+Skill: Navigation - Export
+- Data Manipulation: 0.95
+- User Centric Design: 0.78
+- VoIP (Voice over Internet Protocol): 0.59
+Skill: User Management - Groups
+- User Centric Design: 0.65
+- Security Best Practices: 0.37
+- Django: 0.36
+Skill: Tomcat
+- Web Development: 0.81
+- User Centric Design: 0.60
+- Scalability and Performance Optimization: 0.57
+Skill: Data Center - Node replication
+- Scalability and Performance Optimization: 0.91
+- Hardware/Software Integration: 0.85
+- Backup and Recovery: 0.85
+Skill: ADGS Design changes
+- VoIP (Voice over Internet Protocol): 0.34
+- Scalability and Performance Optimization: 0.29
+- Responsive Web Design: 0.29
+Skill: Import / Export [Deprecated]
+- Data Manipulation: 1.00
+- VoIP (Voice over Internet Protocol): 0.33
+- Matplotlib: 0.24
+Skill: Project Administration - Versions
+- VoIP (Voice over Internet Protocol): 0.40
+- Node.js: 0.31
+- pytest: 0.29
+Skill: Infrastructure & Services - Application Lifecycle
+- Test-Driven Development (TDD): 0.55
+- VoIP (Voice over Internet Protocol): 0.48
+- scikit-learn: 0.35
+Skill: Data Center - Deployments
+- DevOps: 0.78
+- Microsoft SQL Server: 0.49
+- Technical Documentation: 0.46
+Skill: Migration - Cloud to Server
+- Data Manipulation: 0.90
+- DevOps: 0.84
+- System Administration: 0.77
+Skill: System Administration  - Global Permissions
+- System Administration: 1.00
+- VoIP (Voice over Internet Protocol): 0.41
+- DevOps: 0.40
+Skill: Navigation - Filters
+- User Centric Design: 0.93
+- Test-Driven Development (TDD): 0.81
+- VoIP (Voice over Internet Protocol): 0.76
+Skill: CSV export
+- Data Manipulation: 1.00
+- Data Engineering: 0.96
+- Data Manipulation and Cleaning: 0.38
+Skill: System Administration - Secure Administrator Sessions
+- System Administration: 1.00
+- CSS: 0.65
+- Security Best Practices: 0.59
+Skill: Migration - Server to Server
+- System Administration: 0.98
+- Server Administration: 0.97
+- Data Manipulation: 0.96
+Skill: Issue - Time Tracking & Worklog
+- Troubleshooting: 0.73
+- IoT: 0.56
+- User Centric Design: 0.41
+Skill: App Diagnositcs
+- Cassandra: 0.29
+- VoIP (Voice over Internet Protocol): 0.27
+- pytest: 0.25
+Skill: Administration - Permission Helper
+- User Centric Design: 0.68
+- VoIP (Voice over Internet Protocol): 0.62
+- AI: 0.54
+Skill: Project - Core Boards
+- Hardware/Software Integration: 0.96
+- VoIP (Voice over Internet Protocol): 0.60
+- IoT: 0.56
+Skill: OAuth 2.0 for incoming mail
+- User Centric Design: 0.95
+- Security Best Practices: 0.75
+- Web Development: 0.53
+Skill: Data Center - Installer
+- IT Support: 0.95
+- Hardware/Software Integration: 0.80
+- Data Engineering: 0.62
+Skill: System Administration - Integrity Checker
+- System Administration: 1.00
+- VoIP (Voice over Internet Protocol): 0.40
+- DevOps: 0.34
+Skill: Issue - Sub-Tasks
+- Data Manipulation and Cleaning: 0.46
+- Incident Response: 0.46
+- Network Monitoring: 0.44
+Skill: Keyboard Shortcuts
+- Hardware/Software Integration: 0.99
+- User Centric Design: 0.96
+- scikit-learn: 0.51
+Skill: Migration - Data Center
+- DevOps: 0.49
+- Microsoft SQL Server: 0.43
+- Azure: 0.32
+Skill: Jira 8.8 EAP
+- Agile Methodologies: 0.91
+- Kanban: 0.78
+- Test-Driven Development (TDD): 0.68
+Skill: System Administration - Configuration Tool
+- System Administration: 1.00
+- VoIP (Voice over Internet Protocol): 0.57
+- Node.js: 0.45
+Skill: Administration - Notification Helper
+- User Centric Design: 0.90
+- AI: 0.63
+- VoIP (Voice over Internet Protocol): 0.49
+Skill: Data Center - ZDU
+- Data Engineering: 0.79
+- Hardware/Software Integration: 0.64
+- Scalability and Performance Optimization: 0.37
+Skill: Rate Limiting
+- Data Manipulation: 0.79
+- Network Security: 0.64
+- VoIP (Voice over Internet Protocol): 0.62
+Skill: Data Center - Load balancer
+- Hardware/Software Integration: 0.99
+- Scalability and Performance Optimization: 0.91
+- TCP/IP: 0.85
+Skill: Projects - Sidebar
+- VoIP (Voice over Internet Protocol): 0.69
+- Test-Driven Development (TDD): 0.63
+- Project Planning: 0.59
+Skill: Migration - Server to Cloud
+- System Administration: 0.98
+- DevOps: 0.89
+- Cloud Architecture: 0.86
+Skill: Atlassian Accounts - Identity
+- User Centric Design: 0.85
+- AI: 0.60
+- Security Best Practices: 0.28
+Skill: Apdex
+- AI: 0.80
+- VoIP (Voice over Internet Protocol): 0.80
+- Test-Driven Development (TDD): 0.79
+Skill: Source Checkout Task
+- VoIP (Voice over Internet Protocol): 0.63
+- Git: 0.46
+- Test-Driven Development (TDD): 0.43
+Skill: Administration (General)
+- VoIP (Voice over Internet Protocol): 0.38
+- Microsoft SQL Server: 0.35
+- CoAP: 0.24
+Skill: Build Queues
+- Agile Methodologies: 0.94
+- Build Automation: 0.92
+- DevOps: 0.78
+Skill: Docker Runner
+- Docker: 0.99
+- DevOps: 0.94
+- Build Automation: 0.86
+Skill: Artifacts
+- Flask: 0.54
+- Spark: 0.40
+- Test-Driven Development (TDD): 0.35
+Skill: Deployments
+- DevOps: 0.88
+- VoIP (Voice over Internet Protocol): 0.58
+- Agile Methodologies: 0.46
+Skill: Audit Logging
+- Security Best Practices: 0.78
+- Security Auditing: 0.34
+- Microsoft SQL Server: 0.26
+Skill: Variables
+- Data Manipulation: 0.94
+- Scalability and Performance Optimization: 0.60
+- scikit-learn: 0.44
+Skill: Bamboo Specs
+- Technical Documentation: 1.00
+- Hardware/Software Integration: 0.77
+- VoIP (Voice over Internet Protocol): 0.76
+Skill: Database (MS SQL)
+- SQL: 1.00
+- RDBMS: 0.99
+- Microsoft SQL Server: 0.94
+Skill: Builds
+- Test-Driven Development (TDD): 0.66
+- VoIP (Voice over Internet Protocol): 0.61
+- RESTful Architecture: 0.54
+Skill: Plan Branches
+- scikit-learn: 0.43
+- GCP: 0.38
+- Angular: 0.30
+Skill: AUI
+- UI Design: 0.95
+- User Centric Design: 0.87
+- VoIP (Voice over Internet Protocol): 0.56
+Skill: Plan configuration
+- VoIP (Voice over Internet Protocol): 0.68
+- Test-Driven Development (TDD): 0.61
+- Responsive Web Design: 0.52
+Skill: Agents
+- AI: 0.66
+- scikit-learn: 0.54
+- User Centric Design: 0.49
+Skill: Upgrading
+- VoIP (Voice over Internet Protocol): 0.73
+- Test-Driven Development (TDD): 0.63
+- scikit-learn: 0.62
+Skill: SCP and SSH tasks
+- Network Security: 0.87
+- Server Administration: 0.87
+- System Administration: 0.52
+Skill: Logs
+- Technical Documentation: 0.77
+- Test-Driven Development (TDD): 0.72
+- Data Engineering: 0.62
+Skill: Dashboard
+- Data Visualization: 1.00
+- UI Design: 0.89
+- User Centric Design: 0.87
+Skill: Notifications
+- User Centric Design: 0.93
+- IoT: 0.76
+- MQTT: 0.48
+Skill: Triggers
+- User Centric Design: 0.77
+- SQL: 0.71
+- IoT: 0.68
+Skill: Test quarantine
+- Security Best Practices: 0.51
+- Security Auditing: 0.29
+- Selenium: 0.23
+Skill: Repository (Bitbucket)
+- Git: 0.83
+- User Centric Design: 0.56
+- scikit-learn: 0.43
+Skill: Pull Requests
+- Data Manipulation: 0.90
+- Agile Methodologies: 0.89
+- Git: 0.86
+Skill: Jobs
+- System Administration: 0.70
+- VoIP (Voice over Internet Protocol): 0.67
+- IT Support: 0.64
+Skill: Requirements
+- Test-Driven Development (TDD): 0.72
+- VoIP (Voice over Internet Protocol): 0.64
+- TCP/IP: 0.49
+Skill: User Management, Crowd & LDAP integration
+- User Centric Design: 0.68
+- Software Design Patterns: 0.49
+- Cloud Native Application Development: 0.41
+Skill: Import / Export
+- Data Manipulation: 1.00
+- User Centric Design: 0.83
+- Data Engineering: 0.71
+Skill: Bitbucket integration
+- User Centric Design: 0.86
+- Cloud Native Application Development: 0.79
+- Web Development: 0.78
+Skill: Expiry
+- ETL: 0.38
+- HTML: 0.33
+- scikit-learn: 0.30
+Skill: Database (other)
+- Scalability and Performance Optimization: 0.47
+- Microsoft SQL Server: 0.42
+- NoSQL: 0.39
+Skill: Documentation (User)
+- User Centric Design: 0.91
+- VoIP (Voice over Internet Protocol): 0.45
+- pytest: 0.41
+Skill: Elastic Bamboo
+- Scalability and Performance Optimization: 0.96
+- Responsive Design: 0.96
+- Cloud Native Application Development: 0.74
+Skill: Administration (Projects)
+- VoIP (Voice over Internet Protocol): 0.44
+- Cassandra: 0.31
+- CoAP: 0.31
+Skill: Bamboo Release
+- Agile Methodologies: 0.68
+- User Centric Design: 0.68
+- Hardware/Software Integration: 0.53
+Skill: Windows
+- User Centric Design: 0.85
+- UI Design: 0.81
+- Hardware/Software Integration: 0.58
+Skill: AWS
+- AWS: 1.00
+- Cloud Architecture: 0.96
+- Web Development: 0.87
+Skill: Telemetry / Reporting
+- MQTT: 0.64
+- AI: 0.51
+- scikit-learn: 0.47
+Skill: Misc integration
+- VoIP (Voice over Internet Protocol): 0.46
+- scikit-learn: 0.33
+- Matplotlib: 0.28
+Skill: Documentation (Developer)
+- Technical Documentation: 0.81
+- VoIP (Voice over Internet Protocol): 0.49
+- Node.js: 0.44
+Skill: Permissions
+- VoIP (Voice over Internet Protocol): 0.63
+- scikit-learn: 0.51
+- Matplotlib: 0.46
+Skill: JIRA integration
+- Agile Methodologies: 0.88
+- DevOps: 0.78
+- Kanban: 0.58
+Skill: AppLinks
+- User Centric Design: 0.83
+- Test-Driven Development (TDD): 0.77
+- VoIP (Voice over Internet Protocol): 0.75
+Skill: Repository (Subversion)
+- SVN: 1.00
+- Data Manipulation: 0.34
+- Cassandra: 0.23
+Skill: Force Stop Build
+- Test-Driven Development (TDD): 0.81
+- Troubleshooting: 0.79
+- Data Manipulation: 0.77
+Skill: Bitbucket Server integration
+- DevOps: 0.89
+- Cloud Native Application Development: 0.81
+- User Centric Design: 0.79
+Skill: Repository (Github)
+- Git: 0.99
+- User Centric Design: 0.66
+- scikit-learn: 0.43
+Skill: Dependencies
+- Matplotlib: 0.63
+- Virtualization VMware: 0.58
+- Node.js: 0.55
+Skill: Database (MySQL)
+- MySQL: 1.00
+- RDBMS: 0.99
+- Data Manipulation: 0.70
+Skill: Credentials
+- System Administration: 0.61
+- Server Administration: 0.60
+- VoIP (Voice over Internet Protocol): 0.50
+Skill: Wallboard
+- User Centric Design: 0.60
+- Data Visualization: 0.54
+- VoIP (Voice over Internet Protocol): 0.51
+Skill: Database (Postgresql)
+- PostgreSQL: 1.00
+- RDBMS: 1.00
+- SQL: 0.62
+Skill: Quiet Period
+- REST: 0.95
+- Security Best Practices: 0.49
+- User Centric Design: 0.39
+Skill: IM
+- User Centric Design: 0.78
+- Spark: 0.45
+- Intrusion Detection: 0.45
+Skill: System Administration - Troubleshooting and Support Tools (ATST)
+- System Administration: 1.00
+- Troubleshooting: 0.92
+- IT Support: 0.70
+Skill: Repository (Other)
+- Git: 0.37
+- CoAP: 0.37
+- Docker: 0.36
+Skill: Repository (Git)
+- Git: 1.00
+- User Centric Design: 0.50
+- Matplotlib: 0.37
+Skill: Projects
+- Test-Driven Development (TDD): 0.74
+- VoIP (Voice over Internet Protocol): 0.73
+- User Centric Design: 0.67
+Skill: Jenkins importer
+- Data Manipulation: 1.00
+- DevOps: 0.96
+- AI: 0.76
+Skill: Setup Wizard
+- User Centric Design: 0.93
+- AI: 0.90
+- Natural Language Processing: 0.86
+Skill: Repository (Perforce)
+- User Centric Design: 0.17
+- Test-Driven Development (TDD): 0.09
+- CoAP: 0.05
+Skill: Publishing / RSS
+- RESTful Architecture: 0.88
+- Real-Time Systems: 0.82
+- Test-Driven Development (TDD): 0.65
+Skill: Tomcat tasks
+- DevOps: 0.52
+- Test-Driven Development (TDD): 0.47
+- Server Administration: 0.44
+Skill: Proxy
+- TCP/IP: 0.56
+- User Centric Design: 0.49
+- Node.js: 0.47
+Skill: Repository (Mercurial)
+- CoAP: 0.33
+- GCP: 0.31
+- SVN: 0.28
+Skill: Branch Status
+- Git: 0.64
+- scikit-learn: 0.40
+- SVN: 0.39
+Skill: Node.js plugin
+- JavaScript: 0.99
+- Web Development: 0.97
+- Node.js: 0.95
+Skill: Database (Oracle)
+- Oracle: 1.00
+- RDBMS: 0.99
+- Scalability and Performance Optimization: 0.46
+Skill: Stages
+- Test-Driven Development (TDD): 0.70
+- Wireframing and Prototyping: 0.65
+- UX/UI Design and Prototyping: 0.63
+Skill: S3 storage
+- Cloud Architecture: 0.95
+- AWS: 0.90
+- NoSQL: 0.76
+Skill: Gadgets
+- VoIP (Voice over Internet Protocol): 0.76
+- User Centric Design: 0.68
+- Virtualization Hyper-V: 0.68
+Skill: Code Insights
+- Test-Driven Development (TDD): 0.64
+- VoIP (Voice over Internet Protocol): 0.59
+- Cross Browser Compatibility: 0.47
+Skill: Labels
+- Test-Driven Development (TDD): 0.92
+- Performance Testing: 0.85
+- Technical Documentation: 0.84
+Skill: VCS task
+- Computer Vision: 0.94
+- VoIP (Voice over Internet Protocol): 0.49
+- Cross Browser Compatibility: 0.39
+Skill: .NET
+- VoIP (Voice over Internet Protocol): 0.53
+- Network Monitoring: 0.50
+- Data Manipulation: 0.43
+Skill: Custom builds
+- User Centric Design: 0.97
+- Hardware/Software Integration: 0.57
+- Matplotlib: 0.47
+Skill: Xcode, iOS and Cocoa
+- iOS Mobile App Development: 0.97
+- Hardware/Software Integration: 0.78
+- Test-Driven Development (TDD): 0.77
+Skill: Encoding
+- Data Manipulation: 1.00
+- Data Manipulation and Cleaning: 0.80
+- VoIP (Voice over Internet Protocol): 0.69
+Skill: Responsibility tracking
+- VoIP (Voice over Internet Protocol): 0.31
+- Docker: 0.28
+- Test-Driven Development (TDD): 0.27
+Skill: HipChat integration
+- User Centric Design: 0.92
+- Data Engineering: 0.64
+- VoIP (Voice over Internet Protocol): 0.53
+Skill: EC2 Wizard
+- Cloud Architecture: 0.98
+- AI: 0.87
+- Cryptography: 0.78
+Skill: Slack integration
+- User Centric Design: 0.88
+- Cloud Native Application Development: 0.68
+- REST: 0.57
+Skill: Clover integration
+- Cloud Native Application Development: 0.51
+- User Centric Design: 0.46
+- VoIP (Voice over Internet Protocol): 0.40
+Skill: Stride
+- VoIP (Voice over Internet Protocol): 0.90
+- User Centric Design: 0.72
+- Test-Driven Development (TDD): 0.71
+Skill: Active Objects
+- User Centric Design: 0.66
+- Computer Vision: 0.57
+- VoIP (Voice over Internet Protocol): 0.50
+Skill: Google App Engine
+- Cloud Architecture: 0.99
+- GCP: 0.97
+- Web Development: 0.97
+Skill: OnDemand
+- User Centric Design: 0.87
+- Cloud Architecture: 0.51
+- Incident Response: 0.31
+Skill: Cron
+- VoIP (Voice over Internet Protocol): 0.60
+- User Centric Design: 0.49
+- Performance Testing: 0.49
+Skill: Repository (CVS)
+- SVN: 0.46
+- User Centric Design: 0.31
+- Matplotlib: 0.21
+Skill: FishEye & Crucible integration
+- Computer Vision: 0.91
+- Agile Methodologies: 0.88
+- Hardware/Software Integration: 0.78
+Skill: GreenHopper integration
+- GCP: 0.92
+- IoT: 0.81
+- VoIP (Voice over Internet Protocol): 0.78
+Skill: Confluence integration
+- Web Development: 0.76
+- Cloud Native Application Development: 0.66
+- User Centric Design: 0.53
+Skill: Heroku task
+- Cloud Architecture: 0.88
+- DevOps: 0.66
+- Test-Driven Development (TDD): 0.44
+Skill: SAL Integration
+- Integration Testing and System Testing: 0.37
+- VoIP (Voice over Internet Protocol): 0.22
+- Scalability and Performance Optimization: 0.20
+Skill: Macros - JIRA Macros
+- Data Manipulation: 0.85
+- Data Manipulation and Cleaning: 0.56
+- Scalability and Performance Optimization: 0.52
+Skill: Editor - Fabric
+- Data Manipulation: 0.94
+- User Centric Design: 0.76
+- VoIP (Voice over Internet Protocol): 0.46
+Skill: TWP - Editor
+- User Centric Design: 0.84
+- Test-Driven Development (TDD): 0.52
+- Wireframing and Prototyping: 0.36
+Skill: Core - Macros Platform
+- Test-Driven Development (TDD): 0.66
+- VoIP (Voice over Internet Protocol): 0.57
+- Data Manipulation: 0.51
+Skill: Editor - TinyMCE 4
+- User Centric Design: 0.76
+- VoIP (Voice over Internet Protocol): 0.69
+- Wireframing and Prototyping: 0.43
+Skill: Content - Restrictions
+- VoIP (Voice over Internet Protocol): 0.60
+- scikit-learn: 0.49
+- REST: 0.43
+Skill: Macros - Search
+- User Centric Design: 0.76
+- Test-Driven Development (TDD): 0.47
+- VoIP (Voice over Internet Protocol): 0.45
+Skill: Macros - Other Macros
+- VoIP (Voice over Internet Protocol): 0.54
+- Cassandra: 0.49
+- GCP: 0.49
+Skill: Page - Export
+- Data Manipulation: 0.98
+- Test-Driven Development (TDD): 0.66
+- User Centric Design: 0.58
+Skill: Search - Scaling
+- Scalability and Performance Optimization: 0.47
+- VoIP (Voice over Internet Protocol): 0.43
+- Data Manipulation: 0.42
+Skill: User - Global / Space Permissions
+- User Centric Design: 0.95
+- VoIP (Voice over Internet Protocol): 0.59
+- GCP: 0.45
+Skill: Macros - 3rd Party
+- Data Manipulation: 0.93
+- Oracle: 0.47
+- scikit-learn: 0.45
+Skill: Core - Frontend Platform
+- Test-Driven Development (TDD): 0.63
+- VoIP (Voice over Internet Protocol): 0.57
+- User Centric Design: 0.56
+Skill: Content - Linking
+- User Centric Design: 0.89
+- Web Development: 0.74
+- VoIP (Voice over Internet Protocol): 0.68
+Skill: Macros - Roadmap Planner
+- Data Manipulation: 0.91
+- AI: 0.51
+- User Centric Design: 0.32
+Skill: Macros - Google Drive
+- Data Manipulation: 0.99
+- Cloud Architecture: 0.93
+- Cloud Native Application Development: 0.89
+Skill: Content - Page
+- User Centric Design: 0.72
+- Test-Driven Development (TDD): 0.71
+- VoIP (Voice over Internet Protocol): 0.63
+Skill: Macros - Page Properties
+- Data Manipulation: 0.66
+- GCP: 0.50
+- pytest: 0.39
+Skill: Ecosystem
+- VoIP (Voice over Internet Protocol): 0.57
+- Scalability and Performance Optimization: 0.44
+- Virtualization VMware: 0.42
+Skill: Core - APIs
+- Test-Driven Development (TDD): 0.72
+- VoIP (Voice over Internet Protocol): 0.71
+- RESTful Architecture: 0.63
+Skill: User - Groups
+- User Centric Design: 0.83
+- CoAP: 0.43
+- pytest: 0.41
+Skill: Add-ons - Team Calendar
+- User Centric Design: 0.88
+- JavaScript: 0.66
+- ETL: 0.46
+Skill: Space - Create
+- VoIP (Voice over Internet Protocol): 0.63
+- Virtualization Hyper-V: 0.50
+- Virtualization VMware: 0.43
+Skill: Macros - Gadgets
+- Hardware/Software Integration: 0.95
+- Data Manipulation: 0.76
+- VoIP (Voice over Internet Protocol): 0.55
+Skill: Macros - Content by Label
+- VoIP (Voice over Internet Protocol): 0.63
+- Server Administration: 0.51
+- System Administration: 0.51
+Skill: Integrations - JIRA
+- Agile Methodologies: 0.91
+- DevOps: 0.47
+- Test-Driven Development (TDD): 0.41
+Skill: Add-ons - Confluence Questions
+- Test-Driven Development (TDD): 0.57
+- VoIP (Voice over Internet Protocol): 0.54
+- Matplotlib: 0.28
+Skill: Spaces - Mobile
+- Responsive Design: 0.94
+- User Centric Design: 0.82
+- Responsive Web Design: 0.75
+Skill: Macros - Table of Contents
+- Data Manipulation: 0.50
+- Matplotlib: 0.31
+- VoIP (Voice over Internet Protocol): 0.31
+Skill: Macros - Create from template
+- Build Automation: 0.77
+- Data Manipulation: 0.72
+- VoIP (Voice over Internet Protocol): 0.62
+Skill: Space - Export
+- VoIP (Voice over Internet Protocol): 0.55
+- Cassandra: 0.43
+- CoAP: 0.43
+Skill: Confluence Cloud Premium
+- Cloud Architecture: 0.95
+- Test-Driven Development (TDD): 0.85
+- VoIP (Voice over Internet Protocol): 0.84
+Skill: User - Mentions
+- Natural Language Processing: 0.97
+- User Centric Design: 0.89
+- VoIP (Voice over Internet Protocol): 0.42
+Skill: Navigation - Sidebar
+- User Centric Design: 0.84
+- Test-Driven Development (TDD): 0.79
+- VoIP (Voice over Internet Protocol): 0.73
+Skill: Content - Tasks
+- User Centric Design: 0.89
+- Test-Driven Development (TDD): 0.70
+- VoIP (Voice over Internet Protocol): 0.53
+Skill: Macros - Task Report
+- Data Manipulation: 0.53
+- Test-Driven Development (TDD): 0.30
+- Data Manipulation and Cleaning: 0.28
+Skill: Macros - Content Report Table
+- Data Manipulation: 0.99
+- Data Modeling: 0.52
+- Data Manipulation and Cleaning: 0.51
+Skill: DevLoop
+- Agile Methodologies: 0.90
+- Test-Driven Development (TDD): 0.63
+- VoIP (Voice over Internet Protocol): 0.53
+Skill: Add-ons - Confluence Slack
+- User Centric Design: 0.86
+- Data Manipulation: 0.54
+- Scalability and Performance Optimization: 0.47
+Skill: Content - Blueprints / Templates
+- VoIP (Voice over Internet Protocol): 0.50
+- Test-Driven Development (TDD): 0.50
+- GCP: 0.46
+Skill: Editor - Drafts
+- VoIP (Voice over Internet Protocol): 0.79
+- User Centric Design: 0.64
+- Test-Driven Development (TDD): 0.48
+Skill: Content - Attachments
+- Test-Driven Development (TDD): 0.65
+- VoIP (Voice over Internet Protocol): 0.63
+- Technical Documentation: 0.53
+Skill: TWP - Media
+- VoIP (Voice over Internet Protocol): 0.69
+- User Centric Design: 0.57
+- Test-Driven Development (TDD): 0.53
+Skill: Search - Advanced Search
+- User Centric Design: 0.81
+- VoIP (Voice over Internet Protocol): 0.63
+- Vue.js: 0.46
+Skill: Space - Blueprints
+- Technical Documentation: 0.99
+- GCP: 0.40
+- Angular: 0.35
+Skill: Content - Labels
+- User Centric Design: 0.80
+- Test-Driven Development (TDD): 0.78
+- VoIP (Voice over Internet Protocol): 0.73
+Skill: Macros - Content by User
+- User Centric Design: 0.98
+- Data Manipulation: 0.66
+- Matplotlib: 0.39
+Skill: Search - Indexing
+- VoIP (Voice over Internet Protocol): 0.78
+- User Centric Design: 0.63
+- Microsoft SQL Server: 0.50
+Skill: Search - Core
+- User Centric Design: 0.82
+- Test-Driven Development (TDD): 0.77
+- VoIP (Voice over Internet Protocol): 0.71
+Skill: Editor - Mobile
+- Responsive Design: 0.97
+- User Centric Design: 0.93
+- Responsive Web Design: 0.70
+Skill: Core - Connect Platform
+- Hardware/Software Integration: 0.82
+- VoIP (Voice over Internet Protocol): 0.65
+- Scalability and Performance Optimization: 0.56
+Skill: Content - Page Comments
+- Natural Language Processing: 0.89
+- User Centric Design: 0.70
+- Test-Driven Development (TDD): 0.48
+Skill: Navigation - People Directory
+- User Centric Design: 0.94
+- JavaScript: 0.55
+- HTML: 0.53
+Skill: Web Interface - AUI
+- UI Design: 0.86
+- User Centric Design: 0.56
+- AI: 0.36
+Skill: Editor - Attachment
+- VoIP (Voice over Internet Protocol): 0.63
+- Test-Driven Development (TDD): 0.54
+- User Centric Design: 0.46
+Skill: Administration - Look and Feel / Themes
+- ETL: 0.66
+- User Centric Design: 0.47
+- Azure: 0.37
+Skill: Macros - Office365
+- Data Manipulation: 0.95
+- User Centric Design: 0.69
+- VoIP (Voice over Internet Protocol): 0.47
+Skill: Macros - Panels
+- Data Manipulation: 0.89
+- Hardware/Software Integration: 0.68
+- Data Visualization: 0.60
+Skill: Macros - Widget Connector
+- Data Manipulation: 0.68
+- Hardware/Software Integration: 0.59
+- User Centric Design: 0.53
+Skill: Space - Settings
+- Responsive Design: 0.67
+- VoIP (Voice over Internet Protocol): 0.64
+- User Centric Design: 0.62
+Skill: Core - Email
+- User Centric Design: 0.57
+- Test-Driven Development (TDD): 0.45
+- Node.js: 0.33
+Skill: Content - Inline Comments
+- User Centric Design: 0.89
+- Natural Language Processing: 0.88
+- Test-Driven Development (TDD): 0.53
+Skill: Confluence Frontend Release Blocker - Prod
+- Web Development: 0.99
+- DevOps: 0.94
+- Agile Methodologies: 0.88
+Skill: Administration - Page Archive
+- Test-Driven Development (TDD): 0.57
+- VoIP (Voice over Internet Protocol): 0.48
+- System Administration: 0.46
+Skill: Content - Likes
+- User Centric Design: 0.94
+- VoIP (Voice over Internet Protocol): 0.48
+- Technical Documentation: 0.45
+Skill: Add-ons - SharePoint Connector
+- User Centric Design: 0.66
+- JavaScript: 0.12
+- Continuous Integration/Continuous Deployment: 0.10
+Skill: Site - Backup / Import
+- Data Manipulation: 1.00
+- Backup and Recovery: 0.95
+- Disaster Recovery Planning: 0.77
+Skill: Page - Import
+- Data Manipulation: 0.99
+- User Centric Design: 0.71
+- VoIP (Voice over Internet Protocol): 0.63
+Skill: Editor - Collaborative editing
+- User Centric Design: 0.90
+- Cassandra: 0.35
+- Spark: 0.35
+Skill: Content - Sharing
+- User Centric Design: 0.87
+- VoIP (Voice over Internet Protocol): 0.80
+- scikit-learn: 0.58
+Skill: Core - Workbox
+- Hardware/Software Integration: 0.89
+- Test-Driven Development (TDD): 0.83
+- VoIP (Voice over Internet Protocol): 0.71
+Skill: Macros - Mobile
+- Data Manipulation: 0.96
+- Responsive Design: 0.80
+- User Centric Design: 0.63
+Skill: Navigation - Dashboard
+- User Centric Design: 0.89
+- Data Visualization: 0.66
+- Hardware/Software Integration: 0.42
+Skill: Macros - Blog Posts
+- Data Manipulation: 0.97
+- Data Manipulation and Cleaning: 0.37
+- Security Best Practices: 0.31
+Skill: Space - Import
+- VoIP (Voice over Internet Protocol): 0.37
+- Cassandra: 0.37
+- Microsoft SQL Server: 0.33
+Skill: Macros - Content Formatting
+- VoIP (Voice over Internet Protocol): 0.42
+- GCP: 0.38
+- Matplotlib: 0.37
+Skill: Notifications-Pug
+- User Centric Design: 0.88
+- Hardware/Software Integration: 0.64
+- IoT: 0.57
+Skill: Search - Quick Search
+- User Centric Design: 0.97
+- VoIP (Voice over Internet Protocol): 0.70
+- Test-Driven Development (TDD): 0.64
+Skill: TWP - Search
+- User Centric Design: 0.84
+- Test-Driven Development (TDD): 0.54
+- VoIP (Voice over Internet Protocol): 0.40
+Skill: User - Profile
+- User Centric Design: 0.95
+- HTML: 0.75
+- JavaScript: 0.72
+Skill: Space - Personal Space
+- User Centric Design: 0.95
+- Spark: 0.42
+- Cassandra: 0.40
+Skill: Add-ons - Better Retros
+- User Centric Design: 0.81
+- GCP: 0.42
+- VoIP (Voice over Internet Protocol): 0.39
+Skill: Macros - Attachments
+- Data Manipulation: 0.64
+- Build Automation: 0.41
+- GCP: 0.32
+Skill: Space - Import / Export
+- Data Manipulation: 0.99
+- Scalability and Performance Optimization: 0.71
+- ETL: 0.44
+Skill: Administration - Application Links
+- Test-Driven Development (TDD): 0.51
+- VoIP (Voice over Internet Protocol): 0.50
+- ETL: 0.38
+Skill: User - Management
+- VoIP (Voice over Internet Protocol): 0.52
+- Active Directory: 0.30
+- Cassandra: 0.27
+Skill: Navigation - Space Directory
+- User Centric Design: 0.88
+- CoAP: 0.33
+- GCP: 0.32
+Skill: TWP - People and Teams
+- IT Support: 0.31
+- Incident Response: 0.30
+- Cassandra: 0.28
+Skill: TWP - Content Service
+- VoIP (Voice over Internet Protocol): 0.43
+- Test-Driven Development (TDD): 0.40
+- User Centric Design: 0.39
+Skill: Confluence Frontend Next Release Blocker - Prod
+- Web Development: 0.99
+- Agile Methodologies: 0.93
+- DevOps: 0.89
+Skill: Confluence Frontend Next Release Blocker - Staging
+- Web Development: 0.99
+- Agile Methodologies: 0.96
+- DevOps: 0.93
+Skill: Confluence Frontend Release Blocker
+- Web Development: 0.99
+- DevOps: 0.91
+- User Centric Design: 0.85
+Skill: Confluence Frontend Release Blocker - Dev
+- Web Development: 1.00
+- DevOps: 0.99
+- User Centric Design: 0.71
+Skill: Content - Blogs
+- Test-Driven Development (TDD): 0.67
+- User Centric Design: 0.58
+- Natural Language Processing: 0.57
+Skill: Content - History
+- VoIP (Voice over Internet Protocol): 0.63
+- Test-Driven Development (TDD): 0.63
+- User Centric Design: 0.48
+Skill: Macros - Chart
+- Data Manipulation: 1.00
+- Data Visualization: 1.00
+- Data Modeling: 0.64
+Skill: User - Authentication
+- User Centric Design: 0.92
+- UX Design: 0.68
+- Test-Driven Development (TDD): 0.64
+Skill: Ecosystem-Hello
+- VoIP (Voice over Internet Protocol): 0.37
+- CoAP: 0.29
+- Node.js: 0.29
+Skill: TWP - Notifications
+- User Centric Design: 0.91
+- Hardware/Software Integration: 0.78
+- UI Design: 0.48
+Skill: Content - Restrictions - Mobile
+- Responsive Design: 0.84
+- Responsive Web Design: 0.83
+- User Centric Design: 0.68
+Skill: Accessibility - Mobile
+- User Centric Design: 0.95
+- Responsive Design: 0.89
+- VoIP (Voice over Internet Protocol): 0.68
+Skill: Core - Web Resources
+- Test-Driven Development (TDD): 0.81
+- VoIP (Voice over Internet Protocol): 0.61
+- User Centric Design: 0.46
+Skill: Content - Page - Mobile
+- Responsive Design: 0.98
+- Responsive Web Design: 0.98
+- User Centric Design: 0.79
+Skill: Macros - Gallery
+- Data Manipulation: 0.96
+- VoIP (Voice over Internet Protocol): 0.49
+- User Centric Design: 0.42
+Skill: Identity Manager
+- AI: 0.71
+- NoSQL: 0.26
+- User Centric Design: 0.22
+Skill: Administration-Hello
+- Natural Language Processing: 0.97
+- System Administration: 0.62
+- VoIP (Voice over Internet Protocol): 0.50
+Skill: TWP - Activity
+- VoIP (Voice over Internet Protocol): 0.48
+- User Centric Design: 0.44
+- Performance Testing: 0.41
+Skill: Page-Hello
+- Natural Language Processing: 0.93
+- User Centric Design: 0.86
+- Web Development: 0.83
+Skill: TWP - Mobile
+- Responsive Design: 0.88
+- Wireframing and Prototyping: 0.84
+- User Centric Design: 0.83
+Skill: Editor - Comment Editor
+- Natural Language Processing: 0.95
+- User Centric Design: 0.90
+- VoIP (Voice over Internet Protocol): 0.62
+Skill: Integrations - Office Connector
+- VoIP (Voice over Internet Protocol): 0.56
+- Test-Driven Development (TDD): 0.37
+- User Centric Design: 0.37
+Skill: Feedback - Hello
+- Natural Language Processing: 0.97
+- User Centric Design: 0.74
+- Cassandra: 0.54
+Skill: Web Interface - Keyboard Navigation
+- UI Design: 0.97
+- User Centric Design: 0.93
+- HTML: 0.40
+Skill: Notifications-Hello
+- Natural Language Processing: 0.95
+- User Centric Design: 0.94
+- IoT: 0.59
+Skill: free
+- User Centric Design: 0.59
+- Virtualization VMware: 0.55
+- VoIP (Voice over Internet Protocol): 0.53
+Skill: TWP - Editor Media Integration
+- User Centric Design: 0.83
+- Test-Driven Development (TDD): 0.72
+- VoIP (Voice over Internet Protocol): 0.54
+Skill: Editor - Synchrony
+- VoIP (Voice over Internet Protocol): 0.36
+- Cassandra: 0.18
+- Adobe XD: 0.17
+Skill: Onboarding - 1st user
+- User Centric Design: 0.95
+- UX Design: 0.83
+- VoIP (Voice over Internet Protocol): 0.56
+Skill: Administration - Universal Plugin Manager
+- VoIP (Voice over Internet Protocol): 0.56
+- User Centric Design: 0.54
+- System Administration: 0.48
+Skill: Navigation-Hello
+- User Centric Design: 0.95
+- Natural Language Processing: 0.33
+- Cassandra: 0.14
+Skill: Page-Pug
+- User Centric Design: 0.40
+- Data Manipulation: 0.32
+- AI: 0.27
+Skill: Search-Hello
+- User Centric Design: 0.96
+- Natural Language Processing: 0.94
+- AI: 0.53
+Skill: Macros - Multimedia
+- VoIP (Voice over Internet Protocol): 0.63
+- GCP: 0.37
+- ETL: 0.35
+Skill: Page Comments-Hello
+- Natural Language Processing: 0.96
+- User Centric Design: 0.67
+- HTML: 0.43
+Skill: Onboarding - nth user
+- User Centric Design: 0.93
+- UX Design: 0.60
+- Scalability and Performance Optimization: 0.53
+Skill: Inline Comments-Hello
+- Natural Language Processing: 0.97
+- User Centric Design: 0.89
+- HTML: 0.42
+Skill: User - Follow
+- User Centric Design: 0.91
+- Natural Language Processing: 0.84
+- UX Design: 0.80
+Skill: Untriaged-Pug
+- Cassandra: 0.04
+- VoIP (Voice over Internet Protocol): 0.02
+- ETL: 0.02
+Skill: Editor-Pug
+- User Centric Design: 0.82
+- AI: 0.76
+- VoIP (Voice over Internet Protocol): 0.72
+Skill: Editor-Hello
+- Natural Language Processing: 0.95
+- User Centric Design: 0.86
+- VoIP (Voice over Internet Protocol): 0.38
+Skill: Core - Product Analytics and Metrics
+- VoIP (Voice over Internet Protocol): 0.56
+- Test-Driven Development (TDD): 0.43
+- CoAP: 0.37
+Skill: Editions - AdminKey
+- Hardware/Software Integration: 0.76
+- Test-Driven Development (TDD): 0.76
+- VoIP (Voice over Internet Protocol): 0.67
+Skill: Navigation - Single Page App
+- Web Development: 0.91
+- User Centric Design: 0.87
+- UX Design: 0.64
+Skill: Core - DevOps
+- DevOps: 0.99
+- System Administration: 0.79
+- VoIP (Voice over Internet Protocol): 0.70
+Skill: defense-squad
+- CSS: 0.42
+- CoAP: 0.33
+- ETL: 0.27
+Skill: Integrations - HipChat
+- VoIP (Voice over Internet Protocol): 0.70
+- User Centric Design: 0.68
+- Test-Driven Development (TDD): 0.28
+Skill: Content - Favourites
+- User Centric Design: 0.90
+- Test-Driven Development (TDD): 0.60
+- VoIP (Voice over Internet Protocol): 0.49
+Skill: Content - Trackback
+- VoIP (Voice over Internet Protocol): 0.58
+- scikit-learn: 0.53
+- Test-Driven Development (TDD): 0.40
+Skill: WebDAV - Editing
+- Data Manipulation: 1.00
+- RESTful Architecture: 0.95
+- Cloud Architecture: 0.91
+Skill: Core - OSGi Plugins Platform
+- VoIP (Voice over Internet Protocol): 0.59
+- scikit-learn: 0.38
+- Matplotlib: 0.36
+Skill: Blueprints - Sprint Plan
+- Agile Methodologies: 0.99
+- Technical Documentation: 0.65
+- VoIP (Voice over Internet Protocol): 0.50
+Skill: Server - Installer / Setup
+- Server Administration: 0.96
+- Hardware/Software Integration: 0.86
+- Technical Documentation: 0.83
+Skill: Core - Analytics
+- VoIP (Voice over Internet Protocol): 0.64
+- scikit-learn: 0.59
+- Matplotlib: 0.57
+Skill: Other
+- Test-Driven Development (TDD): 0.84
+- Performance Testing: 0.76
+- VoIP (Voice over Internet Protocol): 0.75
+Skill: Server - Platform
+- Test-Driven Development (TDD): 0.75
+- Microsoft SQL Server: 0.71
+- Scalability and Performance Optimization: 0.65
+Skill: Core - Content REST APIs
+- RESTful Architecture: 0.99
+- REST: 0.99
+- VoIP (Voice over Internet Protocol): 0.55
+Skill: Server - Administration
+- Server Administration: 1.00
+- VoIP (Voice over Internet Protocol): 0.68
+- Microsoft SQL Server: 0.50
+Skill: Space - Export / Import
+- Data Manipulation: 0.99
+- Scalability and Performance Optimization: 0.64
+- ETL: 0.47
+Skill: Server - Upgrade Manager
+- Server Administration: 1.00
+- System Administration: 0.99
+- Hardware/Software Integration: 0.94
+Skill: Apps - Team Calendar
+- User Centric Design: 0.87
+- Test-Driven Development (TDD): 0.78
+- Spark: 0.58
+Skill: Editor - Front end - Page / Comment
+- Natural Language Processing: 0.89
+- Web Development: 0.89
+- User Centric Design: 0.88
+Skill: Content - File Previews
+- User Centric Design: 0.90
+- Quality Assurance: 0.68
+- VoIP (Voice over Internet Protocol): 0.47
+Skill: Page - Export / Import
+- Data Manipulation: 1.00
+- User Centric Design: 0.80
+- Web Development: 0.73
+Skill: Editor - Page / Comment Editor
+- User Centric Design: 0.86
+- Natural Language Processing: 0.51
+- CoAP: 0.46
+Skill: Apps - Confluence Questions
+- Test-Driven Development (TDD): 0.65
+- VoIP (Voice over Internet Protocol): 0.57
+- Matplotlib: 0.43
+Skill: Editor - Core
+- User Centric Design: 0.73
+- Data Manipulation: 0.64
+- VoIP (Voice over Internet Protocol): 0.61
+Skill: Onboarding - Setup
+- User Centric Design: 0.96
+- VoIP (Voice over Internet Protocol): 0.62
+- scikit-learn: 0.51
+Skill: Server - Source Distribution
+- VoIP (Voice over Internet Protocol): 0.54
+- Microsoft SQL Server: 0.53
+- Node.js: 0.49
+Skill: Content - Edit Files / Companion
+- Data Manipulation: 0.98
+- User Centric Design: 0.87
+- Test-Driven Development (TDD): 0.64
+Skill: Server - Plugin �Development
+- VoIP (Voice over Internet Protocol): 0.71
+- Test-Driven Development (TDD): 0.69
+- Node.js: 0.50
+Skill: Data Center - Core
+- Routing and Switching: 0.46
+- Virtualization Hyper-V: 0.44
+- Hardware/Software Integration: 0.41
+Skill: Server - EAP
+- Server Administration: 0.97
+- Node.js: 0.51
+- VoIP (Voice over Internet Protocol): 0.50
+Skill: Server - Performance
+- Performance Testing: 0.89
+- Technical Documentation: 0.67
+- Scalability and Performance Optimization: 0.61
+Skill: Universal Plugin Manager / Manage apps
+- User Centric Design: 0.77
+- Cross Browser Compatibility: 0.74
+- VoIP (Voice over Internet Protocol): 0.53
+Skill: Server - Mail Archiving
+- Hardware/Software Integration: 0.98
+- Server Administration: 0.94
+- Data Manipulation: 0.92
+Skill: Platform - Application Links
+- VoIP (Voice over Internet Protocol): 0.60
+- Test-Driven Development (TDD): 0.59
+- User Centric Design: 0.46
+Skill: Server - Jobs
+- Server Administration: 0.73
+- Node.js: 0.59
+- System Administration: 0.56
+Skill: OpenID Connect
+- User Centric Design: 0.85
+- Security Best Practices: 0.22
+- Cassandra: 0.15
+Skill: Flakey Test - New
+- Quality Assurance: 0.96
+- Test-Driven Development (TDD): 0.41
+- VoIP (Voice over Internet Protocol): 0.36
+Skill: Apps - Source Editor (Unsupported)
+- Data Manipulation: 0.59
+- User Centric Design: 0.58
+- Data Manipulation and Cleaning: 0.53
+Skill: Themes / Theming
+- VoIP (Voice over Internet Protocol): 0.77
+- pytest: 0.63
+- Matplotlib: 0.61
+Skill: Audit Log Macro
+- Data Manipulation: 0.99
+- Security Auditing: 0.70
+- Data Manipulation and Cleaning: 0.41
+Skill: Server - Authentication
+- Network Security: 0.98
+- Security Best Practices: 0.67
+- Test-Driven Development (TDD): 0.60
+Skill: Data Center - Azure
+- Azure: 1.00
+- Cloud Architecture: 0.70
+- Hardware/Software Integration: 0.63
+Skill: Content - Blueprints - Playbook
+- GCP: 0.64
+- CoAP: 0.43
+- User Centric Design: 0.41
+Skill: Hyperledger
+- Cryptocurrency development: 0.97
+- Big Data Technologies: 0.90
+- Smart contracts: 0.69
+Skill: sawtooth-core
+- Scalability and Performance Optimization: 0.87
+- Hardware/Software Integration: 0.86
+- Technical Documentation: 0.42
+Skill: Valdator Server
+- Server Administration: 0.95
+- Hardware/Software Integration: 0.76
+- Test-Driven Development (TDD): 0.69
+Skill: C++ SDK
+- Technical Documentation: 0.92
+- VoIP (Voice over Internet Protocol): 0.58
+- Data Manipulation: 0.57
+Skill: PoET
+- Performance Testing: 0.93
+- Penetration Testing: 0.89
+- VoIP (Voice over Internet Protocol): 0.57
+Skill: Validator Networking
+- VoIP (Voice over Internet Protocol): 0.37
+- Selenium: 0.29
+- Blockchain security: 0.27
+Skill: Validator Journal
+- VoIP (Voice over Internet Protocol): 0.63
+- Test-Driven Development (TDD): 0.47
+- Cryptocurrency development: 0.35
+Skill: Javascript SDK
+- Web Development: 0.97
+- JavaScript: 0.86
+- Technical Documentation: 0.74
+Skill: Python SDK
+- Technical Documentation: 0.94
+- VoIP (Voice over Internet Protocol): 0.54
+- Data Manipulation: 0.53
+Skill: Validator Txn Execution
+- Smart contracts: 0.49
+- Blockchain security: 0.46
+- MQTT: 0.46
+Skill: Seth
+- Test-Driven Development (TDD): 0.84
+- VoIP (Voice over Internet Protocol): 0.81
+- RESTful Architecture: 0.75
+Skill: Burrow EVM
+- Smart contracts: 0.74
+- Computer Vision: 0.64
+- User Centric Design: 0.56
+Skill: sawtooth CLI
+- Hardware/Software Integration: 0.73
+- Data Manipulation: 0.70
+- User Centric Design: 0.65
+Skill: Continuous Integration
+- Continuous Integration/Continuous Deployment: 0.72
+- DevOps: 0.54
+- VoIP (Voice over Internet Protocol): 0.31
+Skill: Validator Global State
+- Selenium: 0.32
+- GCP: 0.28
+- Test-Driven Development (TDD): 0.27
+Skill: Poet2
+- Test-Driven Development (TDD): 0.80
+- VoIP (Voice over Internet Protocol): 0.69
+- User Centric Design: 0.68
+Skill: Go SDK
+- Technical Documentation: 0.64
+- Data Manipulation: 0.53
+- VoIP (Voice over Internet Protocol): 0.53
+Skill: XO Family
+- VoIP (Voice over Internet Protocol): 0.65
+- Hardware/Software Integration: 0.59
+- User Centric Design: 0.49
+Skill: Supply_Chain
+- Kanban: 0.55
+- CoAP: 0.20
+- Docker: 0.16
+Skill: Java SDK
+- Technical Documentation: 0.99
+- VoIP (Voice over Internet Protocol): 0.53
+- Data Manipulation: 0.51
+Skill: Python Signing
+- Cryptography: 0.99
+- Security Best Practices: 0.68
+- AI: 0.51
+Skill: Design
+- VoIP (Voice over Internet Protocol): 0.74
+- User Centric Design: 0.70
+- Hardware/Software Integration: 0.60
+Skill: Integration Tests
+- Test-Driven Development (TDD): 0.96
+- Agile Methodologies: 0.49
+- VoIP (Voice over Internet Protocol): 0.48
+Skill: Settings Family
+- User Centric Design: 0.68
+- VoIP (Voice over Internet Protocol): 0.38
+- Cassandra: 0.36
+Skill: Private Transaction
+- User Centric Design: 0.89
+- Security Best Practices: 0.45
+- Blockchain security: 0.39
+Skill: OMI Summer Lab
+- Test-Driven Development (TDD): 0.71
+- User Centric Design: 0.60
+- VoIP (Voice over Internet Protocol): 0.58
+Skill: libindy
+- VoIP (Voice over Internet Protocol): 0.79
+- User Centric Design: 0.76
+- Test-Driven Development (TDD): 0.73
+Skill: libvcx
+- Computer Vision: 0.79
+- Test-Driven Development (TDD): 0.72
+- VoIP (Voice over Internet Protocol): 0.71
+Skill: python wrapper
+- VoIP (Voice over Internet Protocol): 0.59
+- User Centric Design: 0.51
+- TCP/IP: 0.51
+Skill: build-delivery-pipelines
+- DevOps: 0.95
+- Agile Methodologies: 0.72
+- VoIP (Voice over Internet Protocol): 0.55
+Skill: aries
+- Test-Driven Development (TDD): 0.78
+- VoIP (Voice over Internet Protocol): 0.73
+- AI: 0.64
+Skill: wallet
+- Cryptocurrency development: 0.91
+- Hardware/Software Integration: 0.87
+- User Centric Design: 0.76
+Skill: payments
+- User Centric Design: 0.48
+- GCP: 0.35
+- Spark: 0.30
+Skill: indycrypto
+- Cryptography: 1.00
+- Cryptocurrency development: 0.99
+- Test-Driven Development (TDD): 0.91
+Skill: plenum
+- VoIP (Voice over Internet Protocol): 0.50
+- Test-Driven Development (TDD): 0.46
+- User Centric Design: 0.36
+Skill: libsovrin
+- Test-Driven Development (TDD): 0.80
+- VoIP (Voice over Internet Protocol): 0.74
+- User Centric Design: 0.70
+Skill: validator-info
+- Test-Driven Development (TDD): 0.70
+- VoIP (Voice over Internet Protocol): 0.64
+- User Centric Design: 0.58
+Skill: test-automation
+- Test-Driven Development (TDD): 0.65
+- Quality Assurance: 0.63
+- pytest: 0.50
+Skill: fabric-ledger
+- Cloud Native Application Development: 0.87
+- NoSQL: 0.86
+- Cryptocurrency development: 0.84
+Skill: fabric-orderer
+- Cloud Native Application Development: 0.49
+- AI: 0.46
+- User Centric Design: 0.42
+Skill: fabric-samples
+- Spark: 0.38
+- CoAP: 0.32
+- Azure: 0.31
+Skill: fabric-common
+- Cloud Native Application Development: 0.72
+- VoIP (Voice over Internet Protocol): 0.50
+- Continuous Integration/Continuous Deployment: 0.35
+Skill: fabric-docs
+- VoIP (Voice over Internet Protocol): 0.83
+- Test-Driven Development (TDD): 0.77
+- Cloud Native Application Development: 0.67
+Skill: fabric-peer
+- Cloud Native Application Development: 0.83
+- Hardware/Software Integration: 0.79
+- IoT: 0.69
+Skill: fabric-ca
+- Cloud Native Application Development: 0.85
+- VoIP (Voice over Internet Protocol): 0.65
+- Test-Driven Development (TDD): 0.52
+Skill: fabric-sdk-go
+- Cloud Native Application Development: 0.87
+- VoIP (Voice over Internet Protocol): 0.84
+- Data Manipulation: 0.81
+Skill: fabric-gossip
+- Natural Language Processing: 0.99
+- GCP: 0.62
+- Azure: 0.13
+Skill: fabric-quality
+- GCP: 0.27
+- Cassandra: 0.23
+- Spark: 0.21
+Skill: fabric-crypto
+- Cryptography: 1.00
+- Cryptocurrency development: 0.99
+- Test-Driven Development (TDD): 0.78
+Skill: fabric-cli
+- Cloud Native Application Development: 0.84
+- Hardware/Software Integration: 0.74
+- VoIP (Voice over Internet Protocol): 0.73
+Skill: fabric-build
+- VoIP (Voice over Internet Protocol): 0.32
+- Cassandra: 0.27
+- Spark: 0.22
+Skill: fabric-release
+- User Centric Design: 0.49
+- CoAP: 0.18
+- Security Best Practices: 0.18
+Skill: fabric-sdk-node
+- Node.js: 0.97
+- Cloud Native Application Development: 0.90
+- IoT: 0.87
+Skill: fabric-tools
+- User Centric Design: 0.78
+- Test-Driven Development (TDD): 0.70
+- Cloud Native Application Development: 0.62
+Skill: fabric-test
+- Quality Assurance: 0.97
+- Test-Driven Development (TDD): 0.78
+- Spark: 0.33
+Skill: fabric-ci
+- Continuous Integration/Continuous Deployment: 0.72
+- Cloud Native Application Development: 0.67
+- Natural Language Processing: 0.56
+Skill: fabric-installers
+- User Centric Design: 0.52
+- Hardware/Software Integration: 0.49
+- GCP: 0.30
+Skill: homebrew-fabric
+- Hardware/Software Integration: 0.73
+- Continuous Integration/Continuous Deployment: 0.21
+- Integration Testing and System Testing: 0.18
+Skill: fabric-sdk-java
+- Cloud Native Application Development: 0.91
+- Test-Driven Development (TDD): 0.80
+- IoT: 0.78
+Skill: fabric-token
+- Cryptocurrency development: 0.98
+- Test-Driven Development (TDD): 0.74
+- User Centric Design: 0.67
+Skill: fabric-sdk-py
+- Data Manipulation: 0.81
+- Cloud Native Application Development: 0.80
+- VoIP (Voice over Internet Protocol): 0.74
+Skill: fabric-amcl
+- Cloud Native Application Development: 0.87
+- VoIP (Voice over Internet Protocol): 0.83
+- Test-Driven Development (TDD): 0.71
+Skill: fabric-ca-build
+- Cloud Native Application Development: 0.94
+- Build Automation: 0.56
+- Cloud Architecture: 0.55
+Skill: fabric-modules
+- IoT: 0.68
+- User Centric Design: 0.57
+- Scalability and Performance Optimization: 0.42
+Skill: jenkins
+- Test-Driven Development (TDD): 0.85
+- VoIP (Voice over Internet Protocol): 0.80
+- User Centric Design: 0.73
+Skill: ap_verify
+- Performance Testing: 0.88
+- Cryptography: 0.80
+- AI: 0.73
+Skill: ts_main_telescope
+- Hardware/Software Integration: 0.91
+- Test-Driven Development (TDD): 0.91
+- User Centric Design: 0.71
+Skill: cp_pipe
+- Data Manipulation: 0.78
+- Hardware/Software Integration: 0.71
+- VoIP (Voice over Internet Protocol): 0.66
+Skill: daf_butler
+- Test-Driven Development (TDD): 0.92
+- VoIP (Voice over Internet Protocol): 0.88
+- User Centric Design: 0.79
+Skill: Middleware
+- VoIP (Voice over Internet Protocol): 0.53
+- Scalability and Performance Optimization: 0.51
+- GCP: 0.42
+Skill: efd
+- Test-Driven Development (TDD): 0.75
+- Performance Testing: 0.75
+- Data Visualization: 0.72
+Skill: dax_data_generator
+- Data Manipulation: 0.98
+- Test-Driven Development (TDD): 0.82
+- VoIP (Voice over Internet Protocol): 0.79
+Skill: pipe_tasks
+- User Centric Design: 0.66
+- Scalability and Performance Optimization: 0.53
+- AI: 0.52
+Skill: Qserv
+- VoIP (Voice over Internet Protocol): 0.92
+- User Centric Design: 0.79
+- Test-Driven Development (TDD): 0.77
+Skill: daf_base
+- Test-Driven Development (TDD): 0.89
+- VoIP (Voice over Internet Protocol): 0.88
+- Data Warehousing: 0.80
+Skill: HeaderService
+- Test-Driven Development (TDD): 0.64
+- VoIP (Voice over Internet Protocol): 0.60
+- User Centric Design: 0.52
+Skill: afw
+- Test-Driven Development (TDD): 0.84
+- Agile Methodologies: 0.83
+- Firewall Configuration: 0.82
+Skill: meas_deblender
+- Malware Analysis: 0.91
+- Test-Driven Development (TDD): 0.88
+- VoIP (Voice over Internet Protocol): 0.84
+Skill: meas_extensions_scarlet
+- Test-Driven Development (TDD): 0.84
+- VoIP (Voice over Internet Protocol): 0.80
+- Malware Analysis: 0.75
+Skill: ts_eas
+- Test-Driven Development (TDD): 0.87
+- VoIP (Voice over Internet Protocol): 0.86
+- Technical Documentation: 0.85
+Skill: obs_base
+- Test-Driven Development (TDD): 0.86
+- VoIP (Voice over Internet Protocol): 0.80
+- User Centric Design: 0.61
+Skill: ts_middleware
+- Test-Driven Development (TDD): 0.82
+- VoIP (Voice over Internet Protocol): 0.76
+- Scalability and Performance Optimization: 0.66
+Skill: pipelines_check
+- VoIP (Voice over Internet Protocol): 0.68
+- Test-Driven Development (TDD): 0.63
+- Troubleshooting: 0.59
+Skill: ts_dome
+- Test-Driven Development (TDD): 0.90
+- Technical Documentation: 0.89
+- VoIP (Voice over Internet Protocol): 0.88
+Skill: daf_persistence
+- Responsive Design: 0.95
+- VoIP (Voice over Internet Protocol): 0.81
+- Responsive Web Design: 0.73
+Skill: ap_association
+- VoIP (Voice over Internet Protocol): 0.72
+- Test-Driven Development (TDD): 0.68
+- scikit-learn: 0.49
+Skill: ci_hsc
+- Hardware/Software Integration: 0.93
+- VoIP (Voice over Internet Protocol): 0.87
+- Test-Driven Development (TDD): 0.86
+Skill: fgcmcal
+- VoIP (Voice over Internet Protocol): 0.91
+- Test-Driven Development (TDD): 0.91
+- Firewall Configuration: 0.85
+Skill: ip_isr
+- Incident Response: 0.92
+- Test-Driven Development (TDD): 0.86
+- TCP/IP: 0.78
+Skill: jointcal
+- Scalability and Performance Optimization: 0.73
+- User Centric Design: 0.60
+- Hardware/Software Integration: 0.27
+Skill: meas_astrom
+- Test-Driven Development (TDD): 0.88
+- VoIP (Voice over Internet Protocol): 0.85
+- User Centric Design: 0.76
+Skill: meas_extensions_astrometryNet
+- Machine Learning: 0.73
+- VoIP (Voice over Internet Protocol): 0.61
+- Test-Driven Development (TDD): 0.53
+Skill: butler
+- AI: 0.81
+- User Centric Design: 0.71
+- Natural Language Processing: 0.67
+Skill: obs_subaru
+- VoIP (Voice over Internet Protocol): 0.90
+- Test-Driven Development (TDD): 0.89
+- User Centric Design: 0.72
+Skill: obs_lsst
+- VoIP (Voice over Internet Protocol): 0.80
+- Test-Driven Development (TDD): 0.76
+- Performance Testing: 0.64
+Skill: pipe_drivers
+- Hardware/Software Integration: 0.92
+- IoT: 0.72
+- VoIP (Voice over Internet Protocol): 0.72
+Skill: System Integration and Test
+- Integration Testing and System Testing: 0.87
+- Test-Driven Development (TDD): 0.80
+- Agile Methodologies: 0.68
+Skill: Developer Infrastructure
+- Scalability and Performance Optimization: 0.62
+- DevOps: 0.55
+- VoIP (Voice over Internet Protocol): 0.52
+Skill: obs_decam
+- Test-Driven Development (TDD): 0.89
+- VoIP (Voice over Internet Protocol): 0.87
+- User Centric Design: 0.69
+Skill: partition
+- Test-Driven Development (TDD): 0.61
+- VoIP (Voice over Internet Protocol): 0.56
+- IT Support: 0.43
+Skill: pipe_base
+- Data Manipulation: 0.97
+- VoIP (Voice over Internet Protocol): 0.68
+- User Centric Design: 0.67
+Skill: ts_pointing
+- Test-Driven Development (TDD): 0.43
+- VoIP (Voice over Internet Protocol): 0.41
+- User Centric Design: 0.31
+Skill: DM
+- Data Manipulation: 0.69
+- Data Modeling: 0.69
+- Data Mining: 0.68
+Skill: ctrl_bps
+- User Centric Design: 0.71
+- Test-Driven Development (TDD): 0.69
+- Backup and Recovery: 0.60
+Skill: documenteer
+- Security Best Practices: 0.51
+- Technical Documentation: 0.49
+- VoIP (Voice over Internet Protocol): 0.44
+Skill: ndarray
+- Data Manipulation: 0.91
+- VoIP (Voice over Internet Protocol): 0.85
+- Test-Driven Development (TDD): 0.79
+Skill: meas_algorithms
+- Machine Learning: 0.58
+- VoIP (Voice over Internet Protocol): 0.53
+- Memory Management and Performance Profiling: 0.48
+Skill: jupyter_firefly_extensions
+- AI: 0.83
+- VoIP (Voice over Internet Protocol): 0.82
+- Test-Driven Development (TDD): 0.81
+Skill: SUIT
+- User Centric Design: 0.69
+- Usability Testing: 0.68
+- Integration Testing and System Testing: 0.68
+Skill: ts_deployment
+- Test-Driven Development (TDD): 0.80
+- Continuous Integration/Continuous Deployment: 0.72
+- VoIP (Voice over Internet Protocol): 0.69
+Skill: pipe_analysis
+- VoIP (Voice over Internet Protocol): 0.20
+- AI: 0.10
+- User Centric Design: 0.05
+Skill: nublado
+- Test-Driven Development (TDD): 0.88
+- VoIP (Voice over Internet Protocol): 0.85
+- User Centric Design: 0.82
+Skill: ts_environment
+- Test-Driven Development (TDD): 0.77
+- VoIP (Voice over Internet Protocol): 0.67
+- Angular: 0.46
+Skill: ctrl_mpexec
+- User Centric Design: 0.73
+- Ethical Hacking: 0.55
+- Hardware/Software Integration: 0.54
+Skill: ip_diffim
+- Intrusion Detection: 0.95
+- Test-Driven Development (TDD): 0.72
+- Network Monitoring: 0.63
+Skill: Notebooks
+- User Centric Design: 0.86
+- Hardware/Software Integration: 0.76
+- Project Planning: 0.47
+Skill: atmospec
+- IoT: 0.56
+- Sensor Integration: 0.44
+- Hardware/Software Integration: 0.36
+Skill: DM Subsystem Science
+- VoIP (Voice over Internet Protocol): 0.51
+- Scalability and Performance Optimization: 0.23
+- Hardware/Software Integration: 0.18
+Skill: meas_base
+- Malware Analysis: 0.75
+- Memory Management and Performance Profiling: 0.61
+- VoIP (Voice over Internet Protocol): 0.60
+Skill: ts_qa
+- Quality Assurance: 0.87
+- VoIP (Voice over Internet Protocol): 0.85
+- Test-Driven Development (TDD): 0.80
+Skill: www_lsst_io
+- IoT: 0.98
+- Web Development: 0.85
+- Test-Driven Development (TDD): 0.82
+Skill: validate_drp
+- Disaster Recovery Planning: 0.88
+- Test-Driven Development (TDD): 0.84
+- Cryptography: 0.78
+Skill: ap_pipe
+- VoIP (Voice over Internet Protocol): 0.80
+- Hardware/Software Integration: 0.77
+- Test-Driven Development (TDD): 0.76
+Skill: starlink_ast
+- VoIP (Voice over Internet Protocol): 0.92
+- AI: 0.88
+- Test-Driven Development (TDD): 0.86
+Skill: lsst_obs
+- VoIP (Voice over Internet Protocol): 0.69
+- Microsoft SQL Server: 0.63
+- Test-Driven Development (TDD): 0.57
+Skill: obs_ctio0m9
+- VoIP (Voice over Internet Protocol): 0.71
+- Penetration Testing: 0.54
+- Test-Driven Development (TDD): 0.50
+Skill: rapid_analysis
+- VoIP (Voice over Internet Protocol): 0.50
+- AI: 0.44
+- User Centric Design: 0.15
+Skill: cat
+- Computer Vision: 0.80
+- User Centric Design: 0.66
+- React Native: 0.59
+Skill: dax
+- Test-Driven Development (TDD): 0.91
+- VoIP (Voice over Internet Protocol): 0.84
+- User Centric Design: 0.81
+Skill: ts_auxiliary_telescope
+- Hardware/Software Integration: 0.95
+- Test-Driven Development (TDD): 0.82
+- User Centric Design: 0.74
+Skill: astshim
+- Test-Driven Development (TDD): 0.84
+- VoIP (Voice over Internet Protocol): 0.77
+- User Centric Design: 0.57
+Skill: lsstsw
+- Microsoft SQL Server: 0.93
+- VoIP (Voice over Internet Protocol): 0.62
+- Test-Driven Development (TDD): 0.52
+Skill: squash
+- User Centric Design: 0.45
+- VoIP (Voice over Internet Protocol): 0.43
+- Test-Driven Development (TDD): 0.36
+Skill: ts_aos
+- Test-Driven Development (TDD): 0.89
+- VoIP (Voice over Internet Protocol): 0.88
+- Scalability and Performance Optimization: 0.87
+Skill: pex_config
+- Test-Driven Development (TDD): 0.87
+- VoIP (Voice over Internet Protocol): 0.84
+- System Administration: 0.78
+Skill: mops
+- User Centric Design: 0.60
+- Memory Management and Performance Profiling: 0.53
+- CoAP: 0.27
+Skill: qa_explorer
+- Test-Driven Development (TDD): 0.90
+- VoIP (Voice over Internet Protocol): 0.84
+- Quality Assurance: 0.82
+Skill: astro_metadata_translator
+- Machine Learning: 0.83
+- User Centric Design: 0.81
+- AI: 0.78
+Skill: obs_cfht
+- Test-Driven Development (TDD): 0.88
+- VoIP (Voice over Internet Protocol): 0.87
+- Performance Testing: 0.67
+Skill: scipipe_conda_env
+- VoIP (Voice over Internet Protocol): 0.75
+- Test-Driven Development (TDD): 0.73
+- Hardware/Software Integration: 0.64
+Skill: Science Platform
+- VoIP (Voice over Internet Protocol): 0.56
+- Test-Driven Development (TDD): 0.53
+- Scalability and Performance Optimization: 0.42
+Skill: dm_dev_guide
+- Technical Documentation: 0.99
+- VoIP (Voice over Internet Protocol): 0.75
+- Data Mining: 0.75
+Skill: base
+- Test-Driven Development (TDD): 0.70
+- Virtualization Hyper-V: 0.63
+- VoIP (Voice over Internet Protocol): 0.63
+Skill: lsst_dm_stack_demo
+- Data Manipulation: 0.99
+- Data Modeling: 0.97
+- Data Mining: 0.97
+Skill: sims_catUtils
+- AI: 0.80
+- Test-Driven Development (TDD): 0.79
+- VoIP (Voice over Internet Protocol): 0.67
+Skill: Alert Production
+- VoIP (Voice over Internet Protocol): 0.31
+- Agile Methodologies: 0.29
+- TCP/IP: 0.28
+Skill: obs_comCam
+- Computer Vision: 0.91
+- Test-Driven Development (TDD): 0.75
+- VoIP (Voice over Internet Protocol): 0.75
+Skill: Science Pipelines
+- VoIP (Voice over Internet Protocol): 0.52
+- Scalability and Performance Optimization: 0.31
+- ETL: 0.25
+Skill: sphgeom
+- Scalability and Performance Optimization: 0.55
+- VoIP (Voice over Internet Protocol): 0.35
+- Microsoft SQL Server: 0.15
+Skill: lsst-texmf
+- Technical Documentation: 0.89
+- Microsoft SQL Server: 0.82
+- VoIP (Voice over Internet Protocol): 0.72
+Skill: utils
+- VoIP (Voice over Internet Protocol): 0.53
+- Virtualization Hyper-V: 0.47
+- User Centric Design: 0.45
+Skill: lsst_build
+- Build Automation: 0.89
+- Data Manipulation: 0.83
+- Hardware/Software Integration: 0.78
+Skill: ts_management
+- VoIP (Voice over Internet Protocol): 0.73
+- Test-Driven Development (TDD): 0.65
+- Angular: 0.63
+Skill: pipelines_lsst_io
+- IoT: 0.99
+- Scalability and Performance Optimization: 0.89
+- Hardware/Software Integration: 0.87
+Skill: ts_documentation
+- Technical Documentation: 1.00
+- Test-Driven Development (TDD): 0.83
+- VoIP (Voice over Internet Protocol): 0.67
+Skill: alert_packet
+- Network Monitoring: 0.93
+- Network Security: 0.87
+- Test-Driven Development (TDD): 0.80
+Skill: lsst
+- Test-Driven Development (TDD): 0.77
+- VoIP (Voice over Internet Protocol): 0.68
+- Microsoft SQL Server: 0.62
+Skill: ts_visualization
+- Data Visualization: 0.98
+- Computer Vision: 0.89
+- VoIP (Voice over Internet Protocol): 0.59
+Skill: ts_facilities
+- VoIP (Voice over Internet Protocol): 0.76
+- Test-Driven Development (TDD): 0.69
+- User Centric Design: 0.58
+Skill: eups
+- Test-Driven Development (TDD): 0.83
+- VoIP (Voice over Internet Protocol): 0.71
+- Technical Documentation: 0.63
+Skill: alert_stream
+- UI Design: 0.95
+- VoIP (Voice over Internet Protocol): 0.90
+- User Centric Design: 0.79
+Skill: ImgServ
+- Integration Testing and System Testing: 0.93
+- VoIP (Voice over Internet Protocol): 0.82
+- AI: 0.75
+Skill: Requirements Documents
+- VoIP (Voice over Internet Protocol): 0.44
+- Cross Browser Compatibility: 0.37
+- Microsoft SQL Server: 0.35
+Skill: Design Documents
+- User Centric Design: 0.53
+- System Architecture Design: 0.52
+- UX/UI Design and Prototyping: 0.51
+Skill: ci_hsc_gen3
+- Hardware/Software Integration: 0.96
+- Cryptography: 0.88
+- Continuous Integration/Continuous Deployment: 0.85
+Skill: testdata_jointcal
+- Test-Driven Development (TDD): 0.94
+- Data Manipulation: 0.90
+- Hardware/Software Integration: 0.74
+Skill: lua
+- Data Manipulation: 0.73
+- VoIP (Voice over Internet Protocol): 0.59
+- User Centric Design: 0.57
+Skill: mysql-proxy
+- Data Manipulation: 0.99
+- RDBMS: 0.99
+- MySQL: 0.96
+Skill: verify
+- Test-Driven Development (TDD): 0.88
+- Technical Documentation: 0.65
+- Cryptography: 0.65
+Skill: log
+- Test-Driven Development (TDD): 0.73
+- VoIP (Voice over Internet Protocol): 0.49
+- TCP/IP: 0.46
+Skill: Firefly
+- User Centric Design: 0.73
+- Hardware/Software Integration: 0.69
+- Computer Vision: 0.67
+Skill: felis
+- Test-Driven Development (TDD): 0.92
+- VoIP (Voice over Internet Protocol): 0.89
+- User Centric Design: 0.82
+Skill: Stack Documentation and UX
+- User Centric Design: 0.95
+- UX Design: 0.74
+- Matplotlib: 0.30
+Skill: Data Access
+- VoIP (Voice over Internet Protocol): 0.75
+- RESTful Architecture: 0.65
+- RDBMS: 0.63
+Skill: Third Party Software
+- VoIP (Voice over Internet Protocol): 0.57
+- Virtualization VMware: 0.53
+- User Centric Design: 0.52
+Skill: psfex
+- Test-Driven Development (TDD): 0.81
+- VoIP (Voice over Internet Protocol): 0.80
+- Technical Documentation: 0.68
+Skill: Data Release Production
+- RDBMS: 0.55
+- DevOps: 0.54
+- VoIP (Voice over Internet Protocol): 0.46
+Skill: security-engineering
+- VoIP (Voice over Internet Protocol): 0.56
+- VPN: 0.37
+- Intrusion Detection: 0.36
+Skill: workspace
+- User Centric Design: 0.62
+- Test-Driven Development (TDD): 0.48
+- VoIP (Voice over Internet Protocol): 0.43
+Skill: ci_lsst
+- Integration Testing and System Testing: 0.92
+- VoIP (Voice over Internet Protocol): 0.74
+- IT Support: 0.74
+Skill: boost
+- User Centric Design: 0.82
+- Scalability and Performance Optimization: 0.65
+- Hardware/Software Integration: 0.56
+Skill: dbserv
+- RDBMS: 0.98
+- VoIP (Voice over Internet Protocol): 0.84
+- Test-Driven Development (TDD): 0.76
+Skill: skymap
+- Data Visualization: 0.99
+- Test-Driven Development (TDD): 0.82
+- User Centric Design: 0.75
+Skill: sconsUtils
+- VoIP (Voice over Internet Protocol): 0.71
+- Data Manipulation: 0.66
+- Hardware/Software Integration: 0.61
+Skill: ap
+- Agile Methodologies: 0.82
+- Performance Testing: 0.73
+- Project Planning: 0.70
+Skill: cbp
+- Test-Driven Development (TDD): 0.91
+- Cross Browser Compatibility: 0.78
+- RESTful Architecture: 0.78
+Skill: Firefly-proxy
+- VoIP (Voice over Internet Protocol): 0.89
+- Hardware/Software Integration: 0.82
+- Test-Driven Development (TDD): 0.81
+Skill: lsst_ci
+- Integration Testing and System Testing: 0.90
+- Continuous Integration/Continuous Deployment: 0.76
+- Technical Documentation: 0.63
+Skill: sample-avro-alert
+- Android Mobile App Development: 0.69
+- Test-Driven Development (TDD): 0.48
+- IoT: 0.37
+Skill: xrootd
+- VoIP (Voice over Internet Protocol): 0.81
+- Test-Driven Development (TDD): 0.77
+- Server Administration: 0.65
+Skill: lsst_distrib
+- Data Manipulation: 0.79
+- Data Manipulation and Cleaning: 0.61
+- Test-Driven Development (TDD): 0.37
+Skill: ts_calibration
+- Hardware/Software Integration: 0.51
+- Test-Driven Development (TDD): 0.46
+- VoIP (Voice over Internet Protocol): 0.26
+Skill: ctrl_iip
+- TCP/IP: 0.94
+- User Centric Design: 0.88
+- VoIP (Voice over Internet Protocol): 0.87
+Skill: docsteady
+- Test-Driven Development (TDD): 0.90
+- VoIP (Voice over Internet Protocol): 0.80
+- User Centric Design: 0.75
+Skill: display_firefly
+- Data Visualization: 0.94
+- User Centric Design: 0.75
+- Hardware/Software Integration: 0.72
+Skill: OODS
+- VoIP (Voice over Internet Protocol): 0.46
+- Hardware/Software Integration: 0.45
+- Network Monitoring: 0.43
+Skill: synpipe
+- VoIP (Voice over Internet Protocol): 0.46
+- Integration Testing and System Testing: 0.39
+- Hardware/Software Integration: 0.38
+Skill: JIRA
+- Agile Methodologies: 0.94
+- Project Planning: 0.59
+- Continuous Integration/Continuous Deployment: 0.54
+Skill: firefly_client
+- VoIP (Voice over Internet Protocol): 0.95
+- Test-Driven Development (TDD): 0.89
+- User Centric Design: 0.86
+Skill: dax_ppdb
+- RDBMS: 0.98
+- Test-Driven Development (TDD): 0.88
+- VoIP (Voice over Internet Protocol): 0.84
+Skill: jupyterlabutils
+- Test-Driven Development (TDD): 0.85
+- VoIP (Voice over Internet Protocol): 0.74
+- Data Manipulation: 0.73
+Skill: meas_modelfit
+- Machine Learning: 0.97
+- VoIP (Voice over Internet Protocol): 0.80
+- Scalability and Performance Optimization: 0.65
+Skill: gsl
+- Test-Driven Development (TDD): 0.71
+- Responsive Design: 0.71
+- Responsive Web Design: 0.68
+Skill: stack release
+- DevOps: 0.69
+- VoIP (Voice over Internet Protocol): 0.45
+- TCP/IP: 0.34
+Skill: lsp-landing-page
+- User Centric Design: 0.85
+- Test-Driven Development (TDD): 0.67
+- Web Development: 0.56
+Skill: Calibration Products Production
+- CoAP: 0.37
+- GCP: 0.37
+- ETL: 0.26
+Skill: ts_scheduler
+- Test-Driven Development (TDD): 0.84
+- AI: 0.77
+- User Centric Design: 0.76
+Skill: obs_sdss
+- VoIP (Voice over Internet Protocol): 0.85
+- Scalability and Performance Optimization: 0.82
+- System Architecture Design: 0.71
+Skill: ctrl_execute
+- User Centric Design: 0.79
+- VoIP (Voice over Internet Protocol): 0.57
+- Test-Driven Development (TDD): 0.50
+Skill: ctrl_orca
+- Oracle: 0.87
+- VoIP (Voice over Internet Protocol): 0.84
+- Test-Driven Development (TDD): 0.84
+Skill: ctrl_pool
+- User Centric Design: 0.68
+- Cryptocurrency development: 0.60
+- Test-Driven Development (TDD): 0.60
+Skill: db
+- RDBMS: 0.98
+- Data Manipulation: 0.81
+- VoIP (Voice over Internet Protocol): 0.72
+Skill: display_matplotlib
+- Matplotlib: 0.99
+- Data Visualization: 0.99
+- Test-Driven Development (TDD): 0.60
+Skill: shapelet
+- User Centric Design: 0.65
+- Computer Vision: 0.57
+- Hardware/Software Integration: 0.52
+Skill: ts_ait
+- Integration Testing and System Testing: 0.92
+- Test-Driven Development (TDD): 0.86
+- VoIP (Voice over Internet Protocol): 0.85
+Skill: QA
+- Quality Assurance: 0.99
+- Django: 0.53
+- Integration Testing and System Testing: 0.52
+Skill: JupyterLab
+- User Centric Design: 0.79
+- AI: 0.74
+- Test-Driven Development (TDD): 0.69
+Skill: geom
+- GCP: 0.34
+- Azure: 0.24
+- CoAP: 0.19
+Skill: pex_policy
+- Test-Driven Development (TDD): 0.80
+- VoIP (Voice over Internet Protocol): 0.80
+- Machine Learning: 0.79
+Skill: technote
+- Technical Documentation: 1.00
+- Test-Driven Development (TDD): 0.78
+- User Centric Design: 0.72
+Skill: ts_arch
+- Test-Driven Development (TDD): 0.87
+- VoIP (Voice over Internet Protocol): 0.81
+- System Architecture Design: 0.78
+Skill: obs_test
+- Performance Testing: 0.98
+- Test-Driven Development (TDD): 0.91
+- Usability Testing: 0.91
+Skill: meas_extensions_photometryKron
+- VoIP (Voice over Internet Protocol): 0.64
+- Test-Driven Development (TDD): 0.43
+- User Centric Design: 0.25
+Skill: obs_monocam
+- Hardware/Software Integration: 0.94
+- Computer Vision: 0.87
+- Test-Driven Development (TDD): 0.80
+Skill: meas_mosaic
+- Data Visualization: 0.89
+- Test-Driven Development (TDD): 0.80
+- Memory Management and Performance Profiling: 0.76
+Skill: pex_exceptions
+- Test-Driven Development (TDD): 0.66
+- VoIP (Voice over Internet Protocol): 0.62
+- User Centric Design: 0.37
+Skill: Management
+- Test-Driven Development (TDD): 0.57
+- Continuous Integration/Continuous Deployment: 0.50
+- Agile Methodologies: 0.47
+Skill: meas_extensions_shapeHSM
+- Hardware/Software Integration: 0.76
+- VoIP (Voice over Internet Protocol): 0.68
+- Test-Driven Development (TDD): 0.57
+Skill: meas_extensions_ngmix
+- VoIP (Voice over Internet Protocol): 0.62
+- Network Monitoring: 0.56
+- Malware Analysis: 0.53
+Skill: L1 Database
+- Data Manipulation: 0.69
+- VoIP (Voice over Internet Protocol): 0.44
+- Natural Language Processing: 0.41
+Skill: obs_lsstSim
+- Test-Driven Development (TDD): 0.79
+- VoIP (Voice over Internet Protocol): 0.78
+- AI: 0.71
+Skill: coadd_utils
+- Data Manipulation: 0.99
+- VoIP (Voice over Internet Protocol): 0.79
+- Test-Driven Development (TDD): 0.79
+Skill: meas_extensions_convolved
+- VoIP (Voice over Internet Protocol): 0.34
+- Memory Management and Performance Profiling: 0.33
+- User Centric Design: 0.25
+Skill: meas_extensions_simpleShape
+- VoIP (Voice over Internet Protocol): 0.60
+- Test-Driven Development (TDD): 0.42
+- User Centric Design: 0.41
+Skill: metaserv
+- User Centric Design: 0.69
+- Hardware/Software Integration: 0.50
+- Data Manipulation: 0.46
+Skill: obs_auxtel
+- VoIP (Voice over Internet Protocol): 0.89
+- Test-Driven Development (TDD): 0.87
+- Hardware/Software Integration: 0.79
+Skill: Review Documents
+- User Centric Design: 0.86
+- Natural Language Processing: 0.74
+- Quality Assurance: 0.70
+Skill: meas_extensions_psfex
+- Memory Management and Performance Profiling: 0.86
+- VoIP (Voice over Internet Protocol): 0.71
+- Test-Driven Development (TDD): 0.67
+Skill: webserv
+- Test-Driven Development (TDD): 0.65
+- User Centric Design: 0.64
+- HTML: 0.48
+Skill: verify_metrics
+- Test-Driven Development (TDD): 0.72
+- VoIP (Voice over Internet Protocol): 0.70
+- Performance Testing: 0.65
+Skill: ts_hardware
+- Hardware/Software Integration: 0.94
+- Test-Driven Development (TDD): 0.89
+- VoIP (Voice over Internet Protocol): 0.71
+Skill: scisql
+- Data Manipulation: 0.99
+- RDBMS: 0.99
+- SQL: 0.98
+Skill: ctrl_platform
+- VoIP (Voice over Internet Protocol): 0.64
+- Hardware/Software Integration: 0.58
+- User Centric Design: 0.54
+Skill: Test Data
+- Test-Driven Development (TDD): 0.65
+- Quality Assurance: 0.54
+- VoIP (Voice over Internet Protocol): 0.53
+Skill: camera
+- Hardware/Software Integration: 0.90
+- IoT: 0.87
+- User Centric Design: 0.87
+Skill: pipe_supertask
+- VoIP (Voice over Internet Protocol): 0.71
+- AI: 0.67
+- Machine Learning: 0.47
+Skill: LDF
+- VoIP (Voice over Internet Protocol): 0.39
+- Hardware/Software Integration: 0.30
+- Scalability and Performance Optimization: 0.29
+Skill: pex_logging
+- VoIP (Voice over Internet Protocol): 0.76
+- Test-Driven Development (TDD): 0.69
+- User Centric Design: 0.60
+Skill: testdata_subaru
+- Test-Driven Development (TDD): 0.93
+- Data Manipulation: 0.86
+- VoIP (Voice over Internet Protocol): 0.84
+Skill: Systems Engineering
+- VoIP (Voice over Internet Protocol): 0.73
+- Scalability and Performance Optimization: 0.50
+- Real-Time Systems: 0.48
+Skill: galsim
+- Android Mobile App Development: 0.26
+- React Native: 0.26
+- Virtualization Hyper-V: 0.19
+Skill: log4cxx
+- Test-Driven Development (TDD): 0.78
+- VoIP (Voice over Internet Protocol): 0.75
+- Network Monitoring: 0.74
+Skill: display_ginga
+- Data Visualization: 0.94
+- VoIP (Voice over Internet Protocol): 0.74
+- User Centric Design: 0.74
+Skill: supertask
+- Test-Driven Development (TDD): 0.41
+- VoIP (Voice over Internet Protocol): 0.39
+- Integration Testing and System Testing: 0.29
+Skill: display_ds9
+- Data Visualization: 0.87
+- Hardware/Software Integration: 0.81
+- Test-Driven Development (TDD): 0.80
+Skill: eigen
+- VoIP (Voice over Internet Protocol): 0.61
+- Test-Driven Development (TDD): 0.58
+- User Centric Design: 0.41
+Skill: scikit_learn
+- scikit-learn: 0.99
+- Machine Learning: 0.97
+- AI: 0.91
+Skill: ctrl_provenance
+- Data Manipulation and Cleaning: 0.23
+- User Centric Design: 0.20
+- VoIP (Voice over Internet Protocol): 0.20
+Skill: numpydoc
+- Data Manipulation: 0.98
+- Technical Documentation: 0.72
+- Test-Driven Development (TDD): 0.69
+Skill: ctrl_evmon
+- Network Monitoring: 0.90
+- Computer Vision: 0.83
+- Hardware/Software Integration: 0.73
+Skill: skypix
+- Test-Driven Development (TDD): 0.85
+- VoIP (Voice over Internet Protocol): 0.83
+- User Centric Design: 0.79
+Skill: doxygen
+- VoIP (Voice over Internet Protocol): 0.77
+- User Centric Design: 0.69
+- Hardware/Software Integration: 0.63
+Skill: astrometry_net
+- Test-Driven Development (TDD): 0.87
+- VoIP (Voice over Internet Protocol): 0.87
+- User Centric Design: 0.58
+Skill: Project Management tools
+- Spark: 0.35
+- CoAP: 0.35
+- Continuous Integration/Continuous Deployment: 0.33
+Skill: webservcommon
+- Test-Driven Development (TDD): 0.78
+- VoIP (Voice over Internet Protocol): 0.56
+- User Centric Design: 0.51
+Skill: mariadb
+- RDBMS: 0.99
+- User Centric Design: 0.80
+- Data Manipulation: 0.76
+Skill: mariadbclient
+- RDBMS: 0.99
+- Data Manipulation: 0.91
+- User Centric Design: 0.84
+Skill: qserv_testdata
+- Test-Driven Development (TDD): 0.95
+- VoIP (Voice over Internet Protocol): 0.83
+- Data Manipulation: 0.82
+Skill: lsstDoxygen
+- VoIP (Voice over Internet Protocol): 0.73
+- Data Visualization: 0.43
+- User Centric Design: 0.41
+Skill: git
+- Git: 1.00
+- Data Manipulation: 0.98
+- User Centric Design: 0.68
+Skill: wg-supertask
+- VoIP (Voice over Internet Protocol): 0.80
+- Test-Driven Development (TDD): 0.71
+- User Centric Design: 0.56
+Skill: webcommon
+- Test-Driven Development (TDD): 0.70
+- Web Development: 0.70
+- User Centric Design: 0.63
+Skill: lsst_apps
+- User Centric Design: 0.73
+- VoIP (Voice over Internet Protocol): 0.68
+- Test-Driven Development (TDD): 0.55
+Skill: Risk Register
+- Risk Management: 0.99
+- HTML: 0.26
+- VoIP (Voice over Internet Protocol): 0.19
+Skill: IRSA
+- Integration Testing and System Testing: 0.94
+- Incident Response: 0.79
+- System Administration: 0.79
+Skill: ctrl_stats
+- Data Manipulation: 0.97
+- Data Manipulation and Cleaning: 0.91
+- Data Visualization: 0.86
+Skill: obs_ts3
+- Performance Testing: 0.95
+- Usability Testing: 0.82
+- Test-Driven Development (TDD): 0.81
+Skill: ctrl_events
+- User Centric Design: 0.78
+- Hardware/Software Integration: 0.49
+- IoT: 0.46
+Skill: daf_ingest
+- Data Mining: 0.99
+- Embedded Systems: 0.96
+- Data Engineering: 0.95
+Skill: datarel
+- Data Manipulation: 0.79
+- VoIP (Voice over Internet Protocol): 0.73
+- RESTful Architecture: 0.59
+Skill: non-dm
+- VoIP (Voice over Internet Protocol): 0.47
+- Node.js: 0.31
+- NoSQL: 0.28
+Skill: obs_file
+- Test-Driven Development (TDD): 0.83
+- VoIP (Voice over Internet Protocol): 0.74
+- User Centric Design: 0.62
+Skill: coadd_chisquared
+- Data Manipulation: 0.89
+- AI: 0.79
+- VoIP (Voice over Internet Protocol): 0.77
+Skill: processFile
+- Data Manipulation: 0.66
+- Test-Driven Development (TDD): 0.64
+- Continuous Integration/Continuous Deployment: 0.44
+Skill: Algorithm Testing
+- Test-Driven Development (TDD): 0.92
+- Quality Assurance: 0.89
+- scikit-learn: 0.40
+Skill: protobuf
+- Data Manipulation: 0.94
+- Scalability and Performance Optimization: 0.49
+- IoT: 0.47
+Skill: mysqlclient
+- RDBMS: 1.00
+- MySQL: 0.99
+- Data Manipulation: 0.97
+Skill: lsst.github.io
+- IoT: 0.93
+- Web Development: 0.86
+- Test-Driven Development (TDD): 0.83
+Skill: Jupyter Widget
+- User Centric Design: 0.89
+- AI: 0.87
+- IoT: 0.67
+Skill: matplotlib
+- Matplotlib: 0.99
+- Data Visualization: 0.92
+- Data Manipulation: 0.84
+Skill: buildbot
+- Build Automation: 0.99
+- AI: 0.97
+- Hardware/Software Integration: 0.88
+Skill: ngmix
+- Test-Driven Development (TDD): 0.84
+- VoIP (Voice over Internet Protocol): 0.79
+- User Centric Design: 0.67
+Skill: Nebula OpenStack
+- Cloud Architecture: 0.99
+- Test-Driven Development (TDD): 0.84
+- Cloud Native Application Development: 0.70
+Skill: meas_extensions_multiShapelet
+- Test-Driven Development (TDD): 0.63
+- VoIP (Voice over Internet Protocol): 0.54
+- User Centric Design: 0.38
+Skill: wcslib
+- Test-Driven Development (TDD): 0.89
+- VoIP (Voice over Internet Protocol): 0.79
+- User Centric Design: 0.69
+Skill: mysql
+- MySQL: 1.00
+- RDBMS: 0.99
+- Data Manipulation: 0.99
+Skill: anaconda
+- Test-Driven Development (TDD): 0.61
+- User Centric Design: 0.60
+- VoIP (Voice over Internet Protocol): 0.53
+Skill: astrometry_net_data
+- Test-Driven Development (TDD): 0.76
+- Data Manipulation and Cleaning: 0.72
+- User Centric Design: 0.44
+Skill: Data Archive
+- Microsoft SQL Server: 0.57
+- VoIP (Voice over Internet Protocol): 0.53
+- Hadoop: 0.46
+Skill: fftw
+- VoIP (Voice over Internet Protocol): 0.68
+- Troubleshooting: 0.61
+- Test-Driven Development (TDD): 0.60
+Skill: scons
+- Scrum: 0.89
+- Smart contracts: 0.86
+- Server Administration: 0.70
+Skill: meas_photocal
+- User Centric Design: 0.61
+- Test-Driven Development (TDD): 0.47
+- Computer Vision: 0.30
+Skill: webserv_client
+- Test-Driven Development (TDD): 0.90
+- Web Development: 0.83
+- User Centric Design: 0.80
+Skill: testing_endtoend
+- Test-Driven Development (TDD): 0.93
+- VoIP (Voice over Internet Protocol): 0.67
+- Performance Testing: 0.51
+Skill: dataserv
+- Data Warehousing: 0.41
+- DevOps: 0.36
+- Data Manipulation and Cleaning: 0.36
+Skill: lsst_thirdparty
+- VoIP (Voice over Internet Protocol): 0.67
+- Microsoft SQL Server: 0.38
+- Test-Driven Development (TDD): 0.35
+Skill: antlr
+- Natural Language Processing: 0.99
+- VoIP (Voice over Internet Protocol): 0.87
+- User Centric Design: 0.84
+Skill: luaexpat
+- Test-Driven Development (TDD): 0.82
+- VoIP (Voice over Internet Protocol): 0.81
+- User Centric Design: 0.70
+Skill: luasocket
+- Data Manipulation: 0.92
+- IoT: 0.79
+- VoIP (Voice over Internet Protocol): 0.75
+Skill: zookeeper
+- User Centric Design: 0.64
+- VoIP (Voice over Internet Protocol): 0.63
+- Test-Driven Development (TDD): 0.56
+Skill: SAT
+- Test-Driven Development (TDD): 0.53
+- Security Auditing: 0.52
+- Scalability and Performance Optimization: 0.48
+Skill: TCT
+- Cryptocurrency development: 0.62
+- Technical Documentation: 0.52
+- Smart contracts: 0.51
+Skill: pipeQA
+- Quality Assurance: 0.94
+- User Centric Design: 0.57
+- Hardware/Software Integration: 0.39
+Skill: XLDB
+- Data Warehousing: 0.56
+- Hardware/Software Integration: 0.54
+- Data Manipulation: 0.51
+Skill: Mill
+- IoT: 0.56
+- User Centric Design: 0.54
+- Hardware/Software Integration: 0.49
+Skill: Report
+- Test-Driven Development (TDD): 0.90
+- VoIP (Voice over Internet Protocol): 0.86
+- Vue.js: 0.79
+Skill: Common
+- Test-Driven Development (TDD): 0.82
+- User Centric Design: 0.80
+- RESTful Architecture: 0.77
+Skill: Management Console
+- User Centric Design: 0.73
+- AWS: 0.48
+- Hardware/Software Integration: 0.43
+Skill: Client
+- Test-Driven Development (TDD): 0.85
+- TCP/IP: 0.73
+- VoIP (Voice over Internet Protocol): 0.67
+Skill: Service Infrastructure
+- VoIP (Voice over Internet Protocol): 0.64
+- Scalability and Performance Optimization: 0.59
+- TCP/IP: 0.48
+Skill: Utility
+- User Centric Design: 0.85
+- VoIP (Voice over Internet Protocol): 0.75
+- Test-Driven Development (TDD): 0.64
+Skill: Services
+- VoIP (Voice over Internet Protocol): 0.77
+- RESTful Architecture: 0.66
+- Microsoft SQL Server: 0.58
+Skill: Exec
+- Test-Driven Development (TDD): 0.75
+- VoIP (Voice over Internet Protocol): 0.73
+- Performance Testing: 0.57
+Skill: Compass
+- Hardware/Software Integration: 0.76
+- Sensor Integration: 0.75
+- Data Visualization: 0.59
+Skill: Export to Language
+- ETL: 0.43
+- Natural Language Processing: 0.37
+- Node.js: 0.25
+Skill: Connectivity
+- VoIP (Voice over Internet Protocol): 0.66
+- RESTful Architecture: 0.64
+- Integration Testing and System Testing: 0.63
+Skill: Import/Export
+- Data Manipulation: 1.00
+- User Centric Design: 0.84
+- ETL: 0.54
+Skill: Data
+- VoIP (Voice over Internet Protocol): 0.61
+- Backup and Recovery: 0.60
+- Big Data Technologies: 0.59
+Skill: Indexes
+- Test-Driven Development (TDD): 0.62
+- VoIP (Voice over Internet Protocol): 0.51
+- Android Mobile App Development: 0.44
+Skill: data-lake
+- Data Warehousing: 0.94
+- Data Engineering: 0.50
+- CoAP: 0.34
+Skill: Aggregation pipeline
+- Data Manipulation: 0.85
+- Data Engineering: 0.75
+- VoIP (Voice over Internet Protocol): 0.49
+Skill: Shell
+- Hardware/Software Integration: 0.64
+- User Centric Design: 0.60
+- Performance Testing: 0.50
+Skill: CRUD
+- Data Manipulation: 0.82
+- Data Manipulation and Cleaning: 0.69
+- Web Development: 0.34
+Skill: UI / UX
+- UI Design: 0.99
+- UX Design: 0.95
+- User Centric Design: 0.92
+Skill: Schema
+- User Centric Design: 0.67
+- RDBMS: 0.67
+- Test-Driven Development (TDD): 0.64
+Skill: Startup
+- Wireframing and Prototyping: 0.51
+- Spark: 0.50
+- VoIP (Voice over Internet Protocol): 0.47
+Skill: Collection
+- Test-Driven Development (TDD): 0.53
+- Vue.js: 0.52
+- GCP: 0.52
+Skill: Tech debt
+- VoIP (Voice over Internet Protocol): 0.29
+- Spark: 0.28
+- ETL: 0.26
+Skill: Documents
+- Test-Driven Development (TDD): 0.81
+- scikit-learn: 0.65
+- User Centric Design: 0.61
+Skill: Table View
+- Test-Driven Development (TDD): 0.78
+- Data Visualization: 0.73
+- VoIP (Voice over Internet Protocol): 0.66
+Skill: Schema Validation
+- Microsoft SQL Server: 0.30
+- MySQL: 0.30
+- VoIP (Voice over Internet Protocol): 0.28
+Skill: Telemetry Data
+- MQTT: 0.62
+- Network Monitoring: 0.55
+- IoT: 0.41
+Skill: Explain
+- Test-Driven Development (TDD): 0.88
+- VoIP (Voice over Internet Protocol): 0.88
+- RESTful Architecture: 0.76
+Skill: Enterprise
+- VoIP (Voice over Internet Protocol): 0.69
+- TCP/IP: 0.59
+- Security Best Practices: 0.59
+Skill: Auto Updates
+- AI: 0.89
+- IoT: 0.83
+- User Centric Design: 0.82
+Skill: Realm
+- VoIP (Voice over Internet Protocol): 0.71
+- Test-Driven Development (TDD): 0.70
+- Performance Testing: 0.64
+Skill: Atlas
+- AI: 0.73
+- User Centric Design: 0.71
+- VoIP (Voice over Internet Protocol): 0.66
+Skill: Autocomplete
+- User Centric Design: 0.96
+- Machine Learning: 0.96
+- AI: 0.95
+Skill: Query Bar
+- Data Manipulation: 0.95
+- SQL: 0.94
+- UI Design: 0.91
+Skill: Query History
+- SQL: 0.97
+- RDBMS: 0.92
+- Microsoft SQL Server: 0.55
+Skill: Favorites
+- RESTful Architecture: 0.85
+- NoSQL: 0.83
+- IoT: 0.81
+Skill: Dump/Restore
+- Data Manipulation: 1.00
+- Backup and Recovery: 1.00
+- Data Manipulation and Cleaning: 0.99
+Skill: React
+- React: 1.00
+- Web Development: 0.98
+- JavaScript: 0.97
+Skill: DDL
+- Data Manipulation: 0.74
+- Data Manipulation and Cleaning: 0.56
+- Scalability and Performance Optimization: 0.49
+Skill: Views
+- User Centric Design: 0.88
+- Test-Driven Development (TDD): 0.83
+- Data Visualization: 0.78
+Skill: Grammar
+- Natural Language Processing: 0.99
+- REST: 0.48
+- GCP: 0.44
+Skill: CI
+- Continuous Integration/Continuous Deployment: 0.53
+- Computer Vision: 0.52
+- Network Monitoring: 0.52
+Skill: Electron
+- Hardware/Software Integration: 0.61
+- Memory Management and Performance Profiling: 0.54
+- Continuous Integration/Continuous Deployment: 0.49
+Skill: Field Level Encryption
+- Cryptography: 0.98
+- Security Best Practices: 0.70
+- ETL: 0.27
+Skill: Background Operations
+- NoSQL: 0.39
+- VoIP (Voice over Internet Protocol): 0.39
+- Data Manipulation and Cleaning: 0.37
+Skill: Sidebar
+- Test-Driven Development (TDD): 0.72
+- User Centric Design: 0.71
+- Technical Documentation: 0.64
+Skill: Maps
+- Data Visualization: 0.89
+- User Centric Design: 0.79
+- GCP: 0.46
+Skill: JSON Mode
+- Data Manipulation: 0.94
+- Web Development: 0.27
+- Data Modeling: 0.27
+Skill: JSON Schema
+- Data Modeling: 0.99
+- VoIP (Voice over Internet Protocol): 0.51
+- Network Monitoring: 0.26
+Skill: Menu
+- Natural Language Processing: 0.97
+- UI Design: 0.89
+- User Centric Design: 0.82
+Skill: Tabs
+- Data Manipulation: 0.95
+- UI Design: 0.90
+- User Centric Design: 0.82
+Skill: Github
+- Git: 0.88
+- Web Development: 0.86
+- Test-Driven Development (TDD): 0.75
+Skill: Refactoring
+- scikit-learn: 0.32
+- pytest: 0.29
+- Docker: 0.28
+Skill: Planning
+- Test-Driven Development (TDD): 0.74
+- User Centric Design: 0.63
+- scikit-learn: 0.55
+Skill: Query
+- Data Manipulation: 0.98
+- SQL: 0.97
+- Natural Language Processing: 0.87
+Skill: Nongenuine Warning
+- Natural Language Processing: 0.44
+- scikit-learn: 0.43
+- Vue.js: 0.40
+Skill: Document Validation
+- AI: 0.80
+- Selenium: 0.30
+- MongoDB: 0.24
+Skill: Windows Installer
+- User Centric Design: 0.83
+- Hardware/Software Integration: 0.57
+- Continuous Integration/Continuous Deployment: 0.38
+Skill: Header
+- User Centric Design: 0.84
+- HTML: 0.81
+- Test-Driven Development (TDD): 0.81
+Skill: schema.rs
+- RDBMS: 0.94
+- RESTful Architecture: 0.75
+- User Centric Design: 0.62
+Skill: Readonly
+- REST: 0.63
+- RESTful Architecture: 0.37
+- Microsoft SQL Server: 0.35
+Skill: Linux
+- User Centric Design: 0.70
+- Scalability and Performance Optimization: 0.56
+- Network Monitoring: 0.50
+Skill: Webpack
+- Web Development: 0.98
+- Build Automation: 0.84
+- Scalability and Performance Optimization: 0.57
+Skill: Stability
+- VoIP (Voice over Internet Protocol): 0.48
+- Test-Driven Development (TDD): 0.40
+- Integration Testing and System Testing: 0.34
+Skill: Data Service
+- VoIP (Voice over Internet Protocol): 0.78
+- Microsoft SQL Server: 0.61
+- TCP/IP: 0.61
+Skill: Language Modes
+- Natural Language Processing: 0.65
+- User Centric Design: 0.52
+- VoIP (Voice over Internet Protocol): 0.40
+Skill: Research & Design
+- VoIP (Voice over Internet Protocol): 0.46
+- scikit-learn: 0.42
+- User Centric Design: 0.35
+Skill: Distributions
+- VoIP (Voice over Internet Protocol): 0.55
+- scikit-learn: 0.39
+- Git: 0.38
+Skill: Blog
+- User Centric Design: 0.77
+- HTML: 0.75
+- Test-Driven Development (TDD): 0.73
+Skill: Multi-Select
+- Data Manipulation: 0.99
+- User Centric Design: 0.91
+- Data Manipulation and Cleaning: 0.82
+Skill: Feature Request
+- User Centric Design: 0.95
+- Natural Language Processing: 0.55
+- VoIP (Voice over Internet Protocol): 0.55
+Skill: Intercom
+- Natural Language Processing: 0.97
+- User Centric Design: 0.93
+- Hardware/Software Integration: 0.75
+Skill: Support
+- User Centric Design: 0.92
+- Test-Driven Development (TDD): 0.87
+- VoIP (Voice over Internet Protocol): 0.74
+Skill: Real Time Server Stats
+- Data Visualization: 0.94
+- Real-Time Systems: 0.85
+- Hardware/Software Integration: 0.81
+Skill: STITCH
+- Hardware/Software Integration: 0.82
+- Integration Testing and System Testing: 0.77
+- User Centric Design: 0.73
+Skill: Sample Data
+- VoIP (Voice over Internet Protocol): 0.53
+- Virtualization Hyper-V: 0.40
+- Virtualization VMware: 0.39
+Skill: Misc
+- Test-Driven Development (TDD): 0.71
+- VoIP (Voice over Internet Protocol): 0.70
+- Manual Testing: 0.57
+Skill: Preferences
+- User Centric Design: 0.92
+- VoIP (Voice over Internet Protocol): 0.59
+- Test-Driven Development (TDD): 0.51
+Skill: HUD
+- Hardware/Software Integration: 0.98
+- User Centric Design: 0.94
+- Sensor Integration: 0.69
+Skill: Deployment Awareness
+- VoIP (Voice over Internet Protocol): 0.51
+- AI: 0.26
+- Node.js: 0.23
+Skill: Education
+- scikit-learn: 0.64
+- Test-Driven Development (TDD): 0.50
+- Security Best Practices: 0.46
+Skill: First-Run
+- VoIP (Voice over Internet Protocol): 0.45
+- Virtualization Hyper-V: 0.33
+- Virtualization VMware: 0.30
+Skill: BSON
+- Blockchain security: 0.78
+- VoIP (Voice over Internet Protocol): 0.75
+- User Centric Design: 0.61
+Skill: Implementation
+- Test-Driven Development (TDD): 0.82
+- VoIP (Voice over Internet Protocol): 0.69
+- scikit-learn: 0.59
+Skill: Upstream
+- User Centric Design: 0.66
+- VoIP (Voice over Internet Protocol): 0.62
+- TCP/IP: 0.58
+Skill: Portability
+- User Centric Design: 0.80
+- VoIP (Voice over Internet Protocol): 0.62
+- Matplotlib: 0.46
+Skill: Meta
+- Test-Driven Development (TDD): 0.73
+- Vue.js: 0.68
+- Matplotlib: 0.58
+Skill: Automation
+- Build Automation: 0.66
+- Continuous Integration/Continuous Deployment: 0.57
+- VoIP (Voice over Internet Protocol): 0.50
+Skill: Client Side Encryption
+- Cryptography: 1.00
+- User Centric Design: 0.86
+- Security Best Practices: 0.74
+Skill: Wire Protocol
+- Scalability and Performance Optimization: 0.47
+- AWS: 0.35
+- Technical Documentation: 0.35
+Skill: Cluster Management
+- Scalability and Performance Optimization: 0.35
+- Kubernetes: 0.30
+- MySQL: 0.30
+Skill: Error Handling
+- User Centric Design: 0.85
+- IT Support: 0.31
+- Microsoft SQL Server: 0.29
+Skill: Reactive Streams
+- Scalability and Performance Optimization: 0.42
+- User Centric Design: 0.41
+- VoIP (Voice over Internet Protocol): 0.29
+Skill: JSON
+- Data Manipulation: 0.98
+- JavaScript: 0.89
+- RESTful Architecture: 0.70
+Skill: Change Streams
+- Data Manipulation: 0.99
+- User Centric Design: 0.64
+- Responsive Design: 0.57
+Skill: Internal
+- Test-Driven Development (TDD): 0.80
+- Security Best Practices: 0.61
+- System Administration: 0.58
+Skill: POJO
+- User Centric Design: 0.52
+- Responsive Design: 0.34
+- UX/UI Design and Prototyping: 0.31
+Skill: Test Coverage
+- Test-Driven Development (TDD): 0.84
+- VoIP (Voice over Internet Protocol): 0.55
+- Integration Testing and System Testing: 0.54
+Skill: Connection Management
+- VoIP (Voice over Internet Protocol): 0.67
+- TCP/IP: 0.57
+- Microsoft SQL Server: 0.43
+Skill: Codecs
+- VoIP (Voice over Internet Protocol): 0.65
+- Data Manipulation: 0.60
+- Hardware/Software Integration: 0.46
+Skill: Query Operations
+- RDBMS: 0.85
+- SQL: 0.83
+- Data Manipulation: 0.67
+Skill: Test Failure
+- Troubleshooting: 0.93
+- Performance Testing: 0.53
+- JUnit: 0.26
+Skill: Builders
+- Docker: 0.65
+- VoIP (Voice over Internet Protocol): 0.63
+- CoAP: 0.60
+Skill: Async
+- Scalability and Performance Optimization: 0.50
+- VoIP (Voice over Internet Protocol): 0.38
+- Node.js: 0.33
+Skill: Transaction Management
+- Microsoft SQL Server: 0.39
+- SQL: 0.36
+- Node.js: 0.24
+Skill: Session Management
+- Security Best Practices: 0.39
+- VoIP (Voice over Internet Protocol): 0.34
+- User Centric Design: 0.27
+Skill: Monitoring
+- Security Best Practices: 0.70
+- Network Monitoring: 0.58
+- Matplotlib: 0.56
+Skill: GridFS
+- VoIP (Voice over Internet Protocol): 0.71
+- Hardware/Software Integration: 0.57
+- Data Manipulation: 0.54
+Skill: Command Operations
+- VoIP (Voice over Internet Protocol): 0.41
+- TCP/IP: 0.34
+- Node.js: 0.32
+Skill: Write Operations
+- Data Manipulation: 0.98
+- RDBMS: 0.42
+- Memory Management and Performance Profiling: 0.40
+Skill: Authentication
+- Security Best Practices: 0.36
+- Django: 0.35
+- JavaScript: 0.32
+Skill: Content Review
+- Quality Assurance: 0.89
+- User Centric Design: 0.59
+- AI: 0.37
+Skill: platform
+- User Centric Design: 0.68
+- VoIP (Voice over Internet Protocol): 0.66
+- Cloud Native Application Development: 0.57
+Skill: app
+- User Centric Design: 0.89
+- VoIP (Voice over Internet Protocol): 0.60
+- Spark: 0.56
+Skill: legacy-ui
+- UI Design: 0.97
+- UX/UI Design and Prototyping: 0.34
+- Server Administration: 0.30
+Skill: perf-tools
+- Performance Testing: 0.86
+- Test-Driven Development (TDD): 0.69
+- VoIP (Voice over Internet Protocol): 0.68
+Skill: ops
+- VoIP (Voice over Internet Protocol): 0.57
+- DevOps: 0.47
+- Continuous Integration/Continuous Deployment: 0.44
+Skill: UX
+- UX Design: 0.98
+- User Centric Design: 0.94
+- UX/UI Design and Prototyping: 0.62
+Skill: Accessibility
+- User Centric Design: 0.95
+- VoIP (Voice over Internet Protocol): 0.66
+- Web Accessibility: 0.48
+Skill: Questions
+- Natural Language Processing: 0.99
+- VoIP (Voice over Internet Protocol): 0.77
+- User Research: 0.76
+Skill: MoodleNet
+- VoIP (Voice over Internet Protocol): 0.85
+- User Centric Design: 0.74
+- TCP/IP: 0.73
+Skill: Assignment
+- Test-Driven Development (TDD): 0.60
+- JUnit: 0.60
+- PostgreSQL: 0.57
+Skill: Course
+- VoIP (Voice over Internet Protocol): 0.79
+- Matplotlib: 0.77
+- RDBMS: 0.76
+Skill: Language
+- Natural Language Processing: 0.94
+- JUnit: 0.55
+- VoIP (Voice over Internet Protocol): 0.51
+Skill: LTI provider
+- VoIP (Voice over Internet Protocol): 0.62
+- scikit-learn: 0.44
+- Real-Time Systems: 0.44
+Skill: Automated functional tests (behat)
+- Quality Assurance: 0.95
+- AI: 0.92
+- Test-Driven Development (TDD): 0.92
+Skill: H5P
+- HTML: 0.98
+- Hardware/Software Integration: 0.66
+- Penetration Testing: 0.66
+Skill: Quiz
+- Test-Driven Development (TDD): 0.79
+- VoIP (Voice over Internet Protocol): 0.69
+- TCP/IP: 0.65
+Skill: Content bank
+- Kanban: 0.62
+- User Centric Design: 0.62
+- CoAP: 0.47
+Skill: Administration
+- System Administration: 0.58
+- scikit-learn: 0.53
+- Microsoft SQL Server: 0.49
+Skill: SCORM
+- Scrum: 0.98
+- Cryptography: 0.71
+- Scalability and Performance Optimization: 0.67
+Skill: Roles / Access
+- System Administration: 0.54
+- IT Support: 0.52
+- Network Monitoring: 0.50
+Skill: Gradebook
+- Test-Driven Development (TDD): 0.63
+- GCP: 0.59
+- User Centric Design: 0.48
+Skill: JavaScript
+- JavaScript: 0.98
+- Web Development: 0.94
+- Data Manipulation: 0.57
+Skill: Enrolments
+- User Centric Design: 0.60
+- ETL: 0.48
+- GCP: 0.44
+Skill: External Tool (IMS-LTI)
+- VoIP (Voice over Internet Protocol): 0.61
+- Performance Testing: 0.42
+- User Centric Design: 0.41
+Skill: Privacy
+- User Centric Design: 0.60
+- VoIP (Voice over Internet Protocol): 0.47
+- VPN: 0.40
+Skill: Unit tests
+- Test-Driven Development (TDD): 0.95
+- JUnit: 0.55
+- Django: 0.50
+Skill: Database SQL/XMLDB
+- Data Manipulation: 0.97
+- SQL: 0.96
+- RDBMS: 0.62
+Skill: Badges
+- User Centric Design: 0.76
+- VoIP (Voice over Internet Protocol): 0.69
+- Incident Response: 0.68
+Skill: User Tours
+- User Centric Design: 0.98
+- UX Design: 0.69
+- Usability Testing: 0.39
+Skill: HTML and CSS
+- Web Development: 0.96
+- HTML: 0.66
+- UI Design: 0.48
+Skill: Assignment (2.2)
+- Test-Driven Development (TDD): 0.52
+- VoIP (Voice over Internet Protocol): 0.49
+- RDBMS: 0.35
+Skill: Forum
+- User Centric Design: 0.82
+- Test-Driven Development (TDD): 0.76
+- scikit-learn: 0.61
+Skill: Filters
+- Data Manipulation: 0.99
+- Data Manipulation and Cleaning: 0.92
+- User Centric Design: 0.91
+Skill: Activity completion
+- User Centric Design: 0.89
+- AI: 0.61
+- Test-Driven Development (TDD): 0.40
+Skill: HTML Editor (Atto)
+- HTML: 0.98
+- Web Development: 0.97
+- User Centric Design: 0.81
+Skill: Calendar
+- User Centric Design: 0.84
+- React Native: 0.46
+- HTML: 0.45
+Skill: Web Services
+- AWS: 0.97
+- VoIP (Voice over Internet Protocol): 0.62
+- RESTful Architecture: 0.61
+Skill: Grading methods
+- GCP: 0.63
+- ETL: 0.50
+- Angular: 0.41
+Skill: Policy
+- VoIP (Voice over Internet Protocol): 0.60
+- Test-Driven Development (TDD): 0.53
+- Security Best Practices: 0.49
+Skill: Libraries
+- User Centric Design: 0.72
+- scikit-learn: 0.64
+- Matplotlib: 0.59
+Skill: Forms Library
+- VoIP (Voice over Internet Protocol): 0.56
+- User Centric Design: 0.51
+- Budgeting: 0.33
+Skill: Dashboard (My home)
+- Data Visualization: 1.00
+- IoT: 0.85
+- Hardware/Software Integration: 0.80
+Skill: Global search
+- User Centric Design: 0.39
+- NoSQL: 0.38
+- AI: 0.37
+Skill: Blocks
+- VoIP (Voice over Internet Protocol): 0.58
+- Firewall Configuration: 0.57
+- Network Security: 0.47
+Skill: Messages
+- Natural Language Processing: 0.90
+- User Centric Design: 0.76
+- Test-Driven Development (TDD): 0.64
+Skill: Backup: IMS-CC
+- VoIP (Voice over Internet Protocol): 0.56
+- Test-Driven Development (TDD): 0.35
+- Backup and Recovery: 0.32
+Skill: Events API
+- Continuous Integration/Continuous Deployment: 0.48
+- VoIP (Voice over Internet Protocol): 0.42
+- Node.js: 0.42
+Skill: Filepicker
+- User Centric Design: 0.87
+- AI: 0.84
+- UI Design: 0.83
+Skill: Resource
+- Test-Driven Development (TDD): 0.81
+- User Centric Design: 0.81
+- VoIP (Voice over Internet Protocol): 0.80
+Skill: Workshop
+- Test-Driven Development (TDD): 0.55
+- User Centric Design: 0.54
+- VoIP (Voice over Internet Protocol): 0.54
+Skill: Groups
+- Test-Driven Development (TDD): 0.58
+- GCP: 0.53
+- Incident Response: 0.51
+Skill: Files API
+- RESTful Architecture: 0.70
+- Node.js: 0.52
+- Data Manipulation: 0.51
+Skill: Feedback
+- User Centric Design: 0.80
+- scikit-learn: 0.58
+- Matplotlib: 0.50
+Skill: Site registration
+- User Centric Design: 0.90
+- Azure: 0.33
+- GCP: 0.31
+Skill: Database activity module
+- RDBMS: 0.77
+- Data Manipulation: 0.75
+- SQL: 0.49
+Skill: Wiki (2.x)
+- User Centric Design: 0.88
+- Test-Driven Development (TDD): 0.66
+- VoIP (Voice over Internet Protocol): 0.44
+Skill: Email
+- Natural Language Processing: 0.99
+- Test-Driven Development (TDD): 0.91
+- scikit-learn: 0.85
+Skill: Lesson
+- User Centric Design: 0.62
+- VoIP (Voice over Internet Protocol): 0.61
+- Test-Driven Development (TDD): 0.60
+Skill: Competencies
+- VoIP (Voice over Internet Protocol): 0.64
+- Data Manipulation and Cleaning: 0.57
+- UX/UI Design and Prototyping: 0.57
+Skill: Comments
+- Natural Language Processing: 0.96
+- Test-Driven Development (TDD): 0.92
+- Performance Testing: 0.90
+Skill: Book
+- Test-Driven Development (TDD): 0.66
+- User Centric Design: 0.63
+- GCP: 0.58
+Skill: Conditional activities
+- Test-Driven Development (TDD): 0.66
+- Agile Methodologies: 0.53
+- User Centric Design: 0.43
+Skill: Cohorts
+- User Centric Design: 0.45
+- Cassandra: 0.44
+- Spark: 0.41
+Skill: HTML Editor (TinyMCE)
+- HTML: 0.99
+- User Centric Design: 0.83
+- Web Development: 0.75
+Skill: Glossary
+- Test-Driven Development (TDD): 0.80
+- VoIP (Voice over Internet Protocol): 0.76
+- Virtualization VMware: 0.68
+Skill: Maths filters
+- Data Manipulation and Cleaning: 0.66
+- ETL: 0.41
+- GCP: 0.38
+Skill: Course completion
+- VoIP (Voice over Internet Protocol): 0.43
+- GCP: 0.33
+- Embedded Systems: 0.28
+Skill: Portfolio
+- User Centric Design: 0.65
+- HTML: 0.42
+- Virtualization VMware: 0.41
+Skill: Media
+- VoIP (Voice over Internet Protocol): 0.68
+- Test-Driven Development (TDD): 0.66
+- Responsive Web Design: 0.64
+Skill: Chat
+- Natural Language Processing: 0.99
+- User Centric Design: 0.90
+- React Native: 0.52
+Skill: IMS-CP resource type
+- VoIP (Voice over Internet Protocol): 0.59
+- Memory Management and Performance Profiling: 0.41
+- Project Planning: 0.40
+Skill: Survey
+- User Research: 0.79
+- User Centric Design: 0.45
+- VoIP (Voice over Internet Protocol): 0.40
+Skill: Choice
+- User Centric Design: 0.94
+- Test-Driven Development (TDD): 0.80
+- VoIP (Voice over Internet Protocol): 0.75
+Skill: Hub
+- User Centric Design: 0.76
+- Test-Driven Development (TDD): 0.69
+- IoT: 0.68
+Skill: Unknown
+- Manual Testing: 0.47
+- User Research: 0.45
+- Performance Testing: 0.33
+Skill: Favourites
+- User Centric Design: 0.76
+- Test-Driven Development (TDD): 0.75
+- IoT: 0.74
+Skill: Plagiarism
+- Matplotlib: 0.34
+- Cassandra: 0.27
+- Spark: 0.22
+Skill: Ratings
+- User Centric Design: 0.93
+- Vue.js: 0.64
+- scikit-learn: 0.64
+Skill: RSS
+- RESTful Architecture: 0.91
+- Data Manipulation: 0.85
+- Real-Time Systems: 0.72
+Skill: MNet
+- Network Monitoring: 0.84
+- VoIP (Voice over Internet Protocol): 0.77
+- AI: 0.75
+Skill: PHPDoc
+- Technical Documentation: 0.92
+- Web Development: 0.78
+- Test-Driven Development (TDD): 0.65
+Skill: Survey 2
+- Test-Driven Development (TDD): 0.50
+- VoIP (Voice over Internet Protocol): 0.48
+- User Research: 0.32
+Skill: SOAP Scaffolder
+- Scalability and Performance Optimization: 0.85
+- Web Development: 0.79
+- Build Automation: 0.78
+Skill: SOAP Module
+- Scalability and Performance Optimization: 0.59
+- Agile Methodologies: 0.46
+- Data Manipulation: 0.45
+Skill: SOAP Tooling
+- Scalability and Performance Optimization: 0.57
+- Hardware/Software Integration: 0.27
+- Backup and Recovery: 0.22
+Skill: SOAP Releases
+- Scalability and Performance Optimization: 0.54
+- Agile Methodologies: 0.53
+- CoAP: 0.32
+Skill: WSS Module
+- Hardware/Software Integration: 0.95
+- IoT: 0.79
+- Wireless Networking: 0.74
+Skill: SOAP Proxy
+- Data Manipulation: 0.70
+- Web Development: 0.48
+- Scalability and Performance Optimization: 0.44
+Skill: SOAP Metadata
+- Data Modeling: 0.90
+- CoAP: 0.54
+- Azure: 0.17
+Skill: maven tasks
+- Test-Driven Development (TDD): 0.62
+- VoIP (Voice over Internet Protocol): 0.45
+- Integration Testing and System Testing: 0.36
+Skill: OData Scaffolder
+- Data Manipulation: 0.99
+- IoT: 0.94
+- Build Automation: 0.84
+Skill: REST Metadata
+- RESTful Architecture: 0.92
+- REST: 0.91
+- Data Modeling: 0.81
+Skill: REST Module
+- RESTful Architecture: 0.97
+- REST: 0.96
+- Web Development: 0.81
+Skill: Console
+- Hardware/Software Integration: 0.80
+- User Centric Design: 0.66
+- System Administration: 0.58
+Skill: REST Tooling
+- RESTful Architecture: 0.70
+- REST: 0.62
+- Node.js: 0.36
+Skill: REST Scaffolder
+- RESTful Architecture: 0.99
+- Web Development: 0.97
+- REST: 0.96
+Skill: REST Archetype
+- REST: 1.00
+- RESTful Architecture: 1.00
+- Real-Time Systems: 0.52
+Skill: Spec
+- Test-Driven Development (TDD): 0.87
+- VoIP (Voice over Internet Protocol): 0.76
+- Virtualization VMware: 0.68
+Skill: Connector: Sockets
+- Hardware/Software Integration: 0.77
+- VoIP (Voice over Internet Protocol): 0.63
+- User Centric Design: 0.62
+Skill: Mule Runtime
+- Real-Time Systems: 0.73
+- Scalability and Performance Optimization: 0.53
+- Performance Testing: 0.51
+Skill: Core: Components
+- VoIP (Voice over Internet Protocol): 0.66
+- Test-Driven Development (TDD): 0.61
+- scikit-learn: 0.37
+Skill: Tooling Client
+- VoIP (Voice over Internet Protocol): 0.59
+- Test-Driven Development (TDD): 0.48
+- scikit-learn: 0.45
+Skill: Core: API
+- RESTful Architecture: 0.76
+- Test-Driven Development (TDD): 0.62
+- VoIP (Voice over Internet Protocol): 0.60
+Skill: Modules: HTTP
+- Web Development: 0.78
+- Node.js: 0.67
+- RESTful Architecture: 0.47
+Skill: Core: DSL processing
+- Data Manipulation: 0.78
+- GCP: 0.37
+- scikit-learn: 0.30
+Skill: Extensions API
+- VoIP (Voice over Internet Protocol): 0.60
+- iOS Mobile App Development: 0.53
+- scikit-learn: 0.44
+Skill: Build: Integration Tests
+- Quality Assurance: 0.98
+- Test-Driven Development (TDD): 0.96
+- Build Automation: 0.86
+Skill: Module: Secure Properties
+- Test-Driven Development (TDD): 0.52
+- VoIP (Voice over Internet Protocol): 0.47
+- VPN: 0.27
+Skill: Core: Policies
+- VoIP (Voice over Internet Protocol): 0.59
+- GCP: 0.47
+- Test-Driven Development (TDD): 0.47
+Skill: Modules: CXF
+- Cryptography: 0.60
+- Computer Vision: 0.57
+- Hardware/Software Integration: 0.48
+Skill: Core: Transactions
+- VoIP (Voice over Internet Protocol): 0.57
+- RDBMS: 0.50
+- Spark: 0.46
+Skill: Service: SOAP
+- IT Support: 0.29
+- Cassandra: 0.26
+- Azure: 0.26
+Skill: XML SDK
+- Web Development: 0.88
+- Data Manipulation: 0.84
+- Technical Documentation: 0.61
+Skill: sdk
+- Virtualization VMware: 0.68
+- VoIP (Voice over Internet Protocol): 0.68
+- Node.js: 0.65
+Skill: Core: Expressions
+- Natural Language Processing: 0.79
+- VoIP (Voice over Internet Protocol): 0.57
+- Test-Driven Development (TDD): 0.50
+Skill: Connector: DB
+- RDBMS: 0.71
+- SQL: 0.48
+- Node.js: 0.47
+Skill: Interception API
+- Network Security: 0.98
+- TCP/IP: 0.47
+- VoIP (Voice over Internet Protocol): 0.44
+Skill: Transport: FTP / SFTP
+- Backup and Recovery: 0.42
+- Azure: 0.41
+- Cassandra: 0.40
+Skill: Core: (other)
+- Test-Driven Development (TDD): 0.63
+- VoIP (Voice over Internet Protocol): 0.56
+- Technical Documentation: 0.41
+Skill: Core: Services
+- Test-Driven Development (TDD): 0.65
+- VoIP (Voice over Internet Protocol): 0.63
+- RESTful Architecture: 0.39
+Skill: Modules: OAuth
+- Node.js: 0.54
+- JavaScript: 0.34
+- User Centric Design: 0.32
+Skill: Core: Deployment
+- VoIP (Voice over Internet Protocol): 0.58
+- DevOps: 0.54
+- Continuous Integration/Continuous Deployment: 0.35
+Skill: Test: Testing Framework
+- Test-Driven Development (TDD): 0.68
+- VoIP (Voice over Internet Protocol): 0.46
+- JUnit: 0.27
+Skill: Documentation / Website
+- Test-Driven Development (TDD): 0.73
+- Technical Documentation: 0.63
+- RESTful Architecture: 0.63
+Skill: Core: Routing / Filters
+- Data Manipulation: 0.72
+- Test-Driven Development (TDD): 0.63
+- Data Manipulation and Cleaning: 0.61
+Skill: Core: Event/Message
+- VoIP (Voice over Internet Protocol): 0.55
+- Test-Driven Development (TDD): 0.53
+- Real-Time Systems: 0.39
+Skill: Core: Exception Handling
+- VoIP (Voice over Internet Protocol): 0.22
+- JUnit: 0.19
+- Django: 0.16
+Skill: Core: Concurrency / Threading
+- Scalability and Performance Optimization: 0.96
+- Cryptocurrency development: 0.51
+- Real-Time Systems: 0.47
+Skill: Core: Non-Blocking
+- User Centric Design: 0.68
+- Real-Time Systems: 0.62
+- VoIP (Voice over Internet Protocol): 0.53
+Skill: Transport: HTTP(S) / Jetty
+- REST: 0.88
+- RESTful Architecture: 0.84
+- Web Development: 0.71
+Skill: Service: HTTP
+- RESTful Architecture: 0.80
+- User Centric Design: 0.59
+- Test-Driven Development (TDD): 0.46
+Skill: Core: Flow
+- VoIP (Voice over Internet Protocol): 0.49
+- Test-Driven Development (TDD): 0.43
+- User Centric Design: 0.40
+Skill: Core: Logging
+- Security Best Practices: 0.42
+- VoIP (Voice over Internet Protocol): 0.40
+- Matplotlib: 0.32
+Skill: Service: Scheduling
+- User Centric Design: 0.57
+- MQTT: 0.39
+- Kanban: 0.38
+Skill: Core: Classloading
+- VoIP (Voice over Internet Protocol): 0.51
+- scikit-learn: 0.43
+- Matplotlib: 0.41
+Skill: Core: ObjectStore
+- Test-Driven Development (TDD): 0.68
+- VoIP (Voice over Internet Protocol): 0.54
+- Scalability and Performance Optimization: 0.33
+Skill: Transport: VM
+- VoIP (Voice over Internet Protocol): 0.64
+- Virtualization VMware: 0.32
+- Virtualization Hyper-V: 0.26
+Skill: Module: Aggregators
+- VoIP (Voice over Internet Protocol): 0.47
+- IoT: 0.45
+- GCP: 0.39
+Skill: Tools: Archetypes
+- VoIP (Voice over Internet Protocol): 0.61
+- Virtualization Hyper-V: 0.45
+- IT Support: 0.44
+Skill: SDK AST
+- Hardware/Software Integration: 0.82
+- System Architecture Design: 0.79
+- Android Mobile App Development: 0.77
+Skill: Transport: Email
+- User Centric Design: 0.56
+- HTML: 0.17
+- Cassandra: 0.17
+Skill: Build: Distributions
+- VoIP (Voice over Internet Protocol): 0.39
+- Node.js: 0.32
+- Matplotlib: 0.30
+Skill: mule4
+- VoIP (Voice over Internet Protocol): 0.84
+- Test-Driven Development (TDD): 0.79
+- User Centric Design: 0.75
+Skill: Build: (other)
+- VoIP (Voice over Internet Protocol): 0.63
+- Test-Driven Development (TDD): 0.58
+- Build Automation: 0.43
+Skill: Core: Lifecycle
+- Test-Driven Development (TDD): 0.48
+- VoIP (Voice over Internet Protocol): 0.40
+- Selenium: 0.28
+Skill: Modules: Security (Spring Security, Acegi, PGP, WS-Security)
+- Network Security: 0.46
+- Intrusion Detection: 0.29
+- Security Auditing: 0.21
+Skill: Core: Domains shared resources
+- VoIP (Voice over Internet Protocol): 0.40
+- Test-Driven Development (TDD): 0.30
+- CoAP: 0.26
+Skill: Core: Properties
+- VoIP (Voice over Internet Protocol): 0.64
+- Vue.js: 0.35
+- Virtualization Hyper-V: 0.34
+Skill: Connector: VM
+- Hardware/Software Integration: 0.89
+- VoIP (Voice over Internet Protocol): 0.57
+- Cloud Architecture: 0.52
+Skill: Core: Transformers
+- Spark: 0.41
+- User Centric Design: 0.30
+- Hardware/Software Integration: 0.30
+Skill: Extensions: Maven Plugin
+- Build Automation: 0.74
+- Test-Driven Development (TDD): 0.71
+- VoIP (Voice over Internet Protocol): 0.59
+Skill: Tools
+- VoIP (Voice over Internet Protocol): 0.78
+- Test-Driven Development (TDD): 0.74
+- Virtualization VMware: 0.67
+Skill: Build: Maven
+- Build Automation: 0.97
+- VoIP (Voice over Internet Protocol): 0.70
+- Continuous Integration/Continuous Deployment: 0.58
+Skill: core: Notifications
+- User Centric Design: 0.86
+- IoT: 0.39
+- VoIP (Voice over Internet Protocol): 0.35
+Skill: Modules: WS Consumer
+- User Centric Design: 0.94
+- Hardware/Software Integration: 0.90
+- Test-Driven Development (TDD): 0.81
+Skill: Connector: ObjectStore
+- IoT: 0.53
+- Test-Driven Development (TDD): 0.40
+- Data Manipulation: 0.40
+Skill: Studio
+- User Centric Design: 0.53
+- UX/UI Design and Prototyping: 0.49
+- Hardware/Software Integration: 0.49
+Skill: Core: Streaming
+- VoIP (Voice over Internet Protocol): 0.73
+- Real-Time Systems: 0.47
+- Scalability and Performance Optimization: 0.45
+Skill: e: DataSense
+- Hardware/Software Integration: 0.76
+- IoT: 0.65
+- AI: 0.57
+Skill: Launcher
+- Hardware/Software Integration: 0.84
+- User Centric Design: 0.81
+- IoT: 0.55
+Skill: Modules: FTP
+- Performance Testing: 0.56
+- Server Administration: 0.54
+- Data Manipulation: 0.49
+Skill: Tooling API
+- Hardware/Software Integration: 0.85
+- VoIP (Voice over Internet Protocol): 0.50
+- Test-Driven Development (TDD): 0.47
+Skill: Transport: JMS
+- Oracle: 0.36
+- Azure: 0.20
+- Continuous Integration/Continuous Deployment: 0.18
+Skill: dataweave
+- Data Warehousing: 1.00
+- Data Manipulation: 0.99
+- Data Manipulation and Cleaning: 0.67
+Skill: Core: Bootstrap / Standalone
+- Web Development: 0.98
+- Responsive Design: 0.73
+- User Centric Design: 0.71
+Skill: Debugger
+- Troubleshooting: 0.78
+- JUnit: 0.45
+- Data Manipulation: 0.43
+Skill: Modules: BPM / Rules
+- Build Automation: 0.33
+- Intrusion Detection: 0.30
+- Cassandra: 0.25
+Skill: Core: Configuration
+- VoIP (Voice over Internet Protocol): 0.52
+- Test-Driven Development (TDD): 0.37
+- scikit-learn: 0.36
+Skill: Core: Agents
+- AI: 0.74
+- Oracle: 0.44
+- GCP: 0.44
+Skill: Modules: Email
+- User Centric Design: 0.70
+- Node.js: 0.46
+- Django: 0.09
+Skill: Transport: File
+- VoIP (Voice over Internet Protocol): 0.58
+- ETL: 0.50
+- GCP: 0.44
+Skill: jms-module
+- User Centric Design: 0.69
+- Test-Driven Development (TDD): 0.65
+- JavaScript: 0.61
+Skill: Modules: File
+- Test-Driven Development (TDD): 0.56
+- Node.js: 0.47
+- Matplotlib: 0.40
+Skill: Core: Registry
+- VoIP (Voice over Internet Protocol): 0.49
+- Docker: 0.37
+- GCP: 0.37
+Skill: Modules: Expressions
+- VoIP (Voice over Internet Protocol): 0.61
+- Natural Language Processing: 0.52
+- User Centric Design: 0.33
+Skill: Maven Module Plugin
+- Test-Driven Development (TDD): 0.71
+- Build Automation: 0.67
+- Data Manipulation: 0.65
+Skill: Modules: XML, XSLT, XPath, SXC
+- Data Manipulation: 0.94
+- Web Development: 0.76
+- Data Manipulation and Cleaning: 0.74
+Skill: Core: Transports
+- VoIP (Voice over Internet Protocol): 0.71
+- TCP/IP: 0.45
+- GCP: 0.41
+Skill: Core: Containers
+- VoIP (Voice over Internet Protocol): 0.52
+- Cloud Native Application Development: 0.42
+- GCP: 0.37
+Skill: Core: Sessions
+- VoIP (Voice over Internet Protocol): 0.53
+- Test-Driven Development (TDD): 0.45
+- scikit-learn: 0.25
+Skill: Modules: RSS / ATOM
+- Data Manipulation: 0.94
+- RESTful Architecture: 0.83
+- Real-Time Systems: 0.72
+Skill: Build: Libraries / Dependencies
+- Build Automation: 0.92
+- VoIP (Voice over Internet Protocol): 0.58
+- scikit-learn: 0.55
+Skill: Modules: (other)
+- VoIP (Voice over Internet Protocol): 0.54
+- Test-Driven Development (TDD): 0.49
+- Node.js: 0.38
+Skill: Core: Endpoints
+- VoIP (Voice over Internet Protocol): 0.53
+- Test-Driven Development (TDD): 0.40
+- ETL: 0.30
+Skill: Modules: Devkit Support
+- Hardware/Software Integration: 0.61
+- VoIP (Voice over Internet Protocol): 0.53
+- Test-Driven Development (TDD): 0.36
+Skill: Core: Queues (SEDA) / Persistence
+- System Architecture Design: 0.83
+- System Administration: 0.73
+- VoIP (Voice over Internet Protocol): 0.46
+Skill: Core: Request-Reply
+- User Centric Design: 0.89
+- RESTful Architecture: 0.88
+- Natural Language Processing: 0.78
+Skill: Modules: JBPM
+- Backup and Recovery: 0.55
+- Continuous Integration/Continuous Deployment: 0.41
+- Build Automation: 0.37
+Skill: Modules: Management / JMX
+- Scrum: 0.32
+- Risk Management: 0.26
+- Node.js: 0.25
+Skill: Transport: Quartz
+- User Centric Design: 0.40
+- VoIP (Voice over Internet Protocol): 0.14
+- Scalability and Performance Optimization: 0.07
+Skill: Modules: Sockets
+- Scalability and Performance Optimization: 0.82
+- Node.js: 0.67
+- VoIP (Voice over Internet Protocol): 0.66
+Skill: Transport: TCP / UDP / SSL / Multicast
+- TCP/IP: 0.84
+- VoIP (Voice over Internet Protocol): 0.77
+- Security Best Practices: 0.53
+Skill: Modules: XA Transactions
+- Microsoft SQL Server: 0.45
+- PostgreSQL: 0.38
+- Node.js: 0.37
+Skill: Service: OAuth
+- User Centric Design: 0.65
+- Security Best Practices: 0.15
+- Azure: 0.14
+Skill: SOAP Engine
+- Scalability and Performance Optimization: 0.78
+- Web Development: 0.75
+- Data Manipulation: 0.68
+Skill: Modules: MuleClient
+- Test-Driven Development (TDD): 0.86
+- VoIP (Voice over Internet Protocol): 0.67
+- IoT: 0.65
+Skill: Core: Encoding / I18N
+- Natural Language Processing: 0.75
+- Data Manipulation: 0.72
+- VoIP (Voice over Internet Protocol): 0.62
+Skill: in Console Access Request
+- User Centric Design: 0.86
+- IT Support: 0.42
+- AWS: 0.38
+Skill: Modules: Jersey
+- User Centric Design: 0.58
+- Test-Driven Development (TDD): 0.53
+- VoIP (Voice over Internet Protocol): 0.48
+Skill: Transport: (other)
+- VoIP (Voice over Internet Protocol): 0.62
+- ETL: 0.36
+- GCP: 0.35
+Skill: Module: APIKit
+- Data Manipulation: 0.65
+- VoIP (Voice over Internet Protocol): 0.61
+- Test-Driven Development (TDD): 0.58
+Skill: Module: Scripting
+- VoIP (Voice over Internet Protocol): 0.56
+- Test-Driven Development (TDD): 0.51
+- GCP: 0.46
+Skill: Modules: Database
+- Data Manipulation: 0.86
+- RDBMS: 0.71
+- SQL: 0.57
+Skill: Transport: XMPP (Jabber)
+- VoIP (Voice over Internet Protocol): 0.96
+- User Centric Design: 0.62
+- RESTful Architecture: 0.38
+Skill: Transport: JDBC
+- Microsoft SQL Server: 0.42
+- Continuous Integration/Continuous Deployment: 0.12
+- Big Data Technologies: 0.10
+Skill: Transport: Axis
+- VoIP (Voice over Internet Protocol): 0.67
+- Matplotlib: 0.21
+- Continuous Integration/Continuous Deployment: 0.17
+Skill: Test: Test Namespace
+- VoIP (Voice over Internet Protocol): 0.64
+- Test-Driven Development (TDD): 0.48
+- Node.js: 0.39
+Skill: Examples / Tutorials
+- Test-Driven Development (TDD): 0.57
+- User Centric Design: 0.57
+- RESTful Architecture: 0.56
+Skill: Build: JDK Compatibility
+- Build Automation: 0.75
+- VoIP (Voice over Internet Protocol): 0.48
+- Node.js: 0.40
+Skill: Core: Watermark
+- VoIP (Voice over Internet Protocol): 0.44
+- Test-Driven Development (TDD): 0.33
+- Computer Vision: 0.19
+Skill: Mule CI
+- Continuous Integration/Continuous Deployment: 0.80
+- Computer Vision: 0.78
+- Cryptocurrency development: 0.60
+Skill: Transport: AJAX
+- Web Development: 0.29
+- User Centric Design: 0.27
+- VoIP (Voice over Internet Protocol): 0.23
+Skill: Modules: JCA Resource Adapter
+- Hardware/Software Integration: 0.62
+- Test-Driven Development (TDD): 0.47
+- VoIP (Voice over Internet Protocol): 0.41
+Skill: Mule Core
+- Cryptocurrency development: 0.83
+- Test-Driven Development (TDD): 0.64
+- IoT: 0.61
+Skill: Modules: iBeans
+- IoT: 0.82
+- User Centric Design: 0.65
+- Hardware/Software Integration: 0.59
+Skill: Transport: Stream (System.in/out)
+- VoIP (Voice over Internet Protocol): 0.46
+- TCP/IP: 0.31
+- Real-Time Systems: 0.30
+Skill: Transport: EJB / RMI
+- VoIP (Voice over Internet Protocol): 0.64
+- Azure: 0.22
+- Oracle: 0.18
+Skill: Transport: (new transport)
+- VoIP (Voice over Internet Protocol): 0.66
+- User Centric Design: 0.63
+- Cassandra: 0.47
+Skill: Modules: Spring
+- Test-Driven Development (TDD): 0.81
+- Web Development: 0.70
+- User Centric Design: 0.55
+Skill: Modules: I18n
+- Natural Language Processing: 0.88
+- Node.js: 0.48
+- Cassandra: 0.28
+Skill: iOS
+- UI Design: 0.97
+- User Centric Design: 0.95
+- iOS Mobile App Development: 0.88
+Skill: Desktop
+- User Centric Design: 0.75
+- Hardware/Software Integration: 0.66
+- scikit-learn: 0.51
+Skill: Setup
+- Test-Driven Development (TDD): 0.88
+- VoIP (Voice over Internet Protocol): 0.85
+- RESTful Architecture: 0.71
+Skill: Formatter
+- Data Manipulation: 1.00
+- Data Manipulation and Cleaning: 0.98
+- User Centric Design: 0.67
+Skill: Arrow
+- User Centric Design: 0.84
+- CSS: 0.58
+- Virtualization VMware: 0.57
+Skill: Android
+- AI: 0.92
+- User Centric Design: 0.89
+- Android Mobile App Development: 0.89
+Skill: Hyperloop
+- Scalability and Performance Optimization: 0.80
+- Hardware/Software Integration: 0.71
+- User Centric Design: 0.64
+Skill: Studio Error reporting
+- Troubleshooting: 0.51
+- Hardware/Software Integration: 0.48
+- User Centric Design: 0.44
+Skill: Node
+- Node.js: 0.94
+- Web Development: 0.74
+- IoT: 0.72
+Skill: Tiapp
+- User Centric Design: 0.82
+- Test-Driven Development (TDD): 0.81
+- VoIP (Voice over Internet Protocol): 0.73
+Skill: Alloy
+- Hardware/Software Integration: 0.80
+- User Centric Design: 0.72
+- VoIP (Voice over Internet Protocol): 0.64
+Skill: LiveView
+- User Centric Design: 0.84
+- Computer Vision: 0.77
+- Hardware/Software Integration: 0.76
+Skill: Appc Daemon
+- AI: 0.88
+- Hardware/Software Integration: 0.85
+- IoT: 0.74
+Skill: SDK Configuration
+- Hardware/Software Integration: 0.72
+- VoIP (Voice over Internet Protocol): 0.45
+- React Native: 0.37
+Skill: Profiling
+- Performance Testing: 0.99
+- scikit-learn: 0.59
+- User Centric Design: 0.53
+Skill: MobileWeb
+- User Centric Design: 0.91
+- Responsive Design: 0.88
+- Test-Driven Development (TDD): 0.58
+Skill: Windows phone
+- Hardware/Software Integration: 0.90
+- User Centric Design: 0.86
+- IoT: 0.69
+Skill: App Designer
+- User Centric Design: 0.76
+- VoIP (Voice over Internet Protocol): 0.60
+- UX/UI Design and Prototyping: 0.46
+Skill: Help
+- Test-Driven Development (TDD): 0.84
+- User Centric Design: 0.81
+- VoIP (Voice over Internet Protocol): 0.79
+Skill: BlackBerry
+- Hardware/Software Integration: 0.89
+- User Centric Design: 0.85
+- UI Design: 0.76
+Skill: Code Processor
+- Node.js: 0.65
+- JUnit: 0.49
+- scikit-learn: 0.47
+Skill: Tizen
+- IoT: 0.91
+- User Centric Design: 0.85
+- Test-Driven Development (TDD): 0.73
+Skill: Denso
+- Hardware/Software Integration: 0.87
+- Test-Driven Development (TDD): 0.86
+- VoIP (Voice over Internet Protocol): 0.85
+Skill: Mac
+- User Centric Design: 0.87
+- Hardware/Software Integration: 0.86
+- VoIP (Voice over Internet Protocol): 0.74
+Skill: TiAPI
+- AI: 0.84
+- Scalability and Performance Optimization: 0.42
+- User Centric Design: 0.41
+Skill: iPad
+- User Centric Design: 0.92
+- Hardware/Software Integration: 0.87
+- iOS Mobile App Development: 0.75
+Skill: Specification
+- Technical Documentation: 0.99
+- Test-Driven Development (TDD): 0.92
+- scikit-learn: 0.78
+Skill: Windows Hybrid
+- Hardware/Software Integration: 0.94
+- User Centric Design: 0.76
+- Scalability and Performance Optimization: 0.65
+Skill: Anvil
+- Hardware/Software Integration: 0.70
+- User Centric Design: 0.57
+- Cloud Native Application Development: 0.54
+Skill: Drillbit
+- IoT: 0.61
+- VoIP (Voice over Internet Protocol): 0.61
+- Hardware/Software Integration: 0.61
+Skill: Issue - Create
+- Troubleshooting: 0.63
+- VoIP (Voice over Internet Protocol): 0.44
+- Git: 0.41
+Skill: Jira Core Board
+- Kanban: 0.93
+- Test-Driven Development (TDD): 0.66
+- User Centric Design: 0.59
+Skill: Issue - View
+- Troubleshooting: 0.84
+- Test-Driven Development (TDD): 0.68
+- VoIP (Voice over Internet Protocol): 0.62
+Skill: Project Administration - People and Roles
+- VoIP (Voice over Internet Protocol): 0.50
+- CoAP: 0.46
+- pytest: 0.40
+Skill: Ecosystem - Webhooks
+- VoIP (Voice over Internet Protocol): 0.29
+- Node.js: 0.28
+- Cassandra: 0.23
+Skill: Events & Notifications
+- User Centric Design: 0.89
+- IoT: 0.65
+- Real-Time Systems: 0.39
+Skill: Native - macOS
+- Hardware/Software Integration: 0.81
+- User Centric Design: 0.80
+- Test-Driven Development (TDD): 0.73
+Skill: Onboarding
+- User Centric Design: 0.94
+- Matplotlib: 0.35
+- scikit-learn: 0.33
+Skill: Automation for Jira
+- AI: 0.92
+- Agile Methodologies: 0.80
+- Kanban: 0.62
+Skill: Project Administration - Issue type, fields and Other
+- CoAP: 0.25
+- Git: 0.21
+- VoIP (Voice over Internet Protocol): 0.21
+Skill: Issue Search - Backend
+- Troubleshooting: 0.87
+- Test-Driven Development (TDD): 0.49
+- Node.js: 0.45
+Skill: Project Administration - Project Trash and Archive
+- VoIP (Voice over Internet Protocol): 0.40
+- Test-Driven Development (TDD): 0.27
+- ETL: 0.26
+Skill: Project Administration - Workflows and statuses
+- CoAP: 0.37
+- Kanban: 0.32
+- Django: 0.24
+Skill: Issue - Old View
+- Troubleshooting: 0.88
+- Test-Driven Development (TDD): 0.63
+- VoIP (Voice over Internet Protocol): 0.51
+Skill: Dashboards & Gadgets
+- Hardware/Software Integration: 0.99
+- Data Visualization: 0.99
+- User Centric Design: 0.90
+Skill: Search - Frontend
+- User Centric Design: 0.96
+- Web Development: 0.90
+- UI Design: 0.72
+Skill: Global Administration
+- GCP: 0.27
+- VoIP (Voice over Internet Protocol): 0.23
+- Git: 0.19
+Skill: Issue - Bulk Updates
+- Troubleshooting: 0.92
+- Data Manipulation: 0.81
+- System Administration: 0.54
+Skill: Backup and Restore
+- Backup and Recovery: 0.99
+- Data Manipulation: 0.99
+- Data Engineering: 0.95
+Skill: Navigation - Primary & Contextual
+- User Centric Design: 0.95
+- VoIP (Voice over Internet Protocol): 0.35
+- SVN: 0.31
+Skill: Native - Android
+- Android Mobile App Development: 0.96
+- Hardware/Software Integration: 0.85
+- User Centric Design: 0.82
+Skill: Native - iOS
+- iOS Mobile App Development: 0.97
+- User Centric Design: 0.87
+- Hardware/Software Integration: 0.83
+Skill: Issue - Backend
+- Troubleshooting: 0.94
+- IT Support: 0.53
+- Microsoft SQL Server: 0.52
+Skill: Issue - Navigation
+- Usability Testing: 0.41
+- Cassandra: 0.38
+- Microsoft SQL Server: 0.37
+Skill: Backup & Restore - Import From JIRA Server
+- Data Manipulation: 1.00
+- Backup and Recovery: 1.00
+- Server Administration: 1.00
+Skill: Backup & Restore - Import From JIRA Cloud
+- Backup and Recovery: 1.00
+- Data Manipulation: 1.00
+- Cloud Architecture: 0.99
+Skill: Jira - Slack Integration
+- Agile Methodologies: 0.98
+- DevOps: 0.93
+- Kanban: 0.92
+Skill: Provisioning
+- VoIP (Voice over Internet Protocol): 0.71
+- TCP/IP: 0.60
+- Microsoft SQL Server: 0.56
+Skill: User Profile Display
+- User Centric Design: 0.98
+- UI Design: 0.96
+- UX Design: 0.84
+Skill: User Profile Controls
+- User Centric Design: 0.96
+- UI Design: 0.93
+- UX Design: 0.76
+Skill: Administration - Deprecated
+- System Administration: 0.32
+- Server Administration: 0.27
+- Cassandra: 0.27
+Skill: Infrastructure & Services
+- VoIP (Voice over Internet Protocol): 0.57
+- Test-Driven Development (TDD): 0.49
+- RESTful Architecture: 0.48
+Skill: Mac App
+- Hardware/Software Integration: 0.84
+- User Centric Design: 0.83
+- Test-Driven Development (TDD): 0.58
+Skill: ADG3
+- AI: 0.73
+- Android Mobile App Development: 0.71
+- Agile Methodologies: 0.69
+Skill: Navigation - Login
+- User Centric Design: 0.90
+- Test-Driven Development (TDD): 0.68
+- UX Design: 0.56
+Skill: Issue - ADF
+- Troubleshooting: 0.88
+- Android Mobile App Development: 0.40
+- Cassandra: 0.27
+Skill: Project Administration - Project create and delete
+- VoIP (Voice over Internet Protocol): 0.43
+- CoAP: 0.36
+- SQL: 0.33
+Skill: TWP - Design System
+- User Centric Design: 0.52
+- VoIP (Voice over Internet Protocol): 0.38
+- Hardware/Software Integration: 0.38
+Skill: TWP - Atlassian Frontend SSR Service
+- Web Development: 0.83
+- Test-Driven Development (TDD): 0.83
+- User Centric Design: 0.75
+Skill: Jira platform
+- Kanban: 0.77
+- User Centric Design: 0.67
+- Test-Driven Development (TDD): 0.62
+Skill: Navigation - Your work
+- User Centric Design: 0.89
+- SVN: 0.30
+- Microsoft SQL Server: 0.29
+Skill: Backup & Restore - Export to JIRA Server
+- Data Manipulation: 1.00
+- Server Administration: 1.00
+- Backup and Recovery: 1.00
+Skill: Issue - Entity Properties
+- Troubleshooting: 0.94
+- VoIP (Voice over Internet Protocol): 0.43
+- Microsoft SQL Server: 0.35
+Skill: Connect
+- Test-Driven Development (TDD): 0.84
+- User Centric Design: 0.83
+- TCP/IP: 0.75
+Skill: TWP - Atlassian Frontend mono-repo and tooling
+- Web Development: 0.96
+- Test-Driven Development (TDD): 0.53
+- User Centric Design: 0.51
+Skill: Invalid
+- Data Manipulation: 0.54
+- Manual Testing: 0.45
+- User Research: 0.38
+Skill: WRM
+- Wireless Networking: 0.67
+- Android Mobile App Development: 0.47
+- VoIP (Voice over Internet Protocol): 0.45
+Skill: Atlassian Accounts - Raise issue in ID project
+- Troubleshooting: 0.90
+- Test-Driven Development (TDD): 0.73
+- Incident Response: 0.30
+Skill: Core API
+- VoIP (Voice over Internet Protocol): 0.58
+- Data Manipulation: 0.47
+- REST: 0.46
+Skill: Localization - Content
+- VoIP (Voice over Internet Protocol): 0.53
+- User Centric Design: 0.51
+- CoAP: 0.41
+Skill: Admin - Search Engine SiteMap
+- System Administration: 0.75
+- User Centric Design: 0.62
+- Technical Documentation: 0.54
+Skill: Security & Permissions
+- VoIP (Voice over Internet Protocol): 0.53
+- System Administration: 0.36
+- pytest: 0.35
+Skill: Member Directory
+- User Centric Design: 0.90
+- HTML: 0.51
+- Test-Driven Development (TDD): 0.41
+Skill: HTML Editor
+- Web Development: 0.99
+- HTML: 0.95
+- User Centric Design: 0.87
+Skill: Admin - File Manager
+- Data Manipulation: 0.92
+- User Centric Design: 0.61
+- Test-Driven Development (TDD): 0.44
+Skill: Login/Registration
+- User Centric Design: 0.91
+- Web Development: 0.83
+- RESTful Architecture: 0.56
+Skill: URL ReWriter
+- Data Manipulation: 0.97
+- Web Development: 0.93
+- AI: 0.84
+Skill: Friendly / Standard URLs
+- User Centric Design: 0.97
+- Web Accessibility: 0.95
+- RESTful Architecture: 0.75
+Skill: Admin - Site Settings
+- System Administration: 0.99
+- Test-Driven Development (TDD): 0.87
+- VoIP (Voice over Internet Protocol): 0.71
+Skill: Localization - Static
+- GCP: 0.26
+- ETL: 0.25
+- AWS: 0.24
+Skill: Installation / Upgrade
+- User Centric Design: 0.66
+- IT Support: 0.49
+- VoIP (Voice over Internet Protocol): 0.49
+Skill: Admin - Security Roles
+- VoIP (Voice over Internet Protocol): 0.63
+- Network Security: 0.46
+- VPN: 0.38
+Skill: Localization - Language Packs
+- GCP: 0.64
+- CoAP: 0.62
+- ETL: 0.50
+Skill: Admin - Pages
+- Test-Driven Development (TDD): 0.71
+- Web Development: 0.63
+- VoIP (Voice over Internet Protocol): 0.58
+Skill: Admin - Recycle Bin
+- Data Manipulation and Cleaning: 0.83
+- System Administration: 0.76
+- IoT: 0.54
+Skill: Host - Host Settings
+- Server Administration: 0.95
+- Technical Documentation: 0.82
+- VoIP (Voice over Internet Protocol): 0.74
+Skill: Control Panel
+- User Centric Design: 0.82
+- Hardware/Software Integration: 0.67
+- System Administration: 0.50
+Skill: Telerik
+- Test-Driven Development (TDD): 0.89
+- VoIP (Voice over Internet Protocol): 0.83
+- User Centric Design: 0.72
+Skill: Admin - Event Viewer
+- System Administration: 0.99
+- User Centric Design: 0.64
+- Test-Driven Development (TDD): 0.63
+Skill: File Manager
+- Data Manipulation: 0.99
+- User Centric Design: 0.83
+- React Native: 0.45
+Skill: Admin - User Accounts
+- User Centric Design: 0.88
+- Test-Driven Development (TDD): 0.70
+- HTML: 0.46
+Skill: UI / Usability
+- User Centric Design: 0.97
+- UI Design: 0.96
+- Matplotlib: 0.81
+Skill: Services Framework
+- VoIP (Voice over Internet Protocol): 0.53
+- Data Manipulation and Cleaning: 0.35
+- Node.js: 0.32
+Skill: Core Modules
+- VoIP (Voice over Internet Protocol): 0.64
+- scikit-learn: 0.59
+- TCP/IP: 0.52
+Skill: Skins - DotNetNuke
+- User Centric Design: 0.78
+- Test-Driven Development (TDD): 0.53
+- VoIP (Voice over Internet Protocol): 0.51
+Skill: Modules - Core
+- Test-Driven Development (TDD): 0.73
+- VoIP (Voice over Internet Protocol): 0.66
+- scikit-learn: 0.57
+Skill: Admin / Host Functions
+- VoIP (Voice over Internet Protocol): 0.60
+- Test-Driven Development (TDD): 0.59
+- scikit-learn: 0.54
+Skill: Localization / ML
+- Machine Learning: 0.99
+- Natural Language Processing: 0.71
+- Data Manipulation: 0.56
+Skill: Admin - Skins
+- VoIP (Voice over Internet Protocol): 0.54
+- Spark: 0.49
+- Azure: 0.49
+Skill: Graphics & Icons
+- User Centric Design: 0.73
+- Test-Driven Development (TDD): 0.72
+- VoIP (Voice over Internet Protocol): 0.66
+Skill: Host - Site Management
+- System Administration: 0.64
+- VoIP (Voice over Internet Protocol): 0.53
+- Node.js: 0.42
+Skill: Modules - Third party
+- VoIP (Voice over Internet Protocol): 0.65
+- Microsoft SQL Server: 0.56
+- Virtualization VMware: 0.55
+Skill: Exception Management
+- Django: 0.26
+- JUnit: 0.26
+- Flask: 0.22
+Skill: End User Functions
+- User Centric Design: 0.91
+- Test-Driven Development (TDD): 0.66
+- VoIP (Voice over Internet Protocol): 0.55
+Skill: Admin - Vendors
+- Test-Driven Development (TDD): 0.81
+- VoIP (Voice over Internet Protocol): 0.72
+- Virtualization VMware: 0.51
+Skill: Admin - Site Redirection Management
+- System Administration: 0.92
+- Routing and Switching: 0.82
+- Responsive Design: 0.62
+Skill: Host - Schedule
+- User Centric Design: 0.71
+- Node.js: 0.52
+- GCP: 0.48
+Skill: Journal
+- Test-Driven Development (TDD): 0.68
+- VoIP (Voice over Internet Protocol): 0.62
+- User Centric Design: 0.59
+Skill: Admin - Extensions
+- Test-Driven Development (TDD): 0.83
+- VoIP (Voice over Internet Protocol): 0.67
+- Matplotlib: 0.56
+Skill: Data Access (DAL)
+- Microsoft SQL Server: 0.17
+- scikit-learn: 0.16
+- VPN: 0.15
+Skill: Messaging
+- Natural Language Processing: 0.99
+- User Centric Design: 0.75
+- VoIP (Voice over Internet Protocol): 0.62
+Skill: Text/HTML Module
+- HTML: 0.98
+- Web Development: 0.69
+- User Centric Design: 0.61
+Skill: Social Groups
+- Spark: 0.35
+- User Centric Design: 0.35
+- VPN: 0.31
+Skill: Client Resources
+- VoIP (Voice over Internet Protocol): 0.57
+- User Centric Design: 0.57
+- Test-Driven Development (TDD): 0.54
+Skill: Host - SQL
+- Data Manipulation: 0.99
+- SQL: 0.98
+- Microsoft SQL Server: 0.76
+Skill: Control Panel - Ribbon Bar
+- UI Design: 0.97
+- User Centric Design: 0.92
+- Hardware/Software Integration: 0.86
+Skill: Admin - Google Analytics
+- Test-Driven Development (TDD): 0.72
+- System Administration: 0.56
+- VoIP (Voice over Internet Protocol): 0.49
+Skill: Admin - Languages
+- Node.js: 0.55
+- Natural Language Processing: 0.49
+- VoIP (Voice over Internet Protocol): 0.49
+Skill: Admin - Newsletters
+- Test-Driven Development (TDD): 0.78
+- VoIP (Voice over Internet Protocol): 0.68
+- scikit-learn: 0.60
+Skill: jQuery
+- Web Development: 0.99
+- JavaScript: 0.98
+- Data Manipulation: 0.83
+Skill: Host - Extensions
+- VoIP (Voice over Internet Protocol): 0.78
+- Microsoft SQL Server: 0.61
+- Matplotlib: 0.60
+Skill: Host - Dashboard
+- Data Visualization: 0.98
+- Server Administration: 0.84
+- User Centric Design: 0.81
+Skill: Release Packaging
+- Matplotlib: 0.41
+- Node.js: 0.38
+- scikit-learn: 0.36
+Skill: Providers
+- VoIP (Voice over Internet Protocol): 0.80
+- Test-Driven Development (TDD): 0.63
+- VPN: 0.60
+Skill: HTML Module - Core
+- HTML: 0.99
+- Web Development: 0.92
+- Test-Driven Development (TDD): 0.72
+Skill: Skinning
+- Microsoft SQL Server: 0.42
+- User Centric Design: 0.35
+- Docker: 0.33
+Skill: Admin - Device Preview Management
+- VoIP (Voice over Internet Protocol): 0.43
+- Test-Driven Development (TDD): 0.35
+- Hardware/Software Integration: 0.34
+Skill: Host Page
+- Web Development: 0.79
+- User Centric Design: 0.60
+- HTML: 0.55
+Skill: Control Panel - Icon Bar
+- UI Design: 0.99
+- Hardware/Software Integration: 0.92
+- User Centric Design: 0.90
+Skill: Host - SuperUser Accounts
+- User Centric Design: 0.93
+- Server Administration: 0.68
+- System Administration: 0.56
+Skill: DDR Menu
+- Hardware/Software Integration: 0.96
+- UI Design: 0.96
+- Natural Language Processing: 0.94
+Skill: Skins - Third party
+- User Centric Design: 0.61
+- Azure: 0.54
+- Selenium: 0.39
+Skill: Modal Pop ups
+- UI Design: 0.96
+- User Centric Design: 0.93
+- Responsive Design: 0.90
+Skill: Admin - Taxonomy
+- Test-Driven Development (TDD): 0.69
+- VoIP (Voice over Internet Protocol): 0.64
+- Virtualization VMware: 0.50
+Skill: PA Loader / DNN Files
+- Data Manipulation: 0.99
+- AI: 0.93
+- Hardware/Software Integration: 0.88
+Skill: Host - Configuration Manager
+- System Administration: 0.89
+- Hardware/Software Integration: 0.85
+- Scalability and Performance Optimization: 0.45
+Skill: Host - Device Detection Management
+- Hardware/Software Integration: 0.96
+- IoT: 0.72
+- AI: 0.63
+Skill: Legal
+- VoIP (Voice over Internet Protocol): 0.60
+- Ethical Hacking: 0.50
+- Cassandra: 0.45
+Skill: Site Groups
+- UX/UI Design and Prototyping: 0.38
+- GCP: 0.36
+- ETL: 0.35
+Skill: Admin Page
+- Web Development: 0.93
+- HTML: 0.82
+- Test-Driven Development (TDD): 0.71
+Skill: Host - Lists
+- Data Manipulation: 0.82
+- User Centric Design: 0.50
+- Security Best Practices: 0.45
+Skill: Login/Registration - Password Reset
+- User Centric Design: 0.94
+- Web Development: 0.80
+- Usability Testing: 0.63
+Skill: C# Conversion
+- GCP: 0.13
+- Docker: 0.12
+- Cassandra: 0.11
+Skill: Host - Module Definitions
+- Technical Documentation: 0.93
+- VoIP (Voice over Internet Protocol): 0.65
+- Node.js: 0.47
+Skill: Host - Vendors
+- VoIP (Voice over Internet Protocol): 0.66
+- Cloud Architecture: 0.64
+- Microsoft SQL Server: 0.56
+Skill: Admin - Site Wizard
+- System Administration: 0.91
+- Test-Driven Development (TDD): 0.82
+- VoIP (Voice over Internet Protocol): 0.71
+Skill: Host - File Manager
+- Data Manipulation: 0.99
+- Hardware/Software Integration: 0.91
+- User Centric Design: 0.87
+Skill: Professional Features Showcase
+- User Centric Design: 0.66
+- Scalability and Performance Optimization: 0.57
+- VoIP (Voice over Internet Protocol): 0.53
+Skill: Admin - Site Log
+- Technical Documentation: 0.96
+- System Administration: 0.96
+- Test-Driven Development (TDD): 0.69
+Skill: Object Qualifier
+- VoIP (Voice over Internet Protocol): 0.79
+- Natural Language Processing: 0.73
+- User Centric Design: 0.73
+Skill: Host - MarketPlace
+- User Centric Design: 0.72
+- Cloud Architecture: 0.70
+- VoIP (Voice over Internet Protocol): 0.55
+Skill: Compliance (ADA, WCAG, XHTML)
+- Web Accessibility: 0.90
+- Web Development: 0.48
+- Docker: 0.13
+Skill: Host - Search Admin
+- Server Administration: 0.85
+- VoIP (Voice over Internet Protocol): 0.64
+- Test-Driven Development (TDD): 0.62
+Skill: Compression
+- Data Manipulation: 1.00
+- GCP: 0.38
+- Docker: 0.36
+Skill: PersonaBar
+- User Centric Design: 0.94
+- Hardware/Software Integration: 0.80
+- UI Design: 0.72
+Skill: Host = Membership Management
+- CoAP: 0.19
+- GCP: 0.16
+- Azure: 0.15
+Skill: DNN Prompt
+- Machine Learning: 0.92
+- AI: 0.90
+- Natural Language Processing: 0.53
+Skill: client dependency framework
+- User Centric Design: 0.60
+- VoIP (Voice over Internet Protocol): 0.38
+- React Native: 0.28
+Skill: Prompt
+- Natural Language Processing: 0.85
+- VoIP (Voice over Internet Protocol): 0.78
+- User Centric Design: 0.75
+Skill: PersonaBar - Security
+- Hardware/Software Integration: 0.89
+- User Centric Design: 0.78
+- Test-Driven Development (TDD): 0.50
+Skill: AUM
+- Test-Driven Development (TDD): 0.70
+- VoIP (Voice over Internet Protocol): 0.66
+- User Centric Design: 0.61
+Skill: User Profile
+- User Centric Design: 0.95
+- HTML: 0.73
+- UX Design: 0.61
+Skill: Module Action Menu
+- User Centric Design: 0.84
+- UI Design: 0.81
+- Test-Driven Development (TDD): 0.54
+Skill: Personabar - sites
+- User Centric Design: 0.79
+- Test-Driven Development (TDD): 0.74
+- VoIP (Voice over Internet Protocol): 0.62
+Skill: CDF
+- Cryptocurrency development: 0.71
+- Network Monitoring: 0.58
+- VoIP (Voice over Internet Protocol): 0.57
+Skill: PersonaBar - Scheduler
+- UI Design: 0.95
+- Hardware/Software Integration: 0.94
+- User Centric Design: 0.89
+Skill: Pages
+- Technical Documentation: 0.79
+- scikit-learn: 0.65
+- User Centric Design: 0.65
+Skill: PersonaBar - Users
+- User Centric Design: 0.97
+- User Research: 0.79
+- Data Visualization: 0.62
+Skill: Host - Security Analyzer
+- Hardware/Software Integration: 0.85
+- Technical Documentation: 0.71
+- Test-Driven Development (TDD): 0.62
+Skill: ImageHandler
+- AI: 0.89
+- User Centric Design: 0.78
+- Test-Driven Development (TDD): 0.74
+Skill: PersonaBar - Prompt
+- User Centric Design: 0.94
+- Hardware/Software Integration: 0.93
+- UI Design: 0.79
+Skill: External Modules
+- VoIP (Voice over Internet Protocol): 0.56
+- IoT: 0.54
+- scikit-learn: 0.48
+Skill: workflow
+- Test-Driven Development (TDD): 0.57
+- Continuous Integration/Continuous Deployment: 0.50
+- UX/UI Design and Prototyping: 0.50
+Skill: CKEditor
+- Data Manipulation: 0.73
+- AI: 0.72
+- User Centric Design: 0.71
+Skill: PersonaBar - Settings
+- Hardware/Software Integration: 0.95
+- UI Design: 0.94
+- User Centric Design: 0.89
+Skill: SEO
+- Docker: 0.35
+- Spark: 0.27
+- Cassandra: 0.23
+Skill: MVC
+- Web Development: 0.91
+- Software Design Patterns: 0.59
+- Computer Vision: 0.55
+Skill: Activity Feed
+- User Centric Design: 0.91
+- UI Design: 0.81
+- Hardware/Software Integration: 0.58
+Skill: PersonaBar - Vocabulary
+- Natural Language Processing: 0.86
+- User Centric Design: 0.84
+- VoIP (Voice over Internet Protocol): 0.67
+Skill: PB Security
+- VoIP (Voice over Internet Protocol): 0.79
+- Security Best Practices: 0.75
+- Test-Driven Development (TDD): 0.69
+Skill: JWT
+- Web Development: 0.92
+- Network Security: 0.68
+- User Centric Design: 0.63
+Skill: Connectors
+- User Centric Design: 0.74
+- VoIP (Voice over Internet Protocol): 0.67
+- Integration Testing and System Testing: 0.57
+Skill: SPA
+- Scalability and Performance Optimization: 0.63
+- User Centric Design: 0.60
+- Server Administration: 0.55
+Skill: PB Menu Security
+- Natural Language Processing: 0.79
+- Security Best Practices: 0.69
+- Intrusion Detection: 0.26
+Skill: FIPS Compliance
+- VoIP (Voice over Internet Protocol): 0.42
+- Hardware/Software Integration: 0.23
+- Virtualization Hyper-V: 0.20
+Skill: SMTP
+- Data Manipulation: 0.40
+- User Centric Design: 0.31
+- Scalability and Performance Optimization: 0.28
+Skill: Provider - Active Directory
+- Active Directory: 1.00
+- User Centric Design: 0.58
+- Test-Driven Development (TDD): 0.35
+Skill: Web-Farm
+- Scalability and Performance Optimization: 0.63
+- GCP: 0.41
+- Spark: 0.38
+Skill: home
+- User Centric Design: 0.87
+- Test-Driven Development (TDD): 0.82
+- HTML: 0.69
+Skill: dam
+- Natural Language Processing: 0.66
+- Disaster Recovery Planning: 0.63
+- VoIP (Voice over Internet Protocol): 0.59
+Skill: Gaming Mechanics
+- User Centric Design: 0.75
+- VoIP (Voice over Internet Protocol): 0.55
+- GCP: 0.47
+Skill: Moniker
+- VoIP (Voice over Internet Protocol): 0.84
+- Matplotlib: 0.78
+- Node.js: 0.78
+Skill: Dynamic Content Creator
+- User Centric Design: 0.81
+- AI: 0.69
+- Spark: 0.55
+Skill: Document viewer
+- User Centric Design: 0.88
+- AI: 0.71
+- JavaScript: 0.59
+Skill: robots.txt
+- Natural Language Processing: 0.88
+- AI: 0.82
+- Test-Driven Development (TDD): 0.76
+Skill: Querying
+- SQL: 0.76
+- Natural Language Processing: 0.71
+- RDBMS: 0.68
+Skill: Testing Infrastructure
+- VoIP (Voice over Internet Protocol): 0.47
+- Test-Driven Development (TDD): 0.44
+- pytest: 0.37
+Skill: Sharding
+- Data Manipulation: 0.98
+- Scalability and Performance Optimization: 0.96
+- Big Data Technologies: 0.43
+Skill: MapReduce
+- Data Manipulation: 0.99
+- Data Engineering: 0.92
+- Big Data Technologies: 0.76
+Skill: Internal Code
+- Test-Driven Development (TDD): 0.54
+- Scalability and Performance Optimization: 0.39
+- VoIP (Voice over Internet Protocol): 0.38
+Skill: Diagnostics
+- Test-Driven Development (TDD): 0.52
+- GCP: 0.46
+- pytest: 0.45
+Skill: Networking
+- VoIP (Voice over Internet Protocol): 0.64
+- TCP/IP: 0.55
+- RESTful Architecture: 0.54
+Skill: Upgrade/Downgrade
+- Data Manipulation: 0.96
+- User Centric Design: 0.65
+- System Administration: 0.52
+Skill: Concurrency
+- Scalability and Performance Optimization: 0.67
+- Cryptocurrency development: 0.56
+- Real-Time Systems: 0.44
+Skill: Aggregation Framework
+- VoIP (Voice over Internet Protocol): 0.40
+- Data Manipulation: 0.36
+- CoAP: 0.28
+Skill: WiredTiger
+- VoIP (Voice over Internet Protocol): 0.86
+- Test-Driven Development (TDD): 0.85
+- Wireless Networking: 0.84
+Skill: IDL
+- Intrusion Detection: 0.66
+- VoIP (Voice over Internet Protocol): 0.56
+- Data Manipulation and Cleaning: 0.45
+Skill: Write Ops
+- VoIP (Voice over Internet Protocol): 0.51
+- Continuous Integration/Continuous Deployment: 0.31
+- Technical Documentation: 0.30
+Skill: Catalog
+- User Centric Design: 0.79
+- Test-Driven Development (TDD): 0.73
+- VoIP (Voice over Internet Protocol): 0.62
+Skill: Admin
+- Test-Driven Development (TDD): 0.91
+- VoIP (Voice over Internet Protocol): 0.85
+- RESTful Architecture: 0.81
+Skill: Geo
+- Test-Driven Development (TDD): 0.65
+- VoIP (Voice over Internet Protocol): 0.61
+- GCP: 0.57
+Skill: Text Search
+- Natural Language Processing: 0.99
+- User Centric Design: 0.96
+- AI: 0.81
+Skill: TTL
+- Scalability and Performance Optimization: 0.65
+- VoIP (Voice over Internet Protocol): 0.48
+- Performance Testing: 0.45
+Skill: Internal Client
+- REST: 0.59
+- RESTful Architecture: 0.57
+- IT Support: 0.50
+Skill: MMAPv1
+- Memory Management and Performance Profiling: 0.92
+- Malware Analysis: 0.64
+- VoIP (Voice over Internet Protocol): 0.60
+Skill: HTTP Console
+- Web Development: 0.96
+- User Centric Design: 0.63
+- RESTful Architecture: 0.56

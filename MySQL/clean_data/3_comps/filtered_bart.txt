@@ -1,0 +1,6564 @@
+Skill: Stream Module
+- Scalability and Performance Optimization: 0.71
+- Responsive Design: 0.70
+- Software Design Patterns: 0.61
+Skill: Batch
+- Build Automation: 0.72
+- Backup and Recovery: 0.66
+- Agile Methodologies: 0.52
+Skill: Documentation
+- GCP: 0.58
+- MQTT: 0.52
+- Responsive Design: 0.44
+Skill: Packaging
+- GCP: 0.49
+- CoAP: 0.48
+- MQTT: 0.38
+Skill: Runtime
+- Real-Time Systems: 0.84
+- REST: 0.81
+- Cassandra: 0.57
+Skill: Configuration
+- GCP: 0.72
+- Cassandra: 0.58
+- Responsive Design: 0.54
+Skill: UI
+- User Centric Design: 0.99
+- IoT: 0.95
+- UI Design: 0.94
+Skill: REST
+- REST: 0.99
+- Responsive Design: 0.94
+- Backup and Recovery: 0.91
+Skill: Hadoop
+- Big Data Technologies: 1.00
+- Hadoop: 1.00
+- Data Modeling: 0.91
+Skill: YARN Runtime
+- User Centric Design: 0.87
+- Real-Time Systems: 0.83
+- User Research: 0.60
+Skill: Export
+- ETL: 0.81
+- Responsive Design: 0.75
+- React: 0.72
+Skill: DSL
+- Wireless Networking: 0.99
+- Routing and Switching: 0.70
+- User Centric Design: 0.68
+Skill: Ingest
+- MQTT: 0.64
+- User Centric Design: 0.63
+- GCP: 0.63
+Skill: Acceptance Testing
+- CoAP: 0.73
+- ETL: 0.63
+- MQTT: 0.60
+Skill: Performance Testing
+- Performance Testing: 0.99
+- Cassandra: 0.53
+- pytest: 0.52
+Skill: CLI
+- User Centric Design: 0.85
+- Machine Learning: 0.80
+- Continuous Integration/Continuous Deployment: 0.79
+Skill: Testing
+- Test-Driven Development (TDD): 0.85
+- MQTT: 0.69
+- pytest: 0.64
+Skill: Analytics
+- GCP: 0.51
+- Cassandra: 0.51
+- pytest: 0.46
+Skill: Infrastructure
+- TCP/IP: 0.69
+- Routing and Switching: 0.59
+- IT Support: 0.58
+Skill: Core
+- GCP: 0.66
+- TCP/IP: 0.49
+- User Centric Design: 0.46
+Skill: Repository
+- Responsive Design: 0.94
+- User Centric Design: 0.66
+- Responsive Web Design: 0.62
+Skill: Kotlin
+- Kotlin: 1.00
+- Blockchain security: 0.85
+- User Centric Design: 0.67
+Skill: Mapping
+- GCP: 0.40
+- Matplotlib: 0.38
+- Microsoft SQL Server: 0.36
+Skill: SessionFactory
+- Responsive Design: 0.50
+- Scalability and Performance Optimization: 0.47
+- TCP/IP: 0.39
+Skill: Template API
+- REST: 0.87
+- RESTful Architecture: 0.53
+- ETL: 0.36
+Skill: API
+- Incident Response: 0.92
+- System Administration: 0.88
+- Responsive Design: 0.68
+Skill: Cassandra Administration
+- Cassandra: 1.00
+- CoAP: 0.98
+- CSS: 0.96
+Skill: helm
+- Hardware/Software Integration: 0.58
+- iOS Mobile App Development: 0.54
+- VoIP (Voice over Internet Protocol): 0.52
+Skill: NuGet
+- User Centric Design: 0.96
+- Cryptocurrency development: 0.92
+- Wireless Networking: 0.91
+Skill: nuget-v3
+- VPN: 0.95
+- Wireless Networking: 0.82
+- VoIP (Voice over Internet Protocol): 0.76
+Skill: Yum
+- User Centric Design: 0.75
+- Azure: 0.70
+- MQTT: 0.66
+Skill: Security
+- GCP: 0.64
+- Risk Management: 0.63
+- Cassandra: 0.61
+Skill: Scripting
+- JavaScript: 0.99
+- React: 0.33
+- GCP: 0.32
+Skill: IQ Integration
+- AI: 0.42
+- MQTT: 0.41
+- Cassandra: 0.39
+Skill: Crowd
+- GCP: 0.53
+- CoAP: 0.49
+- iOS Mobile App Development: 0.30
+Skill: Proxy Repository
+- MQTT: 0.70
+- CoAP: 0.67
+- SVN: 0.54
+Skill: Bootstrap
+- User Centric Design: 0.85
+- UX/UI Design and Prototyping: 0.75
+- Responsive Web Design: 0.61
+Skill: Search
+- Azure: 0.61
+- MQTT: 0.54
+- Kotlin: 0.53
+Skill: Docker
+- Docker: 1.00
+- Hardware/Software Integration: 0.97
+- Integration Testing and System Testing: 0.70
+Skill: HTML View
+- HTML: 0.99
+- Web Accessibility: 0.97
+- Web Development: 0.85
+Skill: PyPI
+- Project Planning: 0.90
+- Hardware/Software Integration: 0.64
+- Quality Assurance: 0.58
+Skill: Blobstore
+- Blockchain security: 0.93
+- User Centric Design: 0.86
+- Web Accessibility: 0.85
+Skill: S3
+- Cloud Architecture: 0.99
+- Data Warehousing: 0.96
+- Web Accessibility: 0.92
+Skill: Scheduled Tasks
+- Routing and Switching: 0.52
+- GCP: 0.47
+- UX/UI Design and Prototyping: 0.46
+Skill: Routing
+- Routing and Switching: 0.86
+- Responsive Design: 0.76
+- Wireless Networking: 0.74
+Skill: SSL
+- Cryptography: 0.89
+- Network Security: 0.84
+- Security Best Practices: 0.78
+Skill: Logging
+- GCP: 0.44
+- CoAP: 0.30
+- Node.js: 0.18
+Skill: conan
+- Cassandra: 0.99
+- Kanban: 0.93
+- Angular: 0.86
+Skill: Database
+- Microsoft SQL Server: 0.63
+- Big Data Technologies: 0.57
+- Cassandra: 0.53
+Skill: Replication
+- Backup and Recovery: 0.84
+- TCP/IP: 0.51
+- MQTT: 0.50
+Skill: APT
+- Incident Response: 0.94
+- IoT: 0.91
+- AI: 0.89
+Skill: Browse Storage
+- Responsive Design: 0.37
+- GCP: 0.35
+- Cassandra: 0.32
+Skill: Repository Health Check
+- REST: 0.59
+- MQTT: 0.50
+- RDBMS: 0.42
+Skill: import-export
+- ETL: 0.74
+- GCP: 0.62
+- CoAP: 0.55
+Skill: Maven
+- AI: 0.97
+- Machine Learning: 0.92
+- User Centric Design: 0.80
+Skill: Cleanup
+- Incident Response: 0.78
+- CoAP: 0.66
+- ETL: 0.62
+Skill: P2
+- Backup and Recovery: 0.87
+- Responsive Design: 0.73
+- VoIP (Voice over Internet Protocol): 0.70
+Skill: NPM
+- Network Monitoring: 0.94
+- Natural Language Processing: 0.80
+- User Centric Design: 0.74
+Skill: R
+- Responsive Design: 0.89
+- React: 0.83
+- Backup and Recovery: 0.74
+Skill: Transport
+- TCP/IP: 0.86
+- Routing and Switching: 0.60
+- Azure: 0.51
+Skill: npm-audit
+- Network Monitoring: 0.52
+- Performance Testing: 0.42
+- Network Security: 0.30
+Skill: Metrics
+- MQTT: 0.66
+- GCP: 0.59
+- Cassandra: 0.55
+Skill: SAML
+- Machine Learning: 0.93
+- Smart contracts: 0.92
+- Integration Testing and System Testing: 0.84
+Skill: LDAP
+- User Centric Design: 0.93
+- Hardware/Software Integration: 0.84
+- Backup and Recovery: 0.82
+Skill: Capabilities
+- Scalability and Performance Optimization: 0.60
+- Kotlin: 0.58
+- Continuous Integration/Continuous Deployment: 0.58
+Skill: Conda
+- Cassandra: 1.00
+- MongoDB: 0.64
+- User Centric Design: 0.61
+Skill: Support Tools
+- Backup and Recovery: 0.69
+- Memory Management and Performance Profiling: 0.54
+- Routing and Switching: 0.53
+Skill: Audit
+- GCP: 0.37
+- Azure: 0.28
+- MQTT: 0.26
+Skill: group-deploy
+- GCP: 0.68
+- Scalability and Performance Optimization: 0.64
+- CoAP: 0.55
+Skill: Migration
+- Routing and Switching: 0.68
+- Azure: 0.52
+- GCP: 0.51
+Skill: golang
+- Natural Language Processing: 0.84
+- VPN: 0.59
+- User Centric Design: 0.53
+Skill: HA
+- React: 0.87
+- User Centric Design: 0.81
+- Hadoop: 0.75
+Skill: Raw
+- CoAP: 0.59
+- pytest: 0.58
+- RESTful Architecture: 0.58
+Skill: RubyGems
+- User Centric Design: 0.45
+- Scalability and Performance Optimization: 0.42
+- Routing and Switching: 0.41
+Skill: User Token
+- Cryptocurrency development: 0.75
+- User Centric Design: 0.75
+- ETL: 0.65
+Skill: Tags
+- VoIP (Voice over Internet Protocol): 0.62
+- Responsive Design: 0.60
+- Continuous Integration/Continuous Deployment: 0.58
+Skill: apk
+- Android Mobile App Development: 0.91
+- iOS Mobile App Development: 0.90
+- Azure: 0.81
+Skill: Upload UI
+- User Centric Design: 0.86
+- UI Design: 0.80
+- Web Accessibility: 0.75
+Skill: Staging
+- Backup and Recovery: 0.38
+- Security Best Practices: 0.26
+- Microsoft SQL Server: 0.25
+Skill: Build
+- Responsive Design: 0.76
+- Scalability and Performance Optimization: 0.65
+- iOS Mobile App Development: 0.64
+Skill: Webhooks
+- Web Development: 0.70
+- Responsive Design: 0.64
+- UX/UI Design and Prototyping: 0.53
+Skill: cocoapods
+- CoAP: 0.91
+- Cryptocurrency development: 0.40
+- Cloud Native Application Development: 0.37
+Skill: Content Selectors
+- User Centric Design: 0.67
+- MQTT: 0.55
+- Responsive Web Design: 0.50
+Skill: Licensing
+- MQTT: 0.60
+- ETL: 0.60
+- GCP: 0.58
+Skill: Docker-Nexus
+- Hardware/Software Integration: 0.99
+- Integration Testing and System Testing: 0.86
+- Docker: 0.85
+Skill: Installer
+- Hardware/Software Integration: 0.59
+- User Centric Design: 0.54
+- Responsive Design: 0.52
+Skill: Upgrade
+- Scalability and Performance Optimization: 0.85
+- Routing and Switching: 0.67
+- Azure: 0.67
+Skill: Outreach
+- React: 0.82
+- VoIP (Voice over Internet Protocol): 0.58
+- CoAP: 0.55
+Skill: nxrm3-maven-plugin
+- Hardware/Software Integration: 0.83
+- Machine Learning: 0.82
+- Network Security: 0.79
+Skill: Jenkins Plugin
+- Backup and Recovery: 0.59
+- Routing and Switching: 0.52
+- User Centric Design: 0.51
+Skill: Firewall
+- Firewall Configuration: 0.86
+- Security Best Practices: 0.78
+- Network Security: 0.73
+Skill: Backup
+- Security Best Practices: 0.74
+- Disaster Recovery Planning: 0.73
+- CoAP: 0.70
+Skill: CMA
+- Cloud Architecture: 0.93
+- User Centric Design: 0.86
+- Responsive Design: 0.80
+Skill: staging-maven-plugin
+- Server Administration: 0.78
+- Scalability and Performance Optimization: 0.76
+- Machine Learning: 0.55
+Skill: bower-nexus3-resolver
+- RESTful Architecture: 0.91
+- Blockchain security: 0.88
+- Hardware/Software Integration: 0.85
+Skill: git-lfs
+- Git: 0.94
+- Flask: 0.84
+- Natural Language Processing: 0.67
+Skill: Bower
+- User Centric Design: 0.73
+- Blockchain security: 0.66
+- Hardware/Software Integration: 0.65
+Skill: Build Tooling
+- GCP: 0.38
+- Routing and Switching: 0.37
+- Scalability and Performance Optimization: 0.37
+Skill: RUT Auth
+- User Centric Design: 0.96
+- Incident Response: 0.94
+- Responsive Design: 0.94
+Skill: Scalability
+- Scala: 0.92
+- Scalability and Performance Optimization: 0.80
+- Kotlin: 0.49
+Skill: Testsuite
+- User Centric Design: 0.72
+- Responsive Design: 0.66
+- Scalability and Performance Optimization: 0.53
+Skill: Smart Proxy
+- Security Best Practices: 0.80
+- VPN: 0.76
+- Scalability and Performance Optimization: 0.74
+Skill: Browse Remote
+- VPN: 0.56
+- Cross Browser Compatibility: 0.54
+- Cassandra: 0.50
+Skill: OBR
+- Responsive Design: 0.98
+- Responsive Web Design: 0.93
+- Big Data Technologies: 0.92
+Skill: Settings Templates
+- Memory Management and Performance Profiling: 0.47
+- Backup and Recovery: 0.44
+- GCP: 0.44
+Skill: System Feeds
+- Responsive Design: 0.77
+- GCP: 0.48
+- TCP/IP: 0.47
+Skill: Maven Archetype Catalog
+- Machine Learning: 0.44
+- Data Visualization: 0.40
+- Routing and Switching: 0.40
+Skill: OSGI
+- System Administration: 0.91
+- Hardware/Software Integration: 0.75
+- Responsive Design: 0.68
+Skill: Rapture
+- RESTful Architecture: 0.61
+- Routing and Switching: 0.55
+- User Centric Design: 0.40
+Skill: Custom Metadata
+- CoAP: 0.58
+- MQTT: 0.55
+- GCP: 0.55
+Skill: Secure Central
+- Security Best Practices: 0.82
+- GCP: 0.80
+- System Administration: 0.72
+Skill: Procurement
+- CoAP: 0.61
+- GCP: 0.56
+- MQTT: 0.42
+Skill: agent
+- AI: 0.85
+- Active Directory: 0.62
+- TCP/IP: 0.53
+Skill: containerization
+- CoAP: 0.92
+- Docker: 0.69
+- GCP: 0.69
+Skill: gpu
+- pytest: 0.64
+- Hardware/Software Integration: 0.64
+- Scalability and Performance Optimization: 0.57
+Skill: release
+- Azure: 0.77
+- Responsive Design: 0.76
+- ETL: 0.75
+Skill: executor
+- JavaScript: 0.62
+- pytest: 0.57
+- GCP: 0.57
+Skill: master
+- Azure: 0.77
+- TCP/IP: 0.67
+- Responsive Design: 0.66
+Skill: allocation
+- CoAP: 0.71
+- AI: 0.70
+- GCP: 0.67
+Skill: project website
+- Web Development: 0.93
+- Responsive Web Design: 0.80
+- User Centric Design: 0.72
+Skill: test
+- Test-Driven Development (TDD): 0.85
+- MQTT: 0.68
+- Azure: 0.68
+Skill: c++ api
+- RESTful Architecture: 0.54
+- Routing and Switching: 0.52
+- Scalability and Performance Optimization: 0.45
+Skill: framework
+- Routing and Switching: 0.74
+- Backup and Recovery: 0.72
+- Responsive Design: 0.71
+Skill: scheduler driver
+- GCP: 0.65
+- Scalability and Performance Optimization: 0.64
+- Cassandra: 0.49
+Skill: webui
+- MySQL: 0.96
+- IoT: 0.94
+- UI Design: 0.93
+Skill: libprocess
+- Scalability and Performance Optimization: 0.40
+- Routing and Switching: 0.33
+- Performance Testing: 0.32
+Skill: stout
+- REST: 0.91
+- RESTful Architecture: 0.73
+- Flask: 0.72
+Skill: java api
+- Java: 0.99
+- REST: 0.82
+- System Administration: 0.76
+Skill: reviewbot
+- AI: 0.98
+- Machine Learning: 0.52
+- User Centric Design: 0.45
+Skill: HTTP API
+- REST: 0.96
+- RESTful Architecture: 0.93
+- Web Accessibility: 0.75
+Skill: storage
+- Cassandra: 0.55
+- GCP: 0.53
+- Kotlin: 0.48
+Skill: scheduler api
+- System Administration: 0.44
+- Scalability and Performance Optimization: 0.43
+- GCP: 0.35
+Skill: resource provider
+- REST: 0.80
+- GCP: 0.63
+- RESTful Architecture: 0.56
+Skill: flaky
+- Flutter: 0.98
+- Flask: 0.92
+- React: 0.75
+Skill: json api
+- REST: 0.91
+- RESTful Architecture: 0.72
+- Routing and Switching: 0.60
+Skill: cni
+- Cryptocurrency development: 0.83
+- User Centric Design: 0.64
+- Continuous Integration/Continuous Deployment: 0.63
+Skill: modules
+- Responsive Design: 0.56
+- MQTT: 0.52
+- Manual Testing: 0.51
+Skill: fetcher
+- Flask: 0.64
+- GCP: 0.60
+- Firewall Configuration: 0.54
+Skill: cmake
+- Machine Learning: 0.93
+- Responsive Design: 0.65
+- User Centric Design: 0.60
+Skill: libprocs
+- Backup and Recovery: 0.55
+- Routing and Switching: 0.46
+- Scalability and Performance Optimization: 0.43
+Skill: network
+- VPN: 0.85
+- TCP/IP: 0.85
+- VoIP (Voice over Internet Protocol): 0.84
+Skill: python api
+- REST: 0.79
+- RESTful Architecture: 0.69
+- Routing and Switching: 0.53
+Skill: leader election
+- GCP: 0.58
+- JavaScript: 0.56
+- CoAP: 0.53
+Skill: oversubscription
+- ETL: 0.61
+- CoAP: 0.60
+- GCP: 0.56
+Skill: replicated log
+- GCP: 0.62
+- Network Monitoring: 0.52
+- ETL: 0.50
+Skill: image-gc
+- GCP: 0.87
+- User Centric Design: 0.63
+- Responsive Design: 0.58
+Skill: provisioner
+- CoAP: 0.71
+- GCP: 0.67
+- MQTT: 0.59
+Skill: statistics
+- GCP: 0.57
+- MQTT: 0.41
+- CoAP: 0.37
+Skill: Stack
+- Cloud Architecture: 0.86
+- Big Data Technologies: 0.78
+- Scalability and Performance Optimization: 0.74
+Skill: Portal
+- User Centric Design: 0.90
+- Responsive Design: 0.79
+- Web Accessibility: 0.67
+Skill: release-automation
+- AI: 0.77
+- Machine Learning: 0.52
+- GCP: 0.43
+Skill: Chop
+- iOS Mobile App Development: 0.47
+- Data Manipulation and Cleaning: 0.44
+- GCP: 0.41
+Skill: UGC
+- UI Design: 0.97
+- User Centric Design: 0.97
+- Responsive Design: 0.97
+Skill: query-index
+- SQL: 0.75
+- Microsoft SQL Server: 0.58
+- Azure: 0.51
+Skill: SDK-DotNet
+- Network Security: 0.86
+- IoT: 0.86
+- Wireless Networking: 0.86
+Skill: Docs
+- Technical Documentation: 0.43
+- Scalability and Performance Optimization: 0.33
+- Continuous Integration/Continuous Deployment: 0.30
+Skill: SDK-iOS
+- iOS Mobile App Development: 0.91
+- Routing and Switching: 0.68
+- User Centric Design: 0.68
+Skill: SDK-Android
+- Android Mobile App Development: 0.68
+- User Centric Design: 0.64
+- Routing and Switching: 0.62
+Skill: SDK-JavaScript
+- JavaScript: 0.98
+- Cross Browser Compatibility: 0.86
+- Routing and Switching: 0.57
+Skill: SDK-PHP
+- System Administration: 0.71
+- Project Planning: 0.70
+- Hardware/Software Integration: 0.67
+Skill: SDK-Nodejs
+- Node.js: 0.97
+- Scalability and Performance Optimization: 0.56
+- Routing and Switching: 0.48
+Skill: SDK-Ruby
+- Routing and Switching: 0.62
+- Build Automation: 0.54
+- Scalability and Performance Optimization: 0.53
+Skill: SDK-Ruby-Rails
+- Routing and Switching: 0.74
+- RESTful Architecture: 0.69
+- Scalability and Performance Optimization: 0.60
+Skill: Apache MXNet Backend
+- Hardware/Software Integration: 0.87
+- RESTful Architecture: 0.85
+- Backup and Recovery: 0.78
+Skill: Apache MXNet C/C++ API
+- Routing and Switching: 0.52
+- Scalability and Performance Optimization: 0.46
+- Memory Management and Performance Profiling: 0.44
+Skill: CI Build 
+- Build Automation: 0.93
+- Continuous Integration/Continuous Deployment: 0.58
+- Routing and Switching: 0.48
+Skill: Gluon
+- VPN: 0.96
+- Hardware/Software Integration: 0.93
+- Wireless Networking: 0.91
+Skill: Apache MXNet Julia API
+- RESTful Architecture: 0.98
+- Machine Learning: 0.91
+- REST: 0.91
+Skill: Apache MXNet Scala API
+- Scala: 0.99
+- RESTful Architecture: 0.95
+- REST: 0.64
+Skill: Apache MXNet Java API
+- Java: 0.97
+- RESTful Architecture: 0.88
+- Routing and Switching: 0.52
+Skill: Horovod
+- Hardware/Software Integration: 0.89
+- User Centric Design: 0.82
+- IoT: 0.70
+Skill: Keras
+- Hardware/Software Integration: 0.73
+- User Centric Design: 0.63
+- Scalability and Performance Optimization: 0.46
+Skill: Samples & Templates
+- UX/UI Design and Prototyping: 0.58
+- Responsive Design: 0.45
+- Azure: 0.43
+Skill: Tooling
+- Scalability and Performance Optimization: 0.45
+- Routing and Switching: 0.40
+- pytest: 0.35
+Skill: Styling
+- Azure: 0.68
+- Flutter: 0.61
+- MQTT: 0.57
+Skill: Titanium SDK
+- Hardware/Software Integration: 0.96
+- Technical Documentation: 0.65
+- Scalability and Performance Optimization: 0.39
+Skill: XML
+- Backup and Recovery: 0.69
+- Routing and Switching: 0.68
+- Responsive Design: 0.66
+Skill: Appcelerator Studio
+- Scalability and Performance Optimization: 0.75
+- iOS Mobile App Development: 0.56
+- CoAP: 0.55
+Skill: Models
+- Data Modeling: 0.66
+- Machine Learning: 0.66
+- AI: 0.49
+Skill: Builtins
+- Backup and Recovery: 0.74
+- Scalability and Performance Optimization: 0.61
+- Embedded Systems: 0.58
+Skill: Themes
+- Integration Testing and System Testing: 0.41
+- Scalability and Performance Optimization: 0.39
+- Backup and Recovery: 0.36
+Skill: Widgets
+- UI Design: 0.92
+- User Centric Design: 0.76
+- Web Accessibility: 0.69
+Skill: I18N
+- IoT: 0.82
+- Azure: 0.78
+- Wireless Networking: 0.69
+Skill: Titanium Studio
+- Hardware/Software Integration: 0.61
+- Responsive Design: 0.57
+- User Centric Design: 0.49
+Skill: Update
+- Backup and Recovery: 0.84
+- React: 0.78
+- Incident Response: 0.66
+Skill: Usability
+- User Centric Design: 0.97
+- UX Design: 0.83
+- Responsive Design: 0.77
+Skill: Indexing
+- Microsoft SQL Server: 0.50
+- Azure: 0.45
+- GCP: 0.43
+Skill: CSS
+- CSS: 1.00
+- System Administration: 0.88
+- Web Accessibility: 0.71
+Skill: Project Explorer
+- User Centric Design: 0.75
+- Data Visualization: 0.74
+- ETL: 0.70
+Skill: Editor
+- Responsive Design: 0.61
+- User Centric Design: 0.59
+- Azure: 0.57
+Skill: Formatting
+- GCP: 0.45
+- pytest: 0.45
+- Azure: 0.40
+Skill: Servers
+- IT Support: 0.94
+- System Administration: 0.71
+- Scalability and Performance Optimization: 0.68
+Skill: Source Control
+- CoAP: 0.72
+- REST: 0.58
+- GCP: 0.58
+Skill: PyDev
+- Routing and Switching: 0.54
+- User Centric Design: 0.45
+- Scalability and Performance Optimization: 0.44
+Skill: Extensions
+- Scalability and Performance Optimization: 0.60
+- Backup and Recovery: 0.58
+- Responsive Design: 0.52
+Skill: App Explorer
+- User Centric Design: 0.86
+- iOS Mobile App Development: 0.59
+- Android Mobile App Development: 0.51
+Skill: Samples
+- UX/UI Design and Prototyping: 0.59
+- iOS Mobile App Development: 0.49
+- Responsive Design: 0.48
+Skill: Project
+- Project Planning: 0.79
+- Responsive Design: 0.65
+- GCP: 0.62
+Skill: Debugging
+- Troubleshooting: 0.96
+- GCP: 0.52
+- pytest: 0.50
+Skill: Ruby
+- Routing and Switching: 0.71
+- Backup and Recovery: 0.65
+- Scalability and Performance Optimization: 0.57
+Skill: Theme
+- Responsive Design: 0.54
+- User Centric Design: 0.52
+- Azure: 0.42
+Skill: File
+- GCP: 0.69
+- Azure: 0.66
+- Responsive Design: 0.65
+Skill: HTML
+- HTML: 1.00
+- Web Accessibility: 0.93
+- Web Development: 0.93
+Skill: JS
+- JavaScript: 1.00
+- Web Development: 0.97
+- Java: 0.94
+Skill: JS Libraries
+- JavaScript: 0.96
+- Scalability and Performance Optimization: 0.44
+- pytest: 0.44
+Skill: Navigation
+- User Centric Design: 0.95
+- VPN: 0.88
+- Responsive Design: 0.69
+Skill: PHP
+- Project Planning: 0.97
+- Responsive Design: 0.86
+- System Administration: 0.81
+Skill: Sass
+- User Centric Design: 0.59
+- SVN: 0.55
+- Integration Testing and System Testing: 0.41
+Skill: Templates
+- Responsive Design: 0.61
+- Routing and Switching: 0.53
+- User Centric Design: 0.52
+Skill: Publishing
+- GCP: 0.37
+- MQTT: 0.33
+- CoAP: 0.33
+Skill: Content Assist
+- CoAP: 0.93
+- User Centric Design: 0.73
+- Web Accessibility: 0.52
+Skill: Performance
+- Performance Testing: 0.84
+- Scalability and Performance Optimization: 0.77
+- Cassandra: 0.70
+Skill: Preview
+- Wireframing and Prototyping: 0.76
+- Azure: 0.68
+- UX/UI Design and Prototyping: 0.68
+Skill: Colorization
+- GCP: 0.67
+- CoAP: 0.61
+- MQTT: 0.48
+Skill: CoffeeScript
+- User Centric Design: 0.51
+- CoAP: 0.28
+- Cross Browser Compatibility: 0.12
+Skill: Parsing
+- pytest: 0.50
+- CoAP: 0.44
+- GCP: 0.44
+Skill: Folding
+- GCP: 0.59
+- CoAP: 0.58
+- Responsive Design: 0.54
+Skill: Outline
+- Scalability and Performance Optimization: 0.58
+- iOS Mobile App Development: 0.57
+- MQTT: 0.55
+Skill: Terminal
+- ETL: 0.91
+- SVN: 0.67
+- GCP: 0.62
+Skill: Validation
+- Quality Assurance: 0.54
+- SVN: 0.45
+- Microsoft SQL Server: 0.45
+Skill: Tasks
+- UX/UI Design and Prototyping: 0.55
+- Backup and Recovery: 0.46
+- Scalability and Performance Optimization: 0.44
+Skill: SVG
+- Computer Vision: 0.94
+- Data Visualization: 0.90
+- User Centric Design: 0.87
+Skill: Hover
+- User Centric Design: 0.93
+- Responsive Design: 0.90
+- UI Design: 0.90
+Skill: HAML
+- Machine Learning: 0.95
+- Manual Testing: 0.74
+- Hardware/Software Integration: 0.73
+Skill: YAML
+- User Centric Design: 0.99
+- Machine Learning: 0.98
+- Natural Language Processing: 0.97
+Skill: Titanium
+- Scalability and Performance Optimization: 0.35
+- User Centric Design: 0.25
+- Responsive Design: 0.24
+Skill: Dashboard Integration
+- Responsive Design: 0.66
+- Integration Testing and System Testing: 0.49
+- GCP: 0.46
+Skill: Markdown
+- Technical Documentation: 0.61
+- User Centric Design: 0.52
+- Data Manipulation and Cleaning: 0.45
+Skill: Node Utilities
+- Node.js: 0.87
+- SVN: 0.70
+- Routing and Switching: 0.47
+Skill: Verification
+- Quality Assurance: 0.91
+- Azure: 0.66
+- MQTT: 0.62
+Skill: Registry
+- RDBMS: 0.53
+- Microsoft SQL Server: 0.47
+- GCP: 0.43
+Skill: amplify-sdk
+- Scalability and Performance Optimization: 0.82
+- Hardware/Software Integration: 0.58
+- Smart contracts: 0.49
+Skill: appcd-plugin-amplify
+- Scalability and Performance Optimization: 0.89
+- iOS Mobile App Development: 0.64
+- Cassandra: 0.61
+Skill: appcd
+- iOS Mobile App Development: 0.79
+- Android Mobile App Development: 0.74
+- CoAP: 0.73
+Skill: appcd-plugin-titanium
+- Hardware/Software Integration: 0.91
+- Scalability and Performance Optimization: 0.90
+- iOS Mobile App Development: 0.78
+Skill: titaniumlib
+- Technical Documentation: 0.60
+- Hardware/Software Integration: 0.38
+- Scalability and Performance Optimization: 0.34
+Skill: Appc CLI
+- Natural Language Processing: 0.77
+- Routing and Switching: 0.47
+- Backup and Recovery: 0.45
+Skill: appcd-default-plugins
+- Cassandra: 0.73
+- Active Directory: 0.67
+- Android Mobile App Development: 0.66
+Skill: winreglib
+- Blockchain security: 0.94
+- Responsive Design: 0.86
+- Technical Documentation: 0.67
+Skill: appcd-plugin
+- Backup and Recovery: 0.74
+- Web Accessibility: 0.71
+- User Centric Design: 0.70
+Skill: template-kit
+- User Centric Design: 0.47
+- Routing and Switching: 0.42
+- GCP: 0.40
+Skill: appcd-core
+- User Centric Design: 0.81
+- iOS Mobile App Development: 0.78
+- Android Mobile App Development: 0.75
+Skill: androidlib
+- Backup and Recovery: 0.55
+- Integration Testing and System Testing: 0.53
+- Routing and Switching: 0.48
+Skill: Titanium CLI
+- Scalability and Performance Optimization: 0.42
+- Routing and Switching: 0.32
+- Quality Assurance: 0.30
+Skill: appcd-plugin-android
+- Android Mobile App Development: 0.84
+- Cross Browser Compatibility: 0.76
+- Backup and Recovery: 0.75
+Skill: appcd-plugin-genymotion
+- Scalability and Performance Optimization: 0.76
+- iOS Mobile App Development: 0.76
+- Android Mobile App Development: 0.72
+Skill: ioslib
+- IoT: 0.91
+- Technical Documentation: 0.73
+- IT Support: 0.67
+Skill: appcd-nodejs
+- JavaScript: 1.00
+- Node.js: 0.99
+- Cross Browser Compatibility: 0.82
+Skill: appcd-response
+- Responsive Design: 0.93
+- Responsive Web Design: 0.87
+- Incident Response: 0.80
+Skill: appcd-plugin-ios
+- IoT: 0.89
+- iOS Mobile App Development: 0.88
+- Android Mobile App Development: 0.84
+Skill: node-ios-device
+- IoT: 0.98
+- JavaScript: 0.86
+- Hardware/Software Integration: 0.83
+Skill: windowslib
+- Routing and Switching: 0.47
+- Backup and Recovery: 0.45
+- User Centric Design: 0.42
+Skill: appcd-winreg
+- Responsive Design: 0.97
+- Backup and Recovery: 0.95
+- System Administration: 0.92
+Skill: appcd-gulp
+- Flask: 0.86
+- Android Mobile App Development: 0.85
+- iOS Mobile App Development: 0.84
+Skill: appcd-config
+- iOS Mobile App Development: 0.65
+- System Administration: 0.63
+- Android Mobile App Development: 0.62
+Skill: appcd-config-service
+- Docker: 0.64
+- System Administration: 0.63
+- Server Administration: 0.59
+Skill: appcd-subprocess
+- iOS Mobile App Development: 0.76
+- Android Mobile App Development: 0.74
+- Backup and Recovery: 0.67
+Skill: appcd-dispatcher
+- Incident Response: 0.87
+- Continuous Integration/Continuous Deployment: 0.85
+- System Administration: 0.83
+Skill: appcd-util
+- User Centric Design: 0.97
+- Android Mobile App Development: 0.78
+- iOS Mobile App Development: 0.75
+Skill: appcd-logger
+- Troubleshooting: 0.41
+- Malware Analysis: 0.35
+- Data Manipulation and Cleaning: 0.26
+Skill: appcd-plugin-jdk
+- Java: 0.96
+- User Centric Design: 0.69
+- Backup and Recovery: 0.68
+Skill: appcd-plugin-system-info
+- iOS Mobile App Development: 0.50
+- Android Mobile App Development: 0.48
+- CoAP: 0.40
+Skill: appcd-plugin-windows
+- Backup and Recovery: 0.78
+- Cross Browser Compatibility: 0.76
+- System Administration: 0.66
+Skill: General
+- GCP: 0.79
+- Microsoft SQL Server: 0.27
+- React: 0.18
+Skill: appcd-telemetry
+- Android Mobile App Development: 0.63
+- Sensor Integration: 0.62
+- Network Monitoring: 0.60
+Skill: appcd-fswatcher
+- Web Accessibility: 0.85
+- Hardware/Software Integration: 0.82
+- Android Mobile App Development: 0.82
+Skill: appcd-http
+- Web Development: 0.98
+- Web Accessibility: 0.98
+- Cross Browser Compatibility: 0.97
+Skill: appcd-detect
+- Android Mobile App Development: 0.76
+- iOS Mobile App Development: 0.75
+- Active Directory: 0.70
+Skill: jdklib
+- Java: 0.97
+- Integration Testing and System Testing: 0.62
+- Routing and Switching: 0.49
+Skill: appcd-client
+- iOS Mobile App Development: 0.88
+- Android Mobile App Development: 0.85
+- Cross Browser Compatibility: 0.85
+Skill: appcd-request
+- iOS Mobile App Development: 0.83
+- RESTful Architecture: 0.81
+- Android Mobile App Development: 0.79
+Skill: appcd-agent
+- Active Directory: 0.98
+- iOS Mobile App Development: 0.82
+- Android Mobile App Development: 0.81
+Skill: node-appc
+- JavaScript: 0.98
+- Node.js: 0.95
+- User Centric Design: 0.76
+Skill: APIDoc
+- Incident Response: 0.98
+- User Centric Design: 0.97
+- Android Mobile App Development: 0.96
+Skill: Guides
+- GCP: 0.55
+- Backup and Recovery: 0.51
+- Scalability and Performance Optimization: 0.42
+Skill: Cloud
+- Cloud Architecture: 0.86
+- CoAP: 0.84
+- Scalability and Performance Optimization: 0.69
+Skill: Stratus
+- Scala: 0.88
+- Integration Testing and System Testing: 0.80
+- System Architecture Design: 0.75
+Skill: CIJ Plugin
+- Cross Browser Compatibility: 0.77
+- Java: 0.74
+- Cryptocurrency development: 0.69
+Skill: Instrumentation
+- IoT: 0.88
+- IT Support: 0.59
+- Sensor Integration: 0.47
+Skill: CEP Plugin
+- CoAP: 0.85
+- User Centric Design: 0.72
+- Responsive Design: 0.70
+Skill: SSO
+- Server Administration: 0.96
+- System Administration: 0.94
+- Security Best Practices: 0.92
+Skill: Groovy
+- User Centric Design: 0.89
+- Responsive Design: 0.88
+- GCP: 0.81
+Skill: Integrations
+- Scalability and Performance Optimization: 0.76
+- Responsive Design: 0.75
+- Embedded Systems: 0.75
+Skill: Build system
+- Integration Testing and System Testing: 0.75
+- System Architecture Design: 0.69
+- Responsive Design: 0.58
+Skill: Maven plugin
+- Routing and Switching: 0.59
+- Backup and Recovery: 0.55
+- Scalability and Performance Optimization: 0.54
+Skill: Ant Tasks
+- Routing and Switching: 0.62
+- Backup and Recovery: 0.38
+- CoAP: 0.35
+Skill: Grails Plugin
+- GCP: 0.79
+- User Centric Design: 0.69
+- Routing and Switching: 0.61
+Skill: Reporting
+- Azure: 0.52
+- MQTT: 0.49
+- CoAP: 0.48
+Skill: Scala
+- Scala: 1.00
+- Scalability and Performance Optimization: 0.82
+- User Centric Design: 0.76
+Skill: Test Optimization
+- GCP: 0.52
+- MQTT: 0.50
+- pytest: 0.44
+Skill: Gradle Plugin
+- GCP: 0.80
+- User Centric Design: 0.51
+- Scalability and Performance Optimization: 0.46
+Skill: Authentication / Security
+- Security Best Practices: 0.72
+- GCP: 0.59
+- MQTT: 0.54
+Skill: Embedded
+- Embedded Systems: 0.98
+- Responsive Design: 0.92
+- IoT: 0.85
+Skill: Applications
+- iOS Mobile App Development: 0.54
+- Android Mobile App Development: 0.51
+- Kotlin: 0.50
+Skill: Directory - Azure Active Directory
+- Active Directory: 1.00
+- Azure: 0.99
+- AI: 0.56
+Skill: Directory - Internal/Delegated
+- GCP: 0.28
+- Kotlin: 0.22
+- Responsive Design: 0.19
+Skill: Directories
+- User Centric Design: 0.56
+- Technical Documentation: 0.53
+- Backup and Recovery: 0.49
+Skill: Audit Log
+- Azure: 0.30
+- Microsoft SQL Server: 0.20
+- GCP: 0.18
+Skill: Directory - LDAP
+- Security Best Practices: 0.28
+- Disaster Recovery Planning: 0.25
+- Scalability and Performance Optimization: 0.08
+Skill: Plugins
+- Backup and Recovery: 0.64
+- Routing and Switching: 0.59
+- Memory Management and Performance Profiling: 0.52
+Skill: Core features
+- CoAP: 0.66
+- Responsive Design: 0.57
+- Cassandra: 0.54
+Skill: Directory - Remote Crowd
+- CoAP: 0.13
+- Wireless Networking: 0.11
+- GCP: 0.09
+Skill: Installation/Setup
+- Sketch: 0.52
+- CoAP: 0.51
+- GCP: 0.48
+Skill: Import & Export
+- ETL: 0.66
+- MQTT: 0.53
+- GCP: 0.51
+Skill: OpenID
+- Responsive Design: 0.89
+- User Centric Design: 0.81
+- Web Accessibility: 0.74
+Skill: DC Core
+- User Centric Design: 0.81
+- Responsive Design: 0.61
+- Integration Testing and System Testing: 0.58
+Skill: Email system
+- User Centric Design: 0.90
+- Responsive Design: 0.60
+- Integration Testing and System Testing: 0.56
+Skill: Centralized license visibility
+- CoAP: 0.84
+- GCP: 0.78
+- MQTT: 0.68
+Skill: Asynchronous REST Client
+- RESTful Architecture: 0.98
+- REST: 0.98
+- Web Accessibility: 0.75
+Skill: Deployment
+- Continuous Integration/Continuous Deployment: 0.74
+- React: 0.62
+- IoT: 0.53
+Skill: Delegated group administration
+- CoAP: 0.77
+- GCP: 0.64
+- React: 0.56
+Skill: Default group memberships
+- React: 0.61
+- GCP: 0.59
+- Azure: 0.51
+Skill: Notification
+- User Centric Design: 0.72
+- MQTT: 0.70
+- Responsive Design: 0.68
+Skill: User Management
+- MQTT: 0.53
+- User Centric Design: 0.52
+- GCP: 0.45
+Skill: Integration/Connectors
+- Responsive Design: 0.90
+- IoT: 0.68
+- CoAP: 0.62
+Skill: Upgrade 
+- Scalability and Performance Optimization: 0.80
+- MQTT: 0.62
+- Wireless Networking: 0.61
+Skill: Caching
+- Scalability and Performance Optimization: 0.64
+- CoAP: 0.63
+- Cassandra: 0.61
+Skill: Backup / Restore
+- Backup and Recovery: 0.99
+- Security Best Practices: 0.92
+- Disaster Recovery Planning: 0.87
+Skill: User Console
+- User Centric Design: 0.93
+- UI Design: 0.61
+- Responsive Design: 0.59
+Skill: Integration - Google Apps
+- Scalability and Performance Optimization: 0.53
+- GCP: 0.25
+- Memory Management and Performance Profiling: 0.20
+Skill: Integration - Confluence 
+- GCP: 0.65
+- MQTT: 0.62
+- Responsive Design: 0.59
+Skill: Horde
+- Hardware/Software Integration: 0.17
+- Scalability and Performance Optimization: 0.16
+- Integration Testing and System Testing: 0.16
+Skill: Integration - JIRA
+- Integration Testing and System Testing: 0.57
+- Responsive Design: 0.35
+- Scalability and Performance Optimization: 0.31
+Skill: Integration - Apache/Subversion
+- Integration Testing and System Testing: 0.56
+- Scalability and Performance Optimization: 0.47
+- CoAP: 0.38
+Skill: Tests
+- Test-Driven Development (TDD): 0.72
+- Azure: 0.53
+- TCP/IP: 0.47
+Skill: SOAP
+- Backup and Recovery: 0.96
+- System Administration: 0.90
+- Integration Testing and System Testing: 0.90
+Skill: Backend / Domain Model 
+- RESTful Architecture: 0.75
+- REST: 0.68
+- GCP: 0.57
+Skill: Demo Application
+- iOS Mobile App Development: 0.66
+- Android Mobile App Development: 0.66
+- Routing and Switching: 0.65
+Skill: Integration - Fisheye/Crucible 
+- Integration Testing and System Testing: 0.50
+- Security Best Practices: 0.29
+- Scalability and Performance Optimization: 0.23
+Skill: Internationalisation
+- GCP: 0.47
+- IoT: 0.46
+- ETL: 0.45
+Skill: Integration - Bamboo 
+- Responsive Design: 0.79
+- Scalability and Performance Optimization: 0.34
+- User Centric Design: 0.15
+Skill: Integration - Jive
+- Scalability and Performance Optimization: 0.56
+- Integration Testing and System Testing: 0.35
+- Continuous Integration/Continuous Deployment: 0.27
+Skill: Server administration
+- Server Administration: 1.00
+- System Administration: 0.99
+- IT Support: 0.92
+Skill: Repositories
+- Responsive Design: 0.87
+- Backup and Recovery: 0.87
+- Security Best Practices: 0.62
+Skill: Runtime platform
+- Scalability and Performance Optimization: 0.58
+- Kotlin: 0.53
+- Cassandra: 0.45
+Skill: User interface
+- User Centric Design: 0.96
+- UI Design: 0.92
+- UX Design: 0.88
+Skill: System Administration - Others
+- System Administration: 0.78
+- IT Support: 0.23
+- pytest: 0.17
+Skill: Data Center - Archiving
+- Backup and Recovery: 0.58
+- Cassandra: 0.50
+- GCP: 0.47
+Skill: Jira Importers Plugin
+- Scalability and Performance Optimization: 0.47
+- Responsive Web Design: 0.31
+- Data Visualization: 0.30
+Skill: Dashboard & Gadgets
+- User Centric Design: 0.96
+- UI Design: 0.64
+- Cassandra: 0.56
+Skill: Issue - Comments
+- Troubleshooting: 0.26
+- Microsoft SQL Server: 0.25
+- Azure: 0.22
+Skill: Issue - Fields
+- Microsoft SQL Server: 0.17
+- pytest: 0.08
+- Adobe XD: 0.07
+Skill: Project - Agile Boards
+- Agile Methodologies: 0.60
+- CoAP: 0.30
+- Hardware/Software Integration: 0.28
+Skill: Project Administration - Others
+- Selenium: 0.07
+- JavaScript: 0.07
+- CoAP: 0.06
+Skill: Issue - Attachments
+- GCP: 0.33
+- Azure: 0.28
+- MQTT: 0.22
+Skill: Custom fields
+- Sketch: 0.67
+- CoAP: 0.61
+- GCP: 0.61
+Skill: Documentation - All
+- GCP: 0.52
+- MQTT: 0.40
+- SVN: 0.31
+Skill: Administration - Fields
+- CoAP: 0.39
+- Microsoft SQL Server: 0.11
+- GCP: 0.07
+Skill: Data Center - Other
+- Cassandra: 0.09
+- Scalability and Performance Optimization: 0.09
+- CoAP: 0.06
+Skill: System Administration - General Configuration
+- System Administration: 0.99
+- GCP: 0.95
+- MQTT: 0.36
+Skill: Environment - Java
+- Java: 1.00
+- JUnit: 0.60
+- Routing and Switching: 0.43
+Skill: Data Center - Database
+- Cassandra: 0.53
+- Microsoft SQL Server: 0.43
+- GCP: 0.34
+Skill: Environment - Database
+- Microsoft SQL Server: 0.47
+- Cassandra: 0.37
+- PostgreSQL: 0.28
+Skill: JQL
+- Java: 0.97
+- Responsive Design: 0.95
+- JavaScript: 0.93
+Skill: Installation
+- Responsive Design: 0.58
+- Azure: 0.56
+- CoAP: 0.55
+Skill: Navigation - Search
+- User Centric Design: 0.80
+- SVN: 0.52
+- Microsoft SQL Server: 0.39
+Skill: System Administration - Audit Logs
+- System Administration: 0.99
+- GCP: 0.40
+- pytest: 0.21
+Skill: Login
+- ETL: 0.94
+- User Centric Design: 0.89
+- Responsive Design: 0.75
+Skill: Project Administration - Users and Roles
+- GCP: 0.36
+- CoAP: 0.33
+- Cassandra: 0.20
+Skill: Administration - Others
+- pytest: 0.09
+- CoAP: 0.08
+- GCP: 0.07
+Skill: Bulk Operations
+- Backup and Recovery: 0.51
+- Scalability and Performance Optimization: 0.47
+- Microsoft SQL Server: 0.29
+Skill: Issue - Actions
+- Backup and Recovery: 0.36
+- Routing and Switching: 0.26
+- GCP: 0.24
+Skill: Issue - Create Issue
+- CoAP: 0.58
+- MQTT: 0.28
+- ETL: 0.27
+Skill: Mobile
+- Wireless Networking: 0.98
+- MQTT: 0.84
+- Responsive Design: 0.83
+Skill: Data Center - Index
+- Big Data Technologies: 0.44
+- GCP: 0.24
+- Cassandra: 0.20
+Skill: User Management - Others
+- MQTT: 0.08
+- Cassandra: 0.07
+- Adobe XD: 0.06
+Skill: System Administration - Look and Feel
+- System Administration: 0.99
+- GCP: 0.45
+- MQTT: 0.39
+Skill: Dev Info
+- Technical Documentation: 0.75
+- iOS Mobile App Development: 0.55
+- Hardware/Software Integration: 0.51
+Skill: Next-gen - Configuration
+- GCP: 0.68
+- Scalability and Performance Optimization: 0.49
+- SVN: 0.48
+Skill: Issue Details View
+- MQTT: 0.66
+- Troubleshooting: 0.50
+- Scalability and Performance Optimization: 0.46
+Skill: Classic - Boards
+- GCP: 0.39
+- CoAP: 0.13
+- ETL: 0.07
+Skill: next-gen
+- SVN: 0.71
+- Big Data Technologies: 0.65
+- Scalability and Performance Optimization: 0.65
+Skill: Classic - Backlog
+- Microsoft SQL Server: 0.14
+- GCP: 0.12
+- Backup and Recovery: 0.10
+Skill: Roadmap
+- Scalability and Performance Optimization: 0.60
+- User Centric Design: 0.45
+- Continuous Integration/Continuous Deployment: 0.43
+Skill: Advanced Roadmaps
+- Scalability and Performance Optimization: 0.68
+- GCP: 0.45
+- MQTT: 0.40
+Skill: Gadget
+- Git: 0.97
+- IoT: 0.78
+- Scalability and Performance Optimization: 0.57
+Skill: Classic - Reports
+- GCP: 0.39
+- SVN: 0.23
+- Microsoft SQL Server: 0.09
+Skill: Development Panel
+- GCP: 0.91
+- CoAP: 0.68
+- Scalability and Performance Optimization: 0.59
+Skill: REST API
+- REST: 0.99
+- System Administration: 0.70
+- RESTful Architecture: 0.45
+Skill: Workflow Triggers
+- Routing and Switching: 0.60
+- MQTT: 0.58
+- Backup and Recovery: 0.45
+Skill: Classic - Boards & Backlogs Versions and epics
+- GCP: 0.34
+- Backup and Recovery: 0.20
+- MQTT: 0.19
+Skill: Next-gen - Boards
+- Scalability and Performance Optimization: 0.55
+- GCP: 0.42
+- MQTT: 0.37
+Skill: Product - Quickstart
+- User Centric Design: 0.77
+- JavaScript: 0.46
+- pytest: 0.46
+Skill: Classic - Sprints
+- SVN: 0.05
+- Azure: 0.01
+- CoAP: 0.01
+Skill: Next-gen - Sprints
+- Scalability and Performance Optimization: 0.20
+- SVN: 0.19
+- UX/UI Design and Prototyping: 0.19
+Skill: Next-gen - Versions & Releases
+- SVN: 0.50
+- Cassandra: 0.48
+- MQTT: 0.47
+Skill: Project - Settings - Automation for Jira
+- Scalability and Performance Optimization: 0.70
+- AI: 0.39
+- Continuous Integration/Continuous Deployment: 0.33
+Skill: Project (Classic) - Deployments
+- GCP: 0.36
+- CoAP: 0.28
+- Continuous Integration/Continuous Deployment: 0.28
+Skill: Next-gen - Backlog
+- Backup and Recovery: 0.68
+- GCP: 0.30
+- SVN: 0.14
+Skill: Next-gen - Epics and Subtasks
+- UX/UI Design and Prototyping: 0.36
+- pytest: 0.31
+- GCP: 0.30
+Skill: Classic - Board Configuration
+- Routing and Switching: 0.52
+- Scalability and Performance Optimization: 0.36
+- GCP: 0.35
+Skill: Next-gen - Reports
+- SVN: 0.69
+- MQTT: 0.57
+- Cassandra: 0.45
+Skill: Release Hub
+- User Centric Design: 0.92
+- Responsive Design: 0.79
+- UI Design: 0.65
+Skill: DVCS Connector
+- Hardware/Software Integration: 0.99
+- Data Visualization: 0.96
+- Wireless Networking: 0.95
+Skill: Next-gen - Card
+- SVN: 0.59
+- Scalability and Performance Optimization: 0.53
+- GCP: 0.53
+Skill: Smart Commits
+- Smart contracts: 0.99
+- User Centric Design: 0.81
+- Continuous Integration/Continuous Deployment: 0.67
+Skill: DVCS Accounts
+- Data Visualization: 0.93
+- Computer Vision: 0.82
+- User Centric Design: 0.77
+Skill: Fisheye Plugin
+- User Centric Design: 0.73
+- Computer Vision: 0.58
+- Hardware/Software Integration: 0.54
+Skill: Dashboard & Reports - Reports
+- User Centric Design: 0.87
+- UI Design: 0.82
+- Responsive Design: 0.66
+Skill: Sprint
+- Wireless Networking: 0.93
+- User Centric Design: 0.63
+- Performance Testing: 0.43
+Skill: Translations
+- ETL: 0.56
+- React: 0.50
+- MQTT: 0.49
+Skill: Reports
+- Azure: 0.59
+- React: 0.56
+- MQTT: 0.50
+Skill: Data Center
+- Scalability and Performance Optimization: 0.76
+- Big Data Technologies: 0.70
+- Cassandra: 0.60
+Skill: UPM (Universal Plugin Manager)
+- Scalability and Performance Optimization: 0.34
+- Routing and Switching: 0.24
+- Backup and Recovery: 0.21
+Skill: Board configuration
+- GCP: 0.66
+- CoAP: 0.58
+- Responsive Design: 0.57
+Skill: AgileBoard
+- User Centric Design: 0.74
+- Responsive Design: 0.72
+- Agile Methodologies: 0.56
+Skill: Scrum Board
+- Scrum: 0.94
+- Agile Methodologies: 0.75
+- Routing and Switching: 0.30
+Skill: Versions
+- Routing and Switching: 0.64
+- Backup and Recovery: 0.55
+- Responsive Design: 0.51
+Skill: Epics
+- Cassandra: 0.26
+- GCP: 0.17
+- Azure: 0.11
+Skill: Lexorank
+- Blockchain security: 0.95
+- User Centric Design: 0.79
+- Natural Language Processing: 0.73
+Skill: Backlog
+- GCP: 0.43
+- Microsoft SQL Server: 0.37
+- Cassandra: 0.37
+Skill: Kanplan
+- Kanban: 0.99
+- User Centric Design: 0.65
+- System Administration: 0.49
+Skill: Jira 8.10 EAP
+- Web Accessibility: 0.86
+- User Centric Design: 0.78
+- Responsive Design: 0.77
+Skill: Jira 8.9 EAP
+- Web Accessibility: 0.89
+- User Centric Design: 0.81
+- Responsive Design: 0.80
+Skill: Fast Kanban
+- Kanban: 0.98
+- Blockchain security: 0.98
+- Scalability and Performance Optimization: 0.94
+Skill: internet-explorer
+- IoT: 0.92
+- ETL: 0.40
+- User Centric Design: 0.22
+Skill: Jira 8.7 EAP02
+- Web Accessibility: 0.87
+- Responsive Design: 0.79
+- Scalability and Performance Optimization: 0.69
+Skill: Jira 8.7 EAP03
+- Web Accessibility: 0.87
+- Responsive Design: 0.78
+- Agile Methodologies: 0.72
+Skill: Jira 8.5 EAP
+- Web Accessibility: 0.89
+- Responsive Design: 0.78
+- User Centric Design: 0.77
+Skill: Jira 8.4 EAP
+- Web Accessibility: 0.88
+- Responsive Design: 0.82
+- User Centric Design: 0.82
+Skill: Jira 7.10 EAP
+- Web Accessibility: 0.85
+- Responsive Design: 0.75
+- User Centric Design: 0.75
+Skill: Jira 8.3 EAP
+- Web Accessibility: 0.89
+- User Centric Design: 0.85
+- Responsive Design: 0.82
+Skill: Jira 8.1 EAP
+- Web Accessibility: 0.87
+- User Centric Design: 0.84
+- Responsive Design: 0.79
+Skill: Jira 8.0 EAP
+- Web Accessibility: 0.77
+- User Centric Design: 0.63
+- System Administration: 0.52
+Skill: flash
+- Flutter: 0.93
+- Routing and Switching: 0.71
+- MQTT: 0.67
+Skill: Jira 7.11 EAP
+- Web Accessibility: 0.85
+- Wireless Networking: 0.83
+- User Centric Design: 0.65
+Skill: Jira 7.12 EAP
+- Web Accessibility: 0.86
+- User Centric Design: 0.73
+- Responsive Design: 0.72
+Skill: Jira 7.13 EAP
+- Web Accessibility: 0.87
+- User Centric Design: 0.77
+- Responsive Design: 0.75
+Skill: Better Notifications
+- User Centric Design: 0.89
+- UI Design: 0.82
+- UX Design: 0.80
+Skill: Issue - View Issue
+- Troubleshooting: 0.38
+- Microsoft SQL Server: 0.27
+- Scalability and Performance Optimization: 0.23
+Skill: Issue - Others
+- Troubleshooting: 0.26
+- CoAP: 0.06
+- Microsoft SQL Server: 0.06
+Skill: Web Resources Manager
+- REST: 0.54
+- GCP: 0.50
+- Cassandra: 0.43
+Skill: Custom Field Optimizer
+- CoAP: 0.84
+- GCP: 0.60
+- Cassandra: 0.35
+Skill: System Administration - Priorities
+- System Administration: 0.99
+- Scalability and Performance Optimization: 0.64
+- GCP: 0.40
+Skill: Project - Actions
+- GCP: 0.45
+- CoAP: 0.45
+- Routing and Switching: 0.38
+Skill: Filters & Dashboards - Permissions
+- User Centric Design: 0.62
+- UI Design: 0.55
+- Data Visualization: 0.42
+Skill: Front-end API
+- REST: 0.96
+- RESTful Architecture: 0.94
+- Flutter: 0.64
+Skill: Email notifications
+- User Centric Design: 0.75
+- Responsive Design: 0.73
+- Backup and Recovery: 0.59
+Skill: User Management - Delete User
+- GCP: 0.45
+- Azure: 0.41
+- pytest: 0.37
+Skill: User Management - LDAP Integration
+- Adobe XD: 0.04
+- Sketch: 0.02
+- Scalability and Performance Optimization: 0.02
+Skill: Administration - Workflows
+- GCP: 0.37
+- Cassandra: 0.27
+- Backup and Recovery: 0.26
+Skill: Backup & Restore (non-migration)
+- Backup and Recovery: 0.96
+- Security Best Practices: 0.94
+- REST: 0.77
+Skill: Navigation Panel
+- User Centric Design: 0.97
+- UI Design: 0.94
+- Responsive Design: 0.87
+Skill: warranty
+- GCP: 0.51
+- Azure: 0.44
+- iOS Mobile App Development: 0.42
+Skill: Project Administration - Permissions
+- GCP: 0.53
+- CoAP: 0.44
+- MQTT: 0.25
+Skill: Administration - Screens
+- GCP: 0.32
+- CSS: 0.26
+- CoAP: 0.21
+Skill: Administration - Issue Types
+- Backup and Recovery: 0.31
+- Scalability and Performance Optimization: 0.23
+- GCP: 0.22
+Skill: Application Links
+- ETL: 0.49
+- iOS Mobile App Development: 0.48
+- Android Mobile App Development: 0.48
+Skill: Troubleshooting and Support Tools (ATST)
+- Troubleshooting: 0.92
+- Microsoft SQL Server: 0.30
+- Cassandra: 0.24
+Skill: Project Administration - Components
+- CoAP: 0.71
+- GCP: 0.47
+- React: 0.33
+Skill: Navigation - View results
+- User Centric Design: 0.86
+- UI Design: 0.80
+- VPN: 0.78
+Skill: Dashboards & Reports - Reports
+- User Centric Design: 0.58
+- UI Design: 0.56
+- GCP: 0.44
+Skill: Timezone
+- ETL: 0.40
+- MQTT: 0.31
+- SVN: 0.28
+Skill: System Administration - Statuses
+- System Administration: 0.99
+- Server Administration: 0.61
+- GCP: 0.37
+Skill: Rich Text Editor
+- MQTT: 0.54
+- Cassandra: 0.49
+- User Centric Design: 0.45
+Skill: Project - Releases
+- Continuous Integration/Continuous Deployment: 0.61
+- Cassandra: 0.34
+- GCP: 0.34
+Skill: Project - Issues
+- Troubleshooting: 0.48
+- GCP: 0.26
+- Cassandra: 0.24
+Skill: Ecosystem - Connect JIRA Integration
+- ETL: 0.22
+- Responsive Design: 0.21
+- Java: 0.17
+Skill: User Management - User Profile
+- User Centric Design: 0.40
+- GCP: 0.30
+- Azure: 0.25
+Skill: Data Center - Apps
+- Scalability and Performance Optimization: 0.49
+- CoAP: 0.40
+- Cassandra: 0.33
+Skill: Issue - Remote Copy
+- GCP: 0.40
+- Troubleshooting: 0.38
+- Cassandra: 0.31
+Skill: raid
+- Incident Response: 0.81
+- Troubleshooting: 0.71
+- Risk Management: 0.54
+Skill: Mail Server
+- User Centric Design: 0.89
+- Responsive Design: 0.43
+- MQTT: 0.41
+Skill: Project Administration - Project Summary
+- GCP: 0.52
+- CoAP: 0.43
+- PyTorch: 0.24
+Skill: Navigation - Export
+- ETL: 0.76
+- VPN: 0.74
+- SVN: 0.47
+Skill: User Management - Groups 
+- GCP: 0.36
+- Azure: 0.19
+- Adobe XD: 0.17
+Skill: Tomcat
+- Hardware/Software Integration: 0.79
+- User Centric Design: 0.68
+- Responsive Design: 0.57
+Skill: Data Center - Node replication
+- Node.js: 0.96
+- Backup and Recovery: 0.80
+- Cassandra: 0.60
+Skill: ADGS Design changes
+- Active Directory: 0.88
+- Scalability and Performance Optimization: 0.61
+- Wireless Networking: 0.46
+Skill: Import / Export [Deprecated]
+- ETL: 0.22
+- Microsoft SQL Server: 0.21
+- Sketch: 0.14
+Skill: Project Administration - Versions
+- Routing and Switching: 0.74
+- GCP: 0.28
+- CoAP: 0.17
+Skill: Infrastructure & Services - Application Lifecycle
+- Cassandra: 0.45
+- pytest: 0.42
+- GCP: 0.41
+Skill: Data Center - Deployments
+- Scalability and Performance Optimization: 0.52
+- GCP: 0.51
+- Continuous Integration/Continuous Deployment: 0.49
+Skill: Migration - Cloud to Server
+- Scalability and Performance Optimization: 0.93
+- Cloud Architecture: 0.87
+- CoAP: 0.53
+Skill: System Administration  - Global Permissions
+- System Administration: 1.00
+- GCP: 0.83
+- MQTT: 0.37
+Skill: Navigation - Filters
+- User Centric Design: 0.75
+- SVN: 0.43
+- Adobe XD: 0.36
+Skill: CSV export
+- Cassandra: 0.97
+- Computer Vision: 0.96
+- Cross Browser Compatibility: 0.90
+Skill: System Administration - Secure Administrator Sessions
+- System Administration: 1.00
+- Security Best Practices: 0.44
+- GCP: 0.41
+Skill: Migration - Server to Server
+- Scalability and Performance Optimization: 0.81
+- Routing and Switching: 0.73
+- Cassandra: 0.51
+Skill: Issue - Time Tracking & Worklog
+- ETL: 0.25
+- GCP: 0.18
+- Azure: 0.13
+Skill: App Diagnositcs
+- Troubleshooting: 0.73
+- Cassandra: 0.56
+- iOS Mobile App Development: 0.47
+Skill: Administration - Permission Helper
+- CoAP: 0.53
+- GCP: 0.44
+- Azure: 0.28
+Skill: Project - Core Boards
+- CoAP: 0.54
+- Scalability and Performance Optimization: 0.24
+- Project Planning: 0.20
+Skill: OAuth 2.0 for incoming mail
+- Oracle: 0.89
+- IoT: 0.85
+- Azure: 0.82
+Skill: Data Center - Installer
+- Big Data Technologies: 0.74
+- Hardware/Software Integration: 0.61
+- GCP: 0.48
+Skill: System Administration - Integrity Checker
+- System Administration: 0.99
+- GCP: 0.69
+- MQTT: 0.47
+Skill: Issue - Sub-Tasks
+- MQTT: 0.40
+- GCP: 0.38
+- pytest: 0.33
+Skill: Keyboard Shortcuts
+- Routing and Switching: 0.80
+- User Centric Design: 0.70
+- Backup and Recovery: 0.64
+Skill: Migration - Data Center
+- Big Data Technologies: 0.88
+- Scalability and Performance Optimization: 0.76
+- Cassandra: 0.51
+Skill: Jira 8.8 EAP
+- Web Accessibility: 0.88
+- Responsive Design: 0.83
+- User Centric Design: 0.74
+Skill: System Administration - Configuration Tool
+- System Administration: 0.99
+- GCP: 0.55
+- CoAP: 0.44
+Skill: Administration - Notification Helper
+- MQTT: 0.70
+- SVN: 0.57
+- GCP: 0.54
+Skill: Data Center - ZDU
+- Scalability and Performance Optimization: 0.56
+- Big Data Technologies: 0.47
+- Responsive Design: 0.29
+Skill: Rate Limiting
+- ETL: 0.77
+- MQTT: 0.59
+- GCP: 0.55
+Skill: Data Center - Load balancer
+- Scalability and Performance Optimization: 0.85
+- GCP: 0.64
+- Cassandra: 0.56
+Skill: Projects - Sidebar
+- Project Planning: 0.26
+- UX/UI Design and Prototyping: 0.21
+- UI Design: 0.21
+Skill: Migration - Server to Cloud
+- Scalability and Performance Optimization: 0.92
+- Cloud Architecture: 0.92
+- CoAP: 0.63
+Skill: Atlassian Accounts - Identity
+- ETL: 0.33
+- CoAP: 0.32
+- Security Best Practices: 0.08
+Skill: Apdex
+- Data Visualization: 0.89
+- AI: 0.83
+- Responsive Design: 0.83
+Skill: Source Checkout Task
+- GCP: 0.59
+- CoAP: 0.58
+- Cassandra: 0.53
+Skill: Administration (General)
+- GCP: 0.72
+- CoAP: 0.28
+- Microsoft SQL Server: 0.18
+Skill: Build Queues
+- Responsive Design: 0.91
+- User Centric Design: 0.82
+- Scalability and Performance Optimization: 0.75
+Skill: Docker Runner
+- Docker: 0.98
+- Hardware/Software Integration: 0.91
+- Scalability and Performance Optimization: 0.83
+Skill: Artifacts
+- GCP: 0.37
+- CoAP: 0.36
+- Azure: 0.31
+Skill: Deployments
+- Continuous Integration/Continuous Deployment: 0.73
+- IoT: 0.41
+- React: 0.40
+Skill: Audit Logging
+- Security Best Practices: 0.55
+- GCP: 0.20
+- CoAP: 0.17
+Skill: Variables
+- Routing and Switching: 0.57
+- Backup and Recovery: 0.56
+- Responsive Design: 0.53
+Skill: Bamboo Specs
+- Responsive Design: 0.59
+- User Centric Design: 0.44
+- Scalability and Performance Optimization: 0.27
+Skill: Database (MS SQL)
+- Microsoft SQL Server: 0.99
+- SQL: 0.97
+- Scalability and Performance Optimization: 0.08
+Skill: Builds
+- Azure: 0.46
+- GCP: 0.45
+- iOS Mobile App Development: 0.43
+Skill: Plan Branches
+- Backup and Recovery: 0.85
+- Responsive Design: 0.80
+- Project Planning: 0.76
+Skill: AUI
+- AI: 0.99
+- User Centric Design: 0.99
+- Azure: 0.98
+Skill: Plan configuration
+- Project Planning: 0.84
+- GCP: 0.65
+- Responsive Design: 0.60
+Skill: Agents
+- AI: 0.77
+- CoAP: 0.52
+- Routing and Switching: 0.41
+Skill: Upgrading
+- Scalability and Performance Optimization: 0.92
+- MQTT: 0.65
+- Cross Browser Compatibility: 0.62
+Skill: SCP and SSH tasks
+- Network Security: 0.91
+- Integration Testing and System Testing: 0.45
+- Penetration Testing: 0.38
+Skill: Logs
+- GCP: 0.39
+- iOS Mobile App Development: 0.26
+- Continuous Integration/Continuous Deployment: 0.26
+Skill: Dashboard
+- User Centric Design: 0.98
+- UI Design: 0.95
+- Data Visualization: 0.91
+Skill: Notifications
+- User Centric Design: 0.86
+- UI Design: 0.74
+- Responsive Design: 0.74
+Skill: Triggers
+- Troubleshooting: 0.60
+- Routing and Switching: 0.51
+- Risk Management: 0.43
+Skill: Test quarantine
+- MQTT: 0.84
+- Security Best Practices: 0.83
+- Network Security: 0.67
+Skill: Repository (Bitbucket)
+- Blockchain security: 0.94
+- User Centric Design: 0.66
+- Cryptocurrency development: 0.46
+Skill: Pull Requests
+- REST: 0.89
+- Responsive Design: 0.88
+- RESTful Architecture: 0.75
+Skill: Jobs
+- UX/UI Design and Prototyping: 0.42
+- Kotlin: 0.38
+- iOS Mobile App Development: 0.34
+Skill: Requirements
+- iOS Mobile App Development: 0.51
+- Android Mobile App Development: 0.48
+- TCP/IP: 0.47
+Skill: User Management, Crowd & LDAP integration
+- GCP: 0.35
+- Sketch: 0.34
+- Flutter: 0.32
+Skill: Import / Export
+- ETL: 0.71
+- CoAP: 0.50
+- Cassandra: 0.49
+Skill: Bitbucket integration
+- Blockchain security: 0.91
+- Integration Testing and System Testing: 0.71
+- Security Best Practices: 0.52
+Skill: Expiry
+- ETL: 0.62
+- GCP: 0.35
+- MQTT: 0.32
+Skill: Database (other)
+- NoSQL: 0.14
+- MySQL: 0.06
+- Cassandra: 0.05
+Skill: Documentation (User)
+- User Centric Design: 0.74
+- GCP: 0.32
+- User Research: 0.30
+Skill: Elastic Bamboo
+- Responsive Design: 0.51
+- Scalability and Performance Optimization: 0.46
+- User Centric Design: 0.45
+Skill: Administration (Projects)
+- CoAP: 0.36
+- GCP: 0.34
+- Project Planning: 0.28
+Skill: Bamboo Release
+- Responsive Design: 0.80
+- Hardware/Software Integration: 0.66
+- User Centric Design: 0.62
+Skill: Windows
+- User Centric Design: 0.76
+- Backup and Recovery: 0.64
+- Cross Browser Compatibility: 0.64
+Skill: AWS
+- AWS: 1.00
+- AI: 0.99
+- System Administration: 0.99
+Skill: Telemetry / Reporting
+- IoT: 0.69
+- MQTT: 0.56
+- GCP: 0.55
+Skill: Misc integration
+- MQTT: 0.47
+- Sketch: 0.46
+- Cassandra: 0.45
+Skill: Documentation (Developer)
+- GCP: 0.40
+- pytest: 0.38
+- Kotlin: 0.34
+Skill: Permissions
+- Responsive Design: 0.68
+- React: 0.67
+- Azure: 0.57
+Skill: JIRA integration
+- Integration Testing and System Testing: 0.82
+- AI: 0.68
+- Incident Response: 0.62
+Skill: AppLinks
+- iOS Mobile App Development: 0.63
+- Android Mobile App Development: 0.58
+- UI Design: 0.54
+Skill: Repository (Subversion)
+- RDBMS: 0.14
+- GCP: 0.13
+- CoAP: 0.12
+Skill: Force Stop Build
+- ETL: 0.70
+- GCP: 0.69
+- CoAP: 0.69
+Skill: Bitbucket Server integration
+- Integration Testing and System Testing: 0.75
+- DevOps: 0.59
+- Backup and Recovery: 0.44
+Skill: Repository (Github)
+- Git: 0.98
+- User Centric Design: 0.33
+- Scalability and Performance Optimization: 0.31
+Skill: Dependencies
+- CoAP: 0.59
+- GCP: 0.54
+- MQTT: 0.49
+Skill: Database (MySQL)
+- MySQL: 0.99
+- SQL: 0.92
+- Microsoft SQL Server: 0.47
+Skill: Credentials
+- CoAP: 0.41
+- MQTT: 0.41
+- GCP: 0.39
+Skill: Wallboard
+- User Centric Design: 0.53
+- Responsive Design: 0.43
+- GCP: 0.35
+Skill: Database (Postgresql)
+- PostgreSQL: 0.99
+- Scalability and Performance Optimization: 0.29
+- Data Engineering: 0.16
+Skill: Quiet Period
+- REST: 0.98
+- SVN: 0.81
+- CoAP: 0.78
+Skill: IM
+- Incident Response: 0.91
+- Responsive Design: 0.88
+- Machine Learning: 0.86
+Skill: System Administration - Troubleshooting and Support Tools (ATST)
+- System Administration: 0.97
+- Troubleshooting: 0.92
+- GCP: 0.22
+Skill: Repository (Other)
+- REST: 0.19
+- Backup and Recovery: 0.12
+- Responsive Design: 0.10
+Skill: Repository (Git)
+- Git: 0.99
+- User Centric Design: 0.40
+- Responsive Design: 0.27
+Skill: Projects
+- Project Planning: 0.55
+- GCP: 0.34
+- UX/UI Design and Prototyping: 0.31
+Skill: Jenkins importer
+- Responsive Design: 0.75
+- User Centric Design: 0.56
+- Scalability and Performance Optimization: 0.40
+Skill: Setup Wizard
+- Wireless Networking: 0.50
+- TCP/IP: 0.44
+- pytest: 0.42
+Skill: Repository (Perforce)
+- REST: 0.46
+- User Centric Design: 0.27
+- Responsive Design: 0.24
+Skill: Publishing / RSS
+- Cassandra: 0.27
+- GCP: 0.21
+- pytest: 0.15
+Skill: Tomcat tasks
+- Routing and Switching: 0.66
+- Backup and Recovery: 0.59
+- Scalability and Performance Optimization: 0.43
+Skill: Proxy
+- VPN: 0.91
+- CoAP: 0.83
+- pytest: 0.76
+Skill: Repository (Mercurial)
+- REST: 0.37
+- MQTT: 0.27
+- RDBMS: 0.22
+Skill: Branch Status
+- Git: 0.45
+- REST: 0.44
+- Cryptocurrency development: 0.44
+Skill: Node.js plugin
+- Node.js: 0.96
+- JavaScript: 0.95
+- SVN: 0.72
+Skill: Database (Oracle)
+- Oracle: 1.00
+- SQL: 0.21
+- RDBMS: 0.15
+Skill: Stages
+- Backup and Recovery: 0.65
+- UX/UI Design and Prototyping: 0.44
+- Responsive Design: 0.32
+Skill: S3 storage
+- Cloud Architecture: 0.98
+- Data Warehousing: 0.90
+- Scalability and Performance Optimization: 0.70
+Skill: Gadgets
+- Scalability and Performance Optimization: 0.46
+- MQTT: 0.46
+- Routing and Switching: 0.45
+Skill: Code Insights
+- Routing and Switching: 0.59
+- Azure: 0.49
+- pytest: 0.46
+Skill: Labels
+- Continuous Integration/Continuous Deployment: 0.44
+- iOS Mobile App Development: 0.43
+- Big Data Technologies: 0.42
+Skill: VCS task
+- Computer Vision: 0.96
+- User Centric Design: 0.93
+- Server Administration: 0.90
+Skill: .NET
+- Network Security: 0.77
+- Integration Testing and System Testing: 0.64
+- pytest: 0.61
+Skill: Custom builds
+- CoAP: 0.55
+- Scalability and Performance Optimization: 0.54
+- UX/UI Design and Prototyping: 0.52
+Skill: Xcode, iOS and Cocoa
+- Hardware/Software Integration: 0.79
+- iOS Mobile App Development: 0.69
+- Scalability and Performance Optimization: 0.51
+Skill: Encoding
+- Cryptography: 0.88
+- GCP: 0.64
+- TCP/IP: 0.62
+Skill: Responsibility tracking
+- CoAP: 0.68
+- GCP: 0.56
+- Azure: 0.54
+Skill: HipChat integration
+- User Centric Design: 0.82
+- VoIP (Voice over Internet Protocol): 0.80
+- Responsive Design: 0.53
+Skill: EC2 Wizard
+- Scalability and Performance Optimization: 0.54
+- Routing and Switching: 0.46
+- User Centric Design: 0.45
+Skill: Slack integration
+- Integration Testing and System Testing: 0.49
+- CoAP: 0.35
+- User Research: 0.29
+Skill: Clover integration
+- CoAP: 0.90
+- Integration Testing and System Testing: 0.75
+- Responsive Design: 0.66
+Skill: Stride
+- CSS: 0.72
+- iOS Mobile App Development: 0.67
+- Android Mobile App Development: 0.61
+Skill: Active Objects
+- Responsive Design: 0.90
+- User Centric Design: 0.83
+- React: 0.66
+Skill: Google App Engine
+- GCP: 0.86
+- User Centric Design: 0.62
+- Scalability and Performance Optimization: 0.52
+Skill: OnDemand
+- User Centric Design: 0.81
+- Scalability and Performance Optimization: 0.76
+- Continuous Integration/Continuous Deployment: 0.75
+Skill: Cron
+- Cryptocurrency development: 0.92
+- Cryptography: 0.71
+- iOS Mobile App Development: 0.39
+Skill: Repository (CVS)
+- Responsive Design: 0.35
+- User Centric Design: 0.31
+- Data Warehousing: 0.16
+Skill: FishEye & Crucible integration
+- Hardware/Software Integration: 0.96
+- Integration Testing and System Testing: 0.87
+- Responsive Design: 0.70
+Skill: GreenHopper integration
+- IoT: 0.93
+- Hardware/Software Integration: 0.93
+- Responsive Design: 0.91
+Skill: Confluence integration
+- CoAP: 0.88
+- Continuous Integration/Continuous Deployment: 0.84
+- Cross Browser Compatibility: 0.71
+Skill: Heroku task
+- Server Administration: 0.81
+- IT Support: 0.69
+- Continuous Integration/Continuous Deployment: 0.68
+Skill: SAL Integration
+- Integration Testing and System Testing: 0.92
+- Scalability and Performance Optimization: 0.86
+- SQL: 0.84
+Skill: Macros - JIRA Macros
+- Incident Response: 0.93
+- Integration Testing and System Testing: 0.54
+- User Centric Design: 0.32
+Skill: Editor - Fabric
+- Scalability and Performance Optimization: 0.42
+- Big Data Technologies: 0.22
+- Cryptocurrency development: 0.22
+Skill: TWP - Editor
+- VoIP (Voice over Internet Protocol): 0.79
+- Responsive Web Design: 0.51
+- User Centric Design: 0.50
+Skill: Core - Macros Platform
+- CoAP: 0.86
+- Scalability and Performance Optimization: 0.50
+- Memory Management and Performance Profiling: 0.36
+Skill: Editor - TinyMCE 4
+- Responsive Design: 0.87
+- Machine Learning: 0.83
+- Web Accessibility: 0.68
+Skill: Content - Restrictions
+- GCP: 0.40
+- ETL: 0.35
+- pytest: 0.35
+Skill: Macros - Search
+- Machine Learning: 0.18
+- GCP: 0.15
+- Cassandra: 0.11
+Skill: Macros - Other Macros
+- pytest: 0.09
+- Scalability and Performance Optimization: 0.08
+- MQTT: 0.07
+Skill: Page - Export
+- ETL: 0.88
+- Web Accessibility: 0.58
+- Responsive Design: 0.54
+Skill: Search - Scaling
+- Scala: 0.45
+- Microsoft SQL Server: 0.43
+- TensorFlow: 0.22
+Skill: User - Global / Space Permissions
+- GCP: 0.82
+- Azure: 0.38
+- User Centric Design: 0.36
+Skill: Macros - 3rd Party
+- Routing and Switching: 0.34
+- MQTT: 0.33
+- pytest: 0.32
+Skill: Core - Frontend Platform
+- CoAP: 0.89
+- Web Development: 0.87
+- GCP: 0.50
+Skill: Content - Linking
+- Web Accessibility: 0.75
+- ETL: 0.60
+- Responsive Web Design: 0.53
+Skill: Macros - Roadmap Planner
+- Routing and Switching: 0.30
+- RDBMS: 0.10
+- MQTT: 0.10
+Skill: Macros - Google Drive
+- User Centric Design: 0.52
+- Scalability and Performance Optimization: 0.52
+- Backup and Recovery: 0.47
+Skill: Content - Page
+- HTML: 0.79
+- Web Accessibility: 0.78
+- Responsive Web Design: 0.62
+Skill: Macros - Page Properties
+- GCP: 0.48
+- Web Development: 0.42
+- Web Accessibility: 0.40
+Skill: Ecosystem
+- CoAP: 0.45
+- GCP: 0.41
+- Responsive Design: 0.27
+Skill: Core - APIs
+- CoAP: 0.85
+- REST: 0.61
+- RESTful Architecture: 0.50
+Skill: User - Groups
+- User Centric Design: 0.49
+- GCP: 0.39
+- pytest: 0.25
+Skill: Add-ons - Team Calendar
+- Responsive Design: 0.23
+- JavaScript: 0.11
+- GCP: 0.08
+Skill: Space - Create
+- CoAP: 0.69
+- UX/UI Design and Prototyping: 0.44
+- Wireframing and Prototyping: 0.33
+Skill: Macros - Gadgets
+- Routing and Switching: 0.57
+- Scalability and Performance Optimization: 0.48
+- MQTT: 0.46
+Skill: Macros - Content by Label
+- GCP: 0.38
+- pytest: 0.33
+- Cassandra: 0.31
+Skill: Integrations - JIRA
+- Integration Testing and System Testing: 0.53
+- Scalability and Performance Optimization: 0.41
+- Memory Management and Performance Profiling: 0.36
+Skill: Add-ons - Confluence Questions
+- MQTT: 0.36
+- Azure: 0.27
+- GCP: 0.26
+Skill: Spaces - Mobile
+- Wireless Networking: 0.92
+- Spark: 0.66
+- Responsive Design: 0.58
+Skill: Macros - Table of Contents
+- CoAP: 0.41
+- MQTT: 0.18
+- Scalability and Performance Optimization: 0.15
+Skill: Macros - Create from template
+- GCP: 0.52
+- User Centric Design: 0.42
+- Cassandra: 0.42
+Skill: Space - Export
+- ETL: 0.84
+- CoAP: 0.36
+- Microsoft SQL Server: 0.12
+Skill: Confluence Cloud Premium
+- CoAP: 0.83
+- User Centric Design: 0.80
+- Backup and Recovery: 0.69
+Skill: User - Mentions
+- User Centric Design: 0.58
+- MQTT: 0.37
+- GCP: 0.19
+Skill: Navigation - Sidebar
+- UI Design: 0.95
+- User Centric Design: 0.95
+- Responsive Design: 0.85
+Skill: Content - Tasks
+- GCP: 0.39
+- MQTT: 0.27
+- CoAP: 0.27
+Skill: Macros - Task Report
+- MQTT: 0.75
+- Scalability and Performance Optimization: 0.42
+- Routing and Switching: 0.34
+Skill: Macros - Content Report Table
+- MQTT: 0.21
+- GCP: 0.13
+- User Centric Design: 0.13
+Skill: DevLoop
+- User Centric Design: 0.85
+- Responsive Design: 0.79
+- Hardware/Software Integration: 0.76
+Skill: Add-ons - Confluence Slack
+- Scalability and Performance Optimization: 0.48
+- Backup and Recovery: 0.11
+- CoAP: 0.08
+Skill: Content - Blueprints / Templates
+- GCP: 0.45
+- UX/UI Design and Prototyping: 0.39
+- pytest: 0.31
+Skill: Editor - Drafts
+- User Centric Design: 0.31
+- Azure: 0.31
+- Responsive Design: 0.29
+Skill: Content - Attachments
+- CoAP: 0.48
+- GCP: 0.39
+- MQTT: 0.38
+Skill: TWP - Media
+- VoIP (Voice over Internet Protocol): 0.62
+- Responsive Web Design: 0.41
+- User Centric Design: 0.26
+Skill: Search - Advanced Search
+- Microsoft SQL Server: 0.48
+- Azure: 0.36
+- Adobe XD: 0.33
+Skill: Space - Blueprints
+- CoAP: 0.51
+- GCP: 0.43
+- Wireframing and Prototyping: 0.22
+Skill: Content - Labels
+- ETL: 0.33
+- GCP: 0.33
+- Kotlin: 0.29
+Skill: Macros - Content by User
+- User Centric Design: 0.91
+- User Research: 0.60
+- GCP: 0.27
+Skill: Search - Indexing
+- Microsoft SQL Server: 0.44
+- RDBMS: 0.28
+- Azure: 0.26
+Skill: Search - Core
+- GCP: 0.43
+- User Centric Design: 0.34
+- Microsoft SQL Server: 0.17
+Skill: Editor - Mobile
+- Wireless Networking: 0.96
+- Cross Browser Compatibility: 0.69
+- MQTT: 0.68
+Skill: Core - Connect Platform
+- CoAP: 0.90
+- Cross Browser Compatibility: 0.45
+- TCP/IP: 0.43
+Skill: Content - Page Comments
+- GCP: 0.51
+- Azure: 0.48
+- Responsive Design: 0.44
+Skill: Navigation - People Directory
+- User Centric Design: 0.32
+- Adobe XD: 0.15
+- SVN: 0.11
+Skill: Web Interface - AUI
+- User Centric Design: 0.92
+- UI Design: 0.91
+- Web Accessibility: 0.52
+Skill: Editor - Attachment
+- CoAP: 0.60
+- MQTT: 0.50
+- ETL: 0.46
+Skill: Administration - Look and Feel / Themes
+- GCP: 0.45
+- Azure: 0.43
+- Responsive Design: 0.42
+Skill: Macros - Office365
+- Responsive Design: 0.62
+- Scalability and Performance Optimization: 0.41
+- Routing and Switching: 0.34
+Skill: Macros - Panels
+- Scalability and Performance Optimization: 0.38
+- CoAP: 0.29
+- Responsive Design: 0.26
+Skill: Macros - Widget Connector
+- Web Accessibility: 0.86
+- Responsive Design: 0.85
+- Scalability and Performance Optimization: 0.79
+Skill: Space - Settings
+- Scalability and Performance Optimization: 0.21
+- Routing and Switching: 0.16
+- Backup and Recovery: 0.16
+Skill: Core - Email
+- CoAP: 0.40
+- User Centric Design: 0.30
+- GCP: 0.30
+Skill: Content - Inline Comments
+- GCP: 0.46
+- Azure: 0.46
+- pytest: 0.44
+Skill: Confluence Frontend Release Blocker - Prod
+- Project Planning: 0.83
+- Performance Testing: 0.76
+- Scalability and Performance Optimization: 0.59
+Skill: Administration - Page Archive
+- GCP: 0.33
+- CoAP: 0.29
+- Azure: 0.29
+Skill: Content - Likes
+- CoAP: 0.68
+- Azure: 0.60
+- User Centric Design: 0.58
+Skill: Add-ons - SharePoint Connector
+- Scalability and Performance Optimization: 0.57
+- SVN: 0.15
+- Responsive Design: 0.13
+Skill: Site - Backup / Import
+- Backup and Recovery: 0.69
+- Security Best Practices: 0.42
+- GCP: 0.38
+Skill: Page - Import
+- Responsive Design: 0.60
+- Web Accessibility: 0.55
+- Responsive Web Design: 0.50
+Skill: Editor - Collaborative editing
+- CoAP: 0.78
+- GCP: 0.48
+- Adobe XD: 0.42
+Skill: Content - Sharing
+- CoAP: 0.65
+- GCP: 0.46
+- Azure: 0.45
+Skill: Core - Workbox
+- Hardware/Software Integration: 0.71
+- User Centric Design: 0.48
+- Scalability and Performance Optimization: 0.47
+Skill: Macros - Mobile
+- Wireless Networking: 0.84
+- Responsive Design: 0.64
+- Scalability and Performance Optimization: 0.55
+Skill: Navigation - Dashboard
+- User Centric Design: 0.98
+- UI Design: 0.86
+- Responsive Design: 0.57
+Skill: Macros - Blog Posts
+- MQTT: 0.27
+- Routing and Switching: 0.27
+- Backup and Recovery: 0.24
+Skill: Space - Import
+- CoAP: 0.64
+- GCP: 0.24
+- Responsive Design: 0.21
+Skill: Macros - Content Formatting
+- GCP: 0.21
+- Cassandra: 0.17
+- pytest: 0.16
+Skill: Notifications-Pug
+- VPN: 0.66
+- User Centric Design: 0.64
+- UI Design: 0.13
+Skill: Search - Quick Search
+- Microsoft SQL Server: 0.45
+- RDBMS: 0.39
+- Kotlin: 0.39
+Skill: TWP - Search
+- User Centric Design: 0.19
+- VoIP (Voice over Internet Protocol): 0.11
+- Web Accessibility: 0.04
+Skill: User - Profile
+- User Centric Design: 0.82
+- GCP: 0.48
+- UX Design: 0.33
+Skill: Space - Personal Space
+- User Centric Design: 0.66
+- GCP: 0.26
+- CoAP: 0.23
+Skill: Add-ons - Better Retros
+- Backup and Recovery: 0.84
+- Scalability and Performance Optimization: 0.34
+- pytest: 0.21
+Skill: Macros - Attachments
+- CoAP: 0.35
+- MQTT: 0.33
+- GCP: 0.32
+Skill: Space - Import / Export
+- ETL: 0.52
+- CoAP: 0.51
+- GCP: 0.31
+Skill: Administration - Application Links
+- ETL: 0.31
+- MQTT: 0.25
+- GCP: 0.23
+Skill: User - Management
+- User Centric Design: 0.53
+- MQTT: 0.40
+- GCP: 0.36
+Skill: Navigation - Space Directory
+- SVN: 0.40
+- GCP: 0.10
+- CoAP: 0.08
+Skill: TWP - People and Teams
+- VoIP (Voice over Internet Protocol): 0.13
+- Web Development: 0.08
+- Project Planning: 0.08
+Skill: TWP - Content Service
+- Web Accessibility: 0.19
+- Responsive Web Design: 0.16
+- RESTful Architecture: 0.10
+Skill: Confluence Frontend Next Release Blocker - Prod
+- Project Planning: 0.92
+- UX/UI Design and Prototyping: 0.81
+- Blockchain security: 0.68
+Skill: Confluence Frontend Next Release Blocker - Staging
+- DevOps: 0.59
+- Blockchain security: 0.55
+- User Centric Design: 0.48
+Skill: Confluence Frontend Release Blocker
+- CoAP: 0.80
+- Blockchain security: 0.66
+- Security Best Practices: 0.57
+Skill: Confluence Frontend Release Blocker - Dev
+- CoAP: 0.71
+- DevOps: 0.70
+- Web Development: 0.52
+Skill: Content - Blogs
+- Cassandra: 0.33
+- GCP: 0.26
+- Kotlin: 0.20
+Skill: Content - History
+- Azure: 0.28
+- GCP: 0.17
+- Microsoft SQL Server: 0.16
+Skill: Macros - Chart
+- Data Visualization: 0.55
+- CoAP: 0.36
+- GCP: 0.32
+Skill: User - Authentication
+- User Centric Design: 0.59
+- Azure: 0.38
+- CoAP: 0.35
+Skill: Ecosystem-Hello
+- ETL: 0.65
+- CoAP: 0.50
+- User Centric Design: 0.13
+Skill: TWP - Notifications
+- User Centric Design: 0.65
+- Responsive Web Design: 0.56
+- Responsive Design: 0.33
+Skill: Content - Restrictions - Mobile
+- Wireless Networking: 0.93
+- MQTT: 0.54
+- GCP: 0.53
+Skill: Accessibility - Mobile
+- Wireless Networking: 0.90
+- User Centric Design: 0.88
+- MQTT: 0.74
+Skill: Core - Web Resources
+- REST: 0.43
+- Web Development: 0.42
+- GCP: 0.34
+Skill: Content - Page - Mobile
+- Wireless Networking: 0.93
+- Cross Browser Compatibility: 0.93
+- Responsive Web Design: 0.73
+Skill: Macros - Gallery
+- Responsive Design: 0.38
+- Scalability and Performance Optimization: 0.24
+- MQTT: 0.20
+Skill: Identity Manager
+- GCP: 0.33
+- Cassandra: 0.28
+- Security Best Practices: 0.27
+Skill: Administration-Hello
+- CoAP: 0.48
+- System Administration: 0.25
+- GCP: 0.18
+Skill: TWP - Activity
+- Wireless Networking: 0.61
+- Server Administration: 0.61
+- VoIP (Voice over Internet Protocol): 0.59
+Skill: Page-Hello
+- User Centric Design: 0.84
+- HTML: 0.76
+- Web Accessibility: 0.70
+Skill: TWP - Mobile
+- Wireless Networking: 0.99
+- Performance Testing: 0.91
+- VoIP (Voice over Internet Protocol): 0.91
+Skill: Editor - Comment Editor
+- Responsive Design: 0.62
+- Azure: 0.55
+- User Centric Design: 0.50
+Skill: Integrations - Office Connector
+- Responsive Design: 0.53
+- Scalability and Performance Optimization: 0.22
+- Integration Testing and System Testing: 0.13
+Skill: Feedback - Hello
+- MQTT: 0.60
+- User Centric Design: 0.60
+- GCP: 0.56
+Skill: Web Interface - Keyboard Navigation
+- UI Design: 0.95
+- User Centric Design: 0.94
+- Web Accessibility: 0.84
+Skill: Notifications-Hello
+- User Centric Design: 0.74
+- MQTT: 0.43
+- GCP: 0.39
+Skill: free
+- Azure: 0.80
+- Sketch: 0.77
+- MQTT: 0.75
+Skill: TWP - Editor Media Integration
+- Responsive Web Design: 0.13
+- Integration Testing and System Testing: 0.10
+- VoIP (Voice over Internet Protocol): 0.07
+Skill: Editor - Synchrony
+- SVN: 0.39
+- Security Best Practices: 0.39
+- Microsoft SQL Server: 0.29
+Skill: Onboarding - 1st user
+- User Centric Design: 0.96
+- ETL: 0.89
+- UX Design: 0.88
+Skill: Administration - Universal Plugin Manager
+- CoAP: 0.42
+- GCP: 0.39
+- Cassandra: 0.33
+Skill: Navigation-Hello
+- User Centric Design: 0.86
+- VPN: 0.68
+- SVN: 0.32
+Skill: Page-Pug
+- User Centric Design: 0.86
+- Responsive Web Design: 0.85
+- Responsive Design: 0.74
+Skill: Search-Hello
+- User Centric Design: 0.82
+- Natural Language Processing: 0.47
+- Node.js: 0.12
+Skill: Macros - Multimedia
+- MQTT: 0.48
+- Routing and Switching: 0.27
+- GCP: 0.26
+Skill: Page Comments-Hello
+- User Centric Design: 0.73
+- Responsive Design: 0.57
+- GCP: 0.53
+Skill: Onboarding - nth user
+- User Centric Design: 0.78
+- UX Design: 0.72
+- iOS Mobile App Development: 0.51
+Skill: Inline Comments-Hello
+- User Centric Design: 0.52
+- ETL: 0.50
+- GCP: 0.49
+Skill: User - Follow
+- User Centric Design: 0.91
+- Responsive Design: 0.69
+- Spark: 0.64
+Skill: Untriaged-Pug
+- VPN: 0.34
+- User Centric Design: 0.17
+- Quality Assurance: 0.12
+Skill: Editor-Pug
+- User Centric Design: 0.40
+- CoAP: 0.36
+- VPN: 0.31
+Skill: Editor-Hello
+- ETL: 0.94
+- User Centric Design: 0.52
+- CoAP: 0.46
+Skill: Core - Product Analytics and Metrics
+- CoAP: 0.87
+- GCP: 0.53
+- MQTT: 0.30
+Skill: Editions - AdminKey
+- System Administration: 0.21
+- Server Administration: 0.14
+- Responsive Design: 0.14
+Skill: Navigation - Single Page App
+- User Centric Design: 0.99
+- UI Design: 0.90
+- SVN: 0.88
+Skill: Core - DevOps
+- DevOps: 0.98
+- Continuous Integration/Continuous Deployment: 0.66
+- Routing and Switching: 0.16
+Skill: defense-squad
+- GCP: 0.57
+- CoAP: 0.54
+- Routing and Switching: 0.24
+Skill: Integrations - HipChat
+- User Centric Design: 0.23
+- VoIP (Voice over Internet Protocol): 0.23
+- Scalability and Performance Optimization: 0.22
+Skill: Content - Favourites
+- Azure: 0.43
+- Kotlin: 0.34
+- GCP: 0.28
+Skill: Content - Trackback
+- MQTT: 0.51
+- React: 0.48
+- JavaScript: 0.46
+Skill: WebDAV - Editing
+- Web Accessibility: 0.59
+- AI: 0.51
+- Responsive Web Design: 0.22
+Skill: Core - OSGi Plugins Platform
+- Scalability and Performance Optimization: 0.59
+- Memory Management and Performance Profiling: 0.42
+- Routing and Switching: 0.40
+Skill: Blueprints - Sprint Plan
+- Wireless Networking: 0.87
+- Technical Documentation: 0.62
+- Kotlin: 0.28
+Skill: Server - Installer / Setup
+- GCP: 0.48
+- SVN: 0.45
+- Node.js: 0.44
+Skill: Core - Analytics
+- CoAP: 0.80
+- Big Data Technologies: 0.36
+- GCP: 0.19
+Skill: Other
+- VoIP (Voice over Internet Protocol): 0.26
+- React: 0.18
+- Troubleshooting: 0.16
+Skill: Server - Platform
+- Cloud Architecture: 0.72
+- Scalability and Performance Optimization: 0.62
+- CoAP: 0.58
+Skill: Core - Content REST APIs
+- REST: 0.94
+- RESTful Architecture: 0.84
+- CoAP: 0.80
+Skill: Server - Administration
+- Server Administration: 0.99
+- System Administration: 0.90
+- IT Support: 0.52
+Skill: Space - Export / Import
+- ETL: 0.47
+- CoAP: 0.36
+- Adobe XD: 0.26
+Skill: Server - Upgrade Manager
+- Server Administration: 0.88
+- System Administration: 0.83
+- Scalability and Performance Optimization: 0.79
+Skill: Apps - Team Calendar
+- User Centric Design: 0.34
+- CoAP: 0.04
+- Responsive Design: 0.04
+Skill: Editor - Front end - Page / Comment
+- Responsive Web Design: 0.55
+- User Centric Design: 0.55
+- Web Accessibility: 0.54
+Skill: Content - File Previews
+- SVN: 0.51
+- Cassandra: 0.45
+- CoAP: 0.44
+Skill: Page - Export / Import
+- ETL: 0.77
+- Responsive Design: 0.52
+- GCP: 0.51
+Skill: Editor - Page / Comment Editor
+- User Centric Design: 0.63
+- Responsive Design: 0.62
+- Azure: 0.55
+Skill: Apps - Confluence Questions
+- CoAP: 0.45
+- MQTT: 0.22
+- iOS Mobile App Development: 0.21
+Skill: Editor - Core
+- User Centric Design: 0.68
+- CoAP: 0.59
+- GCP: 0.55
+Skill: Onboarding - Setup
+- GCP: 0.61
+- MQTT: 0.59
+- User Centric Design: 0.58
+Skill: Server - Source Distribution
+- SVN: 0.53
+- GCP: 0.45
+- Microsoft SQL Server: 0.37
+Skill: Content - Edit Files / Companion
+- CoAP: 0.72
+- GCP: 0.35
+- Azure: 0.33
+Skill: Server - Plugin  Development
+- GCP: 0.51
+- SVN: 0.49
+- pytest: 0.41
+Skill: Data Center - Core
+- GCP: 0.48
+- Scalability and Performance Optimization: 0.40
+- Big Data Technologies: 0.36
+Skill: Server - EAP
+- Responsive Design: 0.92
+- Web Accessibility: 0.88
+- System Administration: 0.81
+Skill: Server - Performance
+- Scalability and Performance Optimization: 0.57
+- TCP/IP: 0.45
+- GCP: 0.44
+Skill: Universal Plugin Manager / Manage apps
+- SVN: 0.57
+- GCP: 0.52
+- MQTT: 0.51
+Skill: Server - Mail Archiving
+- CoAP: 0.50
+- GCP: 0.49
+- MQTT: 0.45
+Skill: Platform - Application Links
+- iOS Mobile App Development: 0.39
+- Web Accessibility: 0.37
+- Cross Browser Compatibility: 0.36
+Skill: Server - Jobs
+- IT Support: 0.59
+- TCP/IP: 0.35
+- GCP: 0.31
+Skill: OpenID Connect
+- User Centric Design: 0.95
+- Responsive Design: 0.94
+- Web Accessibility: 0.81
+Skill: Flakey Test - New
+- Flutter: 0.88
+- Flask: 0.83
+- Troubleshooting: 0.27
+Skill: Apps - Source Editor (Unsupported)
+- SVN: 0.15
+- GCP: 0.13
+- pytest: 0.12
+Skill: Themes / Theming
+- Azure: 0.27
+- GCP: 0.22
+- MQTT: 0.21
+Skill: Audit Log Macro
+- Responsive Design: 0.22
+- CoAP: 0.20
+- GCP: 0.18
+Skill: Server - Authentication
+- CoAP: 0.63
+- GCP: 0.43
+- SVN: 0.34
+Skill: Data Center - Azure
+- Azure: 1.00
+- Cloud Architecture: 0.95
+- Scalability and Performance Optimization: 0.71
+Skill: Content - Blueprints - Playbook
+- UX/UI Design and Prototyping: 0.50
+- Responsive Design: 0.40
+- CoAP: 0.39
+Skill: Hyperledger
+- Blockchain security: 0.92
+- Scalability and Performance Optimization: 0.50
+- Smart contracts: 0.42
+Skill: sawtooth-core
+- User Centric Design: 0.47
+- Scalability and Performance Optimization: 0.44
+- Hardware/Software Integration: 0.43
+Skill: Valdator Server
+- RESTful Architecture: 0.95
+- Virtualization VMware: 0.95
+- Hardware/Software Integration: 0.91
+Skill: C++ SDK
+- Routing and Switching: 0.41
+- Scalability and Performance Optimization: 0.38
+- pytest: 0.36
+Skill: PoET
+- Penetration Testing: 0.97
+- Cryptocurrency development: 0.94
+- Cryptography: 0.91
+Skill: Validator Networking
+- SVN: 0.88
+- MQTT: 0.55
+- VPN: 0.53
+Skill: Validator Journal
+- SVN: 0.67
+- Scalability and Performance Optimization: 0.38
+- Quality Assurance: 0.37
+Skill: Javascript SDK
+- JavaScript: 0.87
+- scikit-learn: 0.69
+- Cross Browser Compatibility: 0.58
+Skill: Python SDK
+- scikit-learn: 0.61
+- Hardware/Software Integration: 0.56
+- pytest: 0.54
+Skill: Validator Txn Execution
+- MQTT: 0.65
+- Wireless Networking: 0.63
+- Smart contracts: 0.42
+Skill: Seth
+- User Centric Design: 0.63
+- Responsive Design: 0.62
+- Responsive Web Design: 0.51
+Skill: Burrow EVM
+- Hardware/Software Integration: 0.96
+- User Centric Design: 0.90
+- Technical Documentation: 0.84
+Skill: sawtooth CLI
+- Natural Language Processing: 0.80
+- Quality Assurance: 0.53
+- Routing and Switching: 0.51
+Skill: Continuous Integration
+- CoAP: 0.70
+- Integration Testing and System Testing: 0.67
+- Responsive Design: 0.66
+Skill: Validator Global State
+- GCP: 0.65
+- SVN: 0.61
+- Quality Assurance: 0.56
+Skill: Poet2
+- User Centric Design: 0.34
+- TCP/IP: 0.18
+- Scalability and Performance Optimization: 0.18
+Skill: Go SDK
+- Software Design Patterns: 0.93
+- Hardware/Software Integration: 0.90
+- Integration Testing and System Testing: 0.80
+Skill: XO Family
+- User Centric Design: 0.83
+- Oracle: 0.83
+- Cross Browser Compatibility: 0.81
+Skill: Supply_Chain
+- Smart contracts: 0.74
+- Blockchain security: 0.49
+- JavaScript: 0.42
+Skill: Java SDK
+- Java: 0.97
+- JavaScript: 0.87
+- Routing and Switching: 0.51
+Skill: Python Signing
+- Integration Testing and System Testing: 0.51
+- User Centric Design: 0.50
+- Hardware/Software Integration: 0.43
+Skill: Design
+- Sketch: 0.55
+- Azure: 0.55
+- GCP: 0.54
+Skill: Integration Tests
+- Scalability and Performance Optimization: 0.71
+- Integration Testing and System Testing: 0.67
+- Quality Assurance: 0.52
+Skill: Settings Family
+- User Centric Design: 0.69
+- GCP: 0.58
+- Responsive Design: 0.37
+Skill: Private Transaction
+- VPN: 0.82
+- CoAP: 0.77
+- Blockchain security: 0.74
+Skill: OMI Summer Lab
+- IoT: 0.93
+- Responsive Design: 0.67
+- User Centric Design: 0.61
+Skill: libindy
+- User Centric Design: 0.60
+- VPN: 0.57
+- Responsive Design: 0.54
+Skill: libvcx
+- VoIP (Voice over Internet Protocol): 0.87
+- Hardware/Software Integration: 0.65
+- Responsive Design: 0.61
+Skill: python wrapper
+- Backup and Recovery: 0.52
+- Routing and Switching: 0.44
+- GCP: 0.43
+Skill: build-delivery-pipelines
+- GCP: 0.43
+- Scalability and Performance Optimization: 0.40
+- Responsive Design: 0.40
+Skill: aries
+- Azure: 0.65
+- Backup and Recovery: 0.58
+- Troubleshooting: 0.53
+Skill: wallet
+- GCP: 0.64
+- Budgeting: 0.63
+- User Centric Design: 0.60
+Skill: payments
+- GCP: 0.66
+- MQTT: 0.60
+- Azure: 0.57
+Skill: indycrypto
+- Cryptocurrency development: 0.91
+- Blockchain security: 0.86
+- Cryptography: 0.79
+Skill: plenum
+- GCP: 0.53
+- User Centric Design: 0.51
+- User Research: 0.48
+Skill: libsovrin
+- User Centric Design: 0.52
+- Backup and Recovery: 0.45
+- Hardware/Software Integration: 0.41
+Skill: validator-info
+- GCP: 0.48
+- Blockchain security: 0.40
+- Microsoft SQL Server: 0.34
+Skill: test-automation
+- AI: 0.74
+- Routing and Switching: 0.45
+- GCP: 0.45
+Skill: fabric-ledger
+- Blockchain security: 0.77
+- Scalability and Performance Optimization: 0.42
+- Responsive Design: 0.31
+Skill: fabric-orderer
+- GCP: 0.40
+- Scalability and Performance Optimization: 0.37
+- CoAP: 0.30
+Skill: fabric-samples
+- Scalability and Performance Optimization: 0.35
+- User Centric Design: 0.33
+- Routing and Switching: 0.31
+Skill: fabric-common
+- CoAP: 0.59
+- Scalability and Performance Optimization: 0.41
+- Routing and Switching: 0.40
+Skill: fabric-docs
+- User Centric Design: 0.50
+- Routing and Switching: 0.48
+- Scalability and Performance Optimization: 0.47
+Skill: fabric-peer
+- Blockchain security: 0.37
+- Scalability and Performance Optimization: 0.37
+- User Centric Design: 0.34
+Skill: fabric-ca
+- Routing and Switching: 0.48
+- Scalability and Performance Optimization: 0.48
+- User Centric Design: 0.47
+Skill: fabric-sdk-go
+- Hardware/Software Integration: 0.92
+- Docker: 0.83
+- Cloud Native Application Development: 0.70
+Skill: fabric-gossip
+- GCP: 0.14
+- User Centric Design: 0.09
+- CoAP: 0.08
+Skill: fabric-quality
+- GCP: 0.57
+- Azure: 0.43
+- iOS Mobile App Development: 0.34
+Skill: fabric-crypto
+- Cryptocurrency development: 0.84
+- Blockchain security: 0.75
+- Cryptography: 0.75
+Skill: fabric-cli
+- Routing and Switching: 0.52
+- Scalability and Performance Optimization: 0.50
+- Backup and Recovery: 0.48
+Skill: fabric-build
+- GCP: 0.50
+- CoAP: 0.33
+- Flutter: 0.29
+Skill: fabric-release
+- Continuous Integration/Continuous Deployment: 0.53
+- User Centric Design: 0.47
+- Responsive Design: 0.46
+Skill: fabric-sdk-node
+- Hardware/Software Integration: 0.79
+- Node.js: 0.72
+- Docker: 0.71
+Skill: fabric-tools
+- Scalability and Performance Optimization: 0.43
+- Routing and Switching: 0.41
+- User Centric Design: 0.31
+Skill: fabric-test
+- Scalability and Performance Optimization: 0.44
+- Routing and Switching: 0.40
+- User Centric Design: 0.37
+Skill: fabric-ci
+- Scalability and Performance Optimization: 0.46
+- Routing and Switching: 0.46
+- Responsive Design: 0.44
+Skill: fabric-installers
+- GCP: 0.37
+- Scalability and Performance Optimization: 0.26
+- Responsive Design: 0.26
+Skill: homebrew-fabric
+- CoAP: 0.59
+- User Centric Design: 0.50
+- Responsive Design: 0.42
+Skill: fabric-sdk-java
+- Java: 0.97
+- Hardware/Software Integration: 0.88
+- Integration Testing and System Testing: 0.73
+Skill: fabric-token
+- Cryptocurrency development: 0.70
+- Blockchain security: 0.50
+- User Centric Design: 0.42
+Skill: fabric-sdk-py
+- Hardware/Software Integration: 0.81
+- Django: 0.61
+- Docker: 0.58
+Skill: fabric-amcl
+- Agile Methodologies: 0.64
+- Build Automation: 0.55
+- Machine Learning: 0.50
+Skill: fabric-ca-build
+- Responsive Design: 0.47
+- CoAP: 0.47
+- Scalability and Performance Optimization: 0.39
+Skill: fabric-modules
+- Scalability and Performance Optimization: 0.35
+- GCP: 0.27
+- Responsive Design: 0.22
+Skill: jenkins
+- User Centric Design: 0.60
+- Responsive Design: 0.55
+- Backup and Recovery: 0.54
+Skill: ap_verify
+- Quality Assurance: 0.85
+- Security Best Practices: 0.78
+- AI: 0.72
+Skill: ts_main_telescope
+- ETL: 0.61
+- iOS Mobile App Development: 0.47
+- Android Mobile App Development: 0.46
+Skill: cp_pipe
+- TCP/IP: 0.69
+- Scalability and Performance Optimization: 0.55
+- Security Best Practices: 0.42
+Skill: daf_butler
+- iOS Mobile App Development: 0.60
+- AI: 0.57
+- User Centric Design: 0.57
+Skill: Middleware
+- Backup and Recovery: 0.74
+- TCP/IP: 0.73
+- Routing and Switching: 0.73
+Skill: efd
+- Embedded Systems: 0.78
+- Incident Response: 0.67
+- iOS Mobile App Development: 0.56
+Skill: dax_data_generator
+- Django: 0.72
+- Cassandra: 0.67
+- Big Data Technologies: 0.66
+Skill: pipe_tasks
+- JavaScript: 0.55
+- Routing and Switching: 0.52
+- Scalability and Performance Optimization: 0.50
+Skill: Qserv
+- Responsive Design: 0.91
+- Server Administration: 0.84
+- System Administration: 0.80
+Skill: daf_base
+- User Centric Design: 0.65
+- Django: 0.64
+- Responsive Design: 0.58
+Skill: HeaderService
+- Responsive Design: 0.83
+- GCP: 0.62
+- Responsive Web Design: 0.60
+Skill: afw
+- Web Accessibility: 0.82
+- Wireless Networking: 0.78
+- VoIP (Voice over Internet Protocol): 0.69
+Skill: meas_deblender
+- Machine Learning: 0.88
+- MySQL: 0.74
+- Scalability and Performance Optimization: 0.68
+Skill: meas_extensions_scarlet
+- Machine Learning: 0.78
+- Scalability and Performance Optimization: 0.69
+- Data Modeling: 0.45
+Skill: ts_eas
+- Technical Documentation: 0.75
+- Test-Driven Development (TDD): 0.71
+- Web Accessibility: 0.70
+Skill: obs_base
+- IoT: 0.46
+- User Centric Design: 0.43
+- iOS Mobile App Development: 0.37
+Skill: ts_middleware
+- TCP/IP: 0.65
+- GCP: 0.57
+- Routing and Switching: 0.56
+Skill: pipelines_check
+- iOS Mobile App Development: 0.27
+- Azure: 0.27
+- Security Best Practices: 0.25
+Skill: ts_dome
+- Technical Documentation: 0.87
+- Test-Driven Development (TDD): 0.79
+- Server Administration: 0.70
+Skill: daf_persistence
+- Django: 0.45
+- AI: 0.40
+- iOS Mobile App Development: 0.36
+Skill: ap_association
+- AI: 0.92
+- CoAP: 0.65
+- RESTful Architecture: 0.41
+Skill: ci_hsc
+- Incident Response: 0.90
+- User Centric Design: 0.79
+- Hardware/Software Integration: 0.76
+Skill: fgcmcal
+- GCP: 0.83
+- User Centric Design: 0.73
+- Sensor Integration: 0.67
+Skill: ip_isr
+- IoT: 0.93
+- VoIP (Voice over Internet Protocol): 0.92
+- TCP/IP: 0.91
+Skill: jointcal
+- Integration Testing and System Testing: 0.70
+- Hardware/Software Integration: 0.60
+- Scalability and Performance Optimization: 0.56
+Skill: meas_astrom
+- AWS: 0.96
+- MySQL: 0.94
+- RESTful Architecture: 0.91
+Skill: meas_extensions_astrometryNet
+- Machine Learning: 0.85
+- Technical Documentation: 0.29
+- MySQL: 0.23
+Skill: butler
+- MQTT: 0.52
+- User Centric Design: 0.46
+- CoAP: 0.46
+Skill: obs_subaru
+- User Centric Design: 0.80
+- Responsive Design: 0.63
+- User Research: 0.44
+Skill: obs_lsst
+- AWS: 0.96
+- IoT: 0.78
+- Integration Testing and System Testing: 0.76
+Skill: pipe_drivers
+- TCP/IP: 0.56
+- Scalability and Performance Optimization: 0.51
+- User Centric Design: 0.47
+Skill: System Integration and Test
+- Integration Testing and System Testing: 1.00
+- MQTT: 0.61
+- CoAP: 0.57
+Skill: Developer Infrastructure
+- GCP: 0.77
+- DevOps: 0.73
+- Routing and Switching: 0.54
+Skill: obs_decam
+- Cassandra: 0.83
+- User Centric Design: 0.82
+- Technical Documentation: 0.69
+Skill: partition
+- ETL: 0.71
+- GCP: 0.65
+- CoAP: 0.57
+Skill: pipe_base
+- JavaScript: 0.57
+- TCP/IP: 0.51
+- User Centric Design: 0.48
+Skill: ts_pointing
+- User Centric Design: 0.44
+- iOS Mobile App Development: 0.43
+- Android Mobile App Development: 0.40
+Skill: DM
+- Data Manipulation: 0.95
+- User Centric Design: 0.95
+- Responsive Design: 0.91
+Skill: ctrl_bps
+- VoIP (Voice over Internet Protocol): 0.66
+- Backup and Recovery: 0.66
+- User Centric Design: 0.51
+Skill: documenteer
+- User Centric Design: 0.53
+- Routing and Switching: 0.50
+- GCP: 0.48
+Skill: ndarray
+- Data Modeling: 0.51
+- Scalability and Performance Optimization: 0.50
+- Big Data Technologies: 0.49
+Skill: meas_algorithms
+- Machine Learning: 0.88
+- AI: 0.75
+- Memory Management and Performance Profiling: 0.59
+Skill: jupyter_firefly_extensions
+- Java: 0.83
+- Scalability and Performance Optimization: 0.57
+- MySQL: 0.54
+Skill: SUIT
+- User Centric Design: 0.99
+- Incident Response: 0.91
+- Integration Testing and System Testing: 0.84
+Skill: ts_deployment
+- Continuous Integration/Continuous Deployment: 0.65
+- Test-Driven Development (TDD): 0.53
+- Scalability and Performance Optimization: 0.53
+Skill: pipe_analysis
+- Azure: 0.36
+- Node.js: 0.33
+- GCP: 0.31
+Skill: nublado
+- Cloud Native Application Development: 0.70
+- User Centric Design: 0.54
+- React Native: 0.43
+Skill: ts_environment
+- Test-Driven Development (TDD): 0.49
+- User Centric Design: 0.48
+- iOS Mobile App Development: 0.42
+Skill: ctrl_mpexec
+- React: 0.76
+- Virtualization VMware: 0.76
+- Scalability and Performance Optimization: 0.63
+Skill: ip_diffim
+- VoIP (Voice over Internet Protocol): 0.77
+- TCP/IP: 0.76
+- Scalability and Performance Optimization: 0.59
+Skill: Notebooks
+- User Centric Design: 0.81
+- Responsive Design: 0.43
+- Scalability and Performance Optimization: 0.33
+Skill: atmospec
+- User Centric Design: 0.57
+- Sensor Integration: 0.48
+- Backup and Recovery: 0.46
+Skill: DM Subsystem Science
+- Memory Management and Performance Profiling: 0.28
+- Scalability and Performance Optimization: 0.18
+- Data Modeling: 0.18
+Skill: meas_base
+- MySQL: 0.91
+- Data Modeling: 0.74
+- Machine Learning: 0.73
+Skill: ts_qa
+- Test-Driven Development (TDD): 0.78
+- MQTT: 0.73
+- Web Accessibility: 0.73
+Skill: www_lsst_io
+- Network Security: 0.83
+- IoT: 0.79
+- Web Accessibility: 0.78
+Skill: validate_drp
+- Backup and Recovery: 0.88
+- Responsive Design: 0.82
+- Quality Assurance: 0.80
+Skill: ap_pipe
+- TCP/IP: 0.74
+- Scalability and Performance Optimization: 0.71
+- JavaScript: 0.65
+Skill: starlink_ast
+- Wireless Networking: 0.82
+- Scalability and Performance Optimization: 0.62
+- Hardware/Software Integration: 0.56
+Skill: lsst_obs
+- AWS: 0.91
+- IoT: 0.76
+- Microsoft SQL Server: 0.73
+Skill: obs_ctio0m9
+- IoT: 0.98
+- Incident Response: 0.97
+- Oracle: 0.87
+Skill: rapid_analysis
+- Microsoft SQL Server: 0.33
+- iOS Mobile App Development: 0.26
+- GCP: 0.26
+Skill: cat
+- GCP: 0.68
+- CoAP: 0.61
+- Scala: 0.60
+Skill: dax
+- VoIP (Voice over Internet Protocol): 0.85
+- Data Visualization: 0.83
+- Data Modeling: 0.82
+Skill: ts_auxiliary_telescope
+- ETL: 0.82
+- CoAP: 0.20
+- iOS Mobile App Development: 0.18
+Skill: astshim
+- AWS: 0.80
+- Scalability and Performance Optimization: 0.76
+- Hardware/Software Integration: 0.74
+Skill: lsstsw
+- Integration Testing and System Testing: 0.69
+- User Centric Design: 0.63
+- Server Administration: 0.60
+Skill: squash
+- GCP: 0.70
+- CoAP: 0.59
+- MQTT: 0.47
+Skill: ts_aos
+- Azure: 0.95
+- AWS: 0.81
+- Incident Response: 0.79
+Skill: pex_config
+- React: 0.73
+- CoAP: 0.64
+- Routing and Switching: 0.58
+Skill: mops
+- Scalability and Performance Optimization: 0.43
+- Manual Testing: 0.35
+- Data Manipulation and Cleaning: 0.35
+Skill: qa_explorer
+- Android Mobile App Development: 0.63
+- User Centric Design: 0.60
+- User Research: 0.57
+Skill: astro_metadata_translator
+- AWS: 0.62
+- ETL: 0.47
+- GCP: 0.22
+Skill: obs_cfht
+- Incident Response: 0.92
+- IoT: 0.89
+- User Centric Design: 0.82
+Skill: scipipe_conda_env
+- Cassandra: 0.94
+- TCP/IP: 0.92
+- Scalability and Performance Optimization: 0.69
+Skill: Science Platform
+- Cassandra: 0.49
+- GCP: 0.48
+- SVN: 0.46
+Skill: dm_dev_guide
+- Technical Documentation: 0.94
+- Hardware/Software Integration: 0.51
+- System Administration: 0.49
+Skill: base
+- REST: 0.55
+- GCP: 0.54
+- CoAP: 0.52
+Skill: lsst_dm_stack_demo
+- Data Visualization: 0.86
+- Data Modeling: 0.84
+- Machine Learning: 0.83
+Skill: sims_catUtils
+- Scala: 0.85
+- User Centric Design: 0.47
+- Scalability and Performance Optimization: 0.45
+Skill: Alert Production
+- CoAP: 0.72
+- MQTT: 0.59
+- Security Best Practices: 0.59
+Skill: obs_comCam
+- Cassandra: 0.91
+- Cloud Architecture: 0.83
+- Computer Vision: 0.81
+Skill: Science Pipelines
+- SVN: 0.55
+- GCP: 0.44
+- MQTT: 0.43
+Skill: sphgeom
+- User Centric Design: 0.65
+- VoIP (Voice over Internet Protocol): 0.56
+- iOS Mobile App Development: 0.49
+Skill: lsst-texmf
+- Technical Documentation: 0.77
+- Integration Testing and System Testing: 0.76
+- SQL: 0.74
+Skill: utils
+- User Centric Design: 0.63
+- Routing and Switching: 0.53
+- Kotlin: 0.52
+Skill: lsst_build
+- Microsoft SQL Server: 0.65
+- Build Automation: 0.63
+- Integration Testing and System Testing: 0.55
+Skill: ts_management
+- System Administration: 0.53
+- Server Administration: 0.28
+- Scalability and Performance Optimization: 0.20
+Skill: pipelines_lsst_io
+- Scalability and Performance Optimization: 0.78
+- Integration Testing and System Testing: 0.55
+- IoT: 0.48
+Skill: ts_documentation
+- Technical Documentation: 0.99
+- User Centric Design: 0.36
+- iOS Mobile App Development: 0.29
+Skill: alert_packet
+- Wireless Networking: 0.75
+- UI Design: 0.65
+- VPN: 0.62
+Skill: lsst
+- Microsoft SQL Server: 0.73
+- Integration Testing and System Testing: 0.65
+- Server Administration: 0.57
+Skill: ts_visualization
+- User Centric Design: 0.49
+- Data Visualization: 0.39
+- Routing and Switching: 0.38
+Skill: ts_facilities
+- User Centric Design: 0.48
+- Responsive Design: 0.42
+- RESTful Architecture: 0.42
+Skill: eups
+- IoT: 0.98
+- VoIP (Voice over Internet Protocol): 0.91
+- Embedded Systems: 0.91
+Skill: alert_stream
+- User Centric Design: 0.61
+- UI Design: 0.52
+- Scalability and Performance Optimization: 0.50
+Skill: ImgServ
+- Integration Testing and System Testing: 0.96
+- Responsive Design: 0.96
+- IT Support: 0.93
+Skill: Requirements Documents
+- iOS Mobile App Development: 0.35
+- GCP: 0.33
+- Android Mobile App Development: 0.31
+Skill: Design Documents
+- GCP: 0.52
+- User Centric Design: 0.40
+- UX/UI Design and Prototyping: 0.38
+Skill: ci_hsc_gen3
+- Incident Response: 0.82
+- Integration Testing and System Testing: 0.77
+- Hardware/Software Integration: 0.76
+Skill: testdata_jointcal
+- Integration Testing and System Testing: 0.75
+- Data Modeling: 0.61
+- Scalability and Performance Optimization: 0.58
+Skill: lua
+- ETL: 0.78
+- Natural Language Processing: 0.70
+- Routing and Switching: 0.65
+Skill: mysql-proxy
+- SQL: 0.91
+- MySQL: 0.88
+- Microsoft SQL Server: 0.75
+Skill: verify
+- Quality Assurance: 0.85
+- Security Best Practices: 0.79
+- SVN: 0.71
+Skill: log
+- GCP: 0.71
+- Routing and Switching: 0.57
+- MQTT: 0.56
+Skill: Firefly
+- Flutter: 0.90
+- Responsive Design: 0.88
+- Cross Browser Compatibility: 0.85
+Skill: felis
+- User Centric Design: 0.64
+- Flask: 0.47
+- iOS Mobile App Development: 0.45
+Skill: Stack Documentation and UX
+- User Centric Design: 0.95
+- UX Design: 0.70
+- Responsive Design: 0.31
+Skill: Data Access
+- Big Data Technologies: 0.86
+- Cassandra: 0.62
+- MQTT: 0.61
+Skill: Third Party Software
+- Cassandra: 0.63
+- Backup and Recovery: 0.58
+- React: 0.57
+Skill: psfex
+- Performance Testing: 0.95
+- Scalability and Performance Optimization: 0.86
+- Integration Testing and System Testing: 0.84
+Skill: Data Release Production
+- Continuous Integration/Continuous Deployment: 0.67
+- Big Data Technologies: 0.66
+- DevOps: 0.66
+Skill: security-engineering
+- GCP: 0.43
+- PyTorch: 0.27
+- MQTT: 0.23
+Skill: workspace
+- CoAP: 0.68
+- GCP: 0.63
+- Responsive Design: 0.61
+Skill: ci_lsst
+- Microsoft SQL Server: 0.76
+- SQL: 0.65
+- Incident Response: 0.62
+Skill: boost
+- Scalability and Performance Optimization: 0.81
+- Azure: 0.71
+- Backup and Recovery: 0.70
+Skill: dbserv
+- Big Data Technologies: 0.91
+- Server Administration: 0.88
+- Blockchain security: 0.83
+Skill: skymap
+- GCP: 0.55
+- Azure: 0.46
+- Scalability and Performance Optimization: 0.41
+Skill: sconsUtils
+- Scala: 0.92
+- Cassandra: 0.88
+- CSS: 0.87
+Skill: ap
+- Azure: 0.74
+- VoIP (Voice over Internet Protocol): 0.68
+- Android Mobile App Development: 0.67
+Skill: cbp
+- Cross Browser Compatibility: 0.70
+- User Centric Design: 0.58
+- Backup and Recovery: 0.54
+Skill: Firefly-proxy
+- Responsive Design: 0.84
+- Flutter: 0.81
+- Scalability and Performance Optimization: 0.80
+Skill: lsst_ci
+- Microsoft SQL Server: 0.81
+- SQL: 0.81
+- Integration Testing and System Testing: 0.72
+Skill: sample-avro-alert
+- AI: 0.87
+- Responsive Web Design: 0.46
+- Natural Language Processing: 0.40
+Skill: xrootd
+- Oracle: 0.83
+- User Centric Design: 0.58
+- Routing and Switching: 0.57
+Skill: lsst_distrib
+- Integration Testing and System Testing: 0.69
+- Microsoft SQL Server: 0.67
+- Technical Documentation: 0.67
+Skill: ts_calibration
+- Scalability and Performance Optimization: 0.47
+- iOS Mobile App Development: 0.37
+- Integration Testing and System Testing: 0.33
+Skill: ctrl_iip
+- IoT: 0.97
+- TCP/IP: 0.94
+- VoIP (Voice over Internet Protocol): 0.94
+Skill: docsteady
+- User Centric Design: 0.51
+- Backup and Recovery: 0.50
+- System Administration: 0.45
+Skill: display_firefly
+- UI Design: 0.89
+- Responsive Design: 0.89
+- User Centric Design: 0.85
+Skill: OODS
+- Oracle: 0.99
+- AWS: 0.98
+- Android Mobile App Development: 0.58
+Skill: synpipe
+- Routing and Switching: 0.69
+- Scalability and Performance Optimization: 0.69
+- Hardware/Software Integration: 0.57
+Skill: JIRA
+- Incident Response: 0.98
+- Responsive Design: 0.89
+- Integration Testing and System Testing: 0.75
+Skill: firefly_client
+- Responsive Design: 0.75
+- UI Design: 0.74
+- User Centric Design: 0.73
+Skill: dax_ppdb
+- PostgreSQL: 0.77
+- Data Modeling: 0.71
+- Data Visualization: 0.71
+Skill: jupyterlabutils
+- Java: 0.93
+- Technical Documentation: 0.55
+- MySQL: 0.45
+Skill: meas_modelfit
+- MySQL: 0.98
+- Responsive Design: 0.97
+- Machine Learning: 0.94
+Skill: gsl
+- Web Accessibility: 0.67
+- Responsive Design: 0.65
+- VPN: 0.65
+Skill: stack release
+- Blockchain security: 0.74
+- Big Data Technologies: 0.71
+- Integration Testing and System Testing: 0.69
+Skill: lsp-landing-page
+- Responsive Web Design: 0.72
+- Microsoft SQL Server: 0.62
+- User Centric Design: 0.59
+Skill: Calibration Products Production
+- CoAP: 0.58
+- GCP: 0.40
+- MQTT: 0.27
+Skill: ts_scheduler
+- Scalability and Performance Optimization: 0.58
+- Integration Testing and System Testing: 0.36
+- Software Design Patterns: 0.30
+Skill: obs_sdss
+- Sensor Integration: 0.74
+- Integration Testing and System Testing: 0.70
+- System Administration: 0.68
+Skill: ctrl_execute
+- Routing and Switching: 0.42
+- iOS Mobile App Development: 0.42
+- Microsoft SQL Server: 0.41
+Skill: ctrl_orca
+- Oracle: 0.95
+- User Centric Design: 0.50
+- Backup and Recovery: 0.48
+Skill: ctrl_pool
+- Scalability and Performance Optimization: 0.52
+- Backup and Recovery: 0.49
+- Blockchain security: 0.44
+Skill: db
+- Big Data Technologies: 0.67
+- Backup and Recovery: 0.67
+- User Centric Design: 0.63
+Skill: display_matplotlib
+- Matplotlib: 0.99
+- Data Visualization: 0.94
+- Routing and Switching: 0.48
+Skill: shapelet
+- Responsive Design: 0.88
+- User Centric Design: 0.88
+- Web Accessibility: 0.71
+Skill: ts_ait
+- AI: 0.97
+- Incident Response: 0.93
+- IoT: 0.90
+Skill: QA
+- Quality Assurance: 0.92
+- Responsive Design: 0.37
+- Microsoft SQL Server: 0.33
+Skill: JupyterLab
+- Java: 0.88
+- AI: 0.84
+- Big Data Technologies: 0.81
+Skill: geom
+- Backup and Recovery: 0.70
+- User Centric Design: 0.69
+- Routing and Switching: 0.66
+Skill: pex_policy
+- React: 0.92
+- CoAP: 0.88
+- Scalability and Performance Optimization: 0.41
+Skill: technote
+- IoT: 0.96
+- IT Support: 0.91
+- React: 0.83
+Skill: ts_arch
+- Technical Documentation: 0.84
+- Test-Driven Development (TDD): 0.65
+- RESTful Architecture: 0.65
+Skill: obs_test
+- IoT: 0.81
+- Troubleshooting: 0.64
+- iOS Mobile App Development: 0.44
+Skill: meas_extensions_photometryKron
+- Machine Learning: 0.59
+- MySQL: 0.22
+- Technical Documentation: 0.14
+Skill: obs_monocam
+- iOS Mobile App Development: 0.69
+- IoT: 0.62
+- Android Mobile App Development: 0.60
+Skill: meas_mosaic
+- Machine Learning: 0.86
+- User Centric Design: 0.68
+- Responsive Design: 0.68
+Skill: pex_exceptions
+- React: 0.75
+- CoAP: 0.63
+- iOS Mobile App Development: 0.29
+Skill: Management
+- Azure: 0.54
+- GCP: 0.50
+- Microsoft SQL Server: 0.47
+Skill: meas_extensions_shapeHSM
+- Machine Learning: 0.77
+- Hardware/Software Integration: 0.70
+- Scalability and Performance Optimization: 0.70
+Skill: meas_extensions_ngmix
+- Machine Learning: 0.76
+- Scalability and Performance Optimization: 0.75
+- VPN: 0.57
+Skill: L1 Database
+- Microsoft SQL Server: 0.25
+- User Centric Design: 0.18
+- Big Data Technologies: 0.16
+Skill: obs_lsstSim
+- Scala: 0.95
+- Integration Testing and System Testing: 0.94
+- Sensor Integration: 0.83
+Skill: coadd_utils
+- Scalability and Performance Optimization: 0.42
+- Technical Documentation: 0.37
+- Web Accessibility: 0.34
+Skill: meas_extensions_convolved
+- Machine Learning: 0.90
+- Scalability and Performance Optimization: 0.62
+- MySQL: 0.50
+Skill: meas_extensions_simpleShape
+- Machine Learning: 0.73
+- User Centric Design: 0.51
+- MySQL: 0.48
+Skill: metaserv
+- User Centric Design: 0.75
+- Responsive Design: 0.75
+- System Administration: 0.57
+Skill: obs_auxtel
+- IoT: 0.98
+- AWS: 0.96
+- VoIP (Voice over Internet Protocol): 0.96
+Skill: Review Documents
+- GCP: 0.43
+- Responsive Design: 0.38
+- User Centric Design: 0.35
+Skill: meas_extensions_psfex
+- Scalability and Performance Optimization: 0.91
+- Memory Management and Performance Profiling: 0.83
+- Performance Testing: 0.81
+Skill: webserv
+- Wireless Networking: 0.88
+- SVN: 0.75
+- REST: 0.73
+Skill: verify_metrics
+- GCP: 0.48
+- Azure: 0.44
+- Security Best Practices: 0.33
+Skill: ts_hardware
+- Backup and Recovery: 0.62
+- Hardware/Software Integration: 0.59
+- Scalability and Performance Optimization: 0.45
+Skill: scisql
+- Scala: 0.97
+- SQL: 0.97
+- Integration Testing and System Testing: 0.88
+Skill: ctrl_platform
+- Cross Browser Compatibility: 0.68
+- VoIP (Voice over Internet Protocol): 0.59
+- CoAP: 0.53
+Skill: Test Data
+- MQTT: 0.67
+- pytest: 0.64
+- Test-Driven Development (TDD): 0.64
+Skill: camera
+- GCP: 0.58
+- User Centric Design: 0.57
+- Responsive Design: 0.54
+Skill: pipe_supertask
+- Performance Testing: 0.90
+- Troubleshooting: 0.76
+- Scalability and Performance Optimization: 0.73
+Skill: LDF
+- Responsive Design: 0.93
+- User Centric Design: 0.91
+- Security Best Practices: 0.83
+Skill: pex_logging
+- CoAP: 0.76
+- React: 0.70
+- Security Best Practices: 0.34
+Skill: testdata_subaru
+- Performance Testing: 0.75
+- Test-Driven Development (TDD): 0.69
+- User Centric Design: 0.68
+Skill: Systems Engineering
+- Integration Testing and System Testing: 0.48
+- Scalability and Performance Optimization: 0.46
+- GCP: 0.44
+Skill: galsim
+- User Centric Design: 0.55
+- iOS Mobile App Development: 0.45
+- Android Mobile App Development: 0.45
+Skill: log4cxx
+- GCP: 0.78
+- Backup and Recovery: 0.63
+- VoIP (Voice over Internet Protocol): 0.60
+Skill: display_ginga
+- Git: 0.97
+- Responsive Design: 0.91
+- Computer Vision: 0.87
+Skill: supertask
+- AWS: 0.68
+- AI: 0.57
+- User Centric Design: 0.50
+Skill: display_ds9
+- Data Visualization: 0.90
+- Responsive Design: 0.84
+- User Centric Design: 0.83
+Skill: eigen
+- Embedded Systems: 0.65
+- User Centric Design: 0.48
+- iOS Mobile App Development: 0.48
+Skill: scikit_learn
+- scikit-learn: 0.98
+- AI: 0.87
+- Machine Learning: 0.78
+Skill: ctrl_provenance
+- Quality Assurance: 0.45
+- Blockchain security: 0.44
+- iOS Mobile App Development: 0.35
+Skill: numpydoc
+- Data Manipulation: 0.78
+- Technical Documentation: 0.70
+- Data Visualization: 0.64
+Skill: ctrl_evmon
+- VoIP (Voice over Internet Protocol): 0.86
+- Network Monitoring: 0.47
+- iOS Mobile App Development: 0.46
+Skill: skypix
+- User Centric Design: 0.55
+- Wireless Networking: 0.48
+- Backup and Recovery: 0.48
+Skill: doxygen
+- GCP: 0.49
+- CoAP: 0.34
+- iOS Mobile App Development: 0.32
+Skill: astrometry_net
+- RESTful Architecture: 0.39
+- SVN: 0.36
+- User Centric Design: 0.35
+Skill: Project Management tools
+- GCP: 0.59
+- CoAP: 0.41
+- MQTT: 0.38
+Skill: webservcommon
+- Wireless Networking: 0.83
+- RESTful Architecture: 0.77
+- SVN: 0.74
+Skill: mariadb
+- iOS Mobile App Development: 0.60
+- Android Mobile App Development: 0.57
+- User Centric Design: 0.55
+Skill: mariadbclient
+- Blockchain security: 0.90
+- Cross Browser Compatibility: 0.82
+- Responsive Design: 0.77
+Skill: qserv_testdata
+- SQL: 0.87
+- Data Visualization: 0.81
+- REST: 0.74
+Skill: lsstDoxygen
+- Technical Documentation: 0.47
+- iOS Mobile App Development: 0.22
+- User Centric Design: 0.20
+Skill: git
+- Git: 0.98
+- GCP: 0.76
+- Routing and Switching: 0.75
+Skill: wg-supertask
+- Wireless Networking: 0.83
+- Performance Testing: 0.72
+- Responsive Web Design: 0.69
+Skill: webcommon
+- Cross Browser Compatibility: 0.88
+- REST: 0.72
+- User Centric Design: 0.69
+Skill: lsst_apps
+- Microsoft SQL Server: 0.62
+- Android Mobile App Development: 0.62
+- Backup and Recovery: 0.62
+Skill: Risk Register
+- Risk Management: 0.33
+- Microsoft SQL Server: 0.18
+- Azure: 0.15
+Skill: IRSA
+- Incident Response: 0.97
+- Real-Time Systems: 0.96
+- Responsive Design: 0.89
+Skill: ctrl_stats
+- Data Visualization: 0.38
+- Network Monitoring: 0.33
+- Scalability and Performance Optimization: 0.30
+Skill: obs_ts3
+- IoT: 0.91
+- Server Administration: 0.71
+- Integration Testing and System Testing: 0.69
+Skill: ctrl_events
+- Routing and Switching: 0.42
+- Incident Response: 0.33
+- iOS Mobile App Development: 0.30
+Skill: daf_ingest
+- VoIP (Voice over Internet Protocol): 0.71
+- iOS Mobile App Development: 0.60
+- Android Mobile App Development: 0.58
+Skill: datarel
+- Backup and Recovery: 0.74
+- Data Modeling: 0.69
+- User Centric Design: 0.60
+Skill: non-dm
+- GCP: 0.23
+- CoAP: 0.22
+- Troubleshooting: 0.21
+Skill: obs_file
+- IoT: 0.84
+- Azure: 0.55
+- Backup and Recovery: 0.47
+Skill: coadd_chisquared
+- Blockchain security: 0.97
+- CSS: 0.93
+- Scalability and Performance Optimization: 0.81
+Skill: processFile
+- Routing and Switching: 0.57
+- Scalability and Performance Optimization: 0.57
+- GCP: 0.50
+Skill: Algorithm Testing
+- AI: 0.79
+- MQTT: 0.31
+- GCP: 0.30
+Skill: protobuf
+- React: 0.80
+- Backup and Recovery: 0.72
+- User Centric Design: 0.65
+Skill: mysqlclient
+- SQL: 0.93
+- MySQL: 0.93
+- Microsoft SQL Server: 0.82
+Skill: lsst.github.io
+- Integration Testing and System Testing: 0.74
+- Blockchain security: 0.68
+- Server Administration: 0.68
+Skill: Jupyter Widget
+- UI Design: 1.00
+- Web Development: 0.99
+- Responsive Web Design: 0.98
+Skill: matplotlib
+- Matplotlib: 1.00
+- Data Visualization: 0.92
+- Routing and Switching: 0.39
+Skill: buildbot
+- AI: 0.99
+- Build Automation: 0.96
+- Responsive Design: 0.86
+Skill: ngmix
+- Hardware/Software Integration: 0.74
+- Cross Browser Compatibility: 0.73
+- Integration Testing and System Testing: 0.73
+Skill: Nebula OpenStack
+- Cloud Architecture: 0.98
+- Responsive Design: 0.88
+- User Centric Design: 0.75
+Skill: meas_extensions_multiShapelet
+- Scalability and Performance Optimization: 0.84
+- Machine Learning: 0.73
+- Memory Management and Performance Profiling: 0.70
+Skill: wcslib
+- Technical Documentation: 0.91
+- Blockchain security: 0.82
+- Integration Testing and System Testing: 0.79
+Skill: mysql
+- MySQL: 0.99
+- SQL: 0.99
+- Microsoft SQL Server: 0.99
+Skill: anaconda
+- Pandas: 0.85
+- User Centric Design: 0.30
+- Scalability and Performance Optimization: 0.26
+Skill: astrometry_net_data
+- Network Monitoring: 0.31
+- RESTful Architecture: 0.29
+- REST: 0.25
+Skill: Data Archive
+- GCP: 0.48
+- CoAP: 0.48
+- Big Data Technologies: 0.42
+Skill: fftw
+- VoIP (Voice over Internet Protocol): 0.82
+- Big Data Technologies: 0.69
+- Wireless Networking: 0.66
+Skill: scons
+- Scala: 0.99
+- Cassandra: 0.98
+- CSS: 0.98
+Skill: meas_photocal
+- Machine Learning: 0.83
+- User Centric Design: 0.74
+- Scalability and Performance Optimization: 0.62
+Skill: webserv_client
+- REST: 0.92
+- RESTful Architecture: 0.91
+- VoIP (Voice over Internet Protocol): 0.89
+Skill: testing_endtoend
+- ETL: 0.86
+- JavaScript: 0.73
+- Test-Driven Development (TDD): 0.65
+Skill: dataserv
+- Cassandra: 0.82
+- GCP: 0.70
+- Data Visualization: 0.66
+Skill: lsst_thirdparty
+- SQL: 0.55
+- Flask: 0.46
+- Wireless Networking: 0.39
+Skill: antlr
+- Incident Response: 0.87
+- Natural Language Processing: 0.65
+- Troubleshooting: 0.55
+Skill: luaexpat
+- ETL: 0.80
+- VoIP (Voice over Internet Protocol): 0.76
+- Natural Language Processing: 0.67
+Skill: luasocket
+- Wireless Networking: 0.94
+- User Centric Design: 0.73
+- VoIP (Voice over Internet Protocol): 0.70
+Skill: zookeeper
+- User Centric Design: 0.57
+- Scalability and Performance Optimization: 0.35
+- GCP: 0.34
+Skill: SAT
+- Integration Testing and System Testing: 0.96
+- Sensor Integration: 0.82
+- Server Administration: 0.76
+Skill: TCT
+- User Centric Design: 0.83
+- Smart contracts: 0.82
+- TCP/IP: 0.74
+Skill: pipeQA
+- Quality Assurance: 0.95
+- Performance Testing: 0.33
+- Integration Testing and System Testing: 0.28
+Skill: XLDB
+- Big Data Technologies: 0.92
+- Data Modeling: 0.90
+- Integration Testing and System Testing: 0.79
+Skill: Mill
+- User Centric Design: 0.41
+- Scalability and Performance Optimization: 0.40
+- GCP: 0.37
+Skill: Report
+- Incident Response: 0.69
+- Azure: 0.65
+- Responsive Design: 0.61
+Skill: Common
+- CoAP: 0.94
+- VoIP (Voice over Internet Protocol): 0.84
+- GCP: 0.83
+Skill: Management Console
+- GCP: 0.76
+- System Administration: 0.54
+- Routing and Switching: 0.50
+Skill: Client
+- User Centric Design: 0.84
+- CoAP: 0.77
+- TCP/IP: 0.75
+Skill: Service Infrastructure
+- TCP/IP: 0.79
+- IT Support: 0.72
+- REST: 0.70
+Skill: Utility
+- User Centric Design: 0.79
+- GCP: 0.55
+- ETL: 0.40
+Skill: Services
+- TCP/IP: 0.61
+- Cassandra: 0.60
+- VoIP (Voice over Internet Protocol): 0.58
+Skill: Exec
+- VoIP (Voice over Internet Protocol): 0.83
+- JavaScript: 0.69
+- TCP/IP: 0.69
+Skill: Compass
+- User Centric Design: 0.86
+- GCP: 0.70
+- CoAP: 0.69
+Skill: Export to Language
+- ETL: 0.73
+- GCP: 0.60
+- MQTT: 0.57
+Skill: Connectivity
+- Wireless Networking: 0.89
+- IoT: 0.89
+- Responsive Design: 0.89
+Skill: Import/Export
+- CoAP: 0.59
+- MQTT: 0.58
+- Cassandra: 0.56
+Skill: Data
+- Big Data Technologies: 0.90
+- Data Modeling: 0.70
+- GCP: 0.67
+Skill: Indexes
+- Responsive Design: 0.57
+- Azure: 0.49
+- GCP: 0.46
+Skill: data-lake
+- ETL: 0.62
+- Backup and Recovery: 0.50
+- User Centric Design: 0.48
+Skill: Aggregation pipeline
+- Scalability and Performance Optimization: 0.79
+- GCP: 0.73
+- Big Data Technologies: 0.68
+Skill: Shell
+- Flask: 0.76
+- User Centric Design: 0.69
+- Integration Testing and System Testing: 0.44
+Skill: CRUD
+- Cryptocurrency development: 0.99
+- Responsive Design: 0.97
+- User Centric Design: 0.95
+Skill: UI / UX
+- User Centric Design: 0.97
+- UX Design: 0.94
+- UI Design: 0.86
+Skill: Schema
+- CSS: 0.63
+- Continuous Integration/Continuous Deployment: 0.51
+- GCP: 0.48
+Skill: Startup
+- Spark: 0.80
+- ETL: 0.69
+- Responsive Design: 0.61
+Skill: Collection
+- GCP: 0.60
+- MQTT: 0.59
+- Azure: 0.56
+Skill: Tech debt
+- ETL: 0.60
+- Troubleshooting: 0.59
+- GCP: 0.56
+Skill: Documents
+- GCP: 0.57
+- Responsive Design: 0.53
+- User Centric Design: 0.52
+Skill: Table View
+- Web Accessibility: 0.86
+- User Centric Design: 0.86
+- Responsive Design: 0.79
+Skill: Schema Validation
+- SVN: 0.61
+- GCP: 0.45
+- MQTT: 0.44
+Skill: Telemetry Data
+- IoT: 0.81
+- MQTT: 0.58
+- GCP: 0.56
+Skill: Explain
+- Continuous Integration/Continuous Deployment: 0.59
+- Routing and Switching: 0.58
+- User Centric Design: 0.58
+Skill: Enterprise
+- Azure: 0.85
+- CoAP: 0.61
+- Scalability and Performance Optimization: 0.52
+Skill: Auto Updates
+- AI: 0.87
+- Backup and Recovery: 0.73
+- Continuous Integration/Continuous Deployment: 0.71
+Skill: Realm
+- Real-Time Systems: 0.73
+- User Centric Design: 0.49
+- Responsive Design: 0.34
+Skill: Atlas
+- User Centric Design: 0.21
+- Scalability and Performance Optimization: 0.11
+- Integration Testing and System Testing: 0.10
+Skill: Autocomplete
+- AI: 0.89
+- CoAP: 0.56
+- GCP: 0.42
+Skill: Query Bar
+- Troubleshooting: 0.69
+- SQL: 0.67
+- Microsoft SQL Server: 0.49
+Skill: Query History
+- SQL: 0.57
+- Microsoft SQL Server: 0.55
+- Azure: 0.50
+Skill: Favorites
+- User Centric Design: 0.71
+- Flutter: 0.57
+- Responsive Design: 0.53
+Skill: Dump/Restore
+- Disaster Recovery Planning: 0.92
+- Data Manipulation and Cleaning: 0.88
+- Incident Response: 0.84
+Skill: React
+- React: 0.99
+- Responsive Design: 0.94
+- Backup and Recovery: 0.88
+Skill: DDL
+- User Centric Design: 0.88
+- Data Modeling: 0.86
+- Responsive Design: 0.86
+Skill: Views
+- UI Design: 0.54
+- Responsive Web Design: 0.54
+- User Centric Design: 0.51
+Skill: Grammar
+- GCP: 0.54
+- MQTT: 0.39
+- Azure: 0.25
+Skill: CI
+- Cryptocurrency development: 0.93
+- Incident Response: 0.91
+- User Centric Design: 0.80
+Skill: Electron
+- ETL: 0.76
+- Hardware/Software Integration: 0.66
+- User Centric Design: 0.64
+Skill: Field Level Encryption
+- Security Best Practices: 0.84
+- Cryptography: 0.82
+- GCP: 0.81
+Skill: Background Operations
+- Backup and Recovery: 0.65
+- Microsoft SQL Server: 0.27
+- pytest: 0.23
+Skill: Sidebar
+- Azure: 0.63
+- Backup and Recovery: 0.58
+- Responsive Design: 0.55
+Skill: Maps
+- User Centric Design: 0.59
+- GCP: 0.40
+- CoAP: 0.34
+Skill: JSON Mode
+- Natural Language Processing: 0.85
+- Data Modeling: 0.61
+- User Centric Design: 0.52
+Skill: JSON Schema
+- Data Modeling: 0.73
+- Scalability and Performance Optimization: 0.58
+- Natural Language Processing: 0.33
+Skill: Menu
+- UI Design: 0.94
+- User Centric Design: 0.93
+- Responsive Design: 0.70
+Skill: Tabs
+- UI Design: 0.83
+- Responsive Design: 0.64
+- User Centric Design: 0.61
+Skill: Github
+- Git: 0.99
+- Routing and Switching: 0.61
+- Responsive Design: 0.60
+Skill: Refactoring
+- Scalability and Performance Optimization: 0.57
+- Routing and Switching: 0.53
+- GCP: 0.45
+Skill: Planning
+- Project Planning: 0.66
+- GCP: 0.57
+- CoAP: 0.55
+Skill: Query
+- Azure: 0.65
+- Troubleshooting: 0.62
+- SQL: 0.62
+Skill: Nongenuine Warning
+- SVN: 0.48
+- iOS Mobile App Development: 0.22
+- Android Mobile App Development: 0.20
+Skill: Document Validation
+- SVN: 0.54
+- GCP: 0.50
+- MQTT: 0.37
+Skill: Windows Installer
+- User Centric Design: 0.74
+- Scalability and Performance Optimization: 0.13
+- CoAP: 0.12
+Skill: Header
+- Responsive Design: 0.77
+- Azure: 0.74
+- User Centric Design: 0.72
+Skill: schema.rs
+- CSS: 0.75
+- SQL: 0.53
+- GCP: 0.41
+Skill: Readonly
+- ETL: 0.81
+- GCP: 0.56
+- Azure: 0.55
+Skill: Linux
+- User Centric Design: 0.77
+- Backup and Recovery: 0.69
+- Cross Browser Compatibility: 0.67
+Skill: Webpack
+- Scalability and Performance Optimization: 0.91
+- Security Best Practices: 0.53
+- Web Development: 0.41
+Skill: Stability
+- GCP: 0.67
+- CoAP: 0.65
+- SVN: 0.61
+Skill: Data Service
+- Big Data Technologies: 0.80
+- Wireless Networking: 0.79
+- TCP/IP: 0.70
+Skill: Language Modes
+- Backup and Recovery: 0.32
+- MQTT: 0.30
+- GCP: 0.26
+Skill: Research & Design
+- GCP: 0.51
+- UX/UI Design and Prototyping: 0.44
+- MQTT: 0.39
+Skill: Distributions
+- Responsive Design: 0.57
+- Routing and Switching: 0.53
+- GCP: 0.44
+Skill: Blog
+- Azure: 0.56
+- Routing and Switching: 0.54
+- User Centric Design: 0.54
+Skill: Multi-Select
+- Scalability and Performance Optimization: 0.70
+- UI Design: 0.65
+- Memory Management and Performance Profiling: 0.61
+Skill: Feature Request
+- SVN: 0.72
+- MQTT: 0.70
+- Scalability and Performance Optimization: 0.62
+Skill: Intercom
+- User Centric Design: 0.93
+- VoIP (Voice over Internet Protocol): 0.93
+- Responsive Design: 0.82
+Skill: Support
+- Responsive Design: 0.80
+- Azure: 0.74
+- MQTT: 0.74
+Skill: Real Time Server Stats
+- Real-Time Systems: 0.88
+- SVN: 0.58
+- REST: 0.57
+Skill: STITCH
+- Responsive Design: 0.84
+- Integration Testing and System Testing: 0.82
+- User Centric Design: 0.73
+Skill: Sample Data
+- MQTT: 0.67
+- TCP/IP: 0.66
+- GCP: 0.63
+Skill: Misc
+- Azure: 0.26
+- MQTT: 0.20
+- pytest: 0.19
+Skill: Preferences
+- GCP: 0.56
+- MQTT: 0.54
+- User Centric Design: 0.53
+Skill: HUD
+- User Centric Design: 0.99
+- System Administration: 0.65
+- Responsive Design: 0.47
+Skill: Deployment Awareness
+- SVN: 0.77
+- CoAP: 0.64
+- GCP: 0.51
+Skill: Education
+- scikit-learn: 0.70
+- GCP: 0.47
+- Routing and Switching: 0.37
+Skill: First-Run
+- ETL: 0.86
+- JavaScript: 0.76
+- Azure: 0.74
+Skill: BSON
+- Blockchain security: 0.96
+- Integration Testing and System Testing: 0.92
+- Big Data Technologies: 0.83
+Skill: Implementation
+- Continuous Integration/Continuous Deployment: 0.63
+- Responsive Design: 0.60
+- iOS Mobile App Development: 0.57
+Skill: Upstream
+- Scalability and Performance Optimization: 0.77
+- React: 0.76
+- ETL: 0.74
+Skill: Portability
+- User Centric Design: 0.90
+- Responsive Design: 0.84
+- Web Accessibility: 0.83
+Skill: Meta
+- Smart contracts: 0.77
+- Big Data Technologies: 0.68
+- User Centric Design: 0.67
+Skill: Automation
+- AI: 0.94
+- Scalability and Performance Optimization: 0.72
+- Continuous Integration/Continuous Deployment: 0.71
+Skill: Client Side Encryption
+- Cryptography: 0.95
+- Security Best Practices: 0.90
+- CoAP: 0.86
+Skill: Wire Protocol
+- Wireless Networking: 0.95
+- Routing and Switching: 0.67
+- MQTT: 0.64
+Skill: Cluster Management
+- Scalability and Performance Optimization: 0.82
+- CoAP: 0.57
+- GCP: 0.51
+Skill: Error Handling
+- Troubleshooting: 0.87
+- Incident Response: 0.85
+- GCP: 0.57
+Skill: Reactive Streams
+- React: 0.90
+- Routing and Switching: 0.80
+- REST: 0.69
+Skill: JSON
+- Natural Language Processing: 0.98
+- JavaScript: 0.95
+- Data Modeling: 0.80
+Skill: Change Streams
+- Routing and Switching: 0.94
+- TCP/IP: 0.63
+- Scalability and Performance Optimization: 0.62
+Skill: Internal
+- Sketch: 0.77
+- IT Support: 0.73
+- ETL: 0.71
+Skill: POJO
+- Java: 0.95
+- Responsive Design: 0.91
+- Scalability and Performance Optimization: 0.90
+Skill: Test Coverage
+- MQTT: 0.69
+- Wireless Networking: 0.65
+- CoAP: 0.64
+Skill: Connection Management
+- GCP: 0.66
+- MQTT: 0.65
+- CoAP: 0.63
+Skill: Codecs
+- Cryptography: 0.90
+- Cryptocurrency development: 0.79
+- Technical Documentation: 0.71
+Skill: Query Operations
+- SQL: 0.58
+- Microsoft SQL Server: 0.57
+- MQTT: 0.50
+Skill: Test Failure
+- ETL: 0.68
+- Troubleshooting: 0.64
+- Flutter: 0.59
+Skill: Builders
+- GCP: 0.45
+- Azure: 0.44
+- CoAP: 0.41
+Skill: Async
+- React: 0.95
+- Responsive Design: 0.93
+- VoIP (Voice over Internet Protocol): 0.91
+Skill: Transaction Management
+- MQTT: 0.74
+- GCP: 0.52
+- Cassandra: 0.48
+Skill: Session Management
+- TCP/IP: 0.53
+- Microsoft SQL Server: 0.43
+- Cassandra: 0.38
+Skill: Monitoring
+- Cassandra: 0.70
+- MQTT: 0.67
+- GCP: 0.65
+Skill: GridFS
+- Responsive Design: 0.94
+- Big Data Technologies: 0.91
+- User Centric Design: 0.87
+Skill: Command Operations
+- CoAP: 0.88
+- GCP: 0.72
+- Cassandra: 0.43
+Skill: Write Operations
+- Routing and Switching: 0.56
+- Backup and Recovery: 0.55
+- JavaScript: 0.55
+Skill: Authentication
+- Quality Assurance: 0.60
+- GCP: 0.57
+- Security Best Practices: 0.52
+Skill: Content Review
+- JavaScript: 0.52
+- MQTT: 0.44
+- Azure: 0.44
+Skill: platform
+- VoIP (Voice over Internet Protocol): 0.91
+- Kotlin: 0.78
+- Responsive Design: 0.77
+Skill: app
+- iOS Mobile App Development: 0.78
+- Android Mobile App Development: 0.76
+- Cassandra: 0.72
+Skill: legacy-ui
+- User Centric Design: 0.79
+- UI Design: 0.73
+- UX/UI Design and Prototyping: 0.42
+Skill: perf-tools
+- Penetration Testing: 0.76
+- Performance Testing: 0.73
+- Scalability and Performance Optimization: 0.56
+Skill: ops
+- CoAP: 0.87
+- Troubleshooting: 0.79
+- Backup and Recovery: 0.69
+Skill: UX
+- User Centric Design: 0.99
+- UX Design: 0.97
+- Web Accessibility: 0.94
+Skill: Accessibility
+- User Centric Design: 0.94
+- Responsive Design: 0.86
+- Cross Browser Compatibility: 0.70
+Skill: Questions
+- MQTT: 0.67
+- Azure: 0.61
+- GCP: 0.51
+Skill: MoodleNet
+- User Centric Design: 0.95
+- Wireless Networking: 0.94
+- Machine Learning: 0.92
+Skill: Assignment
+- CoAP: 0.63
+- Responsive Design: 0.49
+- iOS Mobile App Development: 0.43
+Skill: Course
+- Azure: 0.77
+- VoIP (Voice over Internet Protocol): 0.63
+- Continuous Integration/Continuous Deployment: 0.59
+Skill: Language
+- GCP: 0.65
+- SVN: 0.57
+- Backup and Recovery: 0.55
+Skill: LTI provider
+- Wireless Networking: 0.78
+- Hardware/Software Integration: 0.70
+- User Centric Design: 0.58
+Skill: Automated functional tests (behat)
+- pytest: 0.52
+- MQTT: 0.50
+- GCP: 0.50
+Skill: H5P
+- VoIP (Voice over Internet Protocol): 0.93
+- User Centric Design: 0.91
+- Hardware/Software Integration: 0.82
+Skill: Quiz
+- Scalability and Performance Optimization: 0.46
+- Continuous Integration/Continuous Deployment: 0.45
+- User Centric Design: 0.42
+Skill: Content bank
+- CoAP: 0.52
+- GCP: 0.39
+- Responsive Design: 0.34
+Skill: Administration
+- CoAP: 0.45
+- GCP: 0.45
+- Azure: 0.40
+Skill: SCORM
+- Cassandra: 0.99
+- Scrum: 0.99
+- Scala: 0.94
+Skill: Roles / Access
+- CoAP: 0.65
+- MQTT: 0.41
+- GCP: 0.40
+Skill: Gradebook
+- GCP: 0.80
+- User Centric Design: 0.78
+- Quality Assurance: 0.23
+Skill: JavaScript
+- JavaScript: 1.00
+- Cross Browser Compatibility: 0.88
+- Backup and Recovery: 0.78
+Skill: Enrolments
+- User Centric Design: 0.42
+- Microsoft SQL Server: 0.33
+- TCP/IP: 0.32
+Skill: External Tool (IMS-LTI)
+- Scalability and Performance Optimization: 0.46
+- Routing and Switching: 0.40
+- Data Visualization: 0.38
+Skill: Privacy
+- VPN: 0.63
+- Azure: 0.61
+- GCP: 0.56
+Skill: Unit tests
+- Test-Driven Development (TDD): 0.76
+- Routing and Switching: 0.67
+- GCP: 0.59
+Skill: Database SQL/XMLDB
+- SQL: 0.86
+- Microsoft SQL Server: 0.21
+- Scalability and Performance Optimization: 0.12
+Skill: Badges
+- GCP: 0.58
+- MQTT: 0.55
+- CoAP: 0.52
+Skill: User Tours
+- User Centric Design: 0.91
+- ETL: 0.74
+- UX Design: 0.55
+Skill: HTML and CSS
+- Web Development: 0.96
+- Cross Browser Compatibility: 0.94
+- Web Accessibility: 0.83
+Skill: Assignment (2.2)
+- CoAP: 0.60
+- GCP: 0.48
+- MQTT: 0.44
+Skill: Forum
+- Scalability and Performance Optimization: 0.55
+- User Centric Design: 0.49
+- Responsive Design: 0.45
+Skill: Filters
+- Security Best Practices: 0.53
+- GCP: 0.48
+- User Centric Design: 0.46
+Skill: Activity completion
+- CoAP: 0.60
+- GCP: 0.49
+- React Native: 0.46
+Skill: HTML Editor (Atto)
+- HTML: 0.91
+- Web Development: 0.59
+- Adobe XD: 0.40
+Skill: Calendar
+- User Centric Design: 0.78
+- GCP: 0.24
+- Responsive Design: 0.19
+Skill: Web Services
+- REST: 0.84
+- RESTful Architecture: 0.79
+- IT Support: 0.69
+Skill: Grading methods
+- GCP: 0.39
+- Azure: 0.33
+- Microsoft SQL Server: 0.30
+Skill: Policy
+- Kotlin: 0.59
+- Microsoft SQL Server: 0.56
+- Continuous Integration/Continuous Deployment: 0.53
+Skill: Libraries
+- User Centric Design: 0.56
+- Responsive Design: 0.19
+- Cassandra: 0.18
+Skill: Forms Library
+- User Centric Design: 0.61
+- GCP: 0.31
+- ETL: 0.29
+Skill: Dashboard (My home)
+- User Centric Design: 0.94
+- UI Design: 0.80
+- Responsive Design: 0.79
+Skill: Global search
+- GCP: 0.47
+- Microsoft SQL Server: 0.47
+- Cassandra: 0.40
+Skill: Blocks
+- Blockchain security: 0.90
+- CoAP: 0.53
+- Responsive Design: 0.50
+Skill: Messages
+- User Centric Design: 0.59
+- MQTT: 0.53
+- GCP: 0.47
+Skill: Backup: IMS-CC
+- Backup and Recovery: 0.74
+- Data Manipulation and Cleaning: 0.74
+- User Centric Design: 0.55
+Skill: Events API
+- Routing and Switching: 0.42
+- Incident Response: 0.36
+- Backup and Recovery: 0.21
+Skill: Filepicker
+- User Centric Design: 0.91
+- GCP: 0.40
+- Security Best Practices: 0.40
+Skill: Resource
+- REST: 0.80
+- GCP: 0.62
+- Azure: 0.61
+Skill: Workshop
+- AWS: 0.94
+- UX/UI Design and Prototyping: 0.63
+- Scalability and Performance Optimization: 0.53
+Skill: Groups
+- GCP: 0.48
+- Responsive Design: 0.42
+- CoAP: 0.33
+Skill: Files API
+- REST: 0.48
+- Scalability and Performance Optimization: 0.28
+- Backup and Recovery: 0.25
+Skill: Feedback
+- MQTT: 0.72
+- React: 0.72
+- Responsive Design: 0.68
+Skill: Site registration
+- User Centric Design: 0.61
+- Responsive Design: 0.60
+- Responsive Web Design: 0.52
+Skill: Database activity module
+- Cassandra: 0.46
+- Microsoft SQL Server: 0.37
+- CoAP: 0.37
+Skill: Wiki (2.x)
+- User Centric Design: 0.23
+- Backup and Recovery: 0.22
+- Scalability and Performance Optimization: 0.22
+Skill: Email
+- Responsive Design: 0.68
+- User Centric Design: 0.67
+- Backup and Recovery: 0.61
+Skill: Lesson
+- scikit-learn: 0.76
+- ETL: 0.49
+- Routing and Switching: 0.45
+Skill: Competencies
+- Scalability and Performance Optimization: 0.63
+- Kotlin: 0.57
+- UX/UI Design and Prototyping: 0.56
+Skill: Comments
+- React: 0.74
+- Azure: 0.70
+- MQTT: 0.68
+Skill: Book
+- GCP: 0.45
+- Scalability and Performance Optimization: 0.38
+- User Centric Design: 0.38
+Skill: Conditional activities
+- CoAP: 0.84
+- GCP: 0.70
+- CSS: 0.69
+Skill: Cohorts
+- User Centric Design: 0.53
+- Backup and Recovery: 0.41
+- CoAP: 0.32
+Skill: HTML Editor (TinyMCE)
+- HTML: 0.87
+- Web Development: 0.58
+- Web Accessibility: 0.34
+Skill: Glossary
+- Continuous Integration/Continuous Deployment: 0.47
+- Backup and Recovery: 0.43
+- GCP: 0.39
+Skill: Maths filters
+- GCP: 0.23
+- MQTT: 0.13
+- RDBMS: 0.13
+Skill: Course completion
+- GCP: 0.53
+- CoAP: 0.47
+- Responsive Design: 0.43
+Skill: Portfolio
+- Responsive Design: 0.51
+- CoAP: 0.47
+- GCP: 0.46
+Skill: Media
+- VoIP (Voice over Internet Protocol): 0.63
+- React: 0.61
+- MQTT: 0.55
+Skill: Chat
+- VoIP (Voice over Internet Protocol): 0.97
+- User Centric Design: 0.74
+- Responsive Design: 0.62
+Skill: IMS-CP resource type
+- Memory Management and Performance Profiling: 0.71
+- Incident Response: 0.67
+- Continuous Integration/Continuous Deployment: 0.57
+Skill: Survey
+- MQTT: 0.49
+- GCP: 0.46
+- User Centric Design: 0.46
+Skill: Choice
+- Continuous Integration/Continuous Deployment: 0.64
+- VoIP (Voice over Internet Protocol): 0.63
+- Scalability and Performance Optimization: 0.61
+Skill: Hub
+- User Centric Design: 0.97
+- IoT: 0.95
+- VoIP (Voice over Internet Protocol): 0.80
+Skill: Unknown
+- Troubleshooting: 0.42
+- Routing and Switching: 0.28
+- iOS Mobile App Development: 0.27
+Skill: Favourites
+- User Centric Design: 0.73
+- Responsive Design: 0.62
+- Flutter: 0.61
+Skill: Plagiarism
+- CoAP: 0.33
+- Sketch: 0.24
+- MQTT: 0.23
+Skill: Ratings
+- Responsive Design: 0.62
+- GCP: 0.61
+- React: 0.55
+Skill: RSS
+- Real-Time Systems: 0.94
+- RESTful Architecture: 0.75
+- Integration Testing and System Testing: 0.58
+Skill: MNet
+- Machine Learning: 0.98
+- Network Monitoring: 0.96
+- Wireless Networking: 0.96
+Skill: PHPDoc
+- User Centric Design: 0.99
+- Technical Documentation: 0.98
+- Project Planning: 0.97
+Skill: Survey 2
+- User Centric Design: 0.42
+- Responsive Design: 0.40
+- Scalability and Performance Optimization: 0.29
+Skill: SOAP Scaffolder
+- Scalability and Performance Optimization: 0.95
+- Backup and Recovery: 0.90
+- Responsive Design: 0.64
+Skill: SOAP Module
+- User Centric Design: 0.92
+- Responsive Design: 0.92
+- Backup and Recovery: 0.88
+Skill: SOAP Tooling
+- Backup and Recovery: 0.77
+- Scalability and Performance Optimization: 0.63
+- Usability Testing: 0.52
+Skill: SOAP Releases
+- Backup and Recovery: 0.88
+- User Centric Design: 0.76
+- Integration Testing and System Testing: 0.65
+Skill: WSS Module
+- Hardware/Software Integration: 0.99
+- Wireless Networking: 0.98
+- Web Accessibility: 0.96
+Skill: SOAP Proxy
+- Scalability and Performance Optimization: 0.84
+- Backup and Recovery: 0.69
+- CoAP: 0.61
+Skill: SOAP Metadata
+- Backup and Recovery: 0.78
+- RESTful Architecture: 0.48
+- Web Accessibility: 0.40
+Skill: maven tasks
+- Java: 0.69
+- MQTT: 0.62
+- MongoDB: 0.48
+Skill: OData Scaffolder
+- User Centric Design: 0.98
+- Responsive Design: 0.91
+- IoT: 0.91
+Skill: REST Metadata
+- REST: 0.98
+- Backup and Recovery: 0.38
+- Technical Documentation: 0.23
+Skill: REST Module
+- REST: 0.98
+- Hardware/Software Integration: 0.47
+- Backup and Recovery: 0.45
+Skill: Console
+- User Centric Design: 0.86
+- IT Support: 0.78
+- Responsive Design: 0.77
+Skill: REST Tooling
+- REST: 0.97
+- Backup and Recovery: 0.39
+- Scalability and Performance Optimization: 0.31
+Skill: REST Scaffolder
+- REST: 0.99
+- Responsive Design: 0.99
+- Backup and Recovery: 0.92
+Skill: REST Archetype
+- REST: 0.98
+- RESTful Architecture: 0.80
+- Backup and Recovery: 0.59
+Skill: Spec
+- Responsive Design: 0.76
+- Technical Documentation: 0.75
+- Azure: 0.75
+Skill: Connector: Sockets
+- Responsive Design: 0.73
+- Wireless Networking: 0.53
+- pytest: 0.45
+Skill: Mule Runtime
+- Scalability and Performance Optimization: 0.79
+- Integration Testing and System Testing: 0.37
+- Performance Testing: 0.37
+Skill: Core: Components
+- CoAP: 0.59
+- GCP: 0.42
+- React: 0.36
+Skill: Tooling Client
+- CoAP: 0.62
+- GCP: 0.55
+- MQTT: 0.51
+Skill: Core: API
+- REST: 0.75
+- RESTful Architecture: 0.58
+- CoAP: 0.53
+Skill: Modules: HTTP
+- REST: 0.85
+- RESTful Architecture: 0.84
+- Web Development: 0.67
+Skill: Core: DSL processing
+- CoAP: 0.27
+- pytest: 0.19
+- GCP: 0.14
+Skill: Extensions API
+- Routing and Switching: 0.50
+- Memory Management and Performance Profiling: 0.47
+- Scalability and Performance Optimization: 0.41
+Skill: Build: Integration Tests
+- GCP: 0.61
+- Integration Testing and System Testing: 0.59
+- MQTT: 0.55
+Skill: Module: Secure Properties
+- Security Best Practices: 0.61
+- GCP: 0.55
+- VPN: 0.37
+Skill: Core: Policies
+- CoAP: 0.58
+- GCP: 0.46
+- Kotlin: 0.21
+Skill: Modules: CXF
+- User Centric Design: 0.83
+- Cryptocurrency development: 0.81
+- Cross Browser Compatibility: 0.76
+Skill: Core: Transactions
+- ETL: 0.63
+- CoAP: 0.48
+- GCP: 0.38
+Skill: Service: SOAP
+- Backup and Recovery: 0.91
+- System Administration: 0.82
+- Web Accessibility: 0.65
+Skill: XML SDK
+- Routing and Switching: 0.49
+- Data Visualization: 0.48
+- Technical Documentation: 0.46
+Skill: sdk
+- Docker: 0.93
+- Android Mobile App Development: 0.68
+- User Centric Design: 0.66
+Skill: Core: Expressions
+- CoAP: 0.71
+- ETL: 0.43
+- GCP: 0.37
+Skill: Connector: DB
+- Big Data Technologies: 0.99
+- Responsive Design: 0.92
+- Data Warehousing: 0.88
+Skill: Interception API
+- Intrusion Detection: 0.60
+- pytest: 0.36
+- Azure: 0.36
+Skill: Transport: FTP / SFTP
+- IT Support: 0.69
+- Web Accessibility: 0.64
+- Routing and Switching: 0.63
+Skill: Core: (other)
+- CoAP: 0.25
+- pytest: 0.10
+- Scalability and Performance Optimization: 0.09
+Skill: Core: Services
+- Backup and Recovery: 0.55
+- CoAP: 0.39
+- GCP: 0.37
+Skill: Modules: OAuth
+- Security Auditing: 0.26
+- Security Best Practices: 0.22
+- iOS Mobile App Development: 0.15
+Skill: Core: Deployment
+- CoAP: 0.54
+- GCP: 0.45
+- Continuous Integration/Continuous Deployment: 0.44
+Skill: Test: Testing Framework
+- pytest: 0.35
+- JUnit: 0.32
+- Test-Driven Development (TDD): 0.31
+Skill: Documentation / Website
+- Web Accessibility: 0.86
+- User Centric Design: 0.60
+- Web Development: 0.57
+Skill: Core: Routing / Filters
+- Security Best Practices: 0.42
+- Routing and Switching: 0.34
+- GCP: 0.31
+Skill: Core: Event/Message
+- ETL: 0.61
+- CoAP: 0.56
+- GCP: 0.40
+Skill: Core: Exception Handling
+- ETL: 0.74
+- CoAP: 0.69
+- Incident Response: 0.65
+Skill: Core: Concurrency / Threading
+- CoAP: 0.67
+- GCP: 0.50
+- Cassandra: 0.31
+Skill: Core: Non-Blocking
+- REST: 0.69
+- Responsive Design: 0.65
+- GCP: 0.62
+Skill: Transport: HTTP(S) / Jetty
+- Cross Browser Compatibility: 0.83
+- Web Accessibility: 0.77
+- REST: 0.76
+Skill: Service: HTTP
+- REST: 0.95
+- RESTful Architecture: 0.92
+- Web Accessibility: 0.74
+Skill: Core: Flow
+- CoAP: 0.36
+- User Centric Design: 0.33
+- GCP: 0.18
+Skill: Core: Logging
+- GCP: 0.29
+- ETL: 0.28
+- CoAP: 0.16
+Skill: Service: Scheduling
+- Cassandra: 0.50
+- GCP: 0.49
+- Kubernetes: 0.35
+Skill: Core: Classloading
+- GCP: 0.29
+- Java: 0.26
+- Cassandra: 0.24
+Skill: Core: ObjectStore
+- CoAP: 0.14
+- Java: 0.10
+- GCP: 0.04
+Skill: Transport: VM
+- VoIP (Voice over Internet Protocol): 0.94
+- Machine Learning: 0.87
+- Virtualization VMware: 0.75
+Skill: Module: Aggregators
+- CoAP: 0.41
+- Java: 0.21
+- Node.js: 0.21
+Skill: Tools: Archetypes
+- CoAP: 0.12
+- Microsoft SQL Server: 0.11
+- Adobe XD: 0.08
+Skill: SDK AST
+- Integration Testing and System Testing: 0.83
+- Technical Documentation: 0.71
+- System Architecture Design: 0.69
+Skill: Transport: Email
+- User Centric Design: 0.64
+- Responsive Design: 0.24
+- Kotlin: 0.16
+Skill: Build: Distributions
+- Responsive Design: 0.61
+- Routing and Switching: 0.50
+- GCP: 0.47
+Skill: mule4
+- MongoDB: 0.67
+- iOS Mobile App Development: 0.63
+- Android Mobile App Development: 0.58
+Skill: Build: (other)
+- JavaScript: 0.35
+- Agile Methodologies: 0.31
+- RESTful Architecture: 0.19
+Skill: Core: Lifecycle
+- Backup and Recovery: 0.48
+- ETL: 0.42
+- GCP: 0.39
+Skill: Modules: Security (Spring Security, Acegi, PGP, WS-Security)
+- Cryptography: 0.38
+- Security Best Practices: 0.34
+- Intrusion Detection: 0.26
+Skill: Core: Domains shared resources
+- MQTT: 0.42
+- GCP: 0.38
+- TCP/IP: 0.38
+Skill: Core: Properties
+- CoAP: 0.69
+- GCP: 0.68
+- Cassandra: 0.21
+Skill: Connector: VM
+- VoIP (Voice over Internet Protocol): 0.98
+- Responsive Design: 0.97
+- User Centric Design: 0.92
+Skill: Core: Transformers
+- ETL: 0.07
+- CoAP: 0.03
+- Routing and Switching: 0.01
+Skill: Extensions: Maven Plugin
+- Memory Management and Performance Profiling: 0.49
+- Scalability and Performance Optimization: 0.47
+- Routing and Switching: 0.45
+Skill: Tools
+- Routing and Switching: 0.55
+- pytest: 0.53
+- Backup and Recovery: 0.50
+Skill: Build: Maven
+- AI: 0.95
+- Build Automation: 0.84
+- Machine Learning: 0.74
+Skill: core: Notifications
+- GCP: 0.44
+- Cassandra: 0.40
+- SVN: 0.36
+Skill: Modules: WS Consumer
+- User Centric Design: 0.72
+- Web Accessibility: 0.69
+- Wireless Networking: 0.68
+Skill: Connector: ObjectStore
+- Responsive Design: 0.82
+- User Centric Design: 0.71
+- Java: 0.36
+Skill: Studio
+- CoAP: 0.65
+- Responsive Design: 0.65
+- User Centric Design: 0.55
+Skill: Core: Streaming
+- CoAP: 0.44
+- Cassandra: 0.43
+- SVN: 0.41
+Skill: e: DataSense
+- Data Visualization: 0.77
+- Big Data Technologies: 0.76
+- Backup and Recovery: 0.23
+Skill: Launcher
+- Responsive Design: 0.82
+- User Centric Design: 0.76
+- ETL: 0.73
+Skill: Modules: FTP
+- Performance Testing: 0.83
+- Server Administration: 0.66
+- Scalability and Performance Optimization: 0.60
+Skill: Tooling API
+- REST: 0.48
+- Routing and Switching: 0.45
+- pytest: 0.35
+Skill: Transport: JMS
+- Java: 0.82
+- Natural Language Processing: 0.52
+- Cross Browser Compatibility: 0.40
+Skill: dataweave
+- Big Data Technologies: 0.87
+- Data Warehousing: 0.86
+- Data Visualization: 0.83
+Skill: Core: Bootstrap / Standalone
+- Web Development: 0.84
+- Android Mobile App Development: 0.13
+- iOS Mobile App Development: 0.12
+Skill: Debugger
+- Troubleshooting: 0.88
+- GCP: 0.48
+- PyTorch: 0.36
+Skill: Modules: BPM / Rules
+- Scalability and Performance Optimization: 0.47
+- Network Monitoring: 0.36
+- Security Best Practices: 0.33
+Skill: Core: Configuration
+- GCP: 0.60
+- CoAP: 0.59
+- Cassandra: 0.29
+Skill: Core: Agents
+- CoAP: 0.86
+- GCP: 0.18
+- MQTT: 0.07
+Skill: Modules: Email
+- User Centric Design: 0.46
+- Responsive Design: 0.24
+- Security Best Practices: 0.21
+Skill: Transport: File
+- Microsoft SQL Server: 0.21
+- GCP: 0.15
+- Scalability and Performance Optimization: 0.12
+Skill: jms-module
+- Java: 0.96
+- JavaScript: 0.73
+- Natural Language Processing: 0.67
+Skill: Modules: File
+- Scalability and Performance Optimization: 0.31
+- Responsive Design: 0.25
+- User Centric Design: 0.19
+Skill: Core: Registry
+- CoAP: 0.11
+- GCP: 0.05
+- RDBMS: 0.04
+Skill: Modules: Expressions
+- ETL: 0.38
+- MQTT: 0.37
+- GCP: 0.35
+Skill: Maven Module Plugin
+- Build Automation: 0.55
+- Routing and Switching: 0.53
+- Continuous Integration/Continuous Deployment: 0.52
+Skill: Modules: XML, XSLT, XPath, SXC
+- Technical Documentation: 0.82
+- Web Accessibility: 0.64
+- Scalability and Performance Optimization: 0.63
+Skill: Core: Transports
+- TCP/IP: 0.49
+- Routing and Switching: 0.43
+- ETL: 0.42
+Skill: Core: Containers
+- CoAP: 0.56
+- GCP: 0.44
+- Docker: 0.33
+Skill: Core: Sessions
+- Microsoft SQL Server: 0.19
+- Server Administration: 0.11
+- CoAP: 0.11
+Skill: Modules: RSS / ATOM
+- Routing and Switching: 0.89
+- Responsive Design: 0.85
+- Integration Testing and System Testing: 0.84
+Skill: Build: Libraries / Dependencies
+- GCP: 0.38
+- Azure: 0.33
+- Matplotlib: 0.33
+Skill: Modules: (other)
+- Scalability and Performance Optimization: 0.16
+- Android Mobile App Development: 0.16
+- iOS Mobile App Development: 0.15
+Skill: Core: Endpoints
+- ETL: 0.67
+- CoAP: 0.59
+- REST: 0.52
+Skill: Modules: Devkit Support
+- Routing and Switching: 0.27
+- GCP: 0.26
+- Continuous Integration/Continuous Deployment: 0.23
+Skill: Core: Queues (SEDA) / Persistence
+- Microsoft SQL Server: 0.22
+- Selenium: 0.08
+- Cassandra: 0.07
+Skill: Core: Request-Reply
+- CoAP: 0.82
+- MQTT: 0.62
+- RESTful Architecture: 0.59
+Skill: Modules: JBPM
+- Scalability and Performance Optimization: 0.69
+- Java: 0.68
+- Backup and Recovery: 0.67
+Skill: Modules: Management / JMX
+- Java: 0.28
+- Memory Management and Performance Profiling: 0.27
+- Scalability and Performance Optimization: 0.25
+Skill: Transport: Quartz
+- MQTT: 0.48
+- User Centric Design: 0.19
+- Responsive Design: 0.16
+Skill: Modules: Sockets
+- pytest: 0.42
+- Scalability and Performance Optimization: 0.42
+- Software Design Patterns: 0.42
+Skill: Transport: TCP / UDP / SSL / Multicast
+- Network Security: 0.83
+- Routing and Switching: 0.71
+- Flutter: 0.57
+Skill: Modules: XA Transactions
+- Cryptocurrency development: 0.30
+- Technical Documentation: 0.26
+- Security Best Practices: 0.17
+Skill: Service: OAuth
+- Security Auditing: 0.12
+- Integration Testing and System Testing: 0.08
+- Smart contracts: 0.07
+Skill: SOAP Engine
+- User Centric Design: 0.87
+- Scalability and Performance Optimization: 0.87
+- Responsive Design: 0.77
+Skill: Modules: MuleClient
+- Scalability and Performance Optimization: 0.47
+- Software Design Patterns: 0.40
+- Responsive Design: 0.39
+Skill: Core: Encoding / I18N
+- CoAP: 0.25
+- Security Best Practices: 0.14
+- Cryptography: 0.06
+Skill: in Console Access Request
+- CoAP: 0.95
+- GCP: 0.66
+- User Centric Design: 0.65
+Skill: Modules: Jersey
+- JUnit: 0.40
+- Scalability and Performance Optimization: 0.39
+- Responsive Design: 0.39
+Skill: Transport: (other)
+- TCP/IP: 0.08
+- Routing and Switching: 0.08
+- Microsoft SQL Server: 0.05
+Skill: Module: APIKit
+- RESTful Architecture: 0.80
+- REST: 0.64
+- iOS Mobile App Development: 0.36
+Skill: Module: Scripting
+- JavaScript: 0.66
+- SVN: 0.32
+- GCP: 0.27
+Skill: Modules: Database
+- Microsoft SQL Server: 0.44
+- Cassandra: 0.42
+- RDBMS: 0.36
+Skill: Transport: XMPP (Jabber)
+- Wireless Networking: 0.98
+- Cross Browser Compatibility: 0.67
+- Natural Language Processing: 0.64
+Skill: Transport: JDBC
+- Cross Browser Compatibility: 0.94
+- Smart contracts: 0.90
+- Java: 0.76
+Skill: Transport: Axis
+- Routing and Switching: 0.25
+- CoAP: 0.16
+- Scalability and Performance Optimization: 0.08
+Skill: Test: Test Namespace
+- pytest: 0.26
+- MQTT: 0.19
+- GCP: 0.16
+Skill: Examples / Tutorials
+- Routing and Switching: 0.34
+- UX/UI Design and Prototyping: 0.33
+- Responsive Web Design: 0.28
+Skill: Build: JDK Compatibility
+- Java: 0.84
+- Integration Testing and System Testing: 0.29
+- iOS Mobile App Development: 0.18
+Skill: Core: Watermark
+- Quality Assurance: 0.41
+- CoAP: 0.08
+- Security Best Practices: 0.03
+Skill: Mule CI
+- Cryptocurrency development: 0.98
+- Incident Response: 0.97
+- Machine Learning: 0.97
+Skill: Transport: AJAX
+- Web Accessibility: 0.83
+- Cross Browser Compatibility: 0.63
+- AI: 0.38
+Skill: Modules: JCA Resource Adapter
+- Hardware/Software Integration: 0.63
+- Java: 0.60
+- Software Design Patterns: 0.36
+Skill: Mule Core
+- Hardware/Software Integration: 0.78
+- Scalability and Performance Optimization: 0.76
+- Blockchain security: 0.65
+Skill: Modules: iBeans
+- Hardware/Software Integration: 0.76
+- Responsive Design: 0.57
+- Scalability and Performance Optimization: 0.53
+Skill: Transport: Stream (System.in/out)
+- TCP/IP: 0.60
+- GCP: 0.39
+- Microsoft SQL Server: 0.39
+Skill: Transport: EJB / RMI
+- Cross Browser Compatibility: 0.95
+- Backup and Recovery: 0.89
+- Routing and Switching: 0.89
+Skill: Transport: (new transport)
+- MQTT: 0.24
+- TCP/IP: 0.20
+- Node.js: 0.20
+Skill: Modules: Spring
+- Scalability and Performance Optimization: 0.43
+- Responsive Design: 0.42
+- User Centric Design: 0.40
+Skill: Modules: I18n
+- IoT: 0.60
+- Scalability and Performance Optimization: 0.46
+- Backup and Recovery: 0.42
+Skill: iOS
+- iOS Mobile App Development: 0.96
+- Hardware/Software Integration: 0.88
+- User Centric Design: 0.86
+Skill: Desktop
+- User Centric Design: 0.82
+- UI Design: 0.71
+- Cassandra: 0.68
+Skill: Setup
+- Sketch: 0.67
+- Responsive Design: 0.61
+- Routing and Switching: 0.60
+Skill: Formatter
+- CoAP: 0.55
+- MQTT: 0.55
+- GCP: 0.54
+Skill: Arrow
+- User Centric Design: 0.60
+- Responsive Design: 0.58
+- Scalability and Performance Optimization: 0.46
+Skill: Android
+- Oracle: 0.97
+- Cross Browser Compatibility: 0.91
+- User Centric Design: 0.90
+Skill: Hyperloop
+- Scalability and Performance Optimization: 0.76
+- Integration Testing and System Testing: 0.33
+- ETL: 0.24
+Skill: Studio Error reporting
+- Troubleshooting: 0.69
+- ETL: 0.63
+- CoAP: 0.60
+Skill: Node
+- Node.js: 0.98
+- JavaScript: 0.80
+- Responsive Design: 0.76
+Skill: Tiapp
+- User Centric Design: 0.63
+- IoT: 0.44
+- Test-Driven Development (TDD): 0.44
+Skill: Alloy
+- CoAP: 0.61
+- iOS Mobile App Development: 0.47
+- Cross Browser Compatibility: 0.46
+Skill: LiveView
+- User Centric Design: 0.86
+- Web Accessibility: 0.84
+- Responsive Design: 0.81
+Skill: Appc Daemon
+- AI: 0.97
+- System Administration: 0.87
+- Responsive Design: 0.80
+Skill: SDK Configuration
+- Routing and Switching: 0.56
+- Scalability and Performance Optimization: 0.55
+- Cassandra: 0.53
+Skill: Profiling
+- GCP: 0.45
+- Azure: 0.39
+- MQTT: 0.38
+Skill: MobileWeb
+- Wireless Networking: 0.97
+- Cross Browser Compatibility: 0.96
+- Web Accessibility: 0.90
+Skill: Windows phone
+- User Centric Design: 0.85
+- Hardware/Software Integration: 0.66
+- Responsive Design: 0.65
+Skill: App Designer
+- UX/UI Design and Prototyping: 0.72
+- iOS Mobile App Development: 0.64
+- Android Mobile App Development: 0.60
+Skill: Help
+- Troubleshooting: 0.76
+- Incident Response: 0.71
+- React: 0.71
+Skill: BlackBerry
+- User Centric Design: 0.78
+- Backup and Recovery: 0.77
+- Responsive Design: 0.72
+Skill: Code Processor
+- CoAP: 0.79
+- Machine Learning: 0.63
+- GCP: 0.57
+Skill: Tizen
+- IoT: 0.95
+- Hardware/Software Integration: 0.90
+- User Centric Design: 0.82
+Skill: Denso
+- User Centric Design: 0.72
+- Hardware/Software Integration: 0.72
+- Responsive Design: 0.67
+Skill: Mac
+- Machine Learning: 0.95
+- Hardware/Software Integration: 0.81
+- User Centric Design: 0.74
+Skill: TiAPI
+- Integration Testing and System Testing: 0.96
+- User Centric Design: 0.95
+- IT Support: 0.95
+Skill: iPad
+- User Centric Design: 0.86
+- Hardware/Software Integration: 0.85
+- Responsive Design: 0.81
+Skill: Specification
+- Azure: 0.72
+- TCP/IP: 0.67
+- Responsive Design: 0.65
+Skill: Windows Hybrid
+- Integration Testing and System Testing: 0.87
+- Hardware/Software Integration: 0.81
+- Cross Browser Compatibility: 0.68
+Skill: Anvil
+- CoAP: 0.43
+- iOS Mobile App Development: 0.36
+- User Centric Design: 0.31
+Skill: Drillbit
+- iOS Mobile App Development: 0.85
+- Android Mobile App Development: 0.81
+- User Centric Design: 0.76
+Skill: Issue - Create
+- CoAP: 0.61
+- UX/UI Design and Prototyping: 0.57
+- GCP: 0.48
+Skill: Jira Core Board
+- Hardware/Software Integration: 0.96
+- User Centric Design: 0.77
+- Integration Testing and System Testing: 0.71
+Skill: Issue - View
+- JavaScript: 0.42
+- SVN: 0.35
+- GCP: 0.30
+Skill: Project Administration - People and Roles
+- GCP: 0.52
+- CoAP: 0.44
+- MQTT: 0.22
+Skill: Ecosystem - Webhooks
+- GCP: 0.14
+- pytest: 0.12
+- ETL: 0.11
+Skill: Events & Notifications
+- ETL: 0.57
+- GCP: 0.51
+- React: 0.48
+Skill: Native - macOS
+- User Centric Design: 0.72
+- Backup and Recovery: 0.58
+- Hardware/Software Integration: 0.54
+Skill: Onboarding
+- User Centric Design: 0.85
+- ETL: 0.70
+- IoT: 0.70
+Skill: Automation for Jira
+- AI: 0.90
+- Scalability and Performance Optimization: 0.71
+- Routing and Switching: 0.56
+Skill: Project Administration - Issue type, fields and Other
+- GCP: 0.44
+- CoAP: 0.29
+- pytest: 0.27
+Skill: Issue Search - Backend
+- RESTful Architecture: 0.53
+- REST: 0.52
+- Microsoft SQL Server: 0.49
+Skill: Project Administration - Project Trash and Archive
+- CoAP: 0.41
+- GCP: 0.37
+- MQTT: 0.17
+Skill: Project Administration - Workflows and statuses
+- GCP: 0.52
+- MQTT: 0.30
+- Cassandra: 0.28
+Skill: Issue - Old View
+- Microsoft SQL Server: 0.14
+- GCP: 0.12
+- Azure: 0.09
+Skill: Dashboards & Gadgets
+- User Centric Design: 0.92
+- UI Design: 0.72
+- Cassandra: 0.50
+Skill: Search - Frontend
+- User Centric Design: 0.86
+- UI Design: 0.71
+- Web Development: 0.58
+Skill: Global Administration
+- GCP: 0.72
+- CoAP: 0.60
+- MQTT: 0.40
+Skill: Issue - Bulk Updates
+- GCP: 0.44
+- Cassandra: 0.39
+- pytest: 0.39
+Skill: Backup and Restore
+- Backup and Recovery: 0.98
+- Security Best Practices: 0.96
+- Disaster Recovery Planning: 0.93
+Skill: Navigation - Primary & Contextual
+- User Centric Design: 0.46
+- SVN: 0.42
+- VPN: 0.37
+Skill: Native - Android
+- User Centric Design: 0.82
+- Cross Browser Compatibility: 0.76
+- Hardware/Software Integration: 0.76
+Skill: Native - iOS
+- User Centric Design: 0.77
+- iOS Mobile App Development: 0.76
+- Hardware/Software Integration: 0.63
+Skill: Issue - Backend
+- GCP: 0.52
+- Microsoft SQL Server: 0.47
+- pytest: 0.43
+Skill: Issue - Navigation
+- Microsoft SQL Server: 0.26
+- UI Design: 0.22
+- GCP: 0.20
+Skill: Backup & Restore - Import From JIRA Server
+- Backup and Recovery: 0.98
+- Security Best Practices: 0.96
+- User Centric Design: 0.38
+Skill: Backup & Restore - Import From JIRA Cloud
+- Backup and Recovery: 0.99
+- Security Best Practices: 0.94
+- Cloud Architecture: 0.73
+Skill: Jira - Slack Integration
+- Integration Testing and System Testing: 0.61
+- Scalability and Performance Optimization: 0.56
+- Project Planning: 0.10
+Skill: Provisioning
+- CoAP: 0.52
+- GCP: 0.52
+- Scalability and Performance Optimization: 0.51
+Skill: User Profile Display
+- User Centric Design: 0.99
+- UI Design: 0.94
+- UX Design: 0.87
+Skill: User Profile Controls
+- User Centric Design: 0.97
+- UI Design: 0.86
+- UX Design: 0.77
+Skill: Administration - Deprecated
+- System Administration: 0.06
+- CoAP: 0.05
+- Server Administration: 0.04
+Skill: Infrastructure & Services
+- GCP: 0.49
+- IT Support: 0.49
+- Cassandra: 0.46
+Skill: Mac App
+- Cassandra: 0.72
+- User Centric Design: 0.71
+- Backup and Recovery: 0.69
+Skill: ADG3
+- Active Directory: 0.96
+- Responsive Design: 0.82
+- User Centric Design: 0.81
+Skill: Navigation - Login
+- User Centric Design: 0.96
+- UI Design: 0.83
+- Responsive Web Design: 0.64
+Skill: Issue - ADF
+- Active Directory: 0.96
+- User Centric Design: 0.68
+- Disaster Recovery Planning: 0.51
+Skill: Project Administration - Project create and delete
+- CoAP: 0.66
+- GCP: 0.60
+- Cassandra: 0.29
+Skill: TWP - Design System
+- System Architecture Design: 0.62
+- Scalability and Performance Optimization: 0.60
+- User Centric Design: 0.40
+Skill: TWP - Atlassian Frontend SSR Service
+- Integration Testing and System Testing: 0.84
+- Responsive Design: 0.71
+- User Centric Design: 0.62
+Skill: Jira platform
+- User Centric Design: 0.73
+- Scalability and Performance Optimization: 0.67
+- Continuous Integration/Continuous Deployment: 0.64
+Skill: Navigation - Your work
+- VPN: 0.77
+- SVN: 0.63
+- User Centric Design: 0.37
+Skill: Backup & Restore - Export to JIRA Server
+- Backup and Recovery: 0.99
+- Security Best Practices: 0.94
+- IT Support: 0.40
+Skill: Issue - Entity Properties
+- GCP: 0.48
+- ETL: 0.37
+- CoAP: 0.31
+Skill: Connect
+- VoIP (Voice over Internet Protocol): 0.96
+- User Centric Design: 0.91
+- Responsive Design: 0.91
+Skill: TWP - Atlassian Frontend mono-repo and tooling
+- Web Development: 0.79
+- Scalability and Performance Optimization: 0.47
+- User Centric Design: 0.42
+Skill: Invalid
+- CoAP: 0.78
+- ETL: 0.73
+- GCP: 0.59
+Skill: WRM
+- Wireless Networking: 0.96
+- Responsive Design: 0.95
+- Risk Management: 0.95
+Skill: Atlassian Accounts - Raise issue in ID project
+- Troubleshooting: 0.76
+- CoAP: 0.25
+- Intrusion Detection: 0.20
+Skill: Core API
+- CoAP: 0.96
+- REST: 0.78
+- GCP: 0.44
+Skill: Localization - Content
+- GCP: 0.55
+- MQTT: 0.50
+- CoAP: 0.47
+Skill: Admin - Search Engine SiteMap
+- SVN: 0.32
+- GCP: 0.17
+- User Centric Design: 0.12
+Skill: Security & Permissions
+- GCP: 0.59
+- MQTT: 0.43
+- pytest: 0.40
+Skill: Member Directory
+- Responsive Design: 0.42
+- Azure: 0.32
+- React Native: 0.27
+Skill: HTML Editor
+- HTML: 0.97
+- Web Accessibility: 0.70
+- Web Development: 0.68
+Skill: Admin - File Manager
+- User Centric Design: 0.59
+- Cassandra: 0.31
+- Backup and Recovery: 0.30
+Skill: Login/Registration
+- User Centric Design: 0.85
+- UI Design: 0.65
+- Responsive Design: 0.54
+Skill: URL ReWriter
+- User Centric Design: 0.66
+- Responsive Design: 0.64
+- Web Accessibility: 0.57
+Skill: Friendly / Standard URLs
+- User Centric Design: 0.91
+- Web Accessibility: 0.89
+- Cross Browser Compatibility: 0.86
+Skill: Admin - Site Settings
+- GCP: 0.36
+- Cassandra: 0.33
+- Web Accessibility: 0.25
+Skill: Localization - Static
+- GCP: 0.46
+- SVN: 0.42
+- Kotlin: 0.30
+Skill: Installation / Upgrade
+- Scalability and Performance Optimization: 0.58
+- Hardware/Software Integration: 0.58
+- MQTT: 0.53
+Skill: Admin - Security Roles
+- GCP: 0.29
+- Azure: 0.24
+- CoAP: 0.23
+Skill: Localization - Language Packs
+- GCP: 0.43
+- CoAP: 0.32
+- MQTT: 0.24
+Skill: Admin - Pages
+- Web Accessibility: 0.26
+- User Centric Design: 0.24
+- Responsive Design: 0.20
+Skill: Admin - Recycle Bin
+- Responsive Design: 0.72
+- User Centric Design: 0.66
+- Java: 0.20
+Skill: Host - Host Settings
+- Scalability and Performance Optimization: 0.50
+- GCP: 0.46
+- RESTful Architecture: 0.32
+Skill: Control Panel
+- CoAP: 0.93
+- GCP: 0.77
+- User Centric Design: 0.76
+Skill: Telerik
+- User Centric Design: 0.68
+- VoIP (Voice over Internet Protocol): 0.67
+- ETL: 0.55
+Skill: Admin - Event Viewer
+- User Centric Design: 0.52
+- ETL: 0.29
+- SVN: 0.26
+Skill: File Manager
+- User Centric Design: 0.87
+- Responsive Design: 0.43
+- Cassandra: 0.43
+Skill: Admin - User Accounts
+- User Centric Design: 0.64
+- GCP: 0.27
+- Responsive Design: 0.24
+Skill: UI / Usability
+- User Centric Design: 0.94
+- UX Design: 0.94
+- UI Design: 0.90
+Skill: Services Framework
+- SVN: 0.49
+- Scalability and Performance Optimization: 0.46
+- REST: 0.44
+Skill: Core Modules
+- CoAP: 0.44
+- GCP: 0.39
+- Kotlin: 0.36
+Skill: Skins - DotNetNuke
+- Sketch: 0.97
+- Flask: 0.95
+- Wireless Networking: 0.86
+Skill: Modules - Core
+- CoAP: 0.37
+- GCP: 0.35
+- pytest: 0.23
+Skill: Admin / Host Functions
+- System Administration: 0.64
+- RESTful Architecture: 0.57
+- Server Administration: 0.47
+Skill: Localization / ML
+- Machine Learning: 0.97
+- User Centric Design: 0.72
+- Responsive Design: 0.72
+Skill: Admin - Skins
+- Sketch: 0.60
+- Cassandra: 0.11
+- CoAP: 0.09
+Skill: Graphics & Icons
+- GCP: 0.57
+- CoAP: 0.39
+- Azure: 0.36
+Skill: Host - Site Management
+- GCP: 0.52
+- Cassandra: 0.43
+- SVN: 0.33
+Skill: Modules - Third party
+- MQTT: 0.46
+- CoAP: 0.41
+- GCP: 0.41
+Skill: Exception Management
+- ETL: 0.55
+- Incident Response: 0.53
+- Kotlin: 0.48
+Skill: End User Functions
+- User Centric Design: 0.73
+- ETL: 0.70
+- REST: 0.69
+Skill: Admin - Vendors
+- SVN: 0.42
+- Responsive Design: 0.39
+- Scalability and Performance Optimization: 0.26
+Skill: Admin - Site Redirection Management
+- Routing and Switching: 0.79
+- GCP: 0.41
+- Cassandra: 0.38
+Skill: Host - Schedule
+- GCP: 0.44
+- Continuous Integration/Continuous Deployment: 0.41
+- CoAP: 0.32
+Skill: Journal
+- Scalability and Performance Optimization: 0.53
+- Azure: 0.53
+- User Centric Design: 0.52
+Skill: Admin - Extensions
+- ETL: 0.62
+- Scalability and Performance Optimization: 0.42
+- Microsoft SQL Server: 0.21
+Skill: Data Access (DAL)
+- Microsoft SQL Server: 0.10
+- Oracle: 0.08
+- Big Data Technologies: 0.07
+Skill: Messaging
+- MQTT: 0.60
+- User Centric Design: 0.58
+- GCP: 0.45
+Skill: Text/HTML Module
+- HTML: 0.69
+- Cross Browser Compatibility: 0.64
+- Web Accessibility: 0.61
+Skill: Social Groups
+- GCP: 0.51
+- React: 0.40
+- Azure: 0.36
+Skill: Client Resources
+- User Centric Design: 0.72
+- REST: 0.65
+- CoAP: 0.63
+Skill: Host - SQL
+- SQL: 0.99
+- Microsoft SQL Server: 0.89
+- Data Modeling: 0.37
+Skill: Control Panel - Ribbon Bar
+- UI Design: 0.99
+- User Centric Design: 0.95
+- Responsive Design: 0.93
+Skill: Admin - Google Analytics
+- Big Data Technologies: 0.18
+- Scalability and Performance Optimization: 0.02
+- CoAP: 0.02
+Skill: Admin - Languages
+- GCP: 0.14
+- CoAP: 0.12
+- MQTT: 0.11
+Skill: Admin - Newsletters
+- GCP: 0.23
+- Azure: 0.19
+- Cassandra: 0.17
+Skill: jQuery
+- VPN: 0.81
+- JavaScript: 0.71
+- Scalability and Performance Optimization: 0.47
+Skill: Host - Extensions
+- ETL: 0.69
+- Scalability and Performance Optimization: 0.55
+- GCP: 0.37
+Skill: Host - Dashboard
+- User Centric Design: 0.91
+- Responsive Design: 0.68
+- UI Design: 0.65
+Skill: Release Packaging
+- Responsive Design: 0.83
+- ETL: 0.61
+- Scalability and Performance Optimization: 0.60
+Skill: Providers
+- Responsive Design: 0.64
+- Continuous Integration/Continuous Deployment: 0.49
+- React: 0.48
+Skill: HTML Module - Core
+- HTML: 0.90
+- Web Development: 0.61
+- Responsive Web Design: 0.24
+Skill: Skinning
+- GCP: 0.41
+- MQTT: 0.32
+- CoAP: 0.32
+Skill: Admin - Device Preview Management
+- GCP: 0.47
+- Cassandra: 0.43
+- SVN: 0.35
+Skill: Host Page
+- Web Development: 0.80
+- Responsive Design: 0.74
+- HTML: 0.74
+Skill: Control Panel - Icon Bar
+- UI Design: 0.98
+- User Centric Design: 0.86
+- Responsive Design: 0.83
+Skill: Host - SuperUser Accounts
+- User Centric Design: 0.44
+- GCP: 0.43
+- SVN: 0.32
+Skill: DDR Menu
+- User Centric Design: 0.99
+- Responsive Design: 0.98
+- UI Design: 0.96
+Skill: Skins - Third party
+- CoAP: 0.25
+- iOS Mobile App Development: 0.23
+- SVN: 0.22
+Skill: Modal Pop ups
+- UI Design: 0.95
+- User Centric Design: 0.92
+- Responsive Design: 0.84
+Skill: Admin - Taxonomy
+- MQTT: 0.27
+- GCP: 0.25
+- CoAP: 0.14
+Skill: PA Loader / DNN Files
+- Scalability and Performance Optimization: 0.77
+- Machine Learning: 0.72
+- User Centric Design: 0.54
+Skill: Host - Configuration Manager
+- GCP: 0.84
+- Scalability and Performance Optimization: 0.20
+- Azure: 0.18
+Skill: Host - Device Detection Management
+- GCP: 0.64
+- SVN: 0.51
+- Cassandra: 0.46
+Skill: Legal
+- Azure: 0.66
+- GCP: 0.65
+- React: 0.65
+Skill: Site Groups
+- GCP: 0.47
+- Responsive Design: 0.47
+- User Centric Design: 0.45
+Skill: Admin Page
+- System Administration: 0.53
+- Web Accessibility: 0.50
+- Responsive Design: 0.50
+Skill: Host - Lists
+- GCP: 0.42
+- Cassandra: 0.30
+- Microsoft SQL Server: 0.29
+Skill: Login/Registration - Password Reset
+- Security Best Practices: 0.72
+- User Centric Design: 0.61
+- GCP: 0.57
+Skill: C# Conversion
+- pytest: 0.31
+- Routing and Switching: 0.24
+- Backup and Recovery: 0.16
+Skill: Host - Module Definitions
+- GCP: 0.39
+- pytest: 0.28
+- Azure: 0.28
+Skill: Host - Vendors
+- GCP: 0.45
+- CoAP: 0.42
+- Responsive Design: 0.40
+Skill: Admin - Site Wizard
+- GCP: 0.23
+- Web Accessibility: 0.20
+- Responsive Web Design: 0.16
+Skill: Host - File Manager
+- User Centric Design: 0.64
+- GCP: 0.52
+- Cassandra: 0.33
+Skill: Professional Features Showcase
+- Scalability and Performance Optimization: 0.66
+- SVN: 0.65
+- GCP: 0.49
+Skill: Admin - Site Log
+- GCP: 0.24
+- Azure: 0.18
+- SVN: 0.17
+Skill: Object Qualifier
+- Quality Assurance: 0.90
+- MQTT: 0.75
+- GCP: 0.65
+Skill: Host - MarketPlace
+- Responsive Design: 0.49
+- MQTT: 0.37
+- User Centric Design: 0.20
+Skill: Compliance (ADA, WCAG, XHTML)
+- Web Accessibility: 0.94
+- Cross Browser Compatibility: 0.69
+- Web Development: 0.59
+Skill: Host - Search Admin
+- GCP: 0.44
+- Cassandra: 0.35
+- CoAP: 0.33
+Skill: Compression
+- GCP: 0.68
+- CoAP: 0.67
+- MQTT: 0.64
+Skill: PersonaBar
+- User Centric Design: 0.96
+- Android Mobile App Development: 0.85
+- Responsive Design: 0.81
+Skill: Host = Membership Management
+- GCP: 0.31
+- Cassandra: 0.21
+- CoAP: 0.18
+Skill: DNN Prompt
+- Natural Language Processing: 0.95
+- Machine Learning: 0.90
+- Wireless Networking: 0.80
+Skill: client dependency framework
+- CoAP: 0.74
+- TCP/IP: 0.59
+- GCP: 0.58
+Skill: Prompt
+- React: 0.84
+- Spark: 0.80
+- Responsive Design: 0.72
+Skill: PersonaBar - Security
+- Android Mobile App Development: 0.70
+- iOS Mobile App Development: 0.62
+- CoAP: 0.45
+Skill: AUM
+- Azure: 0.99
+- User Centric Design: 0.97
+- Responsive Design: 0.95
+Skill: User Profile
+- User Centric Design: 0.92
+- GCP: 0.53
+- UX Design: 0.49
+Skill: Module Action Menu
+- Responsive Design: 0.86
+- User Centric Design: 0.82
+- CoAP: 0.58
+Skill: Personabar - sites
+- Web Development: 0.50
+- User Centric Design: 0.48
+- Web Accessibility: 0.21
+Skill: CDF
+- Cryptocurrency development: 0.87
+- User Centric Design: 0.82
+- Technical Documentation: 0.79
+Skill: PersonaBar - Scheduler
+- Scalability and Performance Optimization: 0.63
+- UI Design: 0.56
+- Responsive Design: 0.42
+Skill: Pages
+- User Centric Design: 0.51
+- Azure: 0.49
+- Web Accessibility: 0.48
+Skill: PersonaBar - Users
+- User Centric Design: 1.00
+- Responsive Design: 0.79
+- UI Design: 0.67
+Skill: Host - Security Analyzer
+- GCP: 0.50
+- CoAP: 0.50
+- pytest: 0.30
+Skill: ImageHandler
+- Responsive Design: 0.78
+- Responsive Web Design: 0.62
+- GCP: 0.59
+Skill: PersonaBar - Prompt
+- User Centric Design: 0.87
+- UI Design: 0.85
+- Android Mobile App Development: 0.85
+Skill: External Modules
+- ETL: 0.58
+- Embedded Systems: 0.50
+- IoT: 0.50
+Skill: workflow
+- Routing and Switching: 0.52
+- GCP: 0.50
+- Backup and Recovery: 0.48
+Skill: CKEditor
+- Data Visualization: 0.98
+- User Centric Design: 0.96
+- Cryptocurrency development: 0.96
+Skill: PersonaBar - Settings
+- UI Design: 0.88
+- User Centric Design: 0.84
+- iOS Mobile App Development: 0.73
+Skill: SEO
+- Cassandra: 0.27
+- Flutter: 0.20
+- Usability Testing: 0.18
+Skill: MVC
+- User Centric Design: 0.98
+- Responsive Design: 0.97
+- Software Design Patterns: 0.95
+Skill: Activity Feed
+- User Centric Design: 0.65
+- MQTT: 0.44
+- Routing and Switching: 0.43
+Skill: PersonaBar - Vocabulary
+- CoAP: 0.19
+- React: 0.12
+- MQTT: 0.11
+Skill: PB Security
+- Blockchain security: 0.98
+- Backup and Recovery: 0.72
+- Security Best Practices: 0.62
+Skill: JWT
+- Web Accessibility: 0.99
+- Wireless Networking: 0.98
+- Blockchain security: 0.97
+Skill: Connectors
+- IoT: 0.81
+- VPN: 0.80
+- Responsive Design: 0.78
+Skill: SPA
+- Scala: 0.99
+- Integration Testing and System Testing: 0.95
+- System Administration: 0.95
+Skill: PB Menu Security
+- Security Best Practices: 0.66
+- User Centric Design: 0.46
+- Backup and Recovery: 0.41
+Skill: FIPS Compliance
+- Routing and Switching: 0.35
+- Cassandra: 0.29
+- Kotlin: 0.25
+Skill: SMTP
+- Responsive Design: 0.97
+- Sensor Integration: 0.94
+- Scalability and Performance Optimization: 0.93
+Skill: Provider - Active Directory
+- Active Directory: 1.00
+- AI: 0.43
+- CoAP: 0.39
+Skill: Web-Farm
+- Scalability and Performance Optimization: 0.77
+- GCP: 0.36
+- Responsive Design: 0.22
+Skill: home
+- User Centric Design: 0.66
+- Responsive Design: 0.61
+- Backup and Recovery: 0.55
+Skill: dam
+- Backup and Recovery: 0.69
+- iOS Mobile App Development: 0.60
+- Scalability and Performance Optimization: 0.58
+Skill: Gaming Mechanics
+- GCP: 0.61
+- Routing and Switching: 0.49
+- pytest: 0.41
+Skill: Moniker
+- Machine Learning: 0.73
+- Data Modeling: 0.69
+- User Centric Design: 0.68
+Skill: Dynamic Content Creator
+- GCP: 0.93
+- Cassandra: 0.63
+- Flutter: 0.55
+Skill: Document viewer
+- User Centric Design: 0.85
+- Responsive Design: 0.59
+- GCP: 0.52
+Skill: robots.txt
+- GCP: 0.53
+- Routing and Switching: 0.48
+- IoT: 0.39
+Skill: Querying
+- GCP: 0.42
+- GraphQL: 0.38
+- TCP/IP: 0.36
+Skill: Testing Infrastructure
+- Integration Testing and System Testing: 0.76
+- TCP/IP: 0.72
+- Routing and Switching: 0.64
+Skill: Sharding
+- Blockchain security: 0.96
+- Scalability and Performance Optimization: 0.95
+- Security Best Practices: 0.93
+Skill: MapReduce
+- Big Data Technologies: 0.86
+- Scalability and Performance Optimization: 0.77
+- Machine Learning: 0.76
+Skill: Internal Code
+- GCP: 0.60
+- CoAP: 0.44
+- Kotlin: 0.44
+Skill: Diagnostics
+- GCP: 0.45
+- MQTT: 0.42
+- pytest: 0.37
+Skill: Networking
+- TCP/IP: 0.88
+- VPN: 0.83
+- Wireless Networking: 0.82
+Skill: Upgrade/Downgrade
+- Scalability and Performance Optimization: 0.70
+- MQTT: 0.64
+- GCP: 0.63
+Skill: Concurrency
+- Cryptocurrency development: 0.97
+- GCP: 0.70
+- Continuous Integration/Continuous Deployment: 0.70
+Skill: Aggregation Framework
+- GCP: 0.70
+- CoAP: 0.68
+- Scalability and Performance Optimization: 0.57
+Skill: WiredTiger
+- Wireless Networking: 0.97
+- Hardware/Software Integration: 0.86
+- User Centric Design: 0.77
+Skill: IDL
+- User Centric Design: 0.71
+- Scalability and Performance Optimization: 0.48
+- Technical Documentation: 0.43
+Skill: Write Ops
+- System Administration: 0.55
+- Continuous Integration/Continuous Deployment: 0.51
+- CoAP: 0.49
+Skill: Catalog
+- GCP: 0.53
+- Scalability and Performance Optimization: 0.52
+- Big Data Technologies: 0.44
+Skill: Admin
+- System Administration: 0.71
+- Responsive Design: 0.51
+- Scalability and Performance Optimization: 0.49
+Skill: Geo
+- GCP: 0.53
+- Responsive Design: 0.41
+- User Centric Design: 0.31
+Skill: Text Search
+- User Centric Design: 0.49
+- GCP: 0.37
+- Azure: 0.34
+Skill: TTL
+- Technical Documentation: 0.79
+- Troubleshooting: 0.73
+- User Centric Design: 0.72
+Skill: Internal Client
+- User Centric Design: 0.90
+- CoAP: 0.77
+- TCP/IP: 0.70
+Skill: MMAPv1
+- Responsive Design: 0.97
+- Responsive Web Design: 0.90
+- User Centric Design: 0.89
+Skill: HTTP Console
+- REST: 0.89
+- User Centric Design: 0.77
+- RESTful Architecture: 0.76

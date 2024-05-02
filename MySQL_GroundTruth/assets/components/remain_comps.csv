@@ -1,0 +1,291 @@
+Windows
+Performance
+Hyperloop
+Admin - User Accounts
+Core: Configuration
+Aggregation Framework
+Editor - Fabric
+"Querying,Indexing"
+Ingest
+test
+"Course,User management,Usability"
+Admin
+next-gen
+Artifacts
+"JavaScript,Forms Library"
+"Administration,Authentication"
+Translations
+"iOS,Android"
+Cleanup
+API
+Transport: JMS
+Core: Containers
+"fabric-orderer,fabric-peer"
+Project Administration - Permissions
+"Querying,Performance"
+CLI
+Administration - Fields
+Privacy
+Security
+Database
+"Administration,Usability"
+"Themes,Course"
+Core: Transactions
+Usability
+fabric-quality
+Transport: JDBC
+User Interface
+"Administration,Roles / Access"
+Indexing
+Plugins
+Packaging
+Sharding
+Elastic Bamboo
+"SUIT,Firefly"
+"Authentication,Web Services"
+"Data Center - Other,Indexing"
+"Backup,Files API"
+Documentation / Website
+Project Administration - People and Roles
+Host - Host Settings
+"Caching,Unit tests"
+Documentation
+Plan configuration
+Webhooks
+User Management - User Profile
+Dashboard & Gadgets
+H5P
+SOAP
+"Board configuration,AgileBoard"
+modules
+NPM
+Tasks
+Repository (Subversion)
+PHP
+Deployments
+fabric-build
+Core: Transports
+Security & Permissions
+Core API
+"Storage,Replication"
+Themes
+Blog
+Scheduled Tasks
+Publishing
+Journal
+Issue - View
+Upgrading
+PyDev
+"Course,Backup"
+Telemetry / Reporting
+Dynamic Content Creator
+REST Module
+Transport: HTTP(S) / Jetty
+Issue - Fields
+Issue Search - Backend
+Infrastructure
+User - Global / Space Permissions
+Text Search
+HTML
+Data Center
+Requirements
+Admin - File Manager
+"Authentication,Usability"
+Staging
+Infrastructure & Services - Application Lifecycle
+Stages
+Libraries
+Docker
+Design Documents
+Stability
+"UX,Usability"
+Directories
+Issue - Comments
+utils
+Issue - Sub-Tasks
+Firefly
+"Administration,Libraries"
+UPM (Universal Plugin Manager)
+"H5P,Repositories"
+HTML and CSS
+Bitbucket Server integration
+MapReduce
+Shell
+Diagnostics
+Debugging
+Project Administration - Users and Roles
+build
+UI / UX
+Authentication
+Roles / Access
+SCORM
+Dashboards & Reports - Reports
+MobileWeb
+JQL
+Login/Registration
+Networking
+"Performance,Roles / Access"
+Project - Issues
+Backup
+Core - Content REST APIs
+Browse Storage
+Configuration
+JIRA integration
+Core: Expressions
+Transport: TCP / UDP / SSL / Multicast
+Bulk Operations
+User interface
+fabric-ledger
+Dashboards & Gadgets
+Mobile
+Internal Code
+webui
+containerization
+"Testing Infrastructure,Sharding"
+Server - EAP
+Core: Transformers
+Project - Agile Boards
+Project - Actions
+master
+"Backup,Administration"
+Events & Notifications
+Issue - Actions
+Replication
+Issue - Create
+HTML Editor (Atto)
+Jira Importers Plugin
+"User Interface,Builds"
+Editor
+"Stream Module,Hadoop"
+Course
+Directory - LDAP
+Integrations
+Stream Module
+Batch
+User management
+Core: API
+Global Administration
+Admin - Site Settings
+Server administration
+Accessibility
+Administration (General)
+Server - Upgrade Manager
+cli
+Forms Library
+Workflow Triggers
+fabric-docs
+Backlog
+Analytics
+"Administration,Tasks"
+Release Hub
+Documentation - All
+Sample Data
+"User management,Authentication"
+"Aggregation pipeline,Views"
+Host - Site Management
+"Course,Database SQL/XMLDB"
+"Course,Usability"
+Project
+Builds
+Tests
+Query Operations
+Web Services
+Issue - Create Issue
+Unit tests
+Querying
+Directory - Azure Active Directory
+Files API
+Developer Infrastructure
+Grading methods
+Issue - View Issue
+Core: Components
+JavaScript
+Notifications
+"CLI,iOS"
+Plan Branches
+LDAP
+Runtime
+Caching
+Monitoring
+Application Links
+Server - Administration
+Write Ops
+Integrations - JIRA
+Server - Platform
+POJO
+Assignment
+"Sharding,Security"
+Reports
+Project Administration - Others
+"Accessibility,Usability"
+Aggregation pipeline
+"Language,Administration"
+Classic - Reports
+Issue - Time Tracking & Worklog
+HTTP API
+fabric-orderer
+XML
+REST
+Connectivity
+AgileBoard
+Universal Plugin Manager / Manage apps
+SUIT
+Migration
+Administration
+"Course,Web Services"
+Documents
+Project Administration - Workflows and statuses
+Jira Core Board
+Modules: CXF
+"Core API,Dynamic Content Creator"
+"CRUD,Documents"
+fabric-crypto
+REST API
+Development Panel
+Administration - Issue Types
+UI
+Import/Export
+"Assignment,Grading methods"
+UI / Usability
+Storage
+"Themes,HTML and CSS"
+ADGS Design changes
+Testing Infrastructure
+Database SQL/XMLDB
+Terminal
+fabric-peer
+Test Coverage
+Automation for Jira
+Badges
+Gadget
+Roadmap
+Transport: Quartz
+User Management - LDAP Integration
+"Course,JavaScript"
+"Database SQL/XMLDB,Authentication"
+Tools
+Concurrency
+Repository
+Board configuration
+fabric-common
+Core: Exception Handling
+"Replication,Indexing"
+"Themes,Policy"
+"Administration,User management"
+Repositories
+Project Administration - Versions
+ui
+Policy
+Ecosystem
+iOS
+"iOS,Hyperloop"
+"UI,LDAP"
+Language
+"next-gen,Roadmap"
+Dashboard
+Java API
+Schema
+log
+Templates
+Build
+Android

@@ -1,0 +1,880 @@
+Skills,"an authentication issue, the dreaded 420 response from the Twitter API, etc. If I could somehow be notified about the issue, then I could provide that information to my user so she could fix the issue or at least understand what is going on.  I've seen that the REST API will support an endpoint to check the current status of a stream, but it is not yet available and it would require my application to be polling constantly the stream, with all the disadvantages compared to a pushing mechanism.","h2. Narrative As an XD developer, I need to be able to create a composed job module as XML from the DSL an store it in the Module File repository.  While the user uses the composed job as if it is a normal job including seeing only the DSL.  In the background the JobFactory will deploy the composed job module.   * When the user destroys the job the module will be deleted from the file module repository. * When the user creates the job a module will be created in the file Module repository. h2. Back story For the composed job story, we need to create a """"real"""" job module to be expressed in XML, so that we can take advantage of the job execution tasklet in XD-3556, so that each job can be executed as a step in the composed job."
+.NET,0.45,0.18
+ADGS Design changes,0.4,0.2
+API,0.8,0.13
+APT,0.4,0.38
+AUI,0.58,0.4
+AWS,0.14,0.04
+Acceptance Testing,0.18,0.07
+Accessibility,0.62,0.08
+Accessibility - Mobile,0.35,0.09
+Active Objects,0.42,0.07
+Admin,0.72,0.42
+Admin - Device Preview Management,0.57,0.17
+Admin - Event Viewer,0.48,0.1
+Admin - Extensions,0.62,0.24
+Admin - File Manager,0.59,0.18
+Admin - Google Analytics,0.17,0.11
+Admin - Languages,0.56,0.16
+Admin - Newsletters,0.29,0.09
+Admin - Pages,0.23,0.09
+Admin - Recycle Bin,0.05,0.14
+Admin - Search Engine SiteMap,0.42,0.23
+Admin - Security Roles,0.72,0.14
+Admin - Site Redirection Management,0.38,0.08
+Admin - Site Settings,0.42,0.18
+Admin - User Accounts,0.53,0.22
+Admin - Vendors,0.35,0.11
+Admin / Host Functions,0.43,0.18
+Administration,0.81,0.16
+Administration (General),0.32,0.05
+Administration (Projects),0.27,0.05
+Administration - Fields,0.45,0.14
+Administration - Issue Types,0.76,0.11
+Administration - Permission Helper,0.52,0.06
+Administration - Screens,0.47,0.11
+Aggregation Framework,0.37,0.12
+Aggregation pipeline,0.5,0.11
+AgileBoard,0.49,0.28
+Algorithm Testing,0.19,0.14
+Analytics,0.48,0.12
+Android,0.35,0.2
+Ant Tasks,0.18,0.03
+Anvil,0.45,0.25
+Apache MXNet Backend,0.12,0.09
+Apache MXNet C/C++ API,0.04,0.04
+Apache MXNet Java API,0.06,0.04
+Apache MXNet Julia API,0.09,0.06
+Apache MXNet Scala API,0.11,0.05
+App Designer,0.48,0.19
+App Diagnositcs,0.61,0.18
+App Explorer,0.51,0.19
+Appc CLI,0.23,0.16
+Application Links,0.59,0.22
+Arrow,0.41,0.12
+Artifacts,0.53,0.14
+Assignment,0.52,0.23
+Async,0.48,0.47
+Asynchronous REST Client,0.25,0.08
+Atlas,0.25,0.13
+Audit,0.49,0.13
+Audit Log,0.32,0.1
+Audit Logging,0.3,0.11
+Authentication,0.93,0.07
+Authentication / Security,0.88,0.19
+Auto Updates,0.1,0.07
+Automation,0.71,0.29
+Automation for Jira,0.12,0.06
+BSON,0.29,0.25
+Backend / Domain Model ,0.35,0.09
+Background Operations,0.49,0.19
+Backlog,0.4,0.15
+Backup,0.5,0.14
+Backup / Restore,0.4,0.17
+Backup and Restore,0.32,0.12
+Backup: IMS-CC,0.4,0.15
+Badges,0.4,0.18
+Batch,0.55,0.31
+Bitbucket Server integration,0.15,0.03
+Bitbucket integration,0.14,0.03
+Blog,0.29,0.15
+Board configuration,0.68,0.47
+Bootstrap,0.15,0.04
+Bower,0.35,0.21
+Branch Status,0.23,0.18
+Browse Remote,0.35,0.14
+Browse Storage,0.31,0.12
+Build,0.38,0.42
+Build Queues,0.18,0.1
+Build Tooling,0.19,0.12
+Build system,0.55,0.4
+Build: Distributions,0.49,0.16
+Build: Integration Tests,0.42,0.12
+Build: JDK Compatibility,0.23,0.09
+Build: Libraries / Dependencies,0.5,0.15
+Build: Maven,0.13,0.11
+Builders,0.38,0.37
+Builds,0.38,0.28
+Builtins,0.41,0.27
+Bulk Operations,0.49,0.07
+Burrow EVM,0.21,0.11
+C# Conversion,0.13,0.04
+C++ SDK,0.05,0.01
+CDF,0.48,0.4
+CI,0.52,0.25
+CI Build ,0.08,0.05
+CLI,0.29,0.16
+CRUD,0.56,0.06
+CSS,0.09,0.03
+CSV export,0.07,0.02
+Caching,0.38,0.2
+Calibration Products Production,0.29,0.17
+Cassandra Administration,0.08,0.06
+Catalog,0.4,0.19
+Centralized license visibility,0.55,0.23
+Change Streams,0.71,0.15
+Classic - Reports,0.21,0.05
+Cleanup,0.41,0.15
+Client,0.7,0.57
+Client Resources,0.57,0.33
+Client Side Encryption,0.1,0.17
+Cluster Management,0.36,0.1
+Code Insights,0.43,0.26
+Codecs,0.19,0.19
+CoffeeScript,0.04,0.01
+Collection,0.66,0.47
+Command Operations,0.29,0.1
+Concurrency,0.88,0.19
+Conda,0.46,0.27
+Configuration,0.7,0.47
+Confluence Frontend Next Release Blocker - Prod,0.15,0.17
+Confluence Frontend Next Release Blocker - Staging,0.19,0.11
+Confluence Frontend Release Blocker,0.11,0.06
+Confluence Frontend Release Blocker - Dev,0.22,0.15
+Confluence integration,0.18,0.09
+Connection Management,0.62,0.18
+Connectivity,0.66,0.4
+Connector: DB,0.38,0.24
+Connector: ObjectStore,0.5,0.24
+Connector: Sockets,0.38,0.35
+Connector: VM,0.46,0.31
+Connectors,0.55,0.32
+Console,0.68,0.61
+Content Review,0.45,0.12
+Content Selectors,0.29,0.08
+Continuous Integration,0.42,0.19
+Control Panel,0.23,0.15
+Control Panel - Ribbon Bar,0.22,0.16
+Core - APIs,0.31,0.12
+Core - Content REST APIs,0.13,0.08
+Core - DevOps,0.29,0.12
+Core - Frontend Platform,0.2,0.14
+Core - Web Resources,0.2,0.18
+Core API,0.17,0.2
+Core Modules,0.2,0.07
+Core: API,0.2,0.21
+Core: Agents,0.18,0.11
+Core: Bootstrap / Standalone,0.14,0.1
+Core: Classloading,0.23,0.16
+Core: Components,0.33,0.27
+Core: Concurrency / Threading,0.52,0.11
+Core: Configuration,0.48,0.31
+Core: Containers,0.27,0.1
+Core: DSL processing,0.32,0.61
+Core: Deployment,0.37,0.21
+Core: Domains shared resources,0.27,0.23
+Core: Endpoints,0.13,0.18
+Core: Event/Message,0.23,0.12
+Core: Exception Handling,0.43,0.05
+Core: Expressions,0.3,0.18
+Core: Flow,0.33,0.21
+Core: Lifecycle,0.54,0.19
+Core: Logging,0.45,0.14
+Core: Non-Blocking,0.26,0.18
+Core: ObjectStore,0.33,0.19
+Core: Policies,0.32,0.12
+Core: Properties,0.46,0.29
+Core: Queues (SEDA) / Persistence,0.12,0.09
+Core: Registry,0.28,0.19
+Core: Request-Reply,0.22,0.32
+Core: Routing / Filters,0.35,0.24
+Core: Services,0.44,0.27
+Core: Sessions,0.3,0.22
+Core: Streaming,0.48,0.15
+Core: Transactions,0.33,0.15
+Core: Transformers,0.23,0.07
+Core: Transports,0.35,0.15
+Core: Watermark,0.18,0.13
+Course,0.46,0.33
+Credentials,0.67,0.3
+Cron,0.2,0.09
+Custom Field Optimizer,0.24,0.12
+Custom Metadata,0.57,0.14
+DDL,0.36,0.28
+DSL,0.54,0.96
+Dashboard,0.6,0.1
+Dashboard & Gadgets,0.41,0.07
+Dashboard Integration,0.36,0.03
+Dashboards & Gadgets,0.35,0.06
+Dashboards & Reports - Reports,0.47,0.09
+Data,0.7,0.43
+Data Access,0.68,0.2
+Data Access (DAL),0.26,0.1
+Data Archive,0.44,0.11
+Data Center,0.59,0.22
+Data Center - Apps,0.75,0.2
+Data Center - Archiving,0.69,0.15
+Data Center - Azure,0.28,0.2
+Data Center - Core,0.59,0.25
+Data Center - Database,0.42,0.21
+Data Center - Deployments,0.63,0.2
+Data Center - Index,0.47,0.25
+Data Center - Installer,0.44,0.22
+Data Center - Load balancer,0.29,0.17
+Data Center - Node replication,0.2,0.08
+Data Center - Other,0.59,0.26
+Data Release Production,0.37,0.13
+Data Service,0.69,0.26
+Database,0.21,0.15
+Database (MS SQL),0.02,0.06
+Database (MySQL),0.04,0.09
+Database (Oracle),0.04,0.06
+Database (Postgresql),0.02,0.08
+Database SQL/XMLDB,0.08,0.14
+Debugger,0.57,0.28
+Debugging,0.64,0.16
+Demo Application,0.62,0.08
+Dependencies,0.74,0.21
+Deployment,0.5,0.25
+Deployment Awareness,0.54,0.11
+Deployments,0.42,0.2
+Design,0.7,0.22
+Design Documents,0.31,0.13
+Desktop,0.4,0.43
+DevLoop,0.35,0.23
+Developer Infrastructure,0.76,0.85
+Development Panel,0.45,0.27
+Diagnostics,0.55,0.2
+Directories,0.31,0.14
+Directory - Azure Active Directory,0.06,0.08
+Directory - Internal/Delegated,0.35,0.26
+Directory - LDAP,0.06,0.14
+Directory - Remote Crowd,0.2,0.13
+Distributions,0.5,0.14
+Docker,0.08,0.03
+Docker Runner,0.13,0.03
+Docker-Nexus,0.18,0.04
+Docs,0.23,0.35
+Document Validation,0.3,0.11
+Documentation,0.64,0.44
+Documentation (Developer),0.51,0.6
+Documentation - All,0.23,0.13
+Documentation / Website,0.2,0.1
+Documents,0.41,0.44
+Drillbit,0.27,0.12
+Dump/Restore,0.29,0.2
+Dynamic Content Creator,0.68,0.22
+Ecosystem,0.65,0.33
+Ecosystem - Webhooks,0.25,0.14
+Editor,0.53,0.33
+Editor - Fabric,0.19,0.09
+Education,0.36,0.08
+Elastic Bamboo,0.32,0.08
+Electron,0.27,0.05
+Email system,0.33,0.15
+Embedded,0.55,0.34
+Encoding,0.6,0.56
+End User Functions,0.47,0.13
+Enterprise,0.58,0.39
+Environment - Database,0.36,0.1
+Environment - Java,0.53,0.1
+Error Handling,0.7,0.03
+Events & Notifications,0.8,0.09
+Examples / Tutorials,0.32,0.02
+Exception Management,0.78,0.07
+Export,0.35,0.2
+Export to Language,0.23,0.3
+Extensions,0.53,0.31
+Extensions API,0.47,0.31
+Extensions: Maven Plugin,0.09,0.04
+Fast Kanban,0.14,0.04
+Feature Request,0.42,0.19
+Field Level Encryption,0.1,0.11
+File,0.43,0.77
+File Manager,0.47,0.23
+Files API,0.34,0.2
+Filters & Dashboards - Permissions,0.38,0.1
+Firefly,0.29,0.14
+Firewall,0.2,0.16
+First-Run,0.35,0.1
+FishEye & Crucible integration,0.15,0.13
+Folding,0.38,0.1
+Force Stop Build,0.13,0.13
+Formatter,0.59,0.26
+Formatting,0.46,0.11
+Forms Library,0.17,0.11
+Friendly / Standard URLs,0.03,0.17
+Front-end API,0.31,0.1
+Gadget,0.35,0.06
+Gadgets,0.35,0.11
+Github,0.13,0.11
+Global Administration,0.47,0.19
+Gluon,0.43,0.27
+Go SDK,0.03,0.0
+Google App Engine,0.06,0.03
+Grading methods,0.31,0.11
+Gradle Plugin,0.07,0.06
+Graphics & Icons,0.37,0.13
+GreenHopper integration,0.28,0.11
+Groovy,0.26,0.09
+H5P,0.52,0.24
+HAML,0.22,0.03
+HTML,0.05,0.01
+HTML Editor,0.13,0.05
+HTML Editor (Atto),0.07,0.03
+HTML Module - Core,0.25,0.05
+HTML View,0.12,0.02
+HTML and CSS,0.02,0.01
+HTTP API,0.19,0.05
+HTTP Console,0.2,0.13
+HUD,0.55,0.16
+Hadoop,0.82,0.02
+Header,0.61,0.43
+Heroku task,0.14,0.05
+HipChat integration,0.14,0.02
+Horde,0.38,0.1
+Horovod,0.54,0.24
+Host - Host Settings,0.41,0.24
+Host - Schedule,0.51,0.28
+Host - Site Management,0.37,0.24
+Hub,0.45,0.44
+Hyperledger,0.23,0.05
+Hyperloop,0.3,0.07
+IDL,0.4,0.3
+IM,0.25,0.31
+IQ Integration,0.44,0.13
+Implementation,0.5,0.01
+Import & Export,0.59,0.17
+Import / Export,0.58,0.23
+Import/Export,0.53,0.21
+Indexes,0.2,0.17
+Indexing,0.26,0.1
+Infrastructure,0.85,0.27
+Infrastructure & Services,0.85,0.33
+Infrastructure & Services - Application Lifecycle,0.91,0.36
+Ingest,0.68,0.48
+Installation / Upgrade,0.32,0.17
+Installation/Setup,0.22,0.11
+Instrumentation,0.78,0.26
+Integration - Apache/Subversion,0.26,0.1
+Integration - Bamboo ,0.23,0.1
+Integration - Confluence ,0.19,0.11
+Integration - Fisheye/Crucible ,0.26,0.14
+Integration - Google Apps,0.22,0.07
+Integration - JIRA,0.29,0.1
+Integration - Jive,0.28,0.09
+Integration Tests,0.31,0.04
+Integration/Connectors,0.58,0.35
+Integrations,0.65,0.12
+Integrations - JIRA,0.22,0.08
+Interception API,0.2,0.09
+Internal,0.13,0.15
+Internal Client,0.38,0.23
+Internal Code,0.15,0.1
+Issue - Actions,0.79,0.06
+Issue - Comments,0.55,0.17
+Issue - Create,0.58,0.39
+Issue - Create Issue,0.71,0.19
+Issue - Fields,0.51,0.17
+Issue - Others,0.8,0.39
+Issue - Remote Copy,0.42,0.16
+Issue - Sub-Tasks,0.48,0.12
+Issue - Time Tracking & Worklog,0.58,0.15
+Issue - View,0.76,0.24
+Issue - View Issue,0.84,0.37
+Issue Search - Backend,0.6,0.22
+JIRA,0.17,0.15
+JIRA integration,0.14,0.06
+JQL,0.08,0.27
+JS,0.06,0.03
+JS Libraries,0.05,0.01
+JSON,0.18,0.0
+JSON Mode,0.15,0.02
+JSON Schema,0.13,0.0
+JWT,0.17,0.17
+Java SDK,0.04,0.01
+JavaScript,0.11,0.03
+Javascript SDK,0.04,0.0
+Jenkins Plugin,0.09,0.04
+Jira Core Board,0.21,0.12
+Jira Importers Plugin,0.11,0.06
+Jira platform,0.13,0.05
+Jobs,0.22,0.53
+Journal,0.28,0.11
+Jupyter Widget,0.16,0.12
+JupyterLab,0.43,0.2
+Kanplan,0.49,0.24
+Keras,0.43,0.19
+Kotlin,0.03,0.0
+L1 Database,0.17,0.12
+LDAP,0.06,0.07
+Labels,0.31,0.16
+Language,0.61,0.61
+Launcher,0.33,0.23
+Lexorank,0.37,0.17
+Libraries,0.35,0.14
+Licensing,0.27,0.11
+Linux,0.51,0.29
+Localization - Content,0.34,0.07
+Localization - Language Packs,0.16,0.04
+Localization - Static,0.22,0.01
+Localization / ML,0.36,0.09
+Logging,0.77,0.14
+Login,0.26,0.2
+Login/Registration,0.24,0.14
+Logs,0.77,0.2
+MMAPv1,0.36,0.27
+MVC,0.38,0.11
+Mac,0.55,0.44
+Mac App,0.44,0.23
+Mail Server,0.12,0.14
+Management,0.81,0.4
+Management Console,0.41,0.28
+MapReduce,0.26,0.17
+Markdown,0.18,0.01
+Maven,0.08,0.05
+Maven Archetype Catalog,0.18,0.06
+Maven Module Plugin,0.11,0.03
+Maven plugin,0.05,0.03
+Member Directory,0.26,0.2
+Messaging,0.56,0.26
+Meta,0.59,0.35
+Metrics,0.68,0.21
+Middleware,0.62,0.19
+Migration,0.54,0.1
+Migration - Cloud to Server,0.14,0.05
+Migration - Data Center,0.51,0.08
+Migration - Server to Cloud,0.08,0.05
+Migration - Server to Server,0.11,0.05
+Misc integration,0.6,0.06
+Mobile,0.42,0.25
+MobileWeb,0.38,0.2
+Models,0.53,0.32
+Module: APIKit,0.25,0.15
+Module: Aggregators,0.23,0.11
+Module: Scripting,0.34,0.15
+Module: Secure Properties,0.31,0.17
+Modules - Third party,0.77,0.09
+Modules: BPM / Rules,0.28,0.06
+Modules: CXF,0.24,0.34
+Modules: Database,0.29,0.07
+Modules: Devkit Support,0.35,0.18
+Modules: Expressions,0.34,0.13
+Modules: FTP,0.33,0.13
+Modules: File,0.35,0.62
+Modules: HTTP,0.27,0.1
+Modules: JBPM,0.24,0.16
+Modules: JCA Resource Adapter,0.25,0.09
+Modules: Jersey,0.23,0.04
+Modules: Management / JMX,0.26,0.14
+Modules: MuleClient,0.43,0.22
+Modules: OAuth,0.44,0.08
+Modules: RSS / ATOM,0.28,0.09
+"Modules: Security (Spring Security, Acegi, PGP, WS-Security)",0.25,0.04
+Modules: Sockets,0.31,0.09
+Modules: Spring,0.57,0.12
+Modules: WS Consumer,0.33,0.15
+Modules: XA Transactions,0.17,0.1
+"Modules: XML, XSLT, XPath, SXC",0.18,0.18
+Modules: iBeans,0.3,0.15
+Monitoring,0.8,0.23
+Mule CI,0.1,0.07
+Mule Core,0.16,0.15
+NPM,0.12,0.06
+Native - Android,0.15,0.08
+Native - iOS,0.11,0.03
+Native - macOS,0.25,0.17
+Navigation - Primary & Contextual,0.65,0.19
+Nebula OpenStack,0.21,0.11
+Networking,0.55,0.21
+Node,0.21,0.09
+Node Utilities,0.09,0.03
+Node.js plugin,0.04,0.02
+Notebooks,0.3,0.14
+Notification,0.94,0.2
+Notifications,0.97,0.16
+OSGI,0.21,0.15
+OnDemand,0.49,0.27
+Onboarding,0.55,0.13
+OpenID,0.35,0.26
+OpenID Connect,0.28,0.17
+Outline,0.61,0.17
+PHP,0.15,0.03
+POJO,0.14,0.08
+Packaging,0.51,0.17
+Parsing,0.23,0.04
+Performance,0.64,0.19
+Performance Testing,0.26,0.1
+Plan Branches,0.35,0.12
+Plan configuration,0.63,0.33
+Planning,0.55,0.09
+Plugins,0.16,0.08
+Policy,0.69,0.07
+Portability,0.74,0.43
+Preferences,0.59,0.25
+Preview,0.37,0.12
+Privacy,0.35,0.03
+Project,0.53,0.61
+Project - Actions,0.42,0.12
+Project - Agile Boards,0.23,0.13
+Project - Core Boards,0.24,0.18
+Project - Issues,0.6,0.2
+Project - Releases,0.28,0.18
+Project Administration - Components,0.55,0.26
+"Project Administration - Issue type, fields and Other",0.69,0.24
+Project Administration - Others,0.52,0.15
+Project Administration - People and Roles,0.64,0.09
+Project Administration - Permissions,0.32,0.06
+Project Administration - Project Summary,0.24,0.06
+Project Administration - Project Trash and Archive,0.06,0.05
+Project Administration - Project create and delete,0.27,0.22
+Project Administration - Users and Roles,0.67,0.17
+Project Administration - Versions,0.44,0.11
+Project Administration - Workflows and statuses,0.69,0.2
+Project Explorer,0.33,0.18
+Project Management tools,0.35,0.14
+Projects,0.44,0.29
+Providers,0.47,0.24
+Provisioning,0.56,0.12
+Proxy,0.41,0.09
+Proxy Repository,0.38,0.11
+Publishing,0.45,0.14
+Publishing / RSS,0.33,0.13
+Pull Requests,0.09,0.06
+PyDev,0.34,0.13
+PyPI,0.14,0.09
+Python SDK,0.06,0.0
+Python Signing,0.13,0.03
+QA,0.31,0.2
+Query,0.48,0.2
+Query Bar,0.24,0.17
+Query History,0.31,0.09
+Query Operations,0.32,0.11
+Querying,0.49,0.23
+R,0.51,0.36
+REST,0.8,0.09
+REST API,0.72,0.04
+REST Archetype,0.3,0.1
+REST Metadata,0.45,0.04
+REST Module,0.33,0.12
+REST Scaffolder,0.29,0.18
+REST Tooling,0.37,0.06
+Rapture,0.22,0.03
+Rate Limiting,0.38,0.1
+React,0.05,0.03
+Reactive Streams,0.51,0.12
+Readonly,0.16,0.04
+Real Time Server Stats,0.19,0.09
+Realm,0.47,0.38
+Refactoring,0.43,0.08
+Registry,0.37,0.22
+Release Hub,0.3,0.23
+Release Packaging,0.28,0.06
+Replication,0.4,0.07
+Report,0.73,0.3
+Reports,0.43,0.14
+Repositories,0.21,0.53
+Repository,0.53,0.76
+Repository (Bitbucket),0.1,0.04
+Repository (CVS),0.13,0.08
+Repository (Git),0.11,0.12
+Repository (Github),0.11,0.07
+Repository (Mercurial),0.16,0.12
+Repository (Perforce),0.11,0.1
+Repository (Subversion),0.12,0.09
+Repository Health Check,0.41,0.07
+Requirements,0.57,0.37
+Requirements Documents,0.39,0.1
+Research & Design,0.36,0.14
+Responsibility tracking,0.71,0.19
+Review Documents,0.33,0.13
+Risk Register,0.59,0.15
+Roadmap,0.56,0.21
+Roles / Access,0.61,0.23
+Routing,0.59,0.29
+Ruby,0.2,0.0
+RubyGems,0.25,0.09
+Runtime,0.46,0.2
+Runtime platform,0.68,0.39
+SAL Integration,0.58,0.15
+SAML,0.29,0.08
+SAT,0.43,0.15
+SCORM,0.39,0.2
+SCP and SSH tasks,0.19,0.16
+SDK Configuration,0.45,0.19
+SDK-Android,0.2,0.08
+SDK-JavaScript,0.14,0.02
+SDK-Nodejs,0.09,0.02
+SDK-PHP,0.09,0.02
+SDK-Ruby,0.14,0.01
+SDK-Ruby-Rails,0.27,0.07
+SDK-iOS,0.15,0.04
+SEO,0.09,0.04
+SMTP,0.04,0.13
+SOAP,0.1,0.01
+SOAP Engine,0.07,0.04
+SOAP Metadata,0.2,0.04
+SOAP Module,0.15,0.07
+SOAP Proxy,0.08,0.04
+SOAP Releases,0.1,0.03
+SOAP Scaffolder,0.18,0.13
+SOAP Tooling,0.17,0.04
+SPA,0.38,0.24
+SSL,0.07,0.12
+SSO,0.58,0.13
+SUIT,0.45,0.37
+SVG,0.17,0.05
+Sample Data,0.58,0.08
+Samples,0.56,0.2
+Sass,0.03,0.01
+Scala,0.24,0.02
+Scalability,0.75,0.3
+Scheduled Tasks,0.21,0.06
+Schema,0.44,0.35
+Schema Validation,0.21,0.05
+Science Pipelines,0.3,0.16
+Scripting,0.42,0.09
+Scrum Board,0.19,0.06
+Security,0.82,0.21
+Security & Permissions,0.56,0.09
+Server - Administration,0.37,0.23
+Server - Authentication,0.67,0.18
+Server - EAP,0.35,0.25
+Server - Installer / Setup,0.17,0.19
+Server - Jobs,0.18,0.44
+Server - Performance,0.54,0.22
+Server - Platform,0.55,0.3
+Server - Plugin  Development,0.33,0.11
+Server - Source Distribution,0.72,0.13
+Server - Upgrade Manager,0.24,0.18
+Server administration,0.32,0.06
+Servers,0.31,0.27
+Service Infrastructure,0.83,0.25
+Service: HTTP,0.28,0.32
+Service: OAuth,0.55,0.19
+Service: SOAP,0.34,0.18
+Service: Scheduling,0.5,0.28
+Services,0.75,0.4
+Services Framework,0.45,0.18
+Session Management,0.5,0.12
+Seth,0.38,0.22
+Setup,0.6,0.28
+Setup Wizard,0.39,0.12
+Sharding,0.14,0.04
+Shell,0.2,0.19
+Skinning,0.39,0.08
+Slack integration,0.23,0.09
+Smart Commits,0.46,0.26
+Smart Proxy,0.23,0.11
+Source Checkout Task,0.6,0.15
+Sprint,0.39,0.22
+Stability,0.7,0.33
+Stack,0.47,0.35
+Stack Documentation and UX,0.66,0.15
+Stages,0.53,0.5
+Staging,0.6,0.11
+Startup,0.68,0.48
+Stream Module,0.4,0.16
+Stride,0.4,0.32
+Studio,0.38,0.27
+Studio Error reporting,0.31,0.04
+Support,0.69,0.53
+System Administration  - Global Permissions,0.13,0.07
+System Administration - Configuration Tool,0.34,0.17
+System Administration - General Configuration,0.56,0.19
+System Administration - Integrity Checker,0.33,0.18
+System Administration - Priorities,0.71,0.15
+System Administration - Secure Administrator Sessions,0.4,0.23
+System Administration - Statuses,0.64,0.21
+System Administration - Troubleshooting and Support Tools (ATST),0.18,0.08
+System Integration and Test,0.55,0.3
+Systems Engineering,0.64,0.25
+TCT,0.38,0.28
+TTL,0.27,0.17
+TWP - Editor,0.42,0.16
+Table View,0.19,0.09
+Tasks,0.53,0.31
+Tech debt,0.41,0.16
+Telemetry / Reporting,0.75,0.25
+Telemetry Data,0.5,0.08
+Templates,0.48,0.12
+Terminal,0.38,0.34
+Test Coverage,0.5,0.18
+Test Data,0.53,0.22
+Test Failure,0.26,0.03
+Test Optimization,0.26,0.1
+Test: Testing Framework,0.45,0.17
+Testing,0.61,0.14
+Testing Infrastructure,0.59,0.18
+Tests,0.45,0.14
+Testsuite,0.44,0.29
+Text Search,0.16,0.11
+Text/HTML Module,0.17,0.06
+Theme,0.6,0.49
+Themes,0.56,0.35
+Third Party Software,0.45,0.02
+Titanium,0.26,0.12
+Titanium CLI,0.13,0.11
+Titanium SDK,0.11,0.06
+Titanium Studio,0.3,0.1
+Tizen,0.17,0.11
+Tomcat,0.15,0.1
+Tomcat tasks,0.06,0.04
+Tooling API,0.12,0.14
+Tooling Client,0.36,0.24
+Tools,0.5,0.4
+Tools: Archetypes,0.4,0.13
+Transaction Management,0.41,0.1
+Translations,0.16,0.06
+Transport: AJAX,0.22,0.07
+Transport: Axis,0.25,0.15
+Transport: EJB / RMI,0.3,0.15
+Transport: FTP / SFTP,0.17,0.17
+Transport: File,0.54,0.31
+Transport: HTTP(S) / Jetty,0.31,0.19
+Transport: JDBC,0.29,0.08
+Transport: JMS,0.22,0.17
+Transport: Quartz,0.21,0.14
+Transport: Stream (System.in/out),0.38,0.17
+Transport: TCP / UDP / SSL / Multicast,0.41,0.22
+Transport: VM,0.37,0.13
+Transport: XMPP (Jabber),0.08,0.06
+Triggers,0.63,0.23
+Troubleshooting and Support Tools (ATST),0.19,0.03
+UGC,0.54,0.19
+UI,0.69,0.11
+UI / UX,0.83,0.2
+UI / Usability,0.89,0.14
+UPM (Universal Plugin Manager),0.06,0.05
+URL ReWriter,0.32,0.14
+UX,0.79,0.12
+Unit tests,0.24,0.02
+Universal Plugin Manager / Manage apps,0.23,0.17
+Upgrade ,0.43,0.17
+Upgrade/Downgrade,0.28,0.16
+Upgrading,0.55,0.21
+Upstream,0.5,0.12
+Usability,0.85,0.13
+User - Authentication,0.89,0.25
+User - Global / Space Permissions,0.64,0.27
+User - Groups,0.49,0.26
+User Console,0.5,0.26
+User Management,0.79,0.33
+User Management - Delete User,0.14,0.16
+User Management - Groups ,0.2,0.1
+User Management - LDAP Integration,0.32,0.15
+User Management - User Profile,0.51,0.13
+"User Management, Crowd & LDAP integration",0.53,0.18
+User Tours,0.35,0.11
+User interface,0.86,0.35
+Utility,0.75,0.29
+VCS task,0.5,0.19
+Valdator Server,0.4,0.27
+Validation,0.33,0.16
+Validator Global State,0.34,0.17
+Validator Journal,0.23,0.11
+Validator Networking,0.29,0.16
+Verification,0.42,0.17
+Versions,0.5,0.2
+Views,0.47,0.27
+Web Interface - Keyboard Navigation,0.29,0.15
+Web Resources Manager,0.51,0.18
+Web Services,0.4,0.15
+Webhooks,0.11,0.13
+Webpack,0.04,0.04
+Widgets,0.24,0.13
+Windows,0.35,0.27
+Wire Protocol,0.32,0.11
+Workflow Triggers,0.6,0.15
+Write Operations,0.27,0.08
+Write Ops,0.3,0.09
+XLDB,0.13,0.08
+XML,0.14,0.91
+XML SDK,0.05,0.4
+"Xcode, iOS and Cocoa",0.14,0.01
+YAML,0.28,0.0
+YARN Runtime,0.19,0.07
+allocation,0.53,0.06
+amplify-sdk,0.65,0.43
+anaconda,0.46,0.13
+androidlib,0.39,0.31
+apk,0.31,0.16
+appcd,0.68,0.39
+c++ api,0.07,0.04
+cni,0.52,0.5
+cocoapods,0.41,0.24
+containerization,0.74,0.24
+core: Notifications,0.96,0.09
+dataweave,0.61,0.51
+db,0.36,0.36
+doxygen,0.44,0.36
+efd,0.58,0.51
+eups,0.48,0.44
+executor,0.43,0.24
+fabric-amcl,0.54,0.28
+fabric-build,0.44,0.29
+fabric-ca,0.56,0.16
+fabric-ca-build,0.49,0.29
+fabric-ci,0.49,0.23
+fabric-cli,0.42,0.18
+fabric-common,0.35,0.16
+fabric-crypto,0.32,0.18
+fabric-docs,0.51,0.31
+fabric-gossip,0.36,0.05
+fabric-installers,0.29,0.26
+fabric-ledger,0.39,0.29
+fabric-modules,0.46,0.24
+fabric-orderer,0.52,0.28
+fabric-peer,0.33,0.26
+fabric-quality,0.43,0.22
+fabric-release,0.44,0.24
+fabric-samples,0.48,0.24
+fabric-sdk-go,0.51,0.34
+fabric-sdk-java,0.46,0.35
+fabric-sdk-node,0.48,0.35
+fabric-sdk-py,0.51,0.3
+fabric-test,0.55,0.31
+fabric-token,0.5,0.24
+fabric-tools,0.41,0.28
+felis,0.45,0.25
+fftw,0.6,0.46
+flaky,0.95,0.19
+flash,0.1,0.02
+git,0.1,0.17
+golang,0.3,0.16
+gpu,0.4,0.37
+iOS,0.25,0.09
+iPad,0.28,0.19
+ioslib,0.43,0.24
+jQuery,0.05,0.02
+java api,0.19,0.07
+jdklib,0.23,0.18
+jenkins,0.44,0.3
+jms-module,0.55,0.42
+json api,0.24,0.01
+log,0.73,0.32
+lua,0.46,0.31
+mariadb,0.61,0.41
+mariadbclient,0.67,0.36
+master,0.62,0.53
+matplotlib,0.34,0.15
+modules,0.94,0.47
+mule4,0.57,0.36
+mysql,0.11,0.07
+mysql-proxy,0.21,0.14
+mysqlclient,0.26,0.17
+network,0.65,0.41
+next-gen,0.24,0.18
+node-ios-device,0.44,0.25
+partition,0.31,0.24
+project website,0.38,0.2
+python api,0.25,0.03
+python wrapper,0.39,0.04
+release,0.27,0.17
+replicated log,0.8,0.67
+scikit_learn,0.62,0.39
+scisql,0.24,0.12
+scons,0.5,0.29
+skypix,0.42,0.19
+stack release,0.44,0.15
+statistics,0.29,0.04
+storage,0.98,0.51
+test,0.73,0.06
+utils,0.58,0.41
+verify,0.66,0.47
+verify_metrics,0.58,0.41
+webcommon,0.47,0.26
+webservcommon,0.51,0.4
+webui,0.52,0.41
+windowslib,0.41,0.22
+zookeeper,0.08,0.14
