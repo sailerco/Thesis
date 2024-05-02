@@ -11,7 +11,7 @@ conn = psg.connect(
 )
 cur = conn.cursor()
 
-df = pd.read_csv('D:\Thesis\DB\datasets\Roles_small.csv')  # Update with your CSV file path
+df = pd.read_csv('/DB/datasets/Roles_small.csv')  # Update with your CSV file path
 df.columns = ['role', 'description', 'skills']
 unique_skills = set()
 for skills in df['skills'].dropna():

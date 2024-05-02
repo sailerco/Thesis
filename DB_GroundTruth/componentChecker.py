@@ -2,7 +2,7 @@ import pandas as pd
 
 # compares two sets (Used to see if all skills were used in the user stories)
 data = pd.read_csv('../DB/datasets/skills.csv', header=None)
-user_stories = pd.read_csv('userStories.csv', delimiter=';', usecols=[0,1])
+user_stories = pd.read_csv('userStories.csv', delimiter=';', usecols=[0, 1])
 user_stories.columns = ['user_stories', 'skills']
 unique_skills = set()
 for skills in user_stories['skills'].dropna():
