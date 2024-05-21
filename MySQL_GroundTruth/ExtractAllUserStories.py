@@ -7,7 +7,7 @@ import pandas as pd
     used to extract user stories from TAWOS database
 """
 
-fields = ['ID', 'Title', 'Description', 'Type', 'Component_Names']
+fields = ['ID', 'Description', 'Type', 'Component_Names']
 
 
 def read():
@@ -20,7 +20,7 @@ def read():
 
 
 def save(column_names, data):
-    with open('assets/UserStoriesWithComponents_cleaned_filtered_2.csv', 'w', newline='', encoding='utf-8') as csvfile:
+    with open('assets/UserStoriesWithComponents_cleaned_filtered_no_title_2.csv', 'w', newline='', encoding='utf-8') as csvfile:
         csvwriter = csv.writer(csvfile)
         csvwriter.writerow(column_names)
         for row in data:
@@ -36,7 +36,7 @@ def extract_user_stories(csv_values, column_names):
     )
     cursor = connection.cursor()
     new_query = """
-    SELECT i.ID, i.Title, i.Description, i.Type, GROUP_CONCAT(c.Name) AS Component_Names
+    SELECT i.ID, i.Description, i.Type, GROUP_CONCAT(c.Name) AS Component_Names
     FROM paper.issue AS i
     INNER JOIN paper.issue_component ic ON i.ID = ic.Issue_ID
     INNER JOIN paper.component c ON ic.Component_ID = c.ID
@@ -73,4 +73,4 @@ def merge(column_names):
 
 
 extract_user_stories(read(), fields)
-merge(fields)
+#merge(fields)
