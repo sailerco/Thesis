@@ -2,14 +2,11 @@ import pandas as pd
 from sklearn import metrics
 import numpy as np
 
-threshold = 0.95
+threshold = 0.9
 avg = 'macro'
-df = pd.read_csv('truth.csv')
-columns = df.columns
-
 
 def calculate_label_density(predictions):
-    label_cardinality = np.sum(predictions, axis=1)
+    label_cardinality = np.sum(predictions, axis=0)
     label_density = np.mean(label_cardinality)
     return label_density
 
@@ -45,3 +42,4 @@ print("---BART---")
 get_metrics("bart")
 print("\n---DEBERTA---")
 get_metrics("deberta_base")
+

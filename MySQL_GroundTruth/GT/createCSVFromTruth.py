@@ -2,8 +2,9 @@ import csv
 
 import pandas as pd
 url = 'truth.csv'
-
-user_stories = pd.read_csv('../assets/UserStoriesWithComponents_cleaned_filtered_no_title.csv', delimiter=None, sep=None)
+name = 'removed-grouped'
+#user_stories = pd.read_csv('../assets/UserStoriesWithComponents_cleaned_filtered_no_title.csv', delimiter=None, sep=None)
+user_stories = pd.read_csv(f'../final_assets/UserStoriesWithComponents_{name}-8000.csv', delimiter=None, sep=None)
 user_stories.columns = ['ID', 'Description', 'Type', 'Component_Names']
 
 stories = {}
@@ -19,7 +20,7 @@ for skill, components in stories.items():
         output_data.setdefault(component, {})[skill] = weight
 
 # Schreiben der Daten in eine CSV-Datei
-with open('truth.csv', 'w', newline='', encoding='utf-8') as file:
+with open(f'truth_{name}.csv', 'w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
     cleaned_headers = ['Skills']+[header.strip().strip('"') for header in list(stories.keys())]
     writer.writerow(cleaned_headers)
