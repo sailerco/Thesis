@@ -1,0 +1,288 @@
+ADGS Design changes
+API
+Accessibility
+Admin
+Admin - Extensions
+Admin - File Manager
+Admin - Pages
+Admin - Site Settings
+Admin - User Accounts
+Administration
+Administration (General)
+Administration (Projects)
+Administration - Fields
+Administration - Issue Types
+Administration - Screens
+Aggregation Framework
+Aggregation pipeline
+AgileBoard
+Analytics
+Android
+Application Links
+Artifacts
+Assignment
+Async
+Authentication
+Authentication / Security
+Automation for Jira
+Backlog
+Backup
+Badges
+Batch
+Bitbucket Server integration
+Blog
+Board configuration
+Browse Storage
+Build
+Builds
+Bulk Operations
+CLI
+CRUD
+CSS
+Caching
+Classic - Reports
+Cleanup
+Client Resources
+Concurrency
+Configuration
+Connection Management
+Connectivity
+Core - Content REST APIs
+Core API
+Core: API
+Core: Components
+Core: Configuration
+Core: Containers
+Core: Exception Handling
+Core: Expressions
+Core: Routing / Filters
+Core: Transactions
+Core: Transformers
+Core: Transports
+Course
+Dashboard
+Dashboard & Gadgets
+Dashboards & Gadgets
+Dashboards & Reports - Reports
+Data Center
+Data Center - Other
+Database
+Database SQL/XMLDB
+Debugging
+Deployments
+Design Documents
+Developer Infrastructure
+Development Panel
+Diagnostics
+Directories
+Directory - Azure Active Directory
+Directory - Internal/Delegated
+Directory - LDAP
+Docker
+Documentation
+Documentation - All
+Documentation / Website
+Documents
+Dynamic Content Creator
+Ecosystem
+Editor
+Editor - Fabric
+Elastic Bamboo
+Embedded
+Events & Notifications
+Feature Request
+Files API
+Filters & Dashboards - Permissions
+Firefly
+Forms Library
+Gadget
+Global Administration
+Grading methods
+Groovy
+H5P
+HTML
+HTML Editor (Atto)
+HTML and CSS
+HTTP API
+Hadoop
+Host - Host Settings
+Host - Site Management
+Hyperloop
+Import / Export
+Import/Export
+Indexing
+Infrastructure
+Infrastructure & Services - Application Lifecycle
+Ingest
+Instrumentation
+Integrations
+Integrations - JIRA
+Internal Client
+Internal Code
+Issue - Actions
+Issue - Comments
+Issue - Create
+Issue - Create Issue
+Issue - Fields
+Issue - Sub-Tasks
+Issue - Time Tracking & Worklog
+Issue - View
+Issue - View Issue
+Issue Search - Backend
+JIRA
+JIRA integration
+JQL
+Java API
+JavaScript
+Jira Core Board
+Jira Importers Plugin
+Journal
+LDAP
+Language
+Libraries
+Logging
+Login/Registration
+MapReduce
+Maven
+Migration
+Migration - Server to Cloud
+Misc integration
+Mobile
+MobileWeb
+Modules: CXF
+Monitoring
+NPM
+Networking
+Node
+Notifications
+PHP
+POJO
+Packaging
+Performance
+Plan Branches
+Plan configuration
+Plugins
+Policy
+Privacy
+Project
+Project - Actions
+Project - Agile Boards
+Project - Issues
+Project Administration - Others
+Project Administration - People and Roles
+Project Administration - Permissions
+Project Administration - Users and Roles
+Project Administration - Versions
+Project Administration - Workflows and statuses
+Projects
+Publishing
+PyDev
+Query
+Query Operations
+Querying
+REST
+REST API
+REST Module
+Release Hub
+Replication
+Reports
+Repositories
+Repository
+Repository (CVS)
+Repository (Git)
+Repository (Mercurial)
+Repository (Subversion)
+Requirements
+Responsibility tracking
+Roadmap
+Roles / Access
+Runtime
+SCORM
+SOAP
+SSO
+SUIT
+Sample Data
+Scheduled Tasks
+Schema
+Security
+Security & Permissions
+Server - Administration
+Server - EAP
+Server - Installer / Setup
+Server - Platform
+Server - Upgrade Manager
+Server administration
+Sharding
+Shell
+Stability
+Stages
+Staging
+Storage
+Stream Module
+System Administration - Priorities
+Tasks
+Telemetry / Reporting
+Templates
+Terminal
+Test Coverage
+Testing Infrastructure
+Tests
+Text Search
+Themes
+Tools
+Translations
+Transport: HTTP(S) / Jetty
+Transport: JDBC
+Transport: JMS
+Transport: Quartz
+Transport: TCP / UDP / SSL / Multicast
+Triggers
+UI
+UI / UX
+UI / Usability
+UPM (Universal Plugin Manager)
+UX
+Unit tests
+Universal Plugin Manager / Manage apps
+Usability
+User - Authentication
+User - Global / Space Permissions
+User Console
+User Interface
+User Management
+User Management - LDAP Integration
+User Management - User Profile
+User interface
+User management
+Validation
+Views
+Web Services
+Webhooks
+Windows
+Workflow Triggers
+Write Ops
+XML
+allocation
+build
+cli
+containerization
+docker
+fabric-build
+fabric-common
+fabric-crypto
+fabric-docs
+fabric-gossip
+fabric-ledger
+fabric-orderer
+fabric-peer
+fabric-quality
+fabric-tools
+iOS
+jQuery
+log
+master
+modules
+next-gen
+ui
+utils
+webui

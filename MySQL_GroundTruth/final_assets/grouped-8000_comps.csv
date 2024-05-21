@@ -1,0 +1,311 @@
+.NET
+ADGS Design changes
+API
+Acceptance Testing
+Accessibility
+Admin
+Aggregation Framework
+Aggregation pipeline
+AgileBoard
+Analytics
+Android
+Apache MXNet Scala API
+App Explorer
+Application Links
+Artifacts
+Assignment
+Async
+Audit Log
+Audit Logging
+Authentication
+Auto Updates
+Automation for Jira
+BSON
+Background Operations
+Backlog
+Backup
+Badges
+Batch
+Bitbucket Server integration
+Blog
+Board configuration
+Bootstrap
+Browse Storage
+Build
+Bulk Operations
+CLI
+CRUD
+CSS
+Caching
+Classic - Reports
+Cleanup
+Client Resources
+Cluster Management
+Codecs
+Command Operations
+Concurrency
+Conda
+Configuration
+Connection Management
+Connectivity
+Console
+Content Selectors
+Continuous Integration
+Control Panel
+Control Panel - Ribbon Bar
+Core
+Course
+Credentials
+DSL
+Dashboard
+Dashboard & Gadgets
+Dashboards & Gadgets
+Dashboards & Reports - Reports
+Data Access (DAL)
+Data Center
+Database
+Database SQL/XMLDB
+Debugging
+Dependencies
+Deployment Awareness
+Deployments
+Design Documents
+Developer Infrastructure
+Development Panel
+Diagnostics
+Directories
+Docker
+Docker Runner
+Documentation
+Documents
+Dynamic Content Creator
+Ecosystem
+Editor
+Editor - Fabric
+Elastic Bamboo
+Embedded
+End User Functions
+Events & Notifications
+Examples / Tutorials
+Extensions: Maven Plugin
+Feature Request
+File Manager
+Files API
+Filters & Dashboards - Permissions
+Firefly
+Formatting
+Forms Library
+Friendly / Standard URLs
+Gadget
+Gadgets
+Global Administration
+Grading methods
+Groovy
+H5P
+HTML
+Hadoop
+HipChat integration
+Host
+Hub
+Hyperloop
+Implementation
+Import & Export
+Import / Export
+Import/Export
+Indexes
+Indexing
+Infrastructure
+Infrastructure & Services
+Infrastructure & Services - Application Lifecycle
+Ingest
+Installation/Setup
+Instrumentation
+Integration
+Internal Client
+Internal Code
+Issue
+JIRA
+JIRA integration
+JQL
+JSON Schema
+Java API
+JavaScript
+Jira Core Board
+Jira Importers Plugin
+Jira platform
+Journal
+LDAP
+Labels
+Language
+Libraries
+Logging
+Login/Registration
+MMAPv1
+MVC
+Mail Server
+MapReduce
+Maven
+Maven plugin
+Member Directory
+Metrics
+Migration
+Misc integration
+Mobile
+MobileWeb
+Models
+Modules
+Monitoring
+NPM
+Native - Android
+Native - iOS
+Navigation - Primary & Contextual
+Networking
+Node
+Notifications
+OnDemand
+PHP
+POJO
+Packaging
+Parsing
+Performance
+Performance Testing
+Plan Branches
+Plan configuration
+Plugins
+Policy
+Privacy
+Project
+Project Administration
+Projects
+Publishing
+Pull Requests
+PyDev
+PyPI
+Query
+Query Bar
+Query Operations
+Querying
+REST
+Rapture
+Reactive Streams
+Real Time Server Stats
+Release Hub
+Release Packaging
+Replication
+Reports
+Repository
+Requirements
+Responsibility tracking
+Roadmap
+Roles / Access
+Routing
+Ruby
+RubyGems
+Runtime
+SAT
+SCORM
+SCP and SSH tasks
+SOAP
+SPA
+SSO
+SUIT
+Sample Data
+Scala
+Scheduled Tasks
+Schema
+Scripting
+Scrum Board
+Security
+Security & Permissions
+Server
+Services
+Seth
+Sharding
+Shell
+Skinning
+Smart Commits
+Smart Proxy
+Sprint
+Stability
+Stack
+Stack Documentation and UX
+Stages
+Staging
+Storage
+Stream Module
+Support
+System Administration
+Table View
+Tasks
+Tech debt
+Telemetry / Reporting
+Templates
+Terminal
+Test
+Text Search
+Theme
+Themes
+Titanium SDK
+Tools
+Translations
+Transport
+Triggers
+UI
+UI / UX
+UI / Usability
+UPM (Universal Plugin Manager)
+URL ReWriter
+UX
+Unit tests
+Universal Plugin Manager / Manage apps
+Upgrading
+Usability
+User - Authentication
+User - Global / Space Permissions
+User - Groups
+User Console
+User Interface
+User Management
+User Tours
+User interface
+User management
+Utility
+Validation
+Versions
+Views
+Web Resources Manager
+Web Services
+Webhooks
+Widgets
+Windows
+Workflow Triggers
+Write Operations
+Write Ops
+XML
+YARN Runtime
+allocation
+build
+cli
+cocoapods
+conda
+containerization
+docker
+documentation
+eups
+fabric
+golang
+gpu
+iOS
+jQuery
+log
+master
+mule4
+mysql-proxy
+next-gen
+replicated log
+storage
+templates
+ui
+utils
+verify
+webui
