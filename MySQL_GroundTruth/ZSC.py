@@ -1,6 +1,7 @@
 
 import torch
 from matplotlib import pyplot as plt
+from timeit import default_timer as timer
 
 import CsvConverter as conv
 import pandas as pd
@@ -11,7 +12,7 @@ import seaborn as sns
 ZSC + NLI to match user stories to components 
 """
 
-name = "bart_no_title"
+name = "bart_remain_reduce_task"
 url = 'D:/Thesis/MySQL_GroundTruth/ClassifierOutput/' + name
 
 bart = "facebook/bart-large-mnli"
@@ -36,19 +37,21 @@ def classification(name):
     classifier = pipeline('zero-shot-classification', device=device, model=bart)
 
     #seq = get_sequence('assets/UserStoriesWithComponents_cleaned_filtered_no_title.csv', ['Type', 'Component_Names', 'TitleAndDescription'], 'TitleAndDescription')
-    seq = get_sequence('assets/UserStoriesWithComponents_cleaned_filtered_no_title.csv',
+    seq = get_sequence('assets/UserStoriesWithComponents_remain_reduce.csv',
                        ['ID', 'Description', 'Type', 'Component_Names'], 'Description')
-    seq = seq[:2]
-    labels = get_labels('assets/cleaned.csv', ';')
+    labels = get_labels('assets/components/remain_reduce_comps.csv', ';')
     # do the classification
+    start = timer()
     results = classifier(seq, labels, multi_label=True)
-
+    end = timer()
     with open('ClassifierOutput/' + name + '.txt', 'w') as f:
         for story, result in zip(seq, results):
             f.write(f"Story: {story}\n")
+            print(story)
             for label, score in zip(result['labels'], result['scores']):
+                print(f"- {label}: {score:.2f}")
                 f.write(f"- {label}: {score:.2f}\n")
-
+    print(end-start)
     print("Done")
 
 
