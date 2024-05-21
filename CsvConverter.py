@@ -10,7 +10,7 @@ class CsvConverter:
         self.keyword = keyword #should be string
 
     def convert(self):
-        with open(self.read_url, 'r') as file:
+        with open(self.read_url, 'r', encoding='utf-8') as file:
             lines = file.readlines()
 
         # dictonary, data is going to be saved to
@@ -19,7 +19,7 @@ class CsvConverter:
         for line in lines:
             if line.strip():
                 key, value = line.replace("\n", "").rsplit(': ', 1)
-                print(key, value)
+                #print(key, value)
                 if key.startswith(self.keyword):
                     skill = value
                     data[skill] = {}
