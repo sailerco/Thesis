@@ -7,7 +7,9 @@ avg = 'macro'
 
 def calculate_label_density(predictions):
     label_cardinality = np.sum(predictions, axis=0)
+    print(label_cardinality)
     label_density = np.mean(label_cardinality)
+    print(label_density)
     return label_density
 
 def get_metrics(name):
@@ -18,6 +20,7 @@ def get_metrics(name):
     zsc = (pd.read_csv(f'../ClassifierOutput/{name}.csv', header=None, skiprows=[0], index_col=None)
            .drop(columns=0))
     zsc_th = zsc.applymap(lambda x: 1 if x >= threshold else 0)
+
     print(f"Label Density: {round(calculate_label_density(zsc_th), 2)}")
     metrics_dict = {
         "Threshold": round(threshold, 4),

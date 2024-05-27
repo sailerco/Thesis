@@ -30,7 +30,7 @@ df = pd.read_csv('D:/Thesis/DB/datasets/skills.csv', header=None, encoding='ISO-
 labels = df[0].tolist()
 
 # do the classification
-results = classifier(user_stories, labels, multi_label=False)
+results = classifier(user_stories, labels, multi_label=True)
 
 with open(url + ".txt", 'w') as f:
     for story, result in zip(user_stories, results):
