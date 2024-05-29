@@ -7,7 +7,8 @@ from tabulate import tabulate
 
 
 class MetricsGenerator:
-    def __init__(self, name, dir, end_dir):
+    def __init__(self, name, dir, end_dir, truth_dir):
+        self.truth_dir = truth_dir
         self.name = name
         self.dir = dir
         self.end_dir = end_dir
@@ -37,8 +38,8 @@ class MetricsGenerator:
 
         return metrics_value
 
-    def get_metrics(self, name, file):
-        ground_truth = pd.read_csv(os.path.join(self.dir, f'truth{file}.csv'), header=None, skiprows=[0], index_col=None).drop(columns=0)
+    def get_metrics(self, name, file, truth):
+        ground_truth = pd.read_csv(os.path.join(self.dir, truth), header=None, skiprows=[0], index_col=None).drop(columns=0)
         for col in ground_truth.columns:
             ground_truth[col] = ground_truth[col].fillna(0)
 
@@ -53,7 +54,12 @@ class MetricsGenerator:
 
     def main(self):
         print(f"---{self.name}---")
+        if self.truth_dir:
+            truth = f'truth{self.name}.csv'
+        else:
+            truth = 'truth.csv'
+
         print("---BART---")
-        self.get_metrics("bart", self.name)
+        self.get_metrics("bart", self.name, truth)
         print("\n---DEBERTA---")
-        self.get_metrics("deberta", self.name)
+        self.get_metrics("deberta", self.name, truth)
