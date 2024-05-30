@@ -7,7 +7,9 @@ from tabulate import tabulate
 
 
 class MetricsGenerator:
-    def __init__(self, name, dir, end_dir, truth_dir):
+    def __init__(self, name, dir, end_dir, truth_dir, bart, deberta):
+        self.bart = bart
+        self.deberta = deberta
         self.truth_dir = truth_dir
         self.name = name
         self.dir = dir
@@ -59,7 +61,9 @@ class MetricsGenerator:
         else:
             truth = 'truth.csv'
 
-        print("---BART---")
-        self.get_metrics("bart", self.name, truth)
-        print("\n---DEBERTA---")
-        self.get_metrics("deberta", self.name, truth)
+        if self.bart:
+            print("---BART---")
+            self.get_metrics("bart", self.name, truth)
+        if self.deberta:
+            print("\n---DEBERTA---")
+            self.get_metrics("deberta", self.name, truth)
