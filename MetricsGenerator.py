@@ -7,6 +7,7 @@ from tabulate import tabulate
 
 
 class MetricsGenerator:
+
     def __init__(self, name, dir, end_dir, truth_dir, bart, deberta):
         self.bart = bart
         self.deberta = deberta
@@ -40,8 +41,18 @@ class MetricsGenerator:
 
         return metrics_value
 
+    def compare(self, df):
+        if self.compareBart:
+            old = pd.read_csv(r"D:\Thesis\DB_GroundTruth\GT\metrics\bart_metrics.csv")
+        else:
+            old = pd.read_csv("D:\Thesis\DB_GroundTruth\GT\metrics\deberta_metrics.csv")
+        differences = df - old
+        print("Differences:")
+        print(tabulate(differences, headers=self.header, showindex=False))
+
     def get_metrics(self, name, file, truth):
-        ground_truth = pd.read_csv(os.path.join(self.dir, truth), header=None, skiprows=[0], index_col=None).drop(columns=0)
+        ground_truth = pd.read_csv(os.path.join(self.dir, truth), header=None, skiprows=[0], index_col=None).drop(
+            columns=0)
         for col in ground_truth.columns:
             ground_truth[col] = ground_truth[col].fillna(0)
 
@@ -53,6 +64,9 @@ class MetricsGenerator:
             values = self.getMetricsValues(ground_truth, zsc, zsc_th, threshold)
             table.append(values)
         print(tabulate(table, headers=self.header))
+        df = pd.DataFrame(table, columns=self.header)
+        self.compare(df)
+        # df.to_csv("deberta_metrics.csv", index=False)
 
     def main(self):
         print(f"---{self.name}---")
@@ -63,7 +77,9 @@ class MetricsGenerator:
 
         if self.bart:
             print("---BART---")
+            self.compareBart = True
             self.get_metrics("bart", self.name, truth)
         if self.deberta:
+            self.compareBart = False
             print("\n---DEBERTA---")
             self.get_metrics("deberta", self.name, truth)

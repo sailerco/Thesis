@@ -1,3 +1,5 @@
+import os
+os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
 import pandas as pd
 from matplotlib import pyplot as plt
 from transformers import pipeline
@@ -10,7 +12,7 @@ import torch
 ZSC + NLI to match user stories to skills 
 """
 
-name = 'deberta_base'
+name = 'deberta_withHypo'
 url = "ClassifierOutput/" + name
 # loads ZSC from huggingface
 bart = "facebook/bart-large-mnli"
@@ -29,8 +31,11 @@ user_stories = user_stories['user_stories'].tolist()
 df = pd.read_csv('D:/Thesis/DB/datasets/skills.csv', header=None, encoding='ISO-8859-1')
 labels = df[0].tolist()
 
+hypothesis_template = "To resolve this issue the skill {} is needed."
+
+
 # do the classification
-results = classifier(user_stories, labels, multi_label=True)
+results = classifier(user_stories, labels, multi_label=True, hypothesis_template=hypothesis_template)
 
 with open(url + ".txt", 'w') as f:
     for story, result in zip(user_stories, results):
@@ -41,7 +46,7 @@ print("Done")
 
 csv = conv.CsvConverter(f'D:/Thesis/DB_GroundTruth/{url}.txt', f'D:/Thesis/DB_GroundTruth/{url}.csv', 'Story')
 csv.convert()
-
+"""
 def create(title, name, url):
     # Load data from CSV
     data = pd.read_csv(url + '.csv', header=0, index_col=0,
@@ -51,4 +56,4 @@ def create(title, name, url):
     plt.title(title)
     plt.savefig('heatmaps/heatmap_' + name + '.png')
 
-create(name, name, url)
+create(name, name, url)"""
