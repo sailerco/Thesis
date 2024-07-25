@@ -1,4 +1,6 @@
-import CsvConverter as conv
+import os
+
+import CsvConverter as Conv
 
 
 def is_not_float(string):
@@ -40,9 +42,12 @@ for name in names:
         file.writelines(percent)
     with open(f'3_comps/filtered_{name}.txt', 'w') as f:
         f.writelines(top)
-    csv = conv.CsvConverter('D:/Thesis/MySQL/clean_data/largerThan60%/filtered_' + name + '.txt',
-                            'D:/Thesis/MySQL/clean_data/largerThan60%/filtered_' + name + '.csv', 'Skill')
+
+    file_dir = os.getcwd()
+    csv = Conv.CsvConverter(os.path.join(file_dir, "clean_data", 'largerThan60%', f'filtered_{name}.txt'),
+                            os.path.join(file_dir, "clean_data", 'largerThan60%', f'filtered_{name}.csv'), 'Skill')
+
     csv.convert()
-    csv = conv.CsvConverter('D:/Thesis/MySQL/clean_data/3_comps/filtered_' + name + '.txt',
-                            'D:/Thesis/MySQL/clean_data/3_comps/filtered_' + name + '.csv', 'Skill')
+    csv = Conv.CsvConverter(os.path.join(file_dir, "clean_data", '3_comps', f'filtered_{name}.txt'),
+                            os.path.join(file_dir, "clean_data", '3_comps', f'filtered_{name}.csv'), 'Skill')
     csv.convert()

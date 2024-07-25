@@ -2,7 +2,7 @@ import os
 os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
 import pandas as pd
 from transformers import pipeline
-import CsvConverter as conv
+import CsvConverter as Conv
 import torch
 
 """
@@ -22,9 +22,9 @@ classifier = pipeline('zero-shot-classification', device=device, model=deberta_b
 user_stories = pd.read_csv('userStories.csv', delimiter=';')
 user_stories.columns = ['user_stories', 'skills']
 user_stories = user_stories['user_stories'].tolist()
-
+user_stories = user_stories[:3]
 # loads skills and components from prepared csv files
-df = pd.read_csv('D:/Thesis/DB/datasets/skills.csv', header=None, encoding='ISO-8859-1')
+df = pd.read_csv('../DB/datasets/skills.csv', header=None, encoding='ISO-8859-1')
 labels = df[0].tolist()
 hypothesis_template = "To resolve this issue the skill {} is needed."
 
@@ -38,5 +38,7 @@ with open(url + ".txt", 'w') as f:
             f.write(f"- {label}: {score:.2f}\n")
 print("Done")
 
-csv = conv.CsvConverter(f'D:/Thesis/Classification_Synth/{url}.txt', f'D:/Thesis/DB_GroundTruth/{url}.csv', 'Story')
+file_dir = os.getcwd()
+csv = Conv.CsvConverter(os.path.join(file_dir, "ClassifierOutput", f'{name}.txt'),
+                        os.path.join(file_dir, "ClassifierOutput",  f'{name}.csv'), 'Story')
 csv.convert()

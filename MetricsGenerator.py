@@ -1,5 +1,5 @@
 import os
-
+import CsvConverter as Conv
 import numpy as np
 import pandas as pd
 from sklearn import metrics
@@ -29,8 +29,12 @@ class MetricsGenerator:
     truth = None
 
     thresholds = [1.0, 0.95, 0.9, 0.8, 0.5]
-    BART_METRICS = r"D:\Thesis\DB_GroundTruth\GT\metrics\bart_metrics.csv"
-    DEBERTA_METRICS = r"D:\Thesis\DB_GroundTruth\GT\metrics\deberta_metrics.csv"
+    file_dir = os.getcwd()
+    file_dir = os.path.dirname(file_dir)
+    if file_dir.endswith("Synth"):
+        file_dir = os.path.dirname(file_dir)
+    BART_METRICS = os.path.join(file_dir, "Classification_Synth", "GT", "metrics", "bart_metrics.csv")
+    DEBERTA_METRICS = os.path.join(file_dir, "Classification_Synth", "GT", "metrics", "deberta_metrics.csv")
     compareBart = None
 
     def __init__(self, name, file_dir, end_dir, truth_dir, bart, deberta):

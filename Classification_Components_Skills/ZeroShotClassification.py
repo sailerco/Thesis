@@ -1,6 +1,8 @@
+import os
 import pandas as pd
 from transformers import pipeline
-import CsvConverter as conv
+import CsvConverter as Conv
+
 """
     ZSC + NLI to match skills to components 
 """
@@ -18,7 +20,8 @@ skills = df_skills[0].tolist()
 
 # do the classification
 results = classifier(skills, labels, multi_label=True)
-txt = 'ClassifierOutput/skills_classification_deberta_large.txt'
+name = 'skills_classification_deberta_large'
+txt = f'ClassifierOutput/{name}.txt'
 with open(txt, 'w') as f:
     for skill, result in zip(skills, results):
         f.write(f"Skill: {skill}\n")
@@ -27,5 +30,7 @@ with open(txt, 'w') as f:
             f.write(f"- {label}: {score:.2f}\n")
             print(f"- {label}: {score:.2f}")
 
-csv = conv.CsvConverter('D:/Thesis/MySQL/' + txt, 'D:/Thesis/MySQL/clean_data/unfilteredCSV/output_deberta_large.csv', 'Skill')
+file_dir = os.getcwd()
+csv = Conv.CsvConverter(os.path.join(file_dir, "ClassifierOutput", f'{name}.txt'),
+                        os.path.join(file_dir, "clean_data", "unfilteredCSV",  'output_deberta_large.csv'), 'Skill')
 csv.convert()
