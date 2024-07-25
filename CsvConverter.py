@@ -18,8 +18,7 @@ class CsvConverter:
         skill = None
         for line in lines:
             if line.strip():
-                key, value = line.replace("\n", "").rsplit(': ', 1)
-                #print(key, value)
+                key, value = line.replace("\n", "").split(': ', 1) #sometimes rsplit and sometimes split better
                 if key.startswith(self.keyword):
                     skill = value
                     data[skill] = {}

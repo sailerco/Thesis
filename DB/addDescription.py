@@ -2,7 +2,7 @@ import psycopg2
 import pandas as pd
 
 # Load roles and descriptions from CSV file into a DataFrame
-roles_df = pd.read_csv('D:\Thesis\DB\Rolesandtheirwork.csv')  # Update with your CSV file path
+roles_df = pd.read_csv('roles_description.csv')  # Update with your CSV file path
 roles_df.columns = ['role', 'description']  # Assuming columns are 'role' and 'description'
 
 # Connect to PostgreSQL

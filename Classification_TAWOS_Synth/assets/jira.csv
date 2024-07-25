@@ -1,0 +1,26 @@
+,Description
+658,"As a user, I'd like to be able to select custom fields of type Date Picker in the Two Dimensional Filter Statistics gadget, X and Y axis.    Â     Currently this is not available."
+653,As a user I would like to have the ability to start a thread on a Jira that is being worked on by several several users so as to avoid lengthy comment strings that are not relevant to all users.Â 
+1194,As a user I want to click column names to sort them because it's a familiar paradigm to me and so I don't have to type in the query bar to sort the field.
+446,"As a JIRA Administrators, I'd like to be able to set the timeout for the rapid boards. Sometimes users are in remote locations where it's excepted that the load times will be very high."
+1205,As a new developer I want to restore a dump to my local machine so I can set up a new development environment.   
+2169,"As a Jira administrator, I would like to customize the image that is displayed when we select the Unassigned/Automatic option for user fields.    Â     !abc.png!"
+19,"As a developer, I'd like to add a mongodb source using an xml and a property file supporting mixing in of parameters so that I can use this module to ingest data from Mongo."
+1103,"As a developer, I need a Python SDK, so I develop application with NodeJS to interact with blockchain. "
+1410,As a theme designer I want a fast change test iterate loop in order to dev things quickly
+46,"As a user of Maven and REST, I would like the ability to create and update a group repository via the API."
+999,"As an administrator, I want to be able to determine app login by granting this as a global permission for certain groups and/or users."
+451,As a Product Owner   I would like a hotkey for the Backlog Search in Agile Plan mode  So that I can search for stories with less switching between a keyboard and mouse.
+1994,"As a user, I want to be able to configure the default expression language for my project so that I can use Weave as my expression language."
+535,"As an admin, I'd like GH Rapid Boards (Scrum and Kanban) to support multiple workflows in the board's columns configuration mapping"
+1179,As a Compass user I would like to export and import my favorite list so that other users may access the same hosts without having to type anything
+1203,As a developer I want to copy data from production or staging to my local development environment so I can debug an application issue.
+1123,"As an application developer, I want documentation for upgrade flows"
+22,"As a user, I'd like to have the option to write into _Kafka_ sink so that I can publish mass data into Kafka broker."
+1196,As a developer I want to copy a document to clipboard as json so I can share the document with other members on my team and/or compare it with the output from my application.
+2060,As a developer I want to debug my Alloy projects using the Studio debugger
+416,"As a Jira Software Administrator, I would like to be able to create and use a schema for Issue Detail View in Agile boards.    It would facilitate the standardization of board configuration."
+2205,"As a customer, I would like to have the possibility of configuring the calendar on the Log Work Screen. As an example, hide week number information."
+2172,"As an admin , I would like to have the ability to remove the tab Discover option from the Switch to tab. Please refer attachment. We do not want to see More atlassian products under this Discover tab."
+38,"As a user of REST, I would like the capability to administrate my Raw repositories.  This ticket implements PUT and POST endpoints."
+598,As a user I would like an action to be able to delete a specific worklog (from a specifc author at a specific date) in Automation for JIRA.Â     Today I can only add a worklog.Â 

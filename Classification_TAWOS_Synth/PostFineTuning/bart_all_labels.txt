@@ -1,0 +1,3225 @@
+Story: As a user, I'd like to be able to select custom fields of type Date Picker in the Two Dimensional Filter Statistics gadget, X and Y axis.         Currently this is not available.
+- User Centric Design: 0.84
+- Node.js: 0.54
+- MySQL: 0.40
+- JavaScript: 0.39
+- Data Visualization: 0.39
+- Microsoft SQL Server: 0.37
+- RDBMS: 0.34
+- Azure: 0.34
+- Java: 0.32
+- Adobe XD: 0.30
+- Data Manipulation: 0.30
+- PostgreSQL: 0.30
+- Matplotlib: 0.29
+- Scala: 0.29
+- Django: 0.27
+- pytest: 0.26
+- React: 0.26
+- Kotlin: 0.24
+- MongoDB: 0.24
+- GCP: 0.23
+- Angular: 0.23
+- Oracle: 0.22
+- Responsive Design: 0.22
+- SVN: 0.21
+- React Native: 0.20
+- Cassandra: 0.19
+- IoT: 0.18
+- Vue.js: 0.18
+- TensorFlow: 0.17
+- REST: 0.17
+- Flask: 0.16
+- HTML: 0.16
+- AWS: 0.15
+- Spark: 0.15
+- JUnit: 0.15
+- CSS: 0.14
+- MQTT: 0.14
+- Data Modeling: 0.13
+- scikit-learn: 0.13
+- Git: 0.13
+- Sketch: 0.13
+- ETL: 0.13
+- RESTful Architecture: 0.12
+- CoAP: 0.12
+- SQL: 0.12
+- GraphQL: 0.11
+- User Research: 0.10
+- Selenium: 0.10
+- Kanban: 0.09
+- Hadoop: 0.09
+- Responsive Web Design: 0.08
+- UI Design: 0.08
+- Web Accessibility: 0.08
+- Docker: 0.08
+- VPN: 0.08
+- Big Data Technologies: 0.07
+- PyTorch: 0.07
+- iOS Mobile App Development: 0.07
+- Flutter: 0.06
+- AI: 0.06
+- Active Directory: 0.06
+- TCP/IP: 0.06
+- Cross Browser Compatibility: 0.06
+- Routing and Switching: 0.05
+- Data Mining: 0.05
+- Virtualization VMware: 0.05
+- NoSQL: 0.05
+- Embedded Systems: 0.05
+- VoIP (Voice over Internet Protocol): 0.04
+- Pandas: 0.04
+- Sensor Integration: 0.04
+- Backup and Recovery: 0.04
+- Kubernetes: 0.04
+- Real-Time Systems: 0.04
+- Data Manipulation and Cleaning: 0.04
+- Wireless Networking: 0.04
+- Machine Learning: 0.04
+- Android Mobile App Development: 0.04
+- Scrum: 0.04
+- Virtualization Hyper-V: 0.04
+- Wireframing and Prototyping: 0.04
+- Computer Vision: 0.03
+- UX Design: 0.03
+- Continuous Integration/Continuous Deployment: 0.03
+- Agile Methodologies: 0.03
+- DevOps: 0.03
+- Data Engineering: 0.03
+- Build Automation: 0.03
+- Hardware/Software Integration: 0.02
+- Test-Driven Development (TDD): 0.02
+- Network Monitoring: 0.02
+- Manual Testing: 0.02
+- Technical Documentation: 0.02
+- Data Warehousing: 0.02
+- Smart contracts: 0.02
+- IT Support: 0.02
+- Network Security: 0.02
+- Integration Testing and System Testing: 0.02
+- Incident Response: 0.02
+- Cloud Architecture: 0.02
+- Intrusion Detection: 0.02
+- Scalability and Performance Optimization: 0.02
+- Cloud Native Application Development: 0.02
+- Memory Management and Performance Profiling: 0.02
+- Software Design Patterns: 0.02
+- System Administration: 0.02
+- Troubleshooting: 0.02
+- Cryptography: 0.02
+- Blockchain security: 0.02
+- Web Development: 0.02
+- Firewall Configuration: 0.02
+- Budgeting: 0.02
+- UX/UI Design and Prototyping: 0.02
+- System Architecture Design: 0.01
+- Security Auditing: 0.01
+- Ethical Hacking: 0.01
+- Security Best Practices: 0.01
+- Quality Assurance: 0.01
+- Usability Testing: 0.01
+- Penetration Testing: 0.01
+- Risk Management: 0.01
+- Project Planning: 0.01
+- Malware Analysis: 0.01
+- Performance Testing: 0.01
+- Server Administration: 0.01
+- Natural Language Processing: 0.01
+- Disaster Recovery Planning: 0.01
+- Cryptocurrency development: 0.01
+Story: As a user I would like to have the ability to start a thread on a Jira that is being worked on by several several users so as to avoid lengthy comment strings that are not relevant to all users. 
+- User Centric Design: 0.82
+- Java: 0.53
+- Agile Methodologies: 0.32
+- Responsive Design: 0.27
+- User Research: 0.24
+- JavaScript: 0.24
+- IoT: 0.23
+- REST: 0.22
+- RESTful Architecture: 0.20
+- ETL: 0.19
+- Sensor Integration: 0.18
+- Node.js: 0.17
+- Usability Testing: 0.17
+- Scalability and Performance Optimization: 0.16
+- CSS: 0.16
+- VPN: 0.16
+- Big Data Technologies: 0.15
+- Wireframing and Prototyping: 0.15
+- DevOps: 0.15
+- HTML: 0.15
+- Routing and Switching: 0.15
+- Data Visualization: 0.14
+- scikit-learn: 0.13
+- MQTT: 0.13
+- Cross Browser Compatibility: 0.13
+- CoAP: 0.12
+- Backup and Recovery: 0.12
+- GCP: 0.12
+- SQL: 0.12
+- Scrum: 0.12
+- Wireless Networking: 0.12
+- Matplotlib: 0.11
+- Embedded Systems: 0.11
+- Smart contracts: 0.11
+- GraphQL: 0.11
+- Network Security: 0.11
+- Virtualization VMware: 0.10
+- Network Monitoring: 0.10
+- Blockchain security: 0.10
+- Troubleshooting: 0.10
+- Web Accessibility: 0.10
+- Computer Vision: 0.10
+- Flutter: 0.09
+- Cloud Architecture: 0.09
+- JUnit: 0.09
+- Penetration Testing: 0.09
+- Data Mining: 0.09
+- Data Modeling: 0.09
+- Pandas: 0.09
+- Test-Driven Development (TDD): 0.08
+- Continuous Integration/Continuous Deployment: 0.08
+- SVN: 0.08
+- Incident Response: 0.08
+- VoIP (Voice over Internet Protocol): 0.08
+- Natural Language Processing: 0.08
+- Cloud Native Application Development: 0.08
+- Technical Documentation: 0.08
+- pytest: 0.08
+- Data Manipulation and Cleaning: 0.08
+- Data Engineering: 0.08
+- Scala: 0.08
+- Angular: 0.08
+- Data Manipulation: 0.07
+- Security Auditing: 0.07
+- Intrusion Detection: 0.07
+- Virtualization Hyper-V: 0.07
+- TCP/IP: 0.07
+- Quality Assurance: 0.07
+- AWS: 0.07
+- Kanban: 0.07
+- Git: 0.07
+- React: 0.07
+- Cryptography: 0.07
+- Kotlin: 0.07
+- System Architecture Design: 0.07
+- Hadoop: 0.07
+- Ethical Hacking: 0.06
+- Hardware/Software Integration: 0.06
+- AI: 0.06
+- Active Directory: 0.06
+- Build Automation: 0.06
+- RDBMS: 0.06
+- Risk Management: 0.06
+- Integration Testing and System Testing: 0.06
+- Responsive Web Design: 0.06
+- Memory Management and Performance Profiling: 0.06
+- Budgeting: 0.06
+- Vue.js: 0.05
+- React Native: 0.05
+- Manual Testing: 0.05
+- Sketch: 0.05
+- Project Planning: 0.05
+- Android Mobile App Development: 0.05
+- MongoDB: 0.05
+- Data Warehousing: 0.05
+- Cryptocurrency development: 0.05
+- Flask: 0.05
+- Docker: 0.05
+- Firewall Configuration: 0.05
+- Security Best Practices: 0.05
+- NoSQL: 0.05
+- Web Development: 0.05
+- TensorFlow: 0.05
+- Azure: 0.05
+- System Administration: 0.04
+- iOS Mobile App Development: 0.04
+- Performance Testing: 0.04
+- Malware Analysis: 0.04
+- IT Support: 0.04
+- Django: 0.04
+- Disaster Recovery Planning: 0.04
+- PyTorch: 0.04
+- Selenium: 0.04
+- Machine Learning: 0.04
+- Software Design Patterns: 0.04
+- UI Design: 0.04
+- Cassandra: 0.04
+- UX Design: 0.04
+- Spark: 0.03
+- PostgreSQL: 0.03
+- Real-Time Systems: 0.03
+- Kubernetes: 0.03
+- Server Administration: 0.03
+- Microsoft SQL Server: 0.03
+- Adobe XD: 0.03
+- MySQL: 0.03
+- Oracle: 0.03
+- UX/UI Design and Prototyping: 0.03
+Story: As a user I want to click column names to sort them because it's a familiar paradigm to me and so I don't have to type in the query bar to sort the field.
+- User Centric Design: 0.95
+- SQL: 0.86
+- RDBMS: 0.76
+- Microsoft SQL Server: 0.76
+- MySQL: 0.72
+- Responsive Design: 0.71
+- MQTT: 0.58
+- PostgreSQL: 0.52
+- Node.js: 0.45
+- GCP: 0.43
+- MongoDB: 0.43
+- React: 0.39
+- CoAP: 0.38
+- Oracle: 0.36
+- RESTful Architecture: 0.36
+- Responsive Web Design: 0.36
+- Cassandra: 0.35
+- Azure: 0.35
+- NoSQL: 0.35
+- SVN: 0.35
+- GraphQL: 0.32
+- Django: 0.30
+- JavaScript: 0.30
+- Matplotlib: 0.29
+- Flask: 0.28
+- Java: 0.28
+- React Native: 0.26
+- REST: 0.25
+- Kanban: 0.25
+- Adobe XD: 0.25
+- Angular: 0.24
+- ETL: 0.23
+- pytest: 0.23
+- Scala: 0.21
+- Git: 0.20
+- JUnit: 0.19
+- Virtualization VMware: 0.19
+- HTML: 0.18
+- Active Directory: 0.18
+- VPN: 0.17
+- Backup and Recovery: 0.17
+- scikit-learn: 0.16
+- Kotlin: 0.16
+- Embedded Systems: 0.16
+- Sketch: 0.15
+- UI Design: 0.14
+- IoT: 0.14
+- Flutter: 0.13
+- AWS: 0.13
+- Web Accessibility: 0.12
+- Spark: 0.12
+- Agile Methodologies: 0.12
+- Data Visualization: 0.12
+- Budgeting: 0.11
+- Vue.js: 0.10
+- Wireless Networking: 0.10
+- Firewall Configuration: 0.09
+- Network Monitoring: 0.09
+- Hadoop: 0.09
+- PyTorch: 0.08
+- UX Design: 0.08
+- Pandas: 0.08
+- Selenium: 0.08
+- Build Automation: 0.08
+- Routing and Switching: 0.08
+- Real-Time Systems: 0.08
+- TCP/IP: 0.08
+- Docker: 0.07
+- Sensor Integration: 0.07
+- User Research: 0.07
+- Risk Management: 0.07
+- Data Manipulation: 0.06
+- Network Security: 0.06
+- Quality Assurance: 0.06
+- Virtualization Hyper-V: 0.06
+- CSS: 0.06
+- Big Data Technologies: 0.05
+- Incident Response: 0.05
+- Data Manipulation and Cleaning: 0.04
+- Scrum: 0.04
+- Kubernetes: 0.04
+- Project Planning: 0.04
+- Malware Analysis: 0.04
+- Cryptography: 0.04
+- TensorFlow: 0.03
+- Penetration Testing: 0.03
+- VoIP (Voice over Internet Protocol): 0.03
+- Security Auditing: 0.03
+- Cross Browser Compatibility: 0.03
+- Data Modeling: 0.03
+- Hardware/Software Integration: 0.03
+- Wireframing and Prototyping: 0.03
+- Intrusion Detection: 0.03
+- Cloud Architecture: 0.03
+- Disaster Recovery Planning: 0.03
+- Data Warehousing: 0.03
+- DevOps: 0.03
+- Memory Management and Performance Profiling: 0.03
+- IT Support: 0.02
+- iOS Mobile App Development: 0.02
+- Computer Vision: 0.02
+- Data Mining: 0.02
+- Test-Driven Development (TDD): 0.02
+- Ethical Hacking: 0.02
+- Technical Documentation: 0.02
+- UX/UI Design and Prototyping: 0.02
+- Natural Language Processing: 0.02
+- Smart contracts: 0.02
+- AI: 0.02
+- Manual Testing: 0.02
+- Continuous Integration/Continuous Deployment: 0.02
+- Usability Testing: 0.02
+- Troubleshooting: 0.02
+- System Architecture Design: 0.01
+- Software Design Patterns: 0.01
+- Blockchain security: 0.01
+- Scalability and Performance Optimization: 0.01
+- Android Mobile App Development: 0.01
+- Integration Testing and System Testing: 0.01
+- System Administration: 0.01
+- Web Development: 0.01
+- Security Best Practices: 0.01
+- Machine Learning: 0.01
+- Data Engineering: 0.01
+- Cloud Native Application Development: 0.01
+- Server Administration: 0.01
+- Cryptocurrency development: 0.01
+- Performance Testing: 0.01
+Story: As a JIRA Administrators, I'd like to be able to set the timeout for the rapid boards. Sometimes users are in remote locations where it's excepted that the load times will be very high.
+- Flutter: 0.27
+- Node.js: 0.24
+- AWS: 0.22
+- Java: 0.21
+- Incident Response: 0.19
+- JavaScript: 0.19
+- Azure: 0.18
+- MongoDB: 0.15
+- GCP: 0.12
+- MySQL: 0.12
+- Cassandra: 0.11
+- Real-Time Systems: 0.10
+- System Administration: 0.10
+- IoT: 0.10
+- VPN: 0.09
+- Wireless Networking: 0.09
+- REST: 0.09
+- Hadoop: 0.09
+- React: 0.08
+- Kubernetes: 0.08
+- Security Best Practices: 0.08
+- TCP/IP: 0.07
+- Pandas: 0.07
+- MQTT: 0.06
+- Performance Testing: 0.06
+- Routing and Switching: 0.06
+- Vue.js: 0.06
+- Docker: 0.06
+- CoAP: 0.06
+- scikit-learn: 0.06
+- React Native: 0.06
+- ETL: 0.06
+- Flask: 0.05
+- Git: 0.05
+- RESTful Architecture: 0.05
+- PyTorch: 0.05
+- Matplotlib: 0.05
+- SVN: 0.05
+- VoIP (Voice over Internet Protocol): 0.05
+- Oracle: 0.05
+- Adobe XD: 0.05
+- Spark: 0.05
+- pytest: 0.05
+- Kotlin: 0.05
+- Virtualization Hyper-V: 0.04
+- GraphQL: 0.04
+- RDBMS: 0.04
+- AI: 0.04
+- Angular: 0.04
+- User Centric Design: 0.04
+- Microsoft SQL Server: 0.04
+- Virtualization VMware: 0.04
+- Django: 0.04
+- Server Administration: 0.04
+- Big Data Technologies: 0.04
+- HTML: 0.04
+- User Research: 0.04
+- Scala: 0.04
+- Selenium: 0.03
+- CSS: 0.03
+- Kanban: 0.03
+- Scalability and Performance Optimization: 0.03
+- Network Monitoring: 0.03
+- Active Directory: 0.03
+- JUnit: 0.03
+- PostgreSQL: 0.03
+- Integration Testing and System Testing: 0.03
+- Troubleshooting: 0.03
+- Responsive Design: 0.03
+- Agile Methodologies: 0.03
+- Scrum: 0.03
+- Cross Browser Compatibility: 0.03
+- Smart contracts: 0.03
+- SQL: 0.03
+- Sketch: 0.02
+- Backup and Recovery: 0.02
+- TensorFlow: 0.02
+- IT Support: 0.02
+- Network Security: 0.02
+- Intrusion Detection: 0.02
+- Manual Testing: 0.02
+- Firewall Configuration: 0.02
+- Test-Driven Development (TDD): 0.02
+- Hardware/Software Integration: 0.02
+- Embedded Systems: 0.02
+- Blockchain security: 0.02
+- Software Design Patterns: 0.02
+- NoSQL: 0.02
+- Data Warehousing: 0.02
+- DevOps: 0.02
+- Wireframing and Prototyping: 0.02
+- Memory Management and Performance Profiling: 0.02
+- Web Accessibility: 0.02
+- Data Manipulation: 0.02
+- Data Manipulation and Cleaning: 0.02
+- Build Automation: 0.02
+- Continuous Integration/Continuous Deployment: 0.01
+- Sensor Integration: 0.01
+- Machine Learning: 0.01
+- Ethical Hacking: 0.01
+- Penetration Testing: 0.01
+- Computer Vision: 0.01
+- iOS Mobile App Development: 0.01
+- Responsive Web Design: 0.01
+- Data Modeling: 0.01
+- Cloud Architecture: 0.01
+- Technical Documentation: 0.01
+- Security Auditing: 0.01
+- Usability Testing: 0.01
+- Data Mining: 0.01
+- Data Visualization: 0.01
+- Natural Language Processing: 0.01
+- Disaster Recovery Planning: 0.01
+- Quality Assurance: 0.01
+- Risk Management: 0.01
+- Budgeting: 0.01
+- Malware Analysis: 0.01
+- Project Planning: 0.01
+- Cryptography: 0.01
+- System Architecture Design: 0.01
+- Cloud Native Application Development: 0.01
+- Data Engineering: 0.01
+- Android Mobile App Development: 0.01
+- Cryptocurrency development: 0.01
+- UX Design: 0.01
+- UI Design: 0.01
+- Web Development: 0.01
+- UX/UI Design and Prototyping: 0.01
+Story: As a new developer I want to restore a dump to my local machine so I can set up a new development environment.   
+- NoSQL: 0.77
+- Node.js: 0.71
+- JavaScript: 0.70
+- Data Manipulation and Cleaning: 0.69
+- MongoDB: 0.68
+- MySQL: 0.65
+- Scala: 0.60
+- Backup and Recovery: 0.58
+- Data Manipulation: 0.56
+- Java: 0.54
+- PostgreSQL: 0.54
+- Flask: 0.54
+- Hadoop: 0.52
+- Git: 0.49
+- GCP: 0.48
+- RDBMS: 0.46
+- Kotlin: 0.45
+- Agile Methodologies: 0.45
+- Docker: 0.45
+- Django: 0.39
+- Web Development: 0.38
+- Microsoft SQL Server: 0.37
+- React: 0.37
+- MQTT: 0.37
+- Cassandra: 0.35
+- PyTorch: 0.35
+- REST: 0.35
+- GraphQL: 0.35
+- Selenium: 0.34
+- CoAP: 0.33
+- JUnit: 0.33
+- pytest: 0.32
+- SVN: 0.32
+- iOS Mobile App Development: 0.31
+- Matplotlib: 0.29
+- SQL: 0.29
+- Angular: 0.28
+- Spark: 0.26
+- Vue.js: 0.26
+- TensorFlow: 0.25
+- ETL: 0.25
+- React Native: 0.25
+- Test-Driven Development (TDD): 0.25
+- Adobe XD: 0.24
+- RESTful Architecture: 0.24
+- Android Mobile App Development: 0.23
+- Kanban: 0.22
+- Flutter: 0.18
+- CSS: 0.18
+- Azure: 0.17
+- scikit-learn: 0.17
+- Kubernetes: 0.17
+- Oracle: 0.17
+- Data Mining: 0.17
+- DevOps: 0.15
+- Cloud Native Application Development: 0.14
+- TCP/IP: 0.14
+- Smart contracts: 0.14
+- Data Modeling: 0.13
+- Software Design Patterns: 0.13
+- HTML: 0.13
+- IoT: 0.12
+- Embedded Systems: 0.11
+- Cryptocurrency development: 0.11
+- Sketch: 0.11
+- VPN: 0.11
+- Virtualization VMware: 0.09
+- Manual Testing: 0.09
+- Scrum: 0.09
+- Big Data Technologies: 0.09
+- AWS: 0.09
+- Continuous Integration/Continuous Deployment: 0.09
+- Real-Time Systems: 0.08
+- Responsive Design: 0.08
+- Pandas: 0.08
+- Routing and Switching: 0.08
+- Computer Vision: 0.08
+- Virtualization Hyper-V: 0.08
+- Disaster Recovery Planning: 0.07
+- Sensor Integration: 0.07
+- Data Warehousing: 0.07
+- AI: 0.07
+- Cross Browser Compatibility: 0.07
+- Active Directory: 0.07
+- Cryptography: 0.07
+- Memory Management and Performance Profiling: 0.07
+- Hardware/Software Integration: 0.06
+- Responsive Web Design: 0.06
+- Integration Testing and System Testing: 0.06
+- Data Engineering: 0.06
+- Machine Learning: 0.05
+- Wireframing and Prototyping: 0.05
+- Ethical Hacking: 0.05
+- Build Automation: 0.05
+- Usability Testing: 0.05
+- Data Visualization: 0.04
+- Intrusion Detection: 0.04
+- Natural Language Processing: 0.04
+- User Centric Design: 0.04
+- Cloud Architecture: 0.04
+- Penetration Testing: 0.04
+- Technical Documentation: 0.04
+- Performance Testing: 0.04
+- Security Best Practices: 0.04
+- Troubleshooting: 0.04
+- Web Accessibility: 0.04
+- Blockchain security: 0.04
+- Wireless Networking: 0.04
+- VoIP (Voice over Internet Protocol): 0.04
+- Scalability and Performance Optimization: 0.03
+- Network Monitoring: 0.03
+- System Architecture Design: 0.03
+- UX/UI Design and Prototyping: 0.03
+- Malware Analysis: 0.03
+- Network Security: 0.02
+- Security Auditing: 0.02
+- Firewall Configuration: 0.02
+- Project Planning: 0.02
+- System Administration: 0.02
+- UI Design: 0.02
+- Server Administration: 0.02
+- IT Support: 0.02
+- UX Design: 0.02
+- User Research: 0.02
+- Incident Response: 0.02
+- Quality Assurance: 0.01
+- Budgeting: 0.01
+- Risk Management: 0.01
+Story: As a Jira administrator, I would like to customize the image that is displayed when we select the Unassigned/Automatic option for user fields.         !abc.png!
+- Responsive Design: 0.38
+- CoAP: 0.37
+- Natural Language Processing: 0.23
+- User Centric Design: 0.22
+- ETL: 0.19
+- IoT: 0.17
+- JavaScript: 0.15
+- Java: 0.14
+- GCP: 0.13
+- VPN: 0.12
+- Flutter: 0.11
+- AWS: 0.11
+- Quality Assurance: 0.11
+- MQTT: 0.10
+- pytest: 0.10
+- Web Accessibility: 0.10
+- REST: 0.09
+- SVN: 0.09
+- HTML: 0.09
+- JUnit: 0.09
+- Kanban: 0.08
+- Computer Vision: 0.08
+- scikit-learn: 0.08
+- AI: 0.08
+- UI Design: 0.08
+- Agile Methodologies: 0.07
+- CSS: 0.07
+- Matplotlib: 0.07
+- Responsive Web Design: 0.07
+- React: 0.06
+- Node.js: 0.06
+- Budgeting: 0.05
+- System Administration: 0.05
+- SQL: 0.05
+- Backup and Recovery: 0.05
+- Sketch: 0.05
+- TCP/IP: 0.05
+- Cryptography: 0.05
+- Git: 0.05
+- Big Data Technologies: 0.04
+- Pandas: 0.04
+- Virtualization VMware: 0.04
+- Malware Analysis: 0.04
+- Data Visualization: 0.04
+- User Research: 0.04
+- Incident Response: 0.04
+- GraphQL: 0.04
+- Security Best Practices: 0.04
+- Docker: 0.04
+- Routing and Switching: 0.04
+- Cross Browser Compatibility: 0.03
+- VoIP (Voice over Internet Protocol): 0.03
+- Angular: 0.03
+- Data Manipulation: 0.03
+- Wireframing and Prototyping: 0.03
+- Scala: 0.03
+- Sensor Integration: 0.03
+- Azure: 0.03
+- Smart contracts: 0.03
+- Spark: 0.03
+- RESTful Architecture: 0.03
+- Intrusion Detection: 0.03
+- Virtualization Hyper-V: 0.03
+- RDBMS: 0.03
+- PyTorch: 0.03
+- UX Design: 0.03
+- Scrum: 0.03
+- Vue.js: 0.03
+- React Native: 0.03
+- Adobe XD: 0.03
+- Wireless Networking: 0.03
+- Embedded Systems: 0.03
+- Technical Documentation: 0.02
+- Cassandra: 0.02
+- Data Modeling: 0.02
+- MongoDB: 0.02
+- Machine Learning: 0.02
+- Real-Time Systems: 0.02
+- Data Manipulation and Cleaning: 0.02
+- UX/UI Design and Prototyping: 0.02
+- Active Directory: 0.02
+- Security Auditing: 0.02
+- Selenium: 0.02
+- Flask: 0.02
+- Test-Driven Development (TDD): 0.02
+- Usability Testing: 0.02
+- NoSQL: 0.02
+- Network Monitoring: 0.02
+- Kotlin: 0.02
+- Network Security: 0.02
+- Troubleshooting: 0.02
+- System Architecture Design: 0.02
+- Hadoop: 0.02
+- Blockchain security: 0.02
+- Cloud Architecture: 0.02
+- DevOps: 0.02
+- MySQL: 0.02
+- Software Design Patterns: 0.02
+- Server Administration: 0.02
+- PostgreSQL: 0.02
+- Data Warehousing: 0.02
+- Django: 0.02
+- IT Support: 0.02
+- Data Mining: 0.02
+- Build Automation: 0.02
+- Oracle: 0.01
+- Project Planning: 0.01
+- Memory Management and Performance Profiling: 0.01
+- TensorFlow: 0.01
+- Scalability and Performance Optimization: 0.01
+- Continuous Integration/Continuous Deployment: 0.01
+- Disaster Recovery Planning: 0.01
+- Integration Testing and System Testing: 0.01
+- Risk Management: 0.01
+- Kubernetes: 0.01
+- Ethical Hacking: 0.01
+- Firewall Configuration: 0.01
+- Manual Testing: 0.01
+- Penetration Testing: 0.01
+- Web Development: 0.01
+- Hardware/Software Integration: 0.01
+- Cryptocurrency development: 0.01
+- Microsoft SQL Server: 0.01
+- Performance Testing: 0.01
+- iOS Mobile App Development: 0.01
+- Data Engineering: 0.01
+- Cloud Native Application Development: 0.01
+- Android Mobile App Development: 0.01
+Story: As a developer, I'd like to add a mongodb source using an xml and a property file supporting mixing in of parameters so that I can use this module to ingest data from Mongo.
+- MongoDB: 0.99
+- Data Manipulation: 0.82
+- Node.js: 0.66
+- Data Modeling: 0.54
+- RDBMS: 0.40
+- NoSQL: 0.38
+- Software Design Patterns: 0.21
+- Flask: 0.17
+- Data Manipulation and Cleaning: 0.14
+- iOS Mobile App Development: 0.13
+- GCP: 0.13
+- Big Data Technologies: 0.13
+- RESTful Architecture: 0.12
+- Data Engineering: 0.11
+- REST: 0.11
+- Scala: 0.11
+- Web Development: 0.10
+- AWS: 0.10
+- Data Mining: 0.08
+- Azure: 0.08
+- Java: 0.08
+- CoAP: 0.08
+- JavaScript: 0.07
+- VPN: 0.07
+- Angular: 0.07
+- Django: 0.07
+- SVN: 0.07
+- Vue.js: 0.07
+- SQL: 0.06
+- Android Mobile App Development: 0.06
+- pytest: 0.06
+- Agile Methodologies: 0.05
+- Routing and Switching: 0.05
+- PyTorch: 0.05
+- Matplotlib: 0.05
+- MySQL: 0.05
+- scikit-learn: 0.05
+- React: 0.04
+- Git: 0.04
+- ETL: 0.04
+- Sketch: 0.04
+- IoT: 0.04
+- JUnit: 0.04
+- Docker: 0.04
+- React Native: 0.04
+- HTML: 0.04
+- Kotlin: 0.04
+- MQTT: 0.04
+- Cross Browser Compatibility: 0.04
+- DevOps: 0.04
+- Cloud Native Application Development: 0.03
+- Backup and Recovery: 0.03
+- Kanban: 0.03
+- TCP/IP: 0.03
+- Flutter: 0.03
+- Scrum: 0.03
+- Pandas: 0.02
+- CSS: 0.02
+- Hadoop: 0.02
+- Continuous Integration/Continuous Deployment: 0.02
+- Data Visualization: 0.02
+- TensorFlow: 0.02
+- Spark: 0.02
+- Sensor Integration: 0.02
+- Network Monitoring: 0.02
+- Kubernetes: 0.02
+- Cassandra: 0.02
+- Cloud Architecture: 0.02
+- Technical Documentation: 0.02
+- GraphQL: 0.02
+- Active Directory: 0.02
+- Test-Driven Development (TDD): 0.02
+- Selenium: 0.02
+- Oracle: 0.02
+- Data Warehousing: 0.02
+- Adobe XD: 0.02
+- Responsive Design: 0.02
+- Computer Vision: 0.01
+- Natural Language Processing: 0.01
+- Penetration Testing: 0.01
+- AI: 0.01
+- Virtualization VMware: 0.01
+- Server Administration: 0.01
+- Microsoft SQL Server: 0.01
+- PostgreSQL: 0.01
+- Wireless Networking: 0.01
+- System Administration: 0.01
+- Machine Learning: 0.01
+- Embedded Systems: 0.01
+- Integration Testing and System Testing: 0.01
+- User Research: 0.01
+- Intrusion Detection: 0.01
+- Memory Management and Performance Profiling: 0.01
+- Budgeting: 0.01
+- VoIP (Voice over Internet Protocol): 0.01
+- Security Best Practices: 0.01
+- Troubleshooting: 0.01
+- Smart contracts: 0.01
+- Web Accessibility: 0.01
+- Network Security: 0.01
+- Usability Testing: 0.01
+- System Architecture Design: 0.01
+- Build Automation: 0.01
+- Responsive Web Design: 0.01
+- Real-Time Systems: 0.01
+- Virtualization Hyper-V: 0.01
+- Firewall Configuration: 0.01
+- Project Planning: 0.01
+- Manual Testing: 0.01
+- Performance Testing: 0.01
+- Blockchain security: 0.01
+- Wireframing and Prototyping: 0.01
+- Incident Response: 0.01
+- Security Auditing: 0.01
+- Hardware/Software Integration: 0.01
+- Scalability and Performance Optimization: 0.01
+- User Centric Design: 0.01
+- Risk Management: 0.01
+- Disaster Recovery Planning: 0.01
+- UI Design: 0.01
+- Cryptography: 0.01
+- Malware Analysis: 0.01
+- UX Design: 0.01
+- IT Support: 0.01
+- Cryptocurrency development: 0.01
+- Ethical Hacking: 0.01
+- Quality Assurance: 0.01
+- UX/UI Design and Prototyping: 0.00
+Story: As a developer, I need a Python SDK, so I develop application with NodeJS to interact with blockchain. 
+- Node.js: 0.98
+- JavaScript: 0.96
+- Cryptocurrency development: 0.96
+- Blockchain security: 0.81
+- Smart contracts: 0.75
+- pytest: 0.38
+- PyTorch: 0.15
+- Flask: 0.13
+- CoAP: 0.13
+- GCP: 0.13
+- REST: 0.11
+- SVN: 0.10
+- scikit-learn: 0.10
+- Matplotlib: 0.08
+- MQTT: 0.08
+- GraphQL: 0.07
+- VPN: 0.07
+- RESTful Architecture: 0.07
+- Software Design Patterns: 0.06
+- ETL: 0.06
+- Flutter: 0.06
+- AWS: 0.06
+- Pandas: 0.06
+- Cassandra: 0.06
+- Git: 0.06
+- Routing and Switching: 0.06
+- Cross Browser Compatibility: 0.06
+- MongoDB: 0.06
+- Django: 0.06
+- IoT: 0.06
+- Docker: 0.05
+- Cryptography: 0.05
+- Kubernetes: 0.05
+- Azure: 0.05
+- Selenium: 0.05
+- Test-Driven Development (TDD): 0.05
+- Backup and Recovery: 0.05
+- Kanban: 0.05
+- JUnit: 0.05
+- Network Monitoring: 0.04
+- Build Automation: 0.04
+- Agile Methodologies: 0.04
+- Data Manipulation: 0.04
+- Integration Testing and System Testing: 0.04
+- TensorFlow: 0.04
+- Data Modeling: 0.04
+- Sensor Integration: 0.04
+- Vue.js: 0.04
+- Sketch: 0.04
+- TCP/IP: 0.04
+- SQL: 0.04
+- Continuous Integration/Continuous Deployment: 0.04
+- Network Security: 0.03
+- DevOps: 0.03
+- React: 0.03
+- RDBMS: 0.03
+- Cloud Architecture: 0.03
+- Embedded Systems: 0.03
+- Java: 0.03
+- Usability Testing: 0.03
+- Incident Response: 0.03
+- Intrusion Detection: 0.03
+- Active Directory: 0.03
+- Wireframing and Prototyping: 0.03
+- Cloud Native Application Development: 0.03
+- Responsive Design: 0.03
+- Security Auditing: 0.03
+- Spark: 0.03
+- Penetration Testing: 0.03
+- React Native: 0.03
+- Technical Documentation: 0.03
+- iOS Mobile App Development: 0.03
+- Virtualization VMware: 0.03
+- CSS: 0.03
+- Wireless Networking: 0.03
+- Real-Time Systems: 0.03
+- Server Administration: 0.03
+- User Research: 0.03
+- System Architecture Design: 0.02
+- MySQL: 0.02
+- Virtualization Hyper-V: 0.02
+- Data Manipulation and Cleaning: 0.02
+- Hadoop: 0.02
+- Oracle: 0.02
+- Scrum: 0.02
+- NoSQL: 0.02
+- Web Development: 0.02
+- HTML: 0.02
+- Data Visualization: 0.02
+- Ethical Hacking: 0.02
+- Big Data Technologies: 0.02
+- AI: 0.02
+- Natural Language Processing: 0.02
+- Adobe XD: 0.02
+- Hardware/Software Integration: 0.02
+- Data Mining: 0.02
+- PostgreSQL: 0.02
+- Troubleshooting: 0.02
+- Kotlin: 0.02
+- Memory Management and Performance Profiling: 0.02
+- Computer Vision: 0.02
+- User Centric Design: 0.02
+- Android Mobile App Development: 0.02
+- System Administration: 0.02
+- Security Best Practices: 0.02
+- Performance Testing: 0.02
+- Microsoft SQL Server: 0.02
+- Scala: 0.02
+- Data Warehousing: 0.02
+- Machine Learning: 0.02
+- Scalability and Performance Optimization: 0.02
+- Quality Assurance: 0.02
+- Web Accessibility: 0.02
+- Responsive Web Design: 0.02
+- Data Engineering: 0.02
+- Firewall Configuration: 0.02
+- Angular: 0.02
+- Manual Testing: 0.02
+- VoIP (Voice over Internet Protocol): 0.02
+- Budgeting: 0.02
+- Risk Management: 0.02
+- Disaster Recovery Planning: 0.01
+- Project Planning: 0.01
+- IT Support: 0.01
+- UI Design: 0.01
+- Malware Analysis: 0.01
+- UX Design: 0.01
+- UX/UI Design and Prototyping: 0.01
+Story: As a theme designer I want a fast change test iterate loop in order to dev things quickly
+- GCP: 0.52
+- ETL: 0.46
+- pytest: 0.45
+- Agile Methodologies: 0.42
+- Flutter: 0.40
+- Test-Driven Development (TDD): 0.39
+- JUnit: 0.38
+- MQTT: 0.37
+- Flask: 0.34
+- Node.js: 0.34
+- CoAP: 0.32
+- Routing and Switching: 0.30
+- Selenium: 0.27
+- Azure: 0.26
+- JavaScript: 0.24
+- Pandas: 0.24
+- Vue.js: 0.23
+- VPN: 0.22
+- React: 0.20
+- SVN: 0.20
+- DevOps: 0.19
+- scikit-learn: 0.19
+- Sketch: 0.19
+- Kotlin: 0.17
+- Kubernetes: 0.16
+- Scala: 0.16
+- Adobe XD: 0.14
+- Cassandra: 0.14
+- GraphQL: 0.14
+- MongoDB: 0.14
+- Git: 0.14
+- RDBMS: 0.13
+- Docker: 0.13
+- Java: 0.12
+- REST: 0.12
+- Django: 0.11
+- Oracle: 0.11
+- Angular: 0.11
+- Kanban: 0.10
+- MySQL: 0.10
+- Matplotlib: 0.10
+- iOS Mobile App Development: 0.10
+- AWS: 0.10
+- PyTorch: 0.10
+- Spark: 0.10
+- IoT: 0.09
+- Scrum: 0.09
+- React Native: 0.08
+- Active Directory: 0.08
+- Continuous Integration/Continuous Deployment: 0.07
+- SQL: 0.07
+- Responsive Design: 0.07
+- PostgreSQL: 0.06
+- Hadoop: 0.06
+- CSS: 0.06
+- Microsoft SQL Server: 0.06
+- Android Mobile App Development: 0.06
+- Virtualization Hyper-V: 0.05
+- Cross Browser Compatibility: 0.05
+- Wireframing and Prototyping: 0.05
+- Penetration Testing: 0.05
+- NoSQL: 0.05
+- User Centric Design: 0.05
+- Backup and Recovery: 0.05
+- Real-Time Systems: 0.05
+- Integration Testing and System Testing: 0.05
+- VoIP (Voice over Internet Protocol): 0.05
+- Sensor Integration: 0.05
+- HTML: 0.05
+- RESTful Architecture: 0.05
+- TensorFlow: 0.05
+- Firewall Configuration: 0.05
+- Usability Testing: 0.04
+- Manual Testing: 0.04
+- Virtualization VMware: 0.04
+- TCP/IP: 0.04
+- Software Design Patterns: 0.04
+- Web Accessibility: 0.04
+- Smart contracts: 0.04
+- Wireless Networking: 0.04
+- Cloud Architecture: 0.03
+- AI: 0.03
+- Big Data Technologies: 0.03
+- Embedded Systems: 0.03
+- Responsive Web Design: 0.03
+- UX/UI Design and Prototyping: 0.03
+- Web Development: 0.03
+- Performance Testing: 0.03
+- Computer Vision: 0.03
+- Blockchain security: 0.03
+- Network Monitoring: 0.02
+- Cloud Native Application Development: 0.02
+- UX Design: 0.02
+- Build Automation: 0.02
+- Network Security: 0.02
+- Intrusion Detection: 0.02
+- Ethical Hacking: 0.02
+- UI Design: 0.02
+- Hardware/Software Integration: 0.02
+- Quality Assurance: 0.02
+- Incident Response: 0.02
+- Data Warehousing: 0.02
+- Machine Learning: 0.02
+- Cryptography: 0.02
+- Scalability and Performance Optimization: 0.01
+- Data Manipulation: 0.01
+- Cryptocurrency development: 0.01
+- Troubleshooting: 0.01
+- System Architecture Design: 0.01
+- Data Mining: 0.01
+- IT Support: 0.01
+- System Administration: 0.01
+- User Research: 0.01
+- Data Modeling: 0.01
+- Data Visualization: 0.01
+- Security Auditing: 0.01
+- Memory Management and Performance Profiling: 0.01
+- Data Engineering: 0.01
+- Data Manipulation and Cleaning: 0.01
+- Server Administration: 0.01
+- Project Planning: 0.01
+- Technical Documentation: 0.01
+- Security Best Practices: 0.01
+- Risk Management: 0.01
+- Natural Language Processing: 0.01
+- Budgeting: 0.01
+- Malware Analysis: 0.01
+- Disaster Recovery Planning: 0.01
+Story: As a user of Maven and REST, I would like the ability to create and update a group repository via the API.
+- REST: 0.97
+- RESTful Architecture: 0.87
+- GCP: 0.26
+- Git: 0.13
+- User Centric Design: 0.13
+- SVN: 0.11
+- CoAP: 0.10
+- JavaScript: 0.07
+- Flask: 0.07
+- MQTT: 0.07
+- Node.js: 0.06
+- NoSQL: 0.06
+- pytest: 0.06
+- scikit-learn: 0.05
+- Azure: 0.05
+- AWS: 0.05
+- JUnit: 0.05
+- GraphQL: 0.05
+- Build Automation: 0.05
+- React: 0.05
+- Matplotlib: 0.04
+- HTML: 0.04
+- Java: 0.04
+- SQL: 0.04
+- ETL: 0.04
+- MongoDB: 0.04
+- DevOps: 0.04
+- VPN: 0.04
+- Active Directory: 0.04
+- IoT: 0.04
+- Data Warehousing: 0.04
+- Scala: 0.03
+- Pandas: 0.03
+- Docker: 0.03
+- MySQL: 0.03
+- Continuous Integration/Continuous Deployment: 0.03
+- Selenium: 0.03
+- RDBMS: 0.03
+- Cassandra: 0.03
+- Django: 0.03
+- Sketch: 0.03
+- Responsive Design: 0.02
+- CSS: 0.02
+- PyTorch: 0.02
+- Angular: 0.02
+- TCP/IP: 0.02
+- Backup and Recovery: 0.02
+- Sensor Integration: 0.02
+- React Native: 0.02
+- Cross Browser Compatibility: 0.02
+- Virtualization VMware: 0.02
+- PostgreSQL: 0.02
+- Web Accessibility: 0.02
+- Vue.js: 0.02
+- Data Manipulation: 0.02
+- Routing and Switching: 0.02
+- Agile Methodologies: 0.02
+- Adobe XD: 0.02
+- Manual Testing: 0.02
+- User Research: 0.02
+- Data Modeling: 0.02
+- Flutter: 0.02
+- Kanban: 0.02
+- Embedded Systems: 0.02
+- Kubernetes: 0.02
+- Technical Documentation: 0.02
+- Kotlin: 0.02
+- Cloud Architecture: 0.02
+- iOS Mobile App Development: 0.02
+- Software Design Patterns: 0.02
+- VoIP (Voice over Internet Protocol): 0.02
+- Big Data Technologies: 0.01
+- Wireless Networking: 0.01
+- Microsoft SQL Server: 0.01
+- System Administration: 0.01
+- Integration Testing and System Testing: 0.01
+- Computer Vision: 0.01
+- Data Visualization: 0.01
+- Test-Driven Development (TDD): 0.01
+- Network Monitoring: 0.01
+- Hadoop: 0.01
+- Server Administration: 0.01
+- Penetration Testing: 0.01
+- Virtualization Hyper-V: 0.01
+- Oracle: 0.01
+- TensorFlow: 0.01
+- Data Engineering: 0.01
+- Troubleshooting: 0.01
+- Web Development: 0.01
+- Real-Time Systems: 0.01
+- Scrum: 0.01
+- Incident Response: 0.01
+- Responsive Web Design: 0.01
+- Android Mobile App Development: 0.01
+- Wireframing and Prototyping: 0.01
+- Data Manipulation and Cleaning: 0.01
+- AI: 0.01
+- IT Support: 0.01
+- Spark: 0.01
+- UX Design: 0.01
+- Quality Assurance: 0.01
+- Smart contracts: 0.01
+- Blockchain security: 0.01
+- Risk Management: 0.01
+- UI Design: 0.01
+- Usability Testing: 0.01
+- System Architecture Design: 0.01
+- Project Planning: 0.01
+- Scalability and Performance Optimization: 0.01
+- Firewall Configuration: 0.01
+- Performance Testing: 0.01
+- Security Auditing: 0.01
+- Data Mining: 0.01
+- Network Security: 0.01
+- Hardware/Software Integration: 0.01
+- Natural Language Processing: 0.01
+- Intrusion Detection: 0.01
+- Memory Management and Performance Profiling: 0.01
+- Security Best Practices: 0.01
+- Machine Learning: 0.01
+- Cloud Native Application Development: 0.01
+- Cryptography: 0.01
+- Budgeting: 0.01
+- Ethical Hacking: 0.01
+- Malware Analysis: 0.01
+- Disaster Recovery Planning: 0.01
+- UX/UI Design and Prototyping: 0.01
+- Cryptocurrency development: 0.00
+Story: As an administrator, I want to be able to determine app login by granting this as a global permission for certain groups and/or users.
+- System Administration: 0.97
+- Security Best Practices: 0.86
+- Node.js: 0.73
+- Flask: 0.62
+- CoAP: 0.60
+- JavaScript: 0.59
+- GCP: 0.58
+- Java: 0.56
+- REST: 0.56
+- MQTT: 0.56
+- Docker: 0.51
+- React: 0.51
+- Azure: 0.46
+- Adobe XD: 0.46
+- MongoDB: 0.46
+- Active Directory: 0.45
+- MySQL: 0.43
+- React Native: 0.42
+- Django: 0.41
+- GraphQL: 0.40
+- Angular: 0.39
+- JUnit: 0.39
+- Sketch: 0.38
+- RESTful Architecture: 0.36
+- Server Administration: 0.35
+- Selenium: 0.35
+- Git: 0.34
+- Scala: 0.34
+- PostgreSQL: 0.34
+- TensorFlow: 0.33
+- Matplotlib: 0.33
+- PyTorch: 0.33
+- pytest: 0.32
+- Microsoft SQL Server: 0.32
+- Spark: 0.32
+- Vue.js: 0.32
+- iOS Mobile App Development: 0.31
+- Kanban: 0.31
+- Cassandra: 0.30
+- Kotlin: 0.30
+- SVN: 0.30
+- Oracle: 0.30
+- VPN: 0.29
+- Kubernetes: 0.28
+- AWS: 0.28
+- Virtualization VMware: 0.28
+- RDBMS: 0.27
+- ETL: 0.27
+- Flutter: 0.26
+- Android Mobile App Development: 0.22
+- TCP/IP: 0.22
+- scikit-learn: 0.20
+- SQL: 0.18
+- Blockchain security: 0.16
+- Network Security: 0.16
+- Pandas: 0.14
+- Hadoop: 0.14
+- Responsive Design: 0.14
+- Real-Time Systems: 0.14
+- IoT: 0.14
+- NoSQL: 0.13
+- Wireless Networking: 0.12
+- Software Design Patterns: 0.12
+- CSS: 0.10
+- HTML: 0.10
+- Virtualization Hyper-V: 0.09
+- Intrusion Detection: 0.09
+- VoIP (Voice over Internet Protocol): 0.09
+- Cross Browser Compatibility: 0.08
+- AI: 0.08
+- Scrum: 0.08
+- Agile Methodologies: 0.07
+- Security Auditing: 0.07
+- Big Data Technologies: 0.06
+- Routing and Switching: 0.06
+- Computer Vision: 0.06
+- Cloud Architecture: 0.06
+- Ethical Hacking: 0.06
+- Data Mining: 0.06
+- Sensor Integration: 0.05
+- User Centric Design: 0.05
+- Backup and Recovery: 0.04
+- Smart contracts: 0.04
+- User Research: 0.04
+- Embedded Systems: 0.04
+- Network Monitoring: 0.04
+- Cryptography: 0.04
+- Web Accessibility: 0.04
+- Data Manipulation: 0.03
+- Machine Learning: 0.03
+- Cloud Native Application Development: 0.03
+- Build Automation: 0.03
+- DevOps: 0.03
+- Responsive Web Design: 0.03
+- Hardware/Software Integration: 0.02
+- Test-Driven Development (TDD): 0.02
+- Penetration Testing: 0.02
+- Firewall Configuration: 0.02
+- Continuous Integration/Continuous Deployment: 0.02
+- Technical Documentation: 0.02
+- Malware Analysis: 0.02
+- Wireframing and Prototyping: 0.02
+- Data Modeling: 0.02
+- IT Support: 0.02
+- UI Design: 0.02
+- Manual Testing: 0.02
+- Data Visualization: 0.02
+- System Architecture Design: 0.02
+- Web Development: 0.02
+- Memory Management and Performance Profiling: 0.01
+- UX Design: 0.01
+- Incident Response: 0.01
+- Usability Testing: 0.01
+- Natural Language Processing: 0.01
+- Data Manipulation and Cleaning: 0.01
+- Integration Testing and System Testing: 0.01
+- Performance Testing: 0.01
+- Troubleshooting: 0.01
+- Risk Management: 0.01
+- Quality Assurance: 0.01
+- Scalability and Performance Optimization: 0.01
+- Budgeting: 0.01
+- Data Warehousing: 0.01
+- UX/UI Design and Prototyping: 0.01
+- Data Engineering: 0.01
+- Cryptocurrency development: 0.01
+- Project Planning: 0.01
+- Disaster Recovery Planning: 0.00
+Story: As a Product Owner   I would like a hotkey for the Backlog Search in Agile Plan mode  So that I can search for stories with less switching between a keyboard and mouse.
+- Agile Methodologies: 0.83
+- Backup and Recovery: 0.54
+- Node.js: 0.37
+- MongoDB: 0.36
+- GCP: 0.36
+- MySQL: 0.33
+- JavaScript: 0.32
+- CoAP: 0.27
+- NoSQL: 0.26
+- Adobe XD: 0.24
+- Microsoft SQL Server: 0.24
+- RDBMS: 0.21
+- SQL: 0.20
+- Git: 0.19
+- Scala: 0.17
+- React Native: 0.17
+- Oracle: 0.16
+- Azure: 0.16
+- PostgreSQL: 0.16
+- Matplotlib: 0.15
+- MQTT: 0.15
+- Kotlin: 0.15
+- GraphQL: 0.14
+- Routing and Switching: 0.13
+- Scrum: 0.13
+- SVN: 0.12
+- Java: 0.12
+- Vue.js: 0.12
+- Selenium: 0.12
+- pytest: 0.12
+- Spark: 0.11
+- AWS: 0.11
+- REST: 0.10
+- Django: 0.10
+- React: 0.10
+- Flask: 0.10
+- Cassandra: 0.10
+- HTML: 0.09
+- Hadoop: 0.09
+- Angular: 0.08
+- JUnit: 0.08
+- PyTorch: 0.08
+- ETL: 0.08
+- CSS: 0.06
+- Docker: 0.06
+- TensorFlow: 0.06
+- Kanban: 0.05
+- Responsive Design: 0.05
+- Web Accessibility: 0.04
+- VPN: 0.04
+- TCP/IP: 0.04
+- Continuous Integration/Continuous Deployment: 0.04
+- Project Planning: 0.04
+- Flutter: 0.04
+- Active Directory: 0.04
+- Cross Browser Compatibility: 0.04
+- scikit-learn: 0.04
+- UI Design: 0.03
+- User Centric Design: 0.03
+- iOS Mobile App Development: 0.03
+- Pandas: 0.03
+- Sketch: 0.03
+- Software Design Patterns: 0.03
+- Kubernetes: 0.03
+- Scalability and Performance Optimization: 0.03
+- IoT: 0.03
+- Virtualization VMware: 0.03
+- Big Data Technologies: 0.02
+- RESTful Architecture: 0.02
+- DevOps: 0.02
+- Natural Language Processing: 0.02
+- AI: 0.02
+- Budgeting: 0.02
+- VoIP (Voice over Internet Protocol): 0.02
+- Responsive Web Design: 0.02
+- Build Automation: 0.02
+- Test-Driven Development (TDD): 0.02
+- Data Manipulation: 0.02
+- User Research: 0.02
+- Wireless Networking: 0.02
+- UX Design: 0.02
+- Sensor Integration: 0.02
+- Android Mobile App Development: 0.01
+- Memory Management and Performance Profiling: 0.01
+- Machine Learning: 0.01
+- Virtualization Hyper-V: 0.01
+- Data Visualization: 0.01
+- Technical Documentation: 0.01
+- Web Development: 0.01
+- Data Modeling: 0.01
+- Wireframing and Prototyping: 0.01
+- Smart contracts: 0.01
+- Blockchain security: 0.01
+- Real-Time Systems: 0.01
+- Server Administration: 0.01
+- Troubleshooting: 0.01
+- Integration Testing and System Testing: 0.01
+- Cloud Architecture: 0.01
+- Data Mining: 0.01
+- Intrusion Detection: 0.01
+- Cloud Native Application Development: 0.01
+- System Administration: 0.01
+- Manual Testing: 0.01
+- IT Support: 0.01
+- Hardware/Software Integration: 0.01
+- Data Warehousing: 0.01
+- Computer Vision: 0.01
+- Network Monitoring: 0.01
+- Embedded Systems: 0.01
+- Data Engineering: 0.01
+- Quality Assurance: 0.01
+- Data Manipulation and Cleaning: 0.01
+- Firewall Configuration: 0.01
+- Usability Testing: 0.01
+- UX/UI Design and Prototyping: 0.01
+- Network Security: 0.01
+- Risk Management: 0.01
+- Incident Response: 0.01
+- Penetration Testing: 0.01
+- System Architecture Design: 0.01
+- Performance Testing: 0.01
+- Cryptography: 0.01
+- Security Best Practices: 0.01
+- Ethical Hacking: 0.01
+- Security Auditing: 0.01
+- Malware Analysis: 0.01
+- Disaster Recovery Planning: 0.01
+- Cryptocurrency development: 0.00
+Story: As a user, I want to be able to configure the default expression language for my project so that I can use Weave as my expression language.
+- User Centric Design: 0.79
+- Natural Language Processing: 0.53
+- REST: 0.31
+- pytest: 0.30
+- Data Visualization: 0.26
+- Node.js: 0.25
+- RESTful Architecture: 0.24
+- Data Modeling: 0.24
+- Flask: 0.23
+- MySQL: 0.20
+- Cassandra: 0.18
+- Wireframing and Prototyping: 0.17
+- Adobe XD: 0.17
+- Django: 0.17
+- iOS Mobile App Development: 0.17
+- Sensor Integration: 0.16
+- IoT: 0.16
+- JavaScript: 0.16
+- Project Planning: 0.15
+- Wireless Networking: 0.15
+- SQL: 0.14
+- Web Development: 0.14
+- Big Data Technologies: 0.13
+- Android Mobile App Development: 0.13
+- GraphQL: 0.12
+- CSS: 0.12
+- Cloud Native Application Development: 0.12
+- Embedded Systems: 0.12
+- Matplotlib: 0.12
+- Network Monitoring: 0.11
+- Scala: 0.11
+- Data Manipulation: 0.11
+- RDBMS: 0.11
+- Data Mining: 0.10
+- React: 0.10
+- HTML: 0.10
+- Git: 0.10
+- ETL: 0.10
+- React Native: 0.10
+- Docker: 0.10
+- AWS: 0.09
+- MQTT: 0.09
+- Responsive Web Design: 0.09
+- Agile Methodologies: 0.09
+- Hardware/Software Integration: 0.09
+- Data Manipulation and Cleaning: 0.09
+- Web Accessibility: 0.09
+- GCP: 0.09
+- Intrusion Detection: 0.09
+- Backup and Recovery: 0.09
+- Vue.js: 0.09
+- MongoDB: 0.09
+- Cloud Architecture: 0.09
+- User Research: 0.08
+- DevOps: 0.08
+- CoAP: 0.08
+- Data Warehousing: 0.08
+- NoSQL: 0.08
+- VPN: 0.08
+- TCP/IP: 0.08
+- PostgreSQL: 0.08
+- scikit-learn: 0.08
+- Data Engineering: 0.08
+- Security Auditing: 0.08
+- Computer Vision: 0.08
+- AI: 0.07
+- Java: 0.07
+- SVN: 0.07
+- Responsive Design: 0.07
+- Angular: 0.07
+- Real-Time Systems: 0.07
+- Selenium: 0.07
+- Hadoop: 0.07
+- Quality Assurance: 0.07
+- JUnit: 0.07
+- Oracle: 0.07
+- Penetration Testing: 0.06
+- Network Security: 0.06
+- Scalability and Performance Optimization: 0.06
+- Continuous Integration/Continuous Deployment: 0.06
+- Virtualization VMware: 0.06
+- Performance Testing: 0.06
+- Build Automation: 0.06
+- Sketch: 0.06
+- Routing and Switching: 0.06
+- Disaster Recovery Planning: 0.06
+- Azure: 0.06
+- VoIP (Voice over Internet Protocol): 0.06
+- PyTorch: 0.05
+- Active Directory: 0.05
+- Kubernetes: 0.05
+- Incident Response: 0.05
+- TensorFlow: 0.05
+- Kanban: 0.05
+- Cross Browser Compatibility: 0.05
+- Memory Management and Performance Profiling: 0.05
+- Cryptography: 0.05
+- Smart contracts: 0.05
+- Risk Management: 0.05
+- Troubleshooting: 0.04
+- Blockchain security: 0.04
+- Test-Driven Development (TDD): 0.04
+- Virtualization Hyper-V: 0.04
+- System Architecture Design: 0.04
+- Microsoft SQL Server: 0.04
+- Usability Testing: 0.04
+- Manual Testing: 0.04
+- Malware Analysis: 0.03
+- Pandas: 0.03
+- UX Design: 0.03
+- UI Design: 0.03
+- Integration Testing and System Testing: 0.03
+- Budgeting: 0.03
+- Ethical Hacking: 0.03
+- Machine Learning: 0.03
+- UX/UI Design and Prototyping: 0.03
+- Flutter: 0.03
+- Software Design Patterns: 0.03
+- Cryptocurrency development: 0.03
+- Kotlin: 0.03
+- IT Support: 0.02
+- Technical Documentation: 0.02
+- Spark: 0.02
+- System Administration: 0.02
+- Scrum: 0.02
+- Server Administration: 0.02
+- Firewall Configuration: 0.02
+- Security Best Practices: 0.01
+Story: As an admin, I'd like GH Rapid Boards (Scrum and Kanban) to support multiple workflows in the board's columns configuration mapping
+- Scrum: 0.97
+- Kanban: 0.92
+- Routing and Switching: 0.45
+- System Administration: 0.39
+- Continuous Integration/Continuous Deployment: 0.33
+- Backup and Recovery: 0.29
+- JavaScript: 0.20
+- GCP: 0.14
+- Firewall Configuration: 0.13
+- SQL: 0.13
+- Data Manipulation and Cleaning: 0.09
+- JUnit: 0.09
+- Server Administration: 0.09
+- Sensor Integration: 0.09
+- PostgreSQL: 0.09
+- VPN: 0.08
+- Azure: 0.08
+- Network Monitoring: 0.07
+- MongoDB: 0.07
+- Penetration Testing: 0.07
+- Build Automation: 0.07
+- Incident Response: 0.06
+- Wireframing and Prototyping: 0.06
+- Memory Management and Performance Profiling: 0.06
+- AWS: 0.06
+- SVN: 0.06
+- CoAP: 0.06
+- PyTorch: 0.06
+- Pandas: 0.06
+- Matplotlib: 0.06
+- Docker: 0.06
+- Embedded Systems: 0.05
+- pytest: 0.05
+- Cassandra: 0.05
+- Integration Testing and System Testing: 0.05
+- ETL: 0.05
+- Oracle: 0.05
+- Agile Methodologies: 0.05
+- Flutter: 0.05
+- Node.js: 0.05
+- DevOps: 0.05
+- Selenium: 0.04
+- Git: 0.04
+- Security Auditing: 0.04
+- MQTT: 0.04
+- MySQL: 0.04
+- CSS: 0.04
+- Microsoft SQL Server: 0.04
+- React: 0.04
+- Project Planning: 0.04
+- RDBMS: 0.04
+- Flask: 0.04
+- TCP/IP: 0.04
+- REST: 0.04
+- User Research: 0.03
+- iOS Mobile App Development: 0.03
+- Quality Assurance: 0.03
+- Troubleshooting: 0.03
+- GraphQL: 0.03
+- Sketch: 0.03
+- IoT: 0.03
+- Performance Testing: 0.03
+- Scalability and Performance Optimization: 0.03
+- Java: 0.03
+- Wireless Networking: 0.03
+- Intrusion Detection: 0.03
+- Adobe XD: 0.03
+- RESTful Architecture: 0.03
+- Network Security: 0.03
+- Budgeting: 0.03
+- Android Mobile App Development: 0.03
+- scikit-learn: 0.03
+- Scala: 0.03
+- Test-Driven Development (TDD): 0.03
+- Disaster Recovery Planning: 0.03
+- Vue.js: 0.03
+- Angular: 0.03
+- Django: 0.03
+- TensorFlow: 0.03
+- Hadoop: 0.02
+- HTML: 0.02
+- Spark: 0.02
+- Real-Time Systems: 0.02
+- Malware Analysis: 0.02
+- Data Warehousing: 0.02
+- Virtualization VMware: 0.02
+- Hardware/Software Integration: 0.02
+- Kubernetes: 0.02
+- Data Mining: 0.02
+- Active Directory: 0.02
+- Kotlin: 0.02
+- Manual Testing: 0.02
+- UX/UI Design and Prototyping: 0.02
+- Usability Testing: 0.02
+- Risk Management: 0.02
+- VoIP (Voice over Internet Protocol): 0.02
+- Cross Browser Compatibility: 0.02
+- Cryptography: 0.02
+- Virtualization Hyper-V: 0.02
+- AI: 0.02
+- Big Data Technologies: 0.02
+- Responsive Design: 0.02
+- React Native: 0.02
+- Web Development: 0.02
+- NoSQL: 0.01
+- Ethical Hacking: 0.01
+- Blockchain security: 0.01
+- Smart contracts: 0.01
+- Cryptocurrency development: 0.01
+- IT Support: 0.01
+- Cloud Architecture: 0.01
+- Cloud Native Application Development: 0.01
+- System Architecture Design: 0.01
+- Responsive Web Design: 0.01
+- Computer Vision: 0.01
+- Web Accessibility: 0.01
+- User Centric Design: 0.01
+- Data Modeling: 0.01
+- Data Manipulation: 0.01
+- Data Engineering: 0.01
+- Data Visualization: 0.01
+- Technical Documentation: 0.01
+- UX Design: 0.01
+- Security Best Practices: 0.01
+- Software Design Patterns: 0.01
+- Natural Language Processing: 0.01
+- UI Design: 0.01
+- Machine Learning: 0.01
+Story: As a Compass user I would like to export and import my favorite list so that other users may access the same hosts without having to type anything
+- REST: 0.90
+- User Centric Design: 0.85
+- RESTful Architecture: 0.78
+- TCP/IP: 0.70
+- Web Accessibility: 0.55
+- VPN: 0.50
+- JavaScript: 0.37
+- HTML: 0.36
+- GCP: 0.35
+- VoIP (Voice over Internet Protocol): 0.34
+- Active Directory: 0.31
+- Responsive Design: 0.30
+- Responsive Web Design: 0.30
+- SVN: 0.29
+- Security Best Practices: 0.28
+- Wireless Networking: 0.27
+- Cross Browser Compatibility: 0.27
+- AWS: 0.25
+- MQTT: 0.22
+- Node.js: 0.22
+- Azure: 0.19
+- SQL: 0.17
+- Scalability and Performance Optimization: 0.16
+- GraphQL: 0.15
+- Network Monitoring: 0.14
+- Network Security: 0.14
+- NoSQL: 0.13
+- CoAP: 0.13
+- Virtualization Hyper-V: 0.12
+- UI Design: 0.10
+- Java: 0.10
+- Virtualization VMware: 0.10
+- scikit-learn: 0.09
+- MySQL: 0.09
+- Backup and Recovery: 0.09
+- ETL: 0.09
+- CSS: 0.09
+- Git: 0.09
+- Pandas: 0.08
+- UX Design: 0.08
+- pytest: 0.08
+- React: 0.07
+- IoT: 0.07
+- Vue.js: 0.07
+- Data Manipulation: 0.07
+- Docker: 0.07
+- Matplotlib: 0.06
+- Routing and Switching: 0.06
+- Scala: 0.06
+- Data Manipulation and Cleaning: 0.06
+- Flask: 0.05
+- MongoDB: 0.05
+- React Native: 0.05
+- Agile Methodologies: 0.05
+- JUnit: 0.04
+- RDBMS: 0.04
+- PostgreSQL: 0.04
+- AI: 0.04
+- Server Administration: 0.04
+- Real-Time Systems: 0.04
+- Hadoop: 0.04
+- Angular: 0.04
+- Natural Language Processing: 0.04
+- Flutter: 0.04
+- User Research: 0.03
+- Cassandra: 0.03
+- Django: 0.03
+- Selenium: 0.03
+- Kanban: 0.03
+- PyTorch: 0.03
+- Blockchain security: 0.03
+- UX/UI Design and Prototyping: 0.03
+- Kubernetes: 0.03
+- Kotlin: 0.03
+- Adobe XD: 0.03
+- Data Visualization: 0.03
+- Continuous Integration/Continuous Deployment: 0.03
+- Embedded Systems: 0.03
+- Microsoft SQL Server: 0.03
+- Oracle: 0.03
+- iOS Mobile App Development: 0.03
+- Cloud Architecture: 0.03
+- Wireframing and Prototyping: 0.03
+- Data Modeling: 0.02
+- System Administration: 0.02
+- Spark: 0.02
+- IT Support: 0.02
+- DevOps: 0.02
+- Technical Documentation: 0.02
+- Big Data Technologies: 0.02
+- Incident Response: 0.02
+- Firewall Configuration: 0.02
+- Test-Driven Development (TDD): 0.02
+- TensorFlow: 0.02
+- Scrum: 0.02
+- Build Automation: 0.02
+- Sketch: 0.02
+- Intrusion Detection: 0.02
+- Hardware/Software Integration: 0.02
+- Sensor Integration: 0.02
+- Web Development: 0.02
+- Android Mobile App Development: 0.02
+- Memory Management and Performance Profiling: 0.02
+- Data Warehousing: 0.02
+- Manual Testing: 0.02
+- Software Design Patterns: 0.02
+- Integration Testing and System Testing: 0.02
+- Penetration Testing: 0.02
+- Cloud Native Application Development: 0.02
+- Troubleshooting: 0.02
+- Cryptography: 0.02
+- Budgeting: 0.02
+- Security Auditing: 0.02
+- Smart contracts: 0.02
+- Usability Testing: 0.02
+- Computer Vision: 0.01
+- Ethical Hacking: 0.01
+- Performance Testing: 0.01
+- Machine Learning: 0.01
+- Quality Assurance: 0.01
+- Risk Management: 0.01
+- Data Mining: 0.01
+- Project Planning: 0.01
+- Data Engineering: 0.01
+- Malware Analysis: 0.01
+- System Architecture Design: 0.01
+- Disaster Recovery Planning: 0.01
+- Cryptocurrency development: 0.01
+Story: As a developer I want to copy data from production or staging to my local development environment so I can debug an application issue.
+- Troubleshooting: 0.96
+- Node.js: 0.86
+- Data Manipulation: 0.83
+- Flask: 0.75
+- MongoDB: 0.72
+- JavaScript: 0.71
+- iOS Mobile App Development: 0.68
+- MySQL: 0.63
+- Android Mobile App Development: 0.61
+- Continuous Integration/Continuous Deployment: 0.57
+- Agile Methodologies: 0.57
+- Data Manipulation and Cleaning: 0.56
+- Java: 0.53
+- React: 0.53
+- Django: 0.52
+- Cassandra: 0.51
+- Docker: 0.49
+- Backup and Recovery: 0.49
+- DevOps: 0.47
+- Manual Testing: 0.45
+- Angular: 0.45
+- GCP: 0.44
+- Git: 0.44
+- pytest: 0.43
+- Azure: 0.43
+- SQL: 0.42
+- PyTorch: 0.39
+- Selenium: 0.38
+- MQTT: 0.37
+- Kotlin: 0.37
+- Scala: 0.35
+- JUnit: 0.33
+- CoAP: 0.33
+- ETL: 0.31
+- NoSQL: 0.30
+- AWS: 0.30
+- GraphQL: 0.29
+- PostgreSQL: 0.29
+- React Native: 0.29
+- REST: 0.29
+- RDBMS: 0.28
+- Vue.js: 0.28
+- Performance Testing: 0.27
+- VPN: 0.26
+- Adobe XD: 0.26
+- SVN: 0.25
+- Routing and Switching: 0.23
+- Flutter: 0.21
+- Oracle: 0.20
+- Data Modeling: 0.20
+- Spark: 0.20
+- Microsoft SQL Server: 0.18
+- Test-Driven Development (TDD): 0.18
+- RESTful Architecture: 0.18
+- Integration Testing and System Testing: 0.16
+- Kubernetes: 0.15
+- Matplotlib: 0.15
+- Cloud Native Application Development: 0.15
+- Web Development: 0.14
+- Hadoop: 0.13
+- Pandas: 0.12
+- Software Design Patterns: 0.12
+- Kanban: 0.11
+- Data Mining: 0.11
+- TCP/IP: 0.10
+- Cross Browser Compatibility: 0.10
+- Usability Testing: 0.09
+- Active Directory: 0.09
+- scikit-learn: 0.09
+- Data Engineering: 0.09
+- Scrum: 0.08
+- CSS: 0.08
+- Build Automation: 0.07
+- Network Monitoring: 0.07
+- Penetration Testing: 0.07
+- HTML: 0.07
+- Big Data Technologies: 0.07
+- Sensor Integration: 0.06
+- Virtualization VMware: 0.06
+- TensorFlow: 0.06
+- IoT: 0.05
+- Sketch: 0.05
+- Memory Management and Performance Profiling: 0.04
+- Virtualization Hyper-V: 0.04
+- Data Warehousing: 0.04
+- Cloud Architecture: 0.04
+- Wireframing and Prototyping: 0.04
+- Real-Time Systems: 0.04
+- Wireless Networking: 0.04
+- Hardware/Software Integration: 0.03
+- Responsive Design: 0.03
+- Data Visualization: 0.03
+- Ethical Hacking: 0.03
+- Intrusion Detection: 0.03
+- Scalability and Performance Optimization: 0.02
+- Security Best Practices: 0.02
+- Technical Documentation: 0.02
+- Embedded Systems: 0.02
+- Network Security: 0.02
+- Computer Vision: 0.02
+- Web Accessibility: 0.02
+- VoIP (Voice over Internet Protocol): 0.02
+- Server Administration: 0.02
+- AI: 0.02
+- Firewall Configuration: 0.02
+- Responsive Web Design: 0.02
+- System Administration: 0.02
+- Blockchain security: 0.02
+- Quality Assurance: 0.02
+- Smart contracts: 0.01
+- Machine Learning: 0.01
+- IT Support: 0.01
+- Incident Response: 0.01
+- User Research: 0.01
+- UI Design: 0.01
+- Security Auditing: 0.01
+- System Architecture Design: 0.01
+- Cryptography: 0.01
+- User Centric Design: 0.01
+- Malware Analysis: 0.01
+- UX/UI Design and Prototyping: 0.01
+- UX Design: 0.01
+- Cryptocurrency development: 0.01
+- Risk Management: 0.01
+- Budgeting: 0.01
+- Natural Language Processing: 0.01
+- Project Planning: 0.01
+- Disaster Recovery Planning: 0.01
+Story: As an application developer, I want documentation for upgrade flows
+- MySQL: 0.85
+- Cassandra: 0.81
+- Java: 0.81
+- SQL: 0.80
+- Flask: 0.80
+- REST: 0.79
+- MongoDB: 0.79
+- Microsoft SQL Server: 0.79
+- RDBMS: 0.79
+- iOS Mobile App Development: 0.75
+- Django: 0.72
+- Node.js: 0.71
+- Android Mobile App Development: 0.71
+- Continuous Integration/Continuous Deployment: 0.70
+- MQTT: 0.70
+- GCP: 0.69
+- PostgreSQL: 0.67
+- ETL: 0.64
+- GraphQL: 0.63
+- Backup and Recovery: 0.62
+- Oracle: 0.61
+- Active Directory: 0.61
+- React: 0.60
+- Adobe XD: 0.58
+- CoAP: 0.57
+- JavaScript: 0.57
+- Azure: 0.56
+- RESTful Architecture: 0.55
+- Angular: 0.54
+- Spark: 0.51
+- PyTorch: 0.46
+- Kubernetes: 0.46
+- Docker: 0.45
+- Matplotlib: 0.44
+- Routing and Switching: 0.44
+- Web Development: 0.41
+- SVN: 0.38
+- Scalability and Performance Optimization: 0.38
+- pytest: 0.38
+- TCP/IP: 0.38
+- NoSQL: 0.36
+- Scala: 0.36
+- Virtualization VMware: 0.35
+- Kotlin: 0.34
+- Git: 0.34
+- Flutter: 0.33
+- Vue.js: 0.29
+- Hadoop: 0.29
+- React Native: 0.29
+- VPN: 0.28
+- Cross Browser Compatibility: 0.26
+- CSS: 0.25
+- Selenium: 0.24
+- AWS: 0.23
+- DevOps: 0.22
+- Wireless Networking: 0.21
+- Virtualization Hyper-V: 0.18
+- VoIP (Voice over Internet Protocol): 0.18
+- Technical Documentation: 0.17
+- Memory Management and Performance Profiling: 0.17
+- JUnit: 0.16
+- Pandas: 0.16
+- Kanban: 0.15
+- Sketch: 0.15
+- scikit-learn: 0.15
+- TensorFlow: 0.14
+- Cloud Native Application Development: 0.14
+- HTML: 0.14
+- Test-Driven Development (TDD): 0.13
+- Web Accessibility: 0.13
+- Agile Methodologies: 0.11
+- Software Design Patterns: 0.11
+- Real-Time Systems: 0.10
+- Sensor Integration: 0.08
+- Computer Vision: 0.07
+- Build Automation: 0.07
+- Firewall Configuration: 0.07
+- Integration Testing and System Testing: 0.07
+- IoT: 0.07
+- Responsive Design: 0.06
+- Network Monitoring: 0.06
+- Cloud Architecture: 0.06
+- Blockchain security: 0.05
+- AI: 0.05
+- Server Administration: 0.05
+- Network Security: 0.04
+- Intrusion Detection: 0.04
+- Smart contracts: 0.04
+- Scrum: 0.04
+- Big Data Technologies: 0.04
+- Manual Testing: 0.03
+- Usability Testing: 0.03
+- Responsive Web Design: 0.03
+- Data Modeling: 0.03
+- Hardware/Software Integration: 0.03
+- Data Manipulation: 0.03
+- Data Manipulation and Cleaning: 0.03
+- Performance Testing: 0.03
+- System Administration: 0.03
+- Penetration Testing: 0.03
+- Security Auditing: 0.03
+- Embedded Systems: 0.03
+- Data Mining: 0.03
+- Troubleshooting: 0.02
+- Data Visualization: 0.02
+- User Centric Design: 0.02
+- System Architecture Design: 0.02
+- IT Support: 0.02
+- Data Warehousing: 0.02
+- UI Design: 0.02
+- Quality Assurance: 0.02
+- User Research: 0.02
+- Cryptography: 0.02
+- Incident Response: 0.02
+- Security Best Practices: 0.02
+- Ethical Hacking: 0.02
+- Machine Learning: 0.02
+- Wireframing and Prototyping: 0.02
+- UX Design: 0.02
+- Data Engineering: 0.01
+- Natural Language Processing: 0.01
+- UX/UI Design and Prototyping: 0.01
+- Malware Analysis: 0.01
+- Project Planning: 0.01
+- Budgeting: 0.01
+- Risk Management: 0.01
+- Disaster Recovery Planning: 0.01
+- Cryptocurrency development: 0.01
+Story: As a user, I'd like to have the option to write into _Kafka_ sink so that I can publish mass data into Kafka broker.
+- User Centric Design: 0.84
+- Big Data Technologies: 0.67
+- REST: 0.56
+- Data Manipulation: 0.54
+- RESTful Architecture: 0.47
+- Data Warehousing: 0.35
+- Data Manipulation and Cleaning: 0.30
+- Node.js: 0.29
+- GCP: 0.23
+- Data Mining: 0.21
+- JavaScript: 0.20
+- CoAP: 0.18
+- Azure: 0.18
+- AWS: 0.17
+- Data Modeling: 0.16
+- Java: 0.15
+- Flask: 0.13
+- SVN: 0.13
+- Routing and Switching: 0.12
+- ETL: 0.11
+- MQTT: 0.11
+- HTML: 0.11
+- IoT: 0.11
+- React: 0.11
+- pytest: 0.10
+- User Research: 0.10
+- Scala: 0.10
+- NoSQL: 0.10
+- scikit-learn: 0.10
+- SQL: 0.09
+- Git: 0.09
+- Scalability and Performance Optimization: 0.09
+- VPN: 0.08
+- Kanban: 0.08
+- Matplotlib: 0.08
+- Flutter: 0.08
+- TCP/IP: 0.08
+- GraphQL: 0.07
+- Angular: 0.07
+- MongoDB: 0.07
+- JUnit: 0.07
+- Docker: 0.07
+- Sketch: 0.07
+- Network Monitoring: 0.06
+- PyTorch: 0.05
+- Agile Methodologies: 0.05
+- Hadoop: 0.05
+- RDBMS: 0.05
+- Cassandra: 0.05
+- Real-Time Systems: 0.05
+- Responsive Design: 0.05
+- React Native: 0.04
+- Kubernetes: 0.04
+- Sensor Integration: 0.04
+- Security Best Practices: 0.04
+- Kotlin: 0.04
+- Oracle: 0.04
+- Software Design Patterns: 0.04
+- Computer Vision: 0.04
+- Data Engineering: 0.04
+- Django: 0.04
+- TensorFlow: 0.04
+- Pandas: 0.04
+- Data Visualization: 0.04
+- CSS: 0.03
+- Spark: 0.03
+- Active Directory: 0.03
+- Microsoft SQL Server: 0.03
+- Selenium: 0.03
+- Vue.js: 0.03
+- DevOps: 0.03
+- Incident Response: 0.03
+- Adobe XD: 0.03
+- Scrum: 0.03
+- MySQL: 0.03
+- Cross Browser Compatibility: 0.03
+- Backup and Recovery: 0.03
+- Cloud Architecture: 0.03
+- Virtualization VMware: 0.03
+- Wireless Networking: 0.03
+- PostgreSQL: 0.03
+- Embedded Systems: 0.02
+- AI: 0.02
+- Security Auditing: 0.02
+- Budgeting: 0.02
+- Smart contracts: 0.02
+- Blockchain security: 0.02
+- Technical Documentation: 0.02
+- Machine Learning: 0.02
+- Ethical Hacking: 0.02
+- Test-Driven Development (TDD): 0.02
+- VoIP (Voice over Internet Protocol): 0.02
+- Web Accessibility: 0.02
+- Cloud Native Application Development: 0.02
+- Continuous Integration/Continuous Deployment: 0.02
+- Risk Management: 0.02
+- Troubleshooting: 0.02
+- Intrusion Detection: 0.02
+- Memory Management and Performance Profiling: 0.02
+- Performance Testing: 0.02
+- Virtualization Hyper-V: 0.02
+- Manual Testing: 0.02
+- Natural Language Processing: 0.02
+- iOS Mobile App Development: 0.02
+- Firewall Configuration: 0.01
+- Network Security: 0.01
+- UX Design: 0.01
+- Responsive Web Design: 0.01
+- Build Automation: 0.01
+- Malware Analysis: 0.01
+- Usability Testing: 0.01
+- Penetration Testing: 0.01
+- Android Mobile App Development: 0.01
+- Integration Testing and System Testing: 0.01
+- Cryptography: 0.01
+- Quality Assurance: 0.01
+- Project Planning: 0.01
+- Wireframing and Prototyping: 0.01
+- System Administration: 0.01
+- UI Design: 0.01
+- Disaster Recovery Planning: 0.01
+- Web Development: 0.01
+- System Architecture Design: 0.01
+- Server Administration: 0.01
+- IT Support: 0.01
+- Hardware/Software Integration: 0.01
+- Cryptocurrency development: 0.01
+- UX/UI Design and Prototyping: 0.01
+Story: As a developer I want to copy a document to clipboard as json so I can share the document with other members on my team and/or compare it with the output from my application.
+- Node.js: 0.61
+- Natural Language Processing: 0.53
+- iOS Mobile App Development: 0.51
+- Flask: 0.51
+- Android Mobile App Development: 0.38
+- Data Manipulation: 0.36
+- GCP: 0.34
+- REST: 0.28
+- Django: 0.24
+- CoAP: 0.24
+- Web Development: 0.23
+- Data Modeling: 0.22
+- Azure: 0.21
+- Agile Methodologies: 0.19
+- Angular: 0.19
+- MySQL: 0.18
+- Matplotlib: 0.18
+- Adobe XD: 0.18
+- Oracle: 0.17
+- Sensor Integration: 0.16
+- MongoDB: 0.15
+- PostgreSQL: 0.15
+- Kotlin: 0.14
+- Virtualization VMware: 0.14
+- pytest: 0.14
+- Data Manipulation and Cleaning: 0.13
+- Microsoft SQL Server: 0.13
+- Pandas: 0.13
+- RDBMS: 0.12
+- Selenium: 0.12
+- PyTorch: 0.12
+- Java: 0.12
+- RESTful Architecture: 0.11
+- Firewall Configuration: 0.11
+- DevOps: 0.10
+- JUnit: 0.10
+- Technical Documentation: 0.10
+- React: 0.10
+- Active Directory: 0.10
+- Vue.js: 0.10
+- Cross Browser Compatibility: 0.10
+- Software Design Patterns: 0.10
+- Git: 0.09
+- JavaScript: 0.09
+- Cloud Native Application Development: 0.09
+- AWS: 0.09
+- Spark: 0.09
+- Cassandra: 0.08
+- Flutter: 0.08
+- Routing and Switching: 0.08
+- Network Monitoring: 0.08
+- Scala: 0.07
+- Sketch: 0.07
+- Integration Testing and System Testing: 0.07
+- Docker: 0.06
+- Test-Driven Development (TDD): 0.06
+- ETL: 0.06
+- Kanban: 0.06
+- Performance Testing: 0.06
+- Data Visualization: 0.06
+- VPN: 0.06
+- React Native: 0.06
+- scikit-learn: 0.06
+- SQL: 0.06
+- TCP/IP: 0.06
+- Usability Testing: 0.06
+- Scrum: 0.05
+- SVN: 0.05
+- Kubernetes: 0.05
+- IoT: 0.05
+- MQTT: 0.05
+- Penetration Testing: 0.05
+- Web Accessibility: 0.05
+- Big Data Technologies: 0.05
+- Virtualization Hyper-V: 0.05
+- Budgeting: 0.04
+- Real-Time Systems: 0.04
+- Hadoop: 0.04
+- Backup and Recovery: 0.04
+- NoSQL: 0.04
+- Memory Management and Performance Profiling: 0.04
+- GraphQL: 0.04
+- Wireless Networking: 0.03
+- Responsive Design: 0.03
+- Cloud Architecture: 0.03
+- Scalability and Performance Optimization: 0.03
+- Continuous Integration/Continuous Deployment: 0.03
+- Data Mining: 0.03
+- Manual Testing: 0.03
+- TensorFlow: 0.03
+- Troubleshooting: 0.03
+- System Architecture Design: 0.03
+- Intrusion Detection: 0.03
+- Data Engineering: 0.03
+- Project Planning: 0.02
+- Computer Vision: 0.02
+- Smart contracts: 0.02
+- Security Best Practices: 0.02
+- Malware Analysis: 0.02
+- Security Auditing: 0.02
+- CSS: 0.02
+- Network Security: 0.02
+- Embedded Systems: 0.02
+- HTML: 0.02
+- Hardware/Software Integration: 0.02
+- User Research: 0.02
+- Blockchain security: 0.02
+- VoIP (Voice over Internet Protocol): 0.02
+- Incident Response: 0.02
+- Cryptography: 0.02
+- Cryptocurrency development: 0.02
+- Disaster Recovery Planning: 0.02
+- Build Automation: 0.02
+- AI: 0.01
+- Responsive Web Design: 0.01
+- Wireframing and Prototyping: 0.01
+- Data Warehousing: 0.01
+- User Centric Design: 0.01
+- Server Administration: 0.01
+- System Administration: 0.01
+- UI Design: 0.01
+- Machine Learning: 0.01
+- UX Design: 0.01
+- Quality Assurance: 0.01
+- UX/UI Design and Prototyping: 0.01
+- Risk Management: 0.01
+- IT Support: 0.01
+- Ethical Hacking: 0.01
+Story: As a developer I want to debug my Alloy projects using the Studio debugger
+- Troubleshooting: 0.78
+- Hardware/Software Integration: 0.51
+- Routing and Switching: 0.15
+- CoAP: 0.15
+- AI: 0.12
+- MQTT: 0.11
+- Sensor Integration: 0.09
+- Memory Management and Performance Profiling: 0.08
+- Node.js: 0.08
+- GCP: 0.08
+- Scalability and Performance Optimization: 0.08
+- Test-Driven Development (TDD): 0.08
+- IoT: 0.07
+- JavaScript: 0.07
+- RDBMS: 0.07
+- Azure: 0.07
+- ETL: 0.07
+- Active Directory: 0.07
+- Data Manipulation: 0.07
+- Embedded Systems: 0.06
+- VPN: 0.06
+- SQL: 0.06
+- SVN: 0.06
+- Scala: 0.06
+- Cassandra: 0.06
+- Matplotlib: 0.05
+- Java: 0.05
+- System Architecture Design: 0.05
+- Build Automation: 0.05
+- pytest: 0.05
+- MongoDB: 0.05
+- PyTorch: 0.05
+- MySQL: 0.05
+- GraphQL: 0.05
+- REST: 0.05
+- Network Monitoring: 0.05
+- PostgreSQL: 0.05
+- Data Manipulation and Cleaning: 0.05
+- Smart contracts: 0.04
+- Flask: 0.04
+- JUnit: 0.04
+- RESTful Architecture: 0.04
+- Git: 0.04
+- Adobe XD: 0.04
+- Cross Browser Compatibility: 0.04
+- Intrusion Detection: 0.04
+- React: 0.04
+- iOS Mobile App Development: 0.04
+- Cloud Architecture: 0.04
+- scikit-learn: 0.04
+- Vue.js: 0.04
+- Data Modeling: 0.04
+- Backup and Recovery: 0.04
+- Kanban: 0.04
+- NoSQL: 0.04
+- React Native: 0.04
+- Real-Time Systems: 0.04
+- Pandas: 0.04
+- Responsive Design: 0.04
+- DevOps: 0.04
+- Android Mobile App Development: 0.03
+- TensorFlow: 0.03
+- TCP/IP: 0.03
+- AWS: 0.03
+- Flutter: 0.03
+- Docker: 0.03
+- Kubernetes: 0.03
+- Wireless Networking: 0.03
+- CSS: 0.03
+- Django: 0.03
+- Angular: 0.03
+- Network Security: 0.03
+- Cloud Native Application Development: 0.03
+- Agile Methodologies: 0.03
+- Wireframing and Prototyping: 0.03
+- Microsoft SQL Server: 0.03
+- Virtualization Hyper-V: 0.03
+- Computer Vision: 0.03
+- Firewall Configuration: 0.03
+- Selenium: 0.03
+- Sketch: 0.03
+- Oracle: 0.03
+- Integration Testing and System Testing: 0.03
+- Kotlin: 0.03
+- Hadoop: 0.02
+- VoIP (Voice over Internet Protocol): 0.02
+- Data Warehousing: 0.02
+- Data Mining: 0.02
+- Spark: 0.02
+- Virtualization VMware: 0.02
+- Web Development: 0.02
+- Machine Learning: 0.02
+- Technical Documentation: 0.02
+- HTML: 0.02
+- Scrum: 0.02
+- Continuous Integration/Continuous Deployment: 0.02
+- Penetration Testing: 0.02
+- User Centric Design: 0.02
+- Software Design Patterns: 0.02
+- Cryptography: 0.02
+- Big Data Technologies: 0.02
+- Security Auditing: 0.02
+- Data Engineering: 0.02
+- Responsive Web Design: 0.02
+- Performance Testing: 0.02
+- Blockchain security: 0.02
+- Data Visualization: 0.02
+- UX Design: 0.02
+- Web Accessibility: 0.02
+- Project Planning: 0.02
+- Incident Response: 0.02
+- UI Design: 0.01
+- Ethical Hacking: 0.01
+- Usability Testing: 0.01
+- System Administration: 0.01
+- Server Administration: 0.01
+- Risk Management: 0.01
+- Cryptocurrency development: 0.01
+- Manual Testing: 0.01
+- User Research: 0.01
+- UX/UI Design and Prototyping: 0.01
+- Natural Language Processing: 0.01
+- Disaster Recovery Planning: 0.01
+- Budgeting: 0.01
+- Quality Assurance: 0.01
+- Security Best Practices: 0.01
+- IT Support: 0.01
+- Malware Analysis: 0.01
+Story: As a Jira Software Administrator, I would like to be able to create and use a schema for Issue Detail View in Agile boards.    It would facilitate the standardization of board configuration.
+- Agile Methodologies: 0.83
+- CoAP: 0.25
+- Data Modeling: 0.25
+- Java: 0.23
+- REST: 0.13
+- Scrum: 0.13
+- JavaScript: 0.11
+- ETL: 0.10
+- Node.js: 0.09
+- GCP: 0.09
+- RESTful Architecture: 0.08
+- Troubleshooting: 0.07
+- AI: 0.07
+- CSS: 0.07
+- GraphQL: 0.06
+- SVN: 0.06
+- React: 0.05
+- SQL: 0.05
+- HTML: 0.04
+- System Administration: 0.04
+- Responsive Design: 0.04
+- Software Design Patterns: 0.04
+- scikit-learn: 0.04
+- pytest: 0.04
+- VPN: 0.04
+- Matplotlib: 0.04
+- Git: 0.03
+- Data Manipulation: 0.03
+- JUnit: 0.03
+- User Centric Design: 0.03
+- MQTT: 0.03
+- Flask: 0.03
+- Angular: 0.03
+- Azure: 0.03
+- IoT: 0.03
+- MongoDB: 0.03
+- Vue.js: 0.03
+- React Native: 0.03
+- AWS: 0.03
+- Django: 0.03
+- DevOps: 0.03
+- Scala: 0.03
+- Continuous Integration/Continuous Deployment: 0.03
+- Sketch: 0.03
+- Kanban: 0.02
+- NoSQL: 0.02
+- Docker: 0.02
+- Data Visualization: 0.02
+- Kotlin: 0.02
+- RDBMS: 0.02
+- Sensor Integration: 0.02
+- Flutter: 0.02
+- Cross Browser Compatibility: 0.02
+- MySQL: 0.02
+- PyTorch: 0.02
+- Adobe XD: 0.02
+- Cassandra: 0.02
+- Routing and Switching: 0.02
+- Quality Assurance: 0.02
+- Pandas: 0.02
+- Wireframing and Prototyping: 0.02
+- TCP/IP: 0.02
+- Server Administration: 0.02
+- TensorFlow: 0.02
+- Manual Testing: 0.02
+- Oracle: 0.02
+- Microsoft SQL Server: 0.02
+- Spark: 0.01
+- Build Automation: 0.01
+- Test-Driven Development (TDD): 0.01
+- Integration Testing and System Testing: 0.01
+- Selenium: 0.01
+- Project Planning: 0.01
+- Usability Testing: 0.01
+- Technical Documentation: 0.01
+- IT Support: 0.01
+- Backup and Recovery: 0.01
+- PostgreSQL: 0.01
+- Network Monitoring: 0.01
+- Incident Response: 0.01
+- Virtualization VMware: 0.01
+- Kubernetes: 0.01
+- UI Design: 0.01
+- Active Directory: 0.01
+- Web Accessibility: 0.01
+- VoIP (Voice over Internet Protocol): 0.01
+- Machine Learning: 0.01
+- Hardware/Software Integration: 0.01
+- Penetration Testing: 0.01
+- Cloud Architecture: 0.01
+- Computer Vision: 0.01
+- Real-Time Systems: 0.01
+- iOS Mobile App Development: 0.01
+- Intrusion Detection: 0.01
+- Web Development: 0.01
+- Embedded Systems: 0.01
+- Cloud Native Application Development: 0.01
+- Wireless Networking: 0.01
+- Firewall Configuration: 0.01
+- Smart contracts: 0.01
+- Hadoop: 0.01
+- User Research: 0.01
+- System Architecture Design: 0.01
+- Budgeting: 0.01
+- Memory Management and Performance Profiling: 0.01
+- Virtualization Hyper-V: 0.01
+- Data Mining: 0.01
+- Blockchain security: 0.01
+- Big Data Technologies: 0.01
+- Data Manipulation and Cleaning: 0.01
+- Performance Testing: 0.01
+- Ethical Hacking: 0.01
+- Network Security: 0.01
+- UX Design: 0.01
+- Android Mobile App Development: 0.01
+- Responsive Web Design: 0.01
+- Security Best Practices: 0.01
+- Security Auditing: 0.01
+- Risk Management: 0.01
+- Data Engineering: 0.01
+- Scalability and Performance Optimization: 0.01
+- Data Warehousing: 0.01
+- Malware Analysis: 0.01
+- Natural Language Processing: 0.01
+- Cryptography: 0.01
+- Disaster Recovery Planning: 0.00
+- UX/UI Design and Prototyping: 0.00
+- Cryptocurrency development: 0.00
+Story: As a customer, I would like to have the possibility of configuring the calendar on the Log Work Screen. As an example, hide week number information.
+- JavaScript: 0.73
+- User Centric Design: 0.63
+- RESTful Architecture: 0.60
+- CSS: 0.53
+- Responsive Design: 0.50
+- Node.js: 0.50
+- React: 0.49
+- React Native: 0.49
+- HTML: 0.44
+- REST: 0.43
+- Azure: 0.41
+- Java: 0.40
+- Adobe XD: 0.36
+- AWS: 0.34
+- Scala: 0.34
+- GraphQL: 0.33
+- UI Design: 0.31
+- Flask: 0.30
+- GCP: 0.28
+- Data Manipulation: 0.27
+- MySQL: 0.27
+- Angular: 0.26
+- PostgreSQL: 0.26
+- Kotlin: 0.25
+- Oracle: 0.24
+- MQTT: 0.21
+- Django: 0.21
+- NoSQL: 0.21
+- SVN: 0.20
+- CoAP: 0.19
+- RDBMS: 0.19
+- SQL: 0.19
+- Kanban: 0.19
+- IoT: 0.18
+- MongoDB: 0.18
+- Git: 0.18
+- JUnit: 0.17
+- Matplotlib: 0.16
+- Virtualization VMware: 0.15
+- pytest: 0.15
+- Vue.js: 0.15
+- Cassandra: 0.15
+- ETL: 0.15
+- Microsoft SQL Server: 0.15
+- Software Design Patterns: 0.14
+- Spark: 0.13
+- AI: 0.12
+- Selenium: 0.12
+- Data Manipulation and Cleaning: 0.12
+- Responsive Web Design: 0.11
+- Real-Time Systems: 0.10
+- Sketch: 0.10
+- DevOps: 0.09
+- Agile Methodologies: 0.09
+- Security Best Practices: 0.09
+- Docker: 0.09
+- scikit-learn: 0.09
+- Scrum: 0.08
+- VPN: 0.07
+- UX Design: 0.07
+- Active Directory: 0.07
+- Build Automation: 0.07
+- TensorFlow: 0.07
+- Test-Driven Development (TDD): 0.06
+- Kubernetes: 0.06
+- iOS Mobile App Development: 0.06
+- PyTorch: 0.06
+- Flutter: 0.05
+- Machine Learning: 0.05
+- Big Data Technologies: 0.05
+- Data Mining: 0.05
+- Embedded Systems: 0.05
+- Cross Browser Compatibility: 0.05
+- Cloud Architecture: 0.05
+- Smart contracts: 0.04
+- Manual Testing: 0.04
+- Hadoop: 0.04
+- System Administration: 0.04
+- Web Accessibility: 0.04
+- Cloud Native Application Development: 0.04
+- Network Monitoring: 0.04
+- Backup and Recovery: 0.04
+- Android Mobile App Development: 0.04
+- Continuous Integration/Continuous Deployment: 0.04
+- Network Security: 0.04
+- TCP/IP: 0.03
+- Sensor Integration: 0.03
+- Server Administration: 0.03
+- Virtualization Hyper-V: 0.03
+- Technical Documentation: 0.03
+- Data Modeling: 0.03
+- Ethical Hacking: 0.03
+- Routing and Switching: 0.03
+- Wireless Networking: 0.03
+- Pandas: 0.03
+- UX/UI Design and Prototyping: 0.03
+- Integration Testing and System Testing: 0.03
+- Computer Vision: 0.03
+- Hardware/Software Integration: 0.03
+- Data Visualization: 0.03
+- IT Support: 0.03
+- Troubleshooting: 0.03
+- VoIP (Voice over Internet Protocol): 0.02
+- Data Warehousing: 0.02
+- Natural Language Processing: 0.02
+- Wireframing and Prototyping: 0.02
+- Usability Testing: 0.02
+- Incident Response: 0.02
+- Blockchain security: 0.02
+- Web Development: 0.02
+- Penetration Testing: 0.02
+- Intrusion Detection: 0.02
+- Security Auditing: 0.02
+- Performance Testing: 0.02
+- Project Planning: 0.02
+- Data Engineering: 0.02
+- Budgeting: 0.02
+- User Research: 0.02
+- Scalability and Performance Optimization: 0.02
+- Cryptography: 0.01
+- System Architecture Design: 0.01
+- Memory Management and Performance Profiling: 0.01
+- Quality Assurance: 0.01
+- Firewall Configuration: 0.01
+- Malware Analysis: 0.01
+- Risk Management: 0.01
+- Disaster Recovery Planning: 0.01
+- Cryptocurrency development: 0.01
+Story: As an admin , I would like to have the ability to remove the tab Discover option from the Switch to tab. Please refer attachment. We do not want to see More atlassian products under this Discover tab.
+- System Administration: 0.98
+- JavaScript: 0.86
+- HTML: 0.80
+- Server Administration: 0.60
+- Azure: 0.57
+- AWS: 0.56
+- CoAP: 0.55
+- Responsive Design: 0.54
+- CSS: 0.53
+- MQTT: 0.47
+- GCP: 0.47
+- SQL: 0.47
+- Responsive Web Design: 0.46
+- Angular: 0.43
+- RDBMS: 0.42
+- Node.js: 0.39
+- GraphQL: 0.38
+- User Centric Design: 0.36
+- pytest: 0.36
+- Matplotlib: 0.36
+- Wireless Networking: 0.35
+- Oracle: 0.35
+- REST: 0.35
+- MySQL: 0.35
+- ETL: 0.34
+- RESTful Architecture: 0.34
+- Virtualization VMware: 0.33
+- Git: 0.33
+- Java: 0.31
+- Django: 0.31
+- NoSQL: 0.31
+- Microsoft SQL Server: 0.30
+- MongoDB: 0.30
+- Selenium: 0.28
+- React Native: 0.28
+- SVN: 0.28
+- Scala: 0.27
+- Hardware/Software Integration: 0.27
+- Hadoop: 0.26
+- IoT: 0.26
+- JUnit: 0.25
+- Cassandra: 0.25
+- TensorFlow: 0.25
+- Spark: 0.24
+- VPN: 0.23
+- Adobe XD: 0.23
+- Smart contracts: 0.23
+- VoIP (Voice over Internet Protocol): 0.23
+- Routing and Switching: 0.22
+- Active Directory: 0.22
+- Kanban: 0.22
+- Flask: 0.22
+- PostgreSQL: 0.22
+- TCP/IP: 0.21
+- Virtualization Hyper-V: 0.20
+- Kotlin: 0.20
+- Cross Browser Compatibility: 0.20
+- Docker: 0.19
+- scikit-learn: 0.19
+- Web Accessibility: 0.19
+- Sketch: 0.19
+- Vue.js: 0.19
+- Sensor Integration: 0.18
+- AI: 0.18
+- Embedded Systems: 0.18
+- PyTorch: 0.18
+- Flutter: 0.17
+- Agile Methodologies: 0.17
+- Machine Learning: 0.16
+- React: 0.15
+- Malware Analysis: 0.15
+- Kubernetes: 0.14
+- Computer Vision: 0.14
+- Natural Language Processing: 0.14
+- Network Monitoring: 0.14
+- Data Modeling: 0.13
+- Data Visualization: 0.11
+- Real-Time Systems: 0.11
+- Scalability and Performance Optimization: 0.11
+- Software Design Patterns: 0.11
+- Wireframing and Prototyping: 0.11
+- UI Design: 0.11
+- Pandas: 0.11
+- Network Security: 0.10
+- Scrum: 0.10
+- Big Data Technologies: 0.10
+- Security Best Practices: 0.10
+- Cloud Architecture: 0.10
+- Ethical Hacking: 0.10
+- Data Mining: 0.10
+- Build Automation: 0.09
+- DevOps: 0.09
+- Technical Documentation: 0.09
+- Backup and Recovery: 0.09
+- Quality Assurance: 0.09
+- Test-Driven Development (TDD): 0.08
+- iOS Mobile App Development: 0.08
+- Blockchain security: 0.08
+- Intrusion Detection: 0.08
+- Android Mobile App Development: 0.08
+- Cloud Native Application Development: 0.08
+- System Architecture Design: 0.08
+- Cryptography: 0.08
+- Data Manipulation: 0.07
+- Usability Testing: 0.07
+- Firewall Configuration: 0.07
+- Penetration Testing: 0.07
+- Memory Management and Performance Profiling: 0.07
+- UX Design: 0.06
+- Troubleshooting: 0.06
+- Incident Response: 0.06
+- Budgeting: 0.06
+- Data Manipulation and Cleaning: 0.06
+- Manual Testing: 0.06
+- Continuous Integration/Continuous Deployment: 0.06
+- Performance Testing: 0.06
+- Integration Testing and System Testing: 0.06
+- Security Auditing: 0.05
+- Risk Management: 0.05
+- UX/UI Design and Prototyping: 0.05
+- IT Support: 0.05
+- Data Warehousing: 0.04
+- Cryptocurrency development: 0.04
+- User Research: 0.03
+- Web Development: 0.03
+- Project Planning: 0.03
+- Disaster Recovery Planning: 0.03
+- Data Engineering: 0.02
+Story: As a user of REST, I would like the capability to administrate my Raw repositories.  This ticket implements PUT and POST endpoints.
+- REST: 0.98
+- RESTful Architecture: 0.98
+- Node.js: 0.41
+- Flask: 0.38
+- User Centric Design: 0.33
+- Django: 0.28
+- Data Warehousing: 0.26
+- JavaScript: 0.25
+- Azure: 0.24
+- GCP: 0.22
+- AWS: 0.19
+- Java: 0.19
+- Git: 0.18
+- pytest: 0.18
+- Routing and Switching: 0.17
+- MongoDB: 0.17
+- Scala: 0.16
+- Server Administration: 0.15
+- CoAP: 0.15
+- Oracle: 0.14
+- React: 0.11
+- DevOps: 0.11
+- IoT: 0.10
+- Flutter: 0.10
+- Cassandra: 0.09
+- Angular: 0.09
+- SVN: 0.09
+- Pandas: 0.09
+- System Administration: 0.08
+- Kotlin: 0.08
+- PostgreSQL: 0.08
+- NoSQL: 0.08
+- Selenium: 0.08
+- Matplotlib: 0.07
+- PyTorch: 0.07
+- Web Development: 0.07
+- MySQL: 0.07
+- ETL: 0.07
+- Spark: 0.07
+- JUnit: 0.07
+- TCP/IP: 0.07
+- GraphQL: 0.06
+- React Native: 0.06
+- Adobe XD: 0.06
+- MQTT: 0.06
+- Sketch: 0.05
+- RDBMS: 0.05
+- scikit-learn: 0.05
+- Kanban: 0.05
+- Responsive Design: 0.05
+- Docker: 0.05
+- Vue.js: 0.04
+- Software Design Patterns: 0.04
+- SQL: 0.04
+- Kubernetes: 0.04
+- Microsoft SQL Server: 0.04
+- Data Engineering: 0.04
+- Web Accessibility: 0.04
+- Backup and Recovery: 0.04
+- IT Support: 0.04
+- Cloud Architecture: 0.04
+- HTML: 0.04
+- VPN: 0.04
+- UX Design: 0.04
+- Hadoop: 0.04
+- Scrum: 0.03
+- User Research: 0.03
+- Cross Browser Compatibility: 0.03
+- Data Manipulation: 0.03
+- Incident Response: 0.03
+- Agile Methodologies: 0.03
+- Real-Time Systems: 0.03
+- Data Modeling: 0.03
+- Active Directory: 0.03
+- Embedded Systems: 0.03
+- Network Monitoring: 0.03
+- Sensor Integration: 0.03
+- CSS: 0.03
+- Technical Documentation: 0.03
+- Integration Testing and System Testing: 0.03
+- Responsive Web Design: 0.03
+- Continuous Integration/Continuous Deployment: 0.03
+- System Architecture Design: 0.03
+- Build Automation: 0.03
+- Cloud Native Application Development: 0.02
+- TensorFlow: 0.02
+- Virtualization VMware: 0.02
+- Wireless Networking: 0.02
+- AI: 0.02
+- Performance Testing: 0.02
+- Manual Testing: 0.02
+- UI Design: 0.02
+- Troubleshooting: 0.02
+- Big Data Technologies: 0.02
+- iOS Mobile App Development: 0.02
+- Data Manipulation and Cleaning: 0.02
+- Project Planning: 0.02
+- Usability Testing: 0.02
+- Test-Driven Development (TDD): 0.02
+- Android Mobile App Development: 0.02
+- Data Mining: 0.02
+- Data Visualization: 0.02
+- Network Security: 0.02
+- Security Best Practices: 0.02
+- Risk Management: 0.02
+- Quality Assurance: 0.02
+- VoIP (Voice over Internet Protocol): 0.02
+- Scalability and Performance Optimization: 0.02
+- Blockchain security: 0.02
+- Smart contracts: 0.02
+- Computer Vision: 0.02
+- Natural Language Processing: 0.01
+- Firewall Configuration: 0.01
+- Hardware/Software Integration: 0.01
+- Security Auditing: 0.01
+- Intrusion Detection: 0.01
+- Machine Learning: 0.01
+- Memory Management and Performance Profiling: 0.01
+- Penetration Testing: 0.01
+- Budgeting: 0.01
+- Virtualization Hyper-V: 0.01
+- Ethical Hacking: 0.01
+- Disaster Recovery Planning: 0.01
+- Wireframing and Prototyping: 0.01
+- Cryptography: 0.01
+- UX/UI Design and Prototyping: 0.01
+- Malware Analysis: 0.01
+- Cryptocurrency development: 0.01
+Story: As a user I would like an action to be able to delete a specific worklog (from a specifc author at a specific date) in Automation for JIRA.     Today I can only add a worklog. 
+- AI: 0.47
+- User Centric Design: 0.43
+- Java: 0.42
+- REST: 0.22
+- JavaScript: 0.19
+- NoSQL: 0.17
+- GraphQL: 0.13
+- Node.js: 0.13
+- React: 0.11
+- scikit-learn: 0.10
+- User Research: 0.10
+- Incident Response: 0.09
+- HTML: 0.09
+- Machine Learning: 0.09
+- pytest: 0.08
+- CoAP: 0.07
+- AWS: 0.07
+- GCP: 0.07
+- Matplotlib: 0.07
+- Flutter: 0.07
+- CSS: 0.06
+- Pandas: 0.06
+- Django: 0.06
+- SVN: 0.06
+- Flask: 0.06
+- MongoDB: 0.05
+- React Native: 0.05
+- IoT: 0.05
+- Scala: 0.05
+- Azure: 0.05
+- VPN: 0.05
+- Git: 0.05
+- Adobe XD: 0.05
+- Docker: 0.05
+- PyTorch: 0.05
+- Routing and Switching: 0.04
+- RESTful Architecture: 0.04
+- Sketch: 0.04
+- Vue.js: 0.04
+- Angular: 0.04
+- TCP/IP: 0.04
+- Wireframing and Prototyping: 0.04
+- Build Automation: 0.04
+- MQTT: 0.04
+- Selenium: 0.04
+- ETL: 0.04
+- Kotlin: 0.04
+- JUnit: 0.04
+- Integration Testing and System Testing: 0.04
+- SQL: 0.04
+- Agile Methodologies: 0.04
+- Kanban: 0.04
+- Cassandra: 0.03
+- Backup and Recovery: 0.03
+- Technical Documentation: 0.03
+- DevOps: 0.03
+- Data Manipulation and Cleaning: 0.03
+- System Administration: 0.03
+- Microsoft SQL Server: 0.03
+- Cryptography: 0.03
+- Cross Browser Compatibility: 0.03
+- Smart contracts: 0.03
+- MySQL: 0.03
+- Scrum: 0.03
+- Oracle: 0.03
+- Sensor Integration: 0.03
+- Data Manipulation: 0.03
+- RDBMS: 0.03
+- TensorFlow: 0.03
+- Virtualization VMware: 0.03
+- Embedded Systems: 0.03
+- Responsive Design: 0.03
+- System Architecture Design: 0.03
+- Computer Vision: 0.03
+- Big Data Technologies: 0.03
+- Continuous Integration/Continuous Deployment: 0.03
+- IT Support: 0.03
+- Penetration Testing: 0.03
+- Network Monitoring: 0.03
+- Project Planning: 0.03
+- Hadoop: 0.02
+- Security Best Practices: 0.02
+- Quality Assurance: 0.02
+- Test-Driven Development (TDD): 0.02
+- Manual Testing: 0.02
+- Ethical Hacking: 0.02
+- PostgreSQL: 0.02
+- Spark: 0.02
+- Real-Time Systems: 0.02
+- Network Security: 0.02
+- Kubernetes: 0.02
+- Intrusion Detection: 0.02
+- Blockchain security: 0.02
+- Virtualization Hyper-V: 0.02
+- Web Accessibility: 0.02
+- Wireless Networking: 0.02
+- Server Administration: 0.02
+- Troubleshooting: 0.02
+- Data Warehousing: 0.02
+- Active Directory: 0.02
+- Risk Management: 0.02
+- Security Auditing: 0.02
+- VoIP (Voice over Internet Protocol): 0.02
+- Natural Language Processing: 0.02
+- iOS Mobile App Development: 0.02
+- Hardware/Software Integration: 0.02
+- Responsive Web Design: 0.02
+- Software Design Patterns: 0.02
+- Cloud Architecture: 0.02
+- Memory Management and Performance Profiling: 0.02
+- Data Engineering: 0.02
+- Usability Testing: 0.02
+- Performance Testing: 0.02
+- Malware Analysis: 0.02
+- Data Modeling: 0.02
+- Data Mining: 0.02
+- Scalability and Performance Optimization: 0.02
+- UX Design: 0.02
+- UI Design: 0.02
+- Android Mobile App Development: 0.01
+- Budgeting: 0.01
+- Data Visualization: 0.01
+- Web Development: 0.01
+- Cloud Native Application Development: 0.01
+- Firewall Configuration: 0.01
+- Cryptocurrency development: 0.01
+- UX/UI Design and Prototyping: 0.01
+- Disaster Recovery Planning: 0.01
