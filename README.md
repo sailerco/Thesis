@@ -1,11 +1,4 @@
-#### Restarting/Connecting to MySQL  
-```"C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld" --console```
 
-Properties
-- localhost 3306
-- user: root  
-- password: 1234  
-- database: mysql
 
 #### Postgres SQL
 ```docker run --name some-postgres -e POST-GRES_PASSWORD=mysecretpassword -p 5432:5432 -v D:\postgres-data:/var/lib/postgresql/data -d postgres```  
