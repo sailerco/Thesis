@@ -1,7 +1,7 @@
 import pandas as pd
 
 """
-    reduce user stories count and only to user stories that follow a specific pattern
+    select random user stories
 """
 
 
@@ -18,13 +18,5 @@ def get_sequence(url, columns, column):
     return sequence[column].tolist()
 
 
-user_stories = get_sequence("../MySQL_GroundTruth/final_assets/UserStoriesWithComponents_removed-grouped-8000.csv",
+user_stories = get_sequence("../Classification_TAWOS/final_assets/UserStoriesWithComponents_removed-grouped-8000.csv",
                             ['ID', 'Description', 'Type', 'Component_Names'], 'Description')
-
-
-def get_reduced_skills(file):
-    skills = pd.read_csv(file, header=None, encoding='ISO-8859-1')
-    skills.sample(20).to_csv("assets/reducedSkills.csv", header=None)
-
-
-get_reduced_skills('../DB/datasets/skills.csv')
