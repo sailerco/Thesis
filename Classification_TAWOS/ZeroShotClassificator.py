@@ -1,4 +1,3 @@
-import gc
 import torch
 from timeit import default_timer as timer
 import ray
@@ -13,14 +12,16 @@ import csv
 # TODO: REFACTORING
 
 torch.cuda.empty_cache()
-print(torch.__version__)
-print(torch.cuda.is_available())
-print(torch.cuda.device_count())
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
-print(device)
 
-name = "bart_removed_grouped"
-url = 'D:/Thesis/Classification_TAWOS/final_assets/Output/' + name
+task = "removed-grouped"
+name = f"bart_{task}1"
+PATH_NAME = 'final_assets'
+
+read_url = f"{PATH_NAME}/output_txt/{name}.txt"
+save_url = f"{PATH_NAME}/output_csv/{name}.csv"
+
+keyword = 'Story'
 
 bart = "facebook/bart-large-mnli"
 deberta_base = "MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli"
@@ -42,31 +43,30 @@ def classification(name):
     # loads ZSC from huggingface
     classifier = pipeline('zero-shot-classification', device=device, model=bart)
 
-    # seq = get_sequence('assets/UserStoriesWithComponents_cleaned_filtered_no_title.csv', ['Type', 'Component_Names', 'TitleAndDescription'], 'TitleAndDescription')
-    seq = get_sequence('final_assets/UserStoriesWithComponents_removed-grouped-8000.csv',
+    premise = get_sequence(f'final_assets/UserStoriesWithComponents_{task}-8000.csv',
                        ['ID', 'Description', 'Type', 'Component_Names'], 'Description')
-    seq = seq[:3]
-    labels = get_labels('final_assets/removed-grouped-8000_comps.csv', ';')
+    hypothesis_labels = get_labels(f'final_assets/{task}-8000_comps.csv', ';')
+
     start = timer()
-    results = classifier(seq, labels, multi_label=True)
+    classifier_results = classifier(premise, hypothesis_labels, multi_label=True)
     end = timer()
+
     print(end-start)
     print("Done")
-    return results, seq
+    return classifier_results, premise
 
 
-results,seq = ray.get(classification.remote(name))
+results,user_stories = ray.get(classification.remote(name))
 # classification(name)
 
-with open('final_assets/Output/' + name + '.txt', 'w', encoding='utf-8') as f:
-    for story, result in zip(seq, results):
+with open(read_url, 'w', encoding='utf-8') as f:
+    for story, result in zip(user_stories, results):
         f.write(f"Story: {story}\n")
         for label, score in zip(result['labels'], result['scores']):
             f.write(f"- {label}: {score:.2f}\n")
 
-read_url = url + '.txt'
-save_url = url + '.csv'
-keyword = 'Story'
+
+
 with open(read_url, 'r', encoding='utf-8') as file:
     lines = file.readlines()
 

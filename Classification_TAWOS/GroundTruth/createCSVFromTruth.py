@@ -2,9 +2,9 @@ import csv
 
 import pandas as pd
 url = 'truth.csv'
-name = 'removed-grouped'
+name = 'removed-grouped-8000'
 #user_stories = pd.read_csv('../assets/UserStoriesWithComponents_cleaned_filtered_no_title.csv', delimiter=None, sep=None)
-user_stories = pd.read_csv(f'../final_assets/UserStoriesWithComponents_{name}-8000.csv', delimiter=None, sep=None)
+user_stories = pd.read_csv(f'../final_assets/UserStoriesWithComponents_{name}.csv', delimiter=None, sep=None)
 user_stories.columns = ['ID', 'Description', 'Type', 'Component_Names']
 
 stories = {}

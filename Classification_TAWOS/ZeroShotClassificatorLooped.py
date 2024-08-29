@@ -7,23 +7,21 @@ from transformers import pipeline
 import csv
 
 """
-    ZSC mit einer Schleife um out of memory zu umgehen
+    ZSC with a hard coded loop to avoid out of memory
 """
-# TODO: REFACTORING
 
 torch.cuda.empty_cache()
-print(torch.__version__)
-print(torch.cuda.is_available())
-print(torch.cuda.device_count())
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
-print(device)
 
-name = "deberta_grouped"
-url = 'D:/Thesis/Classification_TAWOS/final_assets/Output/' + name
+TASK = "grouped"
+name = f"deberta_{TASK}"
+PATH_NAME = 'final_assets'
+read_url = f"{PATH_NAME}/output_txt/{name}.txt"
+save_url = f"{PATH_NAME}/output_csv/{name}.csv"
+keyword = 'Story'
 
 bart = "facebook/bart-large-mnli"
 deberta_base = "MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli"
-
 
 
 def get_sequence(url, columns, column):
@@ -37,22 +35,22 @@ def get_labels(url, delimiter):
     return df[0].tolist()
 
 
-@ray.remote(num_gpus=1, max_calls=1)
-def classification(name):
+def classification():
     # loads ZSC from huggingface
     classifier = pipeline('zero-shot-classification', device=device, model=deberta_base)
 
-    # seq = get_sequence('assets/UserStoriesWithComponents_cleaned_filtered_no_title.csv', ['Type', 'Component_Names', 'TitleAndDescription'], 'TitleAndDescription')
-    seq = get_sequence('final_assets/UserStoriesWithComponents_grouped-8000.csv',
-                       ['ID', 'Description', 'Type', 'Component_Names'], 'Description')
-    print(f"length of seq before {len(seq)}")
-    labels = get_labels('final_assets/grouped-8000_comps.csv', ';')
+    premise = get_sequence(f'final_assets/UserStoriesWithComponents_{TASK}-8000.csv',
+                           ['ID', 'Description', 'Type', 'Component_Names'], 'Description')
+
+    print(f"length of seq before {len(premise)}")
+    hypothesis_labels = get_labels(f'final_assets/{TASK}-8000_comps.csv', ';')
     start = timer()
+
     # do the classification
     batch_size = 20
     results = []
-    for i in range(0, len(seq), batch_size):
-        result = classifier(seq[i:i + batch_size], labels, multi_label=True)
+    for i in range(0, len(premise), batch_size):
+        result = classifier(premise[i:i + batch_size], hypothesis_labels, multi_label=True)
         results += result
         print(f"{i} - {timer()}")
         del result
@@ -62,26 +60,17 @@ def classification(name):
     print(end - start)
     print("Done")
     print(results)
-    return results, seq
+    return results, premise
 
 
-results,seq = ray.get(classification.remote(name))
-# classification(name)
-with open('ClassifierOutput/' + name + '.txt', 'w', encoding='utf-8') as f:
-    for story, result in zip(seq, results):
+results, user_stories = classification()
+
+with open('final_assets/output_txt/' + name + '.txt', 'w', encoding='utf-8') as f:
+    for story, result in zip(user_stories, results):
         f.write(f"Story: {story}\n")
         for label, score in zip(result['labels'], result['scores']):
             f.write(f"- {label}: {score:.2f}\n")
 
-with open('final_assets/Output/' + name + '.txt', 'w', encoding='utf-8') as f:
-    for story, result in zip(seq, results):
-        f.write(f"Story: {story}\n")
-        for label, score in zip(result['labels'], result['scores']):
-            f.write(f"- {label}: {score:.2f}\n")
-
-read_url = url + '.txt'
-save_url = url + '.csv'
-keyword = 'Story'
 with open(read_url, 'r', encoding='utf-8') as file:
     lines = file.readlines()
 
