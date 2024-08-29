@@ -2,6 +2,11 @@ import pandas as pd
 import psycopg2 as psg
 import csv
 
+
+"""
+    This script populates the skills table in a PostgreSQL database 
+    with unique skills extracted from a CSV file (roles_small.csv).
+"""
 conn = psg.connect(
     dbname="postgres",
     user="postgres",
@@ -11,7 +16,7 @@ conn = psg.connect(
 )
 cur = conn.cursor()
 
-df = pd.read_csv('/DB/datasets/Roles_small.csv')  # Update with your CSV file path
+df = pd.read_csv('/DB/datasets/roles_small.csv')  # Update with your CSV file path
 df.columns = ['role', 'description', 'skills']
 unique_skills = set()
 for skills in df['skills'].dropna():

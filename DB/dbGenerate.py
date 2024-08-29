@@ -2,24 +2,38 @@ import psycopg2 as psg
 import csv
 import random
 
+"""
+    This script inserts new employee records into a PostgreSQL database and assigns them skills 
+    based on predefined roles and a list of random names.
+"""
 used_names = set()
 prof = ['BEGINNER', 'INTERMEDIATE', 'PROFESSIONAL']
 roles_employees_count = {}
 
+def get_random_name():
+    with open('/DB/datasets/randomNames.csv', 'r') as file:
+        reader = csv.reader(file)
+        next(reader)  # skip header
+        names = [row for row in reader if row[0] not in used_names]
+    if not names:
+        raise ValueError("All names have been used")
+    random_row = random.choice(names)
+    random_fname = random_row[0]
+    random_lname = random_row[1]
+    return random_fname, random_lname
+
+
+def get_skills_of_role(role):
+    with open('/DB/datasets/roles_small.csv', 'r') as file:
+        reader = csv.reader(file)
+        next(reader)  # skip header
+        for row in reader:
+            if row[0] == role:
+                return row[2]
+
+
 def main():
     # Function to read random names from a CSV file without duplicates
-    def get_random_name():
-        with open('/DB/datasets/randomNames.csv', 'r') as file:
-            reader = csv.reader(file)
-            next(reader)  # skip header
-            names = [row for row in reader if row[0] not in used_names]
-        if not names:
-            raise ValueError("All names have been used")
-        random_row = random.choice(names)
-        random_fname = random_row[0]
-        random_lname = random_row[1]
-        return random_fname, random_lname
-
     random_name = get_random_name()
     used_names.add(random_name)
     print(random_name)
@@ -50,14 +64,6 @@ def main():
     conn.commit()
 
     # 2. retrieve the skills of the role
-    def get_skills_of_role(role):
-        with open('/DB/datasets/Roles_small.csv', 'r') as file:
-            reader = csv.reader(file)
-            next(reader)  # skip header
-            for row in reader:
-                if row[0] == role:
-                    return row[2]
-
     skills = get_skills_of_role(role[1]).split(",")
     skills = [skill.strip() for skill in skills]
     print(skills)
@@ -74,7 +80,8 @@ def main():
         skill_set.add(cur.fetchone()[0])
 
     # 4. generate entry in employee_skills
-    cur.execute("SELECT employee_id FROM employees where first_name = %s AND last_name = %s", (random_name[0], random_name[1]))
+    cur.execute("SELECT employee_id FROM employees where first_name = %s AND last_name = %s",
+                (random_name[0], random_name[1]))
     employee_id = cur.fetchone()[0]
     for skill_id in skill_set:
         cur.execute("INSERT INTO employee_skills (employee_id, skill_id, proficiency_lvl) VALUES (%s, %s, %s)",

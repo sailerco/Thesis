@@ -1,6 +1,10 @@
 import psycopg2 as psg
 import csv
 
+"""
+    extract unique skills that were used in database
+"""
+
 conn = psg.connect(
     dbname="postgres",
     user="postgres",

@@ -1,6 +1,10 @@
 import psycopg2
 import pandas as pd
 
+"""
+    Updates role descriptions in the database from a CSV.
+"""
+
 # Load roles and descriptions from CSV file into a DataFrame
 roles_df = pd.read_csv('roles_description.csv')  # Update with your CSV file path
 roles_df.columns = ['role', 'description']  # Assuming columns are 'role' and 'description'

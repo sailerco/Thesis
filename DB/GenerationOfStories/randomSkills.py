@@ -1,7 +1,10 @@
 import pandas as pd
 import random
 
-data = pd.read_csv('../datasets/Roles_small.csv')
+"""
+    random skills were chosen, which were then fed in a specific prompt to a language model to get a user story
+"""
+data = pd.read_csv('../datasets/roles_small.csv')
 
 def select_role_and_skills():
     row = random.choice(data.index)
@@ -19,4 +22,3 @@ for x in range(100):
     print("Randomly Selected Role:", role)
     print("Selected Skills:", skills)
 
-#{'UX Design', 'MySQL', 'Firewall Configuration'}
